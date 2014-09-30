@@ -1,0 +1,249 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html><head>
+
+<script type="text/javascript" src="/static/js/analytics.js" ></script>
+<link type="text/css" rel="stylesheet" href="/static/css/banner-styles.css"/>
+
+
+
+<title>consequently.org/edit: Logic Text Errata</title><link type="text/css" rel="stylesheet" href="/web/20120321171221cs_/http://consequently.org/edit/style.css" /><meta name="robots" content="INDEX,NOFOLLOW" /><link rel="alternate" type="application/rss+xml" title="consequently.org/edit" href="/web/20120321171221/http://consequently.org/edit/page?action=rss" /><link rel="alternate" type="application/rss+xml" title="consequently.org/edit: Logic_Text_Errata" href="/web/20120321171221/http://consequently.org/edit/page?action=rss;rcidonly=Logic_Text_Errata" /></head><body class="http://consequently.org/edit/page">
+<!-- BEGIN WAYBACK TOOLBAR INSERT -->
+<script> if (window.archive_analytics) { window.archive_analytics.values['server_name']="wwwb-app11.us.archive.org";}; </script>
+
+<script type="text/javascript" src="/static/js/disclaim-element.js" ></script>
+<script type="text/javascript" src="/static/js/graph-calc.js" ></script>
+<script type="text/javascript" src="/static/jflot/jquery.min.js" ></script>
+<script type="text/javascript">
+//<![CDATA[
+var firstDate = 820454400000;
+var lastDate = 1420070399999;
+var wbPrefix = "/web/";
+var wbCurrentUrl = "http:\/\/consequently.org\/edit\/page\/Logic_Text_Errata";
+
+var curYear = -1;
+var curMonth = -1;
+var yearCount = 18;
+var firstYear = 1996;
+var imgWidth = 475;
+var yearImgWidth = 25;
+var monthImgWidth = 2;
+var trackerVal = "none";
+var displayDay = "21";
+var displayMonth = "Mar";
+var displayYear = "2012";
+var prettyMonths = ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"];
+
+function showTrackers(val) {
+	if(val == trackerVal) {
+		return;
+	}
+	if(val == "inline") {
+		document.getElementById("displayYearEl").style.color = "#ec008c";
+		document.getElementById("displayMonthEl").style.color = "#ec008c";
+		document.getElementById("displayDayEl").style.color = "#ec008c";		
+	} else {
+		document.getElementById("displayYearEl").innerHTML = displayYear;
+		document.getElementById("displayYearEl").style.color = "#ff0";
+		document.getElementById("displayMonthEl").innerHTML = displayMonth;
+		document.getElementById("displayMonthEl").style.color = "#ff0";
+		document.getElementById("displayDayEl").innerHTML = displayDay;
+		document.getElementById("displayDayEl").style.color = "#ff0";
+	}
+   document.getElementById("wbMouseTrackYearImg").style.display = val;
+   document.getElementById("wbMouseTrackMonthImg").style.display = val;
+   trackerVal = val;
+}
+function getElementX2(obj) {
+	var thing = jQuery(obj);
+	if((thing == undefined) 
+			|| (typeof thing == "undefined") 
+			|| (typeof thing.offset == "undefined")) {
+		return getElementX(obj);
+	}
+	return Math.round(thing.offset().left);
+}
+function trackMouseMove(event,element) {
+
+   var eventX = getEventX(event);
+   var elementX = getElementX2(element);
+   var xOff = eventX - elementX;
+	if(xOff < 0) {
+		xOff = 0;
+	} else if(xOff > imgWidth) {
+		xOff = imgWidth;
+	}
+   var monthOff = xOff % yearImgWidth;
+
+   var year = Math.floor(xOff / yearImgWidth);
+	var yearStart = year * yearImgWidth;
+   var monthOfYear = Math.floor(monthOff / monthImgWidth);
+   if(monthOfYear > 11) {
+       monthOfYear = 11;
+   }
+   // 1 extra border pixel at the left edge of the year:
+   var month = (year * 12) + monthOfYear;
+   var day = 1;
+	if(monthOff % 2 == 1) {
+		day = 15;
+	}
+	var dateString = 
+		zeroPad(year + firstYear) + 
+		zeroPad(monthOfYear+1,2) +
+		zeroPad(day,2) + "000000";
+
+	var monthString = prettyMonths[monthOfYear];
+	document.getElementById("displayYearEl").innerHTML = year + 1996;
+	document.getElementById("displayMonthEl").innerHTML = monthString;
+	// looks too jarring when it changes..
+	//document.getElementById("displayDayEl").innerHTML = zeroPad(day,2);
+
+	var url = wbPrefix + dateString + '/' +  wbCurrentUrl;
+	document.getElementById('wm-graph-anchor').href = url;
+
+   //document.getElementById("wmtbURL").value="evX("+eventX+") elX("+elementX+") xO("+xOff+") y("+year+") m("+month+") monthOff("+monthOff+") DS("+dateString+") Moy("+monthOfYear+") ms("+monthString+")";
+   if(curYear != year) {
+       var yrOff = year * yearImgWidth;
+       document.getElementById("wbMouseTrackYearImg").style.left = yrOff + "px";
+       curYear = year;
+   }
+   if(curMonth != month) {
+       var mtOff = year + (month * monthImgWidth) + 1;
+       document.getElementById("wbMouseTrackMonthImg").style.left = mtOff + "px";
+       curMonth = month;
+   }
+}
+//]]>
+</script>
+
+<style type="text/css">body{margin-top:0!important;padding-top:0!important;min-width:800px!important;}#wm-ipp a:hover{text-decoration:underline!important;}</style>
+<div id="wm-ipp" lang="en" class="__wb_banner_div" style="display:none; position:relative;padding:0 5px;min-height:70px;min-width:800px">
+
+
+<div id="wm-ipp-inside" class="__wb_banner_div" style="position:fixed;padding:0!important;margin:0!important;width:97%;min-width:780px;border:5px solid #000;border-top:none;background-image:url(/static/images/toolbar/wm_tb_bk_trns.png);text-align:center;-moz-box-shadow:1px 1px 3px #333;-webkit-box-shadow:1px 1px 3px #333;box-shadow:1px 1px 3px #333;font-size:11px!important;font-family:'Lucida Grande','Arial',sans-serif!important;">
+   <table style="border-collapse:collapse;margin:0;padding:0;width:100%;"><tbody><tr>
+   <td style="padding:10px;vertical-align:top;min-width:110px;">
+   <a href="/web/" title="Wayback Machine home page" style="background-color:transparent;border:none;"><img src="/static/images/toolbar/wayback-toolbar-logo.png" alt="Wayback Machine" width="110" height="39" border="0"/></a>
+   </td>
+   <td style="padding:0!important;text-align:center;vertical-align:top;width:100%;">
+
+       <table style="border-collapse:collapse;margin:0 auto;padding:0;width:570px;"><tbody><tr>
+       <td style="padding:3px 0;" colspan="2">
+       <form target="_top" method="get" action="/web/form-submit.jsp" name="wmtb" id="wmtb" style="margin:0!important;padding:0!important;"><input type="text" name="url" id="wmtbURL" value="http://consequently.org/edit/page/Logic_Text_Errata" style="width:400px;font-size:11px;font-family:'Lucida Grande','Arial',sans-serif;" onfocus="javascript:this.focus();this.select();" /><input type="hidden" name="type" value="replay" /><input type="hidden" name="date" value="20120321171221" /><input type="submit" value="Go" style="font-size:11px;font-family:'Lucida Grande','Arial',sans-serif;margin-left:5px;width: inherit !important" /><span id="wm_tb_options" style="display:block;"></span></form>
+       </td>
+       <td style="vertical-align:bottom;padding:5px 0 0 0!important;" rowspan="2">
+           <table style="border-collapse:collapse;width:110px;color:#99a;font-family:'Helvetica','Lucida Grande','Arial',sans-serif;"><tbody>
+			
+           <!-- NEXT/PREV MONTH NAV AND MONTH INDICATOR -->
+           <tr style="width:110px;height:16px;font-size:10px!important;">
+           	<td style="padding-right:9px;font-size:11px!important;font-weight:bold;text-transform:uppercase;text-align:right;white-space:nowrap;overflow:visible;" nowrap="nowrap">
+               
+		                <a href="/web/20110301171715/http://consequently.org/edit/page/Logic_Text_Errata" style="text-decoration:none;color:#33f;font-weight:bold;background-color:transparent;border:none;" title="1 Mar 2011"><strong>MAR</strong></a>
+		                
+               </td>
+               <td id="displayMonthEl" style="background:#000;color:#ff0;font-size:11px!important;font-weight:bold;text-transform:uppercase;width:34px;height:15px;padding-top:1px;text-align:center;" title="You are here: 17:12:21 Mar 21, 2012">MAR</td>
+				<td style="padding-left:9px;font-size:11px!important;font-weight:bold;text-transform:uppercase;white-space:nowrap;overflow:visible;" nowrap="nowrap">
+               
+                       Apr
+                       
+               </td>
+           </tr>
+
+           <!-- NEXT/PREV CAPTURE NAV AND DAY OF MONTH INDICATOR -->
+           <tr>
+               <td style="padding-right:9px;white-space:nowrap;overflow:visible;text-align:right!important;vertical-align:middle!important;" nowrap="nowrap">
+               
+		                <a href="/web/20110301171715/http://consequently.org/edit/page/Logic_Text_Errata" title="17:17:15 Mar 1, 2011" style="background-color:transparent;border:none;"><img src="/static/images/toolbar/wm_tb_prv_on.png" alt="Previous capture" width="14" height="16" border="0" /></a>
+		                
+               </td>
+               <td id="displayDayEl" style="background:#000;color:#ff0;width:34px;height:24px;padding:2px 0 0 0;text-align:center;font-size:24px;font-weight: bold;" title="You are here: 17:12:21 Mar 21, 2012">21</td>
+				<td style="padding-left:9px;white-space:nowrap;overflow:visible;text-align:left!important;vertical-align:middle!important;" nowrap="nowrap">
+               
+                       <img src="/static/images/toolbar/wm_tb_nxt_off.png" alt="Next capture" width="14" height="16" border="0"/>
+                       
+			    </td>
+           </tr>
+
+           <!-- NEXT/PREV YEAR NAV AND YEAR INDICATOR -->
+           <tr style="width:110px;height:13px;font-size:9px!important;">
+				<td style="padding-right:9px;font-size:11px!important;font-weight: bold;text-align:right;white-space:nowrap;overflow:visible;" nowrap="nowrap">
+               
+		                <a href="/web/20110301171715/http://consequently.org/edit/page/Logic_Text_Errata" style="text-decoration:none;color:#33f;font-weight:bold;background-color:transparent;border:none;" title="1 Mar 2011"><strong>2011</strong></a>
+		                
+               </td>
+               <td id="displayYearEl" style="background:#000;color:#ff0;font-size:11px!important;font-weight: bold;padding-top:1px;width:34px;height:13px;text-align:center;" title="You are here: 17:12:21 Mar 21, 2012">2012</td>
+				<td style="padding-left:9px;font-size:11px!important;font-weight: bold;white-space:nowrap;overflow:visible;" nowrap="nowrap">
+               
+                       2013
+                       
+				</td>
+           </tr>
+           </tbody></table>
+       </td>
+
+       </tr>
+       <tr>
+       <td style="vertical-align:middle;padding:0!important;">
+           <a href="/web/20120321171221*/http://consequently.org/edit/page/Logic_Text_Errata" style="color:#33f;font-size:11px;font-weight:bold;background-color:transparent;border:none;" title="See a list of every capture for this URL"><strong>23 captures</strong></a>
+           <div class="__wb_banner_div" style="margin:0!important;padding:0!important;color:#666;font-size:9px;padding-top:2px!important;white-space:nowrap;" title="Timespan for captures of this URL">17 Jun 06 - 21 Mar 12</div>
+       </td>
+       <td style="padding:0!important;">
+       <a style="position:relative; white-space:nowrap; width:475px;height:27px;" href="" id="wm-graph-anchor">
+       <div class="__wb_banner_div" id="wm-ipp-sparkline" style="position:relative; white-space:nowrap; width:475px;height:27px;background-color:#fff;cursor:pointer;border-right:1px solid #ccc;" title="Explore captures for this URL">
+			<img id="sparklineImgId" style="position:absolute; z-index:9012; top:0px; left:0px;"
+				onmouseover="showTrackers('inline');" 
+				onmouseout="showTrackers('none');"
+				onmousemove="trackMouseMove(event,this)"
+				alt="sparklines"
+				width="475"
+				height="27"
+				border="0"
+				src="/web/jsp/graph.jsp?graphdata=475_27_1996:-1:000000000000_1997:-1:000000000000_1998:-1:000000000000_1999:-1:000000000000_2000:-1:000000000000_2001:-1:000000000000_2002:-1:000000000000_2003:-1:000000000000_2004:-1:000000000000_2005:-1:000000000000_2006:-1:000001322000_2007:-1:010000010000_2008:-1:000101101000_2009:-1:201000001000_2010:-1:000000000021_2011:-1:001000000000_2012:2:001000000000_2013:-1:000000000000_2014:-1:000000000000"></img>
+			<img id="wbMouseTrackYearImg" 
+				style="display:none; position:absolute; z-index:9010;"
+				width="25" 
+				height="27"
+				border="0"
+				src="/static/images/toolbar/transp-yellow-pixel.png"></img>
+			<img id="wbMouseTrackMonthImg"
+				style="display:none; position:absolute; z-index:9011; " 
+				width="2"
+				height="27" 
+				border="0"
+				src="/static/images/toolbar/transp-red-pixel.png"></img>
+       </div>
+		</a>
+
+       </td>
+       </tr></tbody></table>
+   </td>
+   <td style="text-align:right;padding:5px;width:65px;font-size:11px!important;">
+       <a href="javascript:;" onclick="document.getElementById('wm-ipp').style.display='none';" style="display:block;padding-right:18px;background:url(/static/images/toolbar/wm_tb_close.png) no-repeat 100% 0;color:#33f;font-family:'Lucida Grande','Arial',sans-serif;margin-bottom:23px;background-color:transparent;border:none;" title="Close the toolbar">Close</a>
+       <a href="http://faq.web.archive.org/" style="display:block;padding-right:18px;background:url(/static/images/toolbar/wm_tb_help.png) no-repeat 100% 0;color:#33f;font-family:'Lucida Grande','Arial',sans-serif;background-color:transparent;border:none;" title="Get some help using the Wayback Machine">Help</a>
+   </td>
+   </tr></tbody></table>
+
+</div>
+</div>
+<script type="text/javascript">
+ var wmDisclaimBanner = document.getElementById("wm-ipp");
+ if(wmDisclaimBanner != null) {
+   disclaimElement(wmDisclaimBanner);
+ }
+</script>
+<!-- END WAYBACK TOOLBAR INSERT -->
+<div class="header"><span class="gotobar bar"><a class="local" href="/web/20120321171221/http://consequently.org/edit/page/Home">Home</a> <a class="local" href="/web/20120321171221/http://consequently.org/edit/page/How_To_Participate">How To Participate</a> <a class="local" href="/web/20120321171221/http://consequently.org/edit/page/Users">Users</a> <a class="local" href="/web/20120321171221/http://consequently.org/edit/page/Recent_Changes">Recent Changes</a>  <a href="/web/20120321171221/http://consequently.org/edit/page?action=index">All Pages</a> <a href="/web/20120321171221/http://consequently.org/edit/page?action=rss">RSS</a></span><h1><a title="Click to search for references to this page" href="/web/20120321171221/http://consequently.org/edit/page?search=Logic+Text+Errata">Logic Text Errata</a></h1></div><div class="content browse"><p>This page contains the list of known errors in the book &#x2019;&#x2019;<a class="url outside" href="/web/20120321171221/http://consequently.org/logic">Logic</a>&#x2019;&#x2019; (Greg Restall, published by Routledge, 2006).</p><p>Like any text, errors creep in at various stages of the process, and these can detract when reading it. So, this page contains the list of known errors in the text. Page references are from the first edition, from 2006 (the only so far).</p><p>Please add any errors you find in the book by <a class="url outside" href="/web/20120321171221/http://consequently.org/edit/page?action=edit;id=Logic_Text_Errata">editing this page</a>. (Just <a class="url outside" href="/web/20120321171221/http://consequently.org/edit/page?action=edit;id=Logic_Text_Errata">click this link to do it</a>: type in the box, sign your changes and press &#x201c;save.&#x201d;)</p><ul><li>Use the format  If you&#x2019;re not &#x2019;&#x2018;sure&#x2019;&#x2019; that you&#x2019;ve found an error, please add a comment with a page reference, prefixed by a question mark, like this: &#x201c;? Page 63: &#x2026;&#x201d;</li><li>Check the <a class="local" href="/web/20120321171221/http://consequently.org/edit/page/Sand_Box">Sand Box</a> page for tips with editing pages. Don&#x2019;t worry if you make a mistake. You can correct your errors, or someone else can.</li><li>It&#x2019;s polite to &#x2018;sign&#x2019; your work by adding a username in the box near the &#x2018;save&#x2019; button on the form for editing the page.</li><li><i>Quick editing tips</i>.<ul><li>Connectives: &amp; (conjunction), &#x2228; (disjunction), ~ (negation), &#x2283; (conditional), &#x2261; (biconditional).</li><li>Turnstiles: &#x22A2; (syntactic), &#x22A8; (semantic), &#x22AC; (negated syntactic), &#x22AD; (negated semantic)</li><li>Quantifiers: &#x2200; (universal), &#x2203; (existential)</li><li>In many of these cases, you need to have a space after the symbol for it to be decoded properly: <i>p</i> &#x2228; <i>q</i> works, but /p/vv/q/ doesn&#x2019;t.</li></ul></li><li>If the symbols do not show up propertly in your browser, a stopgap measure is to look at the <a class="url outside" href="/web/20120321171221/http://consequently.org/edit/page?action=edit;id=Logic_Text_Errata">source of the page</a> to see what you are missing. (I do know that the symbols work correctly using Safari v2 on Mac OS X, and in all versions of Firefox 1.5 that I have tried.)</li></ul><p>Thanks! <a class="local" href="/web/20120321171221/http://consequently.org/edit/page/Greg">Greg</a>.</p><h2>Introduction</h2><h3>Chapter 1: Propositions and arguments</h3><ul><li>Page 11, eight lines from the bottom. &#x201c;in order to to give&#x201d; should be &#x201c;in order to give&#x201d;.</li><li>Page 18, Exercise {1.3}, part 1. &#x201c;Critical Thinking&#x201d; should be &#x201c;<i>PHIL137</i>&#x201d;.</li></ul><h3>Chapter 2: Connectives and argument forms</h3><ul><li>Page 29: Paragraph two, sentence one should read &#x201c;The first, p~, is not a formula, since a negation always attaches to a formula on its right&#x201d; - not &#x201c;on its left&#x201d;.</li><li>Page 34: Exercise {2.6}, part 5: Need a space between the &#x201c; &#x2283; &#x201c; and the &#x201c;<i>c</i>&#x201d;.</li><li>Page 34: Exercise {2.6}, part 14: This should be &#x201c;(<i>y</i> &#x2283; <i>c</i>) &#x2283; <i>p</i>&#x201d; and not &#x201c;<i>y</i> &#x2283; (<i>c</i> &#x2283; <i>p</i>)&#x201d; (which is a repeat of part 4).</li></ul><h3>Chapter 3: Truth tables</h3><ul><li>Page 50: Exercise 3.2: the last formula has an extra closing bracket on the end. Delete it.</li><li>Page 51: Exercise (3.4), part 15: There is a missing atomic proposition q. This part should read p, q therefore q ⊃ q.</li></ul><h3>Chapter 4: Trees</h3><ul><li>Page 62: The rule for &#x201c;Negated Disjunction&#x201d; is misprinted. The <i>A</i> and <i>B</i> should both be negated. The rule should read: from ~(<i>A</i> &#x2228; <i>B</i>) to derive ~ <i>A</i> and ~ <i>B</i>.</li><li>Page 62: The rule for &#x201c;Negated Conditional&#x201d; is misprinted. The <i>B</i> should be negated, not the <i>A</i>. The rule should read: from ~(<i>A</i> &#x2283; <i>B</i>) to infer <i>A</i> and ~ <i>B</i>.</li><li>Page 67: There&#x2019;s a mistake in the tree in Box 4.2. In the fourth branch (ending in <i>r</i> &#x2283; <i>p</i> and a closure), the &#x201c;~ <i>q</i>&#x201d; immediately in before the &#x201c;<i>r</i> &#x2283; <i>p</i>&#x201d; should just be &#x201c;<i>q</i>&#x201d;.</li><li>Page 68: There are three mistakes in the tree in Box 4.3. First, the leftmost branch should be closed. Second, at the end of the second branch from the left, &#x201c;~q&#x201d; should be &#x201c;q&#x201d;. Third, at the end of the third branch from the left, &#x201c;q&#x201d; should be &#x201c;~q&#x201d;.</li><li>Page 69: paragraph before &#x201c;Proof of fact 1&#x201d;. All of the capital &#x2018;X&#x2019;s should be in italics.</li></ul><h3>Chapter 5: Vagueness and bivalence</h3><h3>Chapter 6: Conditionality</h3><ul><li>Page 89: First paragraph: &#x201c;&#x2026;from <i>John Howard is Prime Minister of Australia</i> to <i>if John Howard is loses the election, John Howard is Prime Minister of Australia</i>.&#x201d; should probably be something like &#x201c;<i>if John Howard loses the election,...</i>&#x201d;.</li></ul><h3>Chapter 7: Natural deduction</h3><ul><li>Pages 103-4: The description of &#x2228;-elimination on p. 104 doesn&#x2019;t match the sequent formulation on p. 103. To match Y,B &#x22A2; C should be X,B &#x22A2; C. In the description on p. 104 the phrase &#x201c;&#x2026; provided you&#x2019;ve got both X too)&#x201d; is more than a little odd. It might make better sense to have X,A &#x22A2; C, Y,B &#x22A2; C and Z &#x22A2; A vv B above the line and X,Y Z &#x22A2; C below the line on p. 103, then make appropriate changes in the first paragraph on p. 104, including changing &#x201c;&#x2026; provided you&#x2019;ve got both X too)&#x201d; to &#x201c;&#x2026; provided you&#x2019;ve got both X and Y too)&#x201d;. (The thought behind the restriction on axiom sequents mooted on p. 109 would suggest this form.)</li><li>Page 109: Second paragraph: All GBP symbols (£) ought to be turnstiles: &#x22A2; .</li></ul><p>? Page 109, second paragraph. &#x201c;Then there is no way to deduce A &#x22A2; B &#x2192; A since the B was not used in the deduction of A.&#x201d; What&#x2019;s wrong with this deduction (in the style of Lemmon&#x2019;s Beginning Logic in which the Rule of Assumptions is, in effect, the axiom A &#x22A2; A)?</p><p>1 A &#x22A2; A          Axiom 2 B &#x22A2; B          Axiom 3 A,B &#x22A2; A &amp; B    &amp;-I 4 A,B &#x22A2; A        &amp;-E 5 A &#x22A2; B &#x2192; A     -&gt;-I</p><p>BTW, why are the deductions in this chapter given using A, B, C, D rather than p, q, r, s?</p><h3>Chapter 8: Predicates, names and quantifiers</h3><ul><li>Page 115: &#x201c;&#x2026;is a multiple of ten&#x2026;&#x201d; should be &#x201c;&#x2026;is a multiple of ten&#x201d;.</li><li>Page 116: 6 lines from the bottom: &#x201c;p is the predicate &#x2018;is a philosopher&#x2019;&#x201d; should be &#x201c;P is the predicate &#x2018;is a philosopher&#x2019;&#x201d;.</li><li>Page 119: Third example formula should be (&#x2203;<i>x</i>)(<i>Px</i> &amp; (&#x2203;<i>y</i>)(<i>Ly</i> &amp; <i>Kxy</i>)).</li></ul><p>? Page 120: Add clause: any atomic formula is a formula. Cf. p. 28. Without it a lot hangs on the italicization of formula in atomic formula.</p><p>? Page 120: The Latinate &#x2018;arity&#x2019; naturally goes along with unary, binary, ternary, &#x2026;. With the Greek monadic, dyadic, triadic, &#x2026; shoudln&#x2019;t it be &#x2018;adicity&#x2019;?</p><ul><li>Page 123: Second para. &#x201c;Table 8.1 gives are some more examples&#x2026;&#x201d; should be &#x201c;Table 8.1 gives some more examples &#x2026;&#x201d;</li><li>Page 124: Ex. 8.2 17 should be (&#x2200;<i>x</i>)(<i>Px</i> &#x2283; (&#x2200;<i>y</i>)<i>Lxy</i> &#x2283; ~ <i>Lyx</i>)</li></ul><h3>Chapter 9: Models for predicate logic</h3><ul><li>Page 129: Square brackets in [Descartes, Kant] should be curly brackets: {Descartes, Kant}.</li><li>Page 143, Box 9.2 The second formula in the tree should be &#x201c;&#x2203; <i>x</i> ~G<i>x</i>&#x201d;, not &#x201c;&#x2200; <i>x</i> ~G<i>x</i>&#x201d;.</li><li>Page 145, Summary, point 5. &#x201c;&#x2200; <i>x</i>&#x201d; should be &#x201c;&#x2203; <i>x</i>&#x201d;</li><li>Page 146, Ex. 9.1 &#x201c;(&#x2200; <i>x</i>)( <i>Rxa</i> &#x2283; (&#x2203; <i>y</i>)(<i>Py</i> &amp; <i>Rxy</i>))&#x201d; between the specification of the model and &#x201c;evaluate the following formulas:&#x201d; should be deleted.</li><li>Page 146, Ex. 9.1 question 1 should be &#x201c;(&#x2200; <i>x</i>)(<i>Tax</i> &#x2283; <i>Gx</i>)&#x201d;, not &#x201c;(&#x2200; <i>x</i>)(<i>Tx</i> &#x2283; <i>Gx</i>)&#x201d;, where I(<i>a</i>)=a.</li></ul><h3>Chapter 10: Trees for predicate logic</h3><ul><li>Page 165, Ex 10.1 (4) The solutions on this site report that the main connective of exercise 10.1 (4) is a biconditional. In the book it is a material conditional.</li><li>Page 165, Ex 10.1 (5) The question should be (&#x2200; x)(<i>Fx</i> &#x2283; <i>Gx</i>) &#x2283; ((&#x2200; x)<i>Fx</i> &#x2283; (&#x2200; x)<i>Gx</i>), not (&#x2200; x)<i>Fx</i>(<i>Fx</i> &#x2283; <i>Gx</i>) &#x2283; ((&#x2200; x)<i>Fx</i> &#x2283; (&#x2200; x)<i>Gx</i>)</li></ul><h3>Chapter 11: Identity and functions</h3><ul><li>Page 176, bottom: the interpretation given is <i>g</i>(<i>b</i>,<i>c</i>) = <i>c</i>. It should be <i>g</i>(<i>b</i>,<i>c</i>) = <i>a</i>.</li><li>Page 177, last tree: The formulas at the top of the tree should be centred on the formulas themselves (with the tags for names substituted in hanging off to the right, as with the other trees).</li><li>Page 177, end: The displayed tree should end &#x201c;tree continued on next page.&#x201d;</li><li>Page 181, Exercise {11.10} in 5 and 7 the variable <i>y</i> should be bound by a universal quantifier.</li><li>Page 182, Exercise {11.10}, part 5. It should read &#x201c;<i>RA</i> &#x22A2; (&#x2200; <i>x</i>)(&#x2200; <i>y</i>)(<i>x</i> + <i>y</i> = <i>y</i> + <i>x</i>)&#x201d; and not &#x201c;<i>RA</i> &lt; &#x2026;&#x201d;</li></ul><h3>Chapter 12: Definite descriptions</h3><ul><li>Page 187, the middle branch for the tree rule for &#x201c;~I(Fa,Ga)&#x201d; should be &#x201c;~(&#x2200; <i>y</i>)(<i>Fy</i> &#x2283; <i>y=a</i>)&#x201d; not &#x201c;(&#x2200; <i>y</i>)(<i>Fy</i> &#x2283; <i>y=a</i>)&#x201d;.</li></ul><h3>Chapter 13: Some things do not exist</h3><ul><li>Page 199, under the heading &#x201c;Universal&#x201d; the rule should take &#x201c;(&#x2200; <i>x</i>)<i>A</i>&#x201d; to &#x201c;~ <i>E</i>!<i>a</i>&#x201d; or &#x201c;<i>A</i>(<i>x</i>:=<i>a</i>) (any <i>a</i>)&#x201d;. Under the heading &#x201c;Negated Universal&#x201d; the rule should take &#x201c;~(&#x2200; <i>x</i>)<i>A</i>&#x201d; to &#x201c;<i>E</i>!<i>a</i>&#x201d; and &#x201c;~ <i>A</i>(<i>x</i>:=<i>a</i>) (<i>a</i> new)&#x201d;.</li><li>Page 201, Tree in Box 13.1: The branch ending &#x201c;~E!a&#x201d; should end in a closure.</li><li>Page 203, Question 13.1.3 should be (&#x2200; <i>x</i>)(<i>Fx</i> &#x2283; <i>E!x</i>), ~ <i>E!a</i>, therefore ~ <i>Fa</i>.</li></ul><h3>Chapter 14: What is a predicate?</h3><h3>Chapter 15: What is logic?</h3><p>.</p></div><div class="footer"><hr /><span class="gotobar bar"><a class="local" href="/web/20120321171221/http://consequently.org/edit/page/Home">Home</a> <a class="local" href="/web/20120321171221/http://consequently.org/edit/page/How_To_Participate">How To Participate</a> <a class="local" href="/web/20120321171221/http://consequently.org/edit/page/Users">Users</a> <a class="local" href="/web/20120321171221/http://consequently.org/edit/page/Recent_Changes">Recent Changes</a>  <a href="/web/20120321171221/http://consequently.org/edit/page?action=index">All Pages</a> <a href="/web/20120321171221/http://consequently.org/edit/page?action=rss">RSS</a></span><span class="edit bar"><br /> <a class="edit" accesskey="e" title="Click to edit this page" href="/web/20120321171221/http://consequently.org/edit/page?action=edit;id=Logic_Text_Errata">Edit this page</a> <a class="history" href="/web/20120321171221/http://consequently.org/edit/page?action=history;id=Logic_Text_Errata">View other revisions</a> <a class="admin" href="/web/20120321171221/http://consequently.org/edit/page?action=admin;id=Logic_Text_Errata">Administration</a></span><span class="time"><br /> Last edited 2009-06-11 10:04 UTC by <a class="author" title="from ppp121-44-196-10.lns10.mel4.internode.on.net" href="/web/20120321171221/http://consequently.org/edit/page/Greg">Greg</a> <a class="diff" href="/web/20120321171221/http://consequently.org/edit/page?action=browse;diff=1;id=Logic_Text_Errata">(diff)</a></span><form method="get" action="/web/20120321171221/http://consequently.org/edit/page" enctype="application/x-www-form-urlencoded">
+<p>Search: <input type="text" name="search"  size="20" accesskey="f" /> <input type="submit" name="dosearch" value="Go!" /></p></form><script src="/web/20120321171221js_/http://www.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">_uacct = "UA-616836-1";urchinTracker();</script></div>
+</body>
+</html>
+
+
+
+
+<!--
+     FILE ARCHIVED ON 17:12:21 Mar 21, 2012 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 3:57:21 Mar 5, 2014.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
