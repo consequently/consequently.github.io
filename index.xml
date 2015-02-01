@@ -96,17 +96,6 @@
 </item>
     
 <item>
-<title>UNIB10002: Logic, Language and Information</title>
-<link>http://consequently.github.io/class/2015/UNIB10002/</link>
-<pubDate>Sat, 31 Jan 2015 00:00:00 UTC</pubDate>
-<guid>http://consequently.github.io/class/2015/UNIB10002/</guid>
-<description>&lt;p&gt;&lt;strong&gt;&lt;span class=&#34;caps&#34;&gt;UNIB10002&lt;/span&gt;: Logic, Language and Information&lt;/strong&gt; is a &lt;a href=&#34;http://unimelb.edu.au&#34;&gt;University of Melbourne&lt;/a&gt; undergraduate breadth subject, introducing logic and its applications to students from a broad range of disciplines in the Arts, Sciences and Engineering. I coordinate this subject with my colleague Dr. Jen Davoren, with help from Dr. Lesley Stirling and Dr. Peter Schachte.&lt;/p&gt;
-
-&lt;p&gt;The subject is taught to University of Melbourne undergraduate students. Details for enrolment are &lt;a href=&#34;https://handbook.unimelb.edu.au/view/2014/UNIB10002&#34;&gt;here&lt;/a&gt;. We teach this in a &amp;lsquo;flipped classroom&amp;rsquo; model, using resources from our Coursera subjects &lt;a href=&#34;http://consequently.github.io/class/2015/logic1_coursera&#34;&gt;Logic 1&lt;/a&gt; and &lt;a href=&#34;http://consequently.github.io/class/2015/logic2_coursera&#34;&gt;Logic 2&lt;/a&gt;.&lt;/p&gt;
-</description>
-</item>
-    
-<item>
 <title>PHIL30043: The Power and Limits of Logic</title>
 <link>http://consequently.github.io/class/2015/PHIL30043/</link>
 <pubDate>Sat, 31 Jan 2015 00:00:00 UTC</pubDate>
@@ -114,6 +103,17 @@
 <description>&lt;p&gt;&lt;strong&gt;&lt;span class=&#34;caps&#34;&gt;PHIL30043&lt;/span&gt;: The Power and Limits of Logic&lt;/strong&gt; is a &lt;a href=&#34;http://unimelb.edu.au&#34;&gt;University of Melbourne&lt;/a&gt; undergraduate subject. It covers the metatheory of classical first order predicate logic, beginning at the &lt;em&gt;Soundness&lt;/em&gt; and &lt;em&gt;Completeness&lt;/em&gt; Theorems (proved not once but &lt;em&gt;twice&lt;/em&gt;, first for a tableaux proof system for predicate logic, then a Hilbert proof system), through the &lt;em&gt;Deduction Theorem&lt;/em&gt;, &lt;em&gt;Compactness&lt;/em&gt;, &lt;em&gt;Cantor&amp;rsquo;s Theorem&lt;/em&gt;, the &lt;em&gt;Downward L&amp;ouml;wenheim&amp;ndash;Skolem Theorem&lt;/em&gt;, &lt;em&gt;Recursive Functions&lt;/em&gt;, &lt;em&gt;Register Machines&lt;/em&gt;, &lt;em&gt;Representability&lt;/em&gt; and ending up at &lt;em&gt;G&amp;ouml;del&amp;rsquo;s Incompleteness Theorems&lt;/em&gt; and &lt;em&gt;L&amp;ouml;b&amp;rsquo;s Theorem&lt;/em&gt;.&lt;/p&gt;
 
 &lt;p&gt;The sunject is taught to University of Melbourne undergraduate students (for Arts students as a part of the Philosophy major, for non-Arts students, as a breadth subject). Details for enrolment are &lt;a href=&#34;https://handbook.unimelb.edu.au/view/2015/PHIL30043&#34;&gt;here&lt;/a&gt;. I make use of video lectures I have made &lt;a href=&#34;http://vimeo.com/album/2262409&#34;&gt;freely available on Vimeo&lt;/a&gt;.&lt;/p&gt;
+</description>
+</item>
+    
+<item>
+<title>UNIB10002: Logic, Language and Information</title>
+<link>http://consequently.github.io/class/2015/UNIB10002/</link>
+<pubDate>Sat, 31 Jan 2015 00:00:00 UTC</pubDate>
+<guid>http://consequently.github.io/class/2015/UNIB10002/</guid>
+<description>&lt;p&gt;&lt;strong&gt;&lt;span class=&#34;caps&#34;&gt;UNIB10002&lt;/span&gt;: Logic, Language and Information&lt;/strong&gt; is a &lt;a href=&#34;http://unimelb.edu.au&#34;&gt;University of Melbourne&lt;/a&gt; undergraduate breadth subject, introducing logic and its applications to students from a broad range of disciplines in the Arts, Sciences and Engineering. I coordinate this subject with my colleague Dr. Jen Davoren, with help from Dr. Lesley Stirling and Dr. Peter Schachte.&lt;/p&gt;
+
+&lt;p&gt;The subject is taught to University of Melbourne undergraduate students. Details for enrolment are &lt;a href=&#34;https://handbook.unimelb.edu.au/view/2014/UNIB10002&#34;&gt;here&lt;/a&gt;. We teach this in a &amp;lsquo;flipped classroom&amp;rsquo; model, using resources from our Coursera subjects &lt;a href=&#34;http://consequently.github.io/class/2015/logic1_coursera&#34;&gt;Logic 1&lt;/a&gt; and &lt;a href=&#34;http://consequently.github.io/class/2015/logic2_coursera&#34;&gt;Logic 2&lt;/a&gt;.&lt;/p&gt;
 </description>
 </item>
     
@@ -132,6 +132,39 @@
 <pubDate>Sat, 31 Jan 2015 00:00:00 AEDT</pubDate>
 <guid>http://consequently.github.io/class/2015/logic1_coursera/</guid>
 <description>&lt;p&gt;Jen Davoren and I are running &lt;em&gt;Logic Language and Information 1&lt;/em&gt; through &lt;a href=&#34;http://coursera.org&#34;&gt;Coursera&lt;/a&gt; again in 2015. You can enrol &lt;a href=&#34;https://www.coursera.org/course/logic1&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+</item>
+    
+<item>
+<title>What’s the point of a personal website these days?</title>
+<link>http://consequently.github.io/news/2015/the-point/</link>
+<pubDate>Sun, 01 Feb 2015 23:05:00 AEDT</pubDate>
+<guid>http://consequently.github.io/news/2015/the-point/</guid>
+<description>&lt;p&gt;My last post to &lt;a href=&#34;http://consequently.org&#34;&gt;consequently.org&lt;/a&gt; was in late in 2010, well over four years ago. You&amp;rsquo;d be &lt;em&gt;justified&lt;/em&gt; in thinking that I&amp;rsquo;d abandoned the site&amp;mdash;but you&amp;rsquo;d also be &lt;em&gt;wrong&lt;/em&gt;. I&amp;rsquo;ve been tinkering with the site behind the scenes. The software I&amp;rsquo;d been using to maintain the site has long since &lt;a href=&#34;https://github.com/TwP/webby&#34;&gt;fallen into disrepair&lt;/a&gt;, so updating the site meant porting everything to another content management system. At least, it would have to mean that, given that I &lt;em&gt;wasn&amp;rsquo;t&lt;/em&gt; really keen to burn the whole thing to the ground and start again from scratch. This required &lt;em&gt;time&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;It didn&amp;rsquo;t require &lt;em&gt;four years&lt;/em&gt;, but it did require an uninterrupted stretch of time to tinker with software, experiment with the design, and finally, piece everything back together.&lt;/p&gt;
+
+&lt;p&gt;Before getting back into all of this website business, however, I wanted to answer one question. Is the investment of time worth it? &lt;em&gt;What&amp;rsquo;s the point of a personal website these days, anyway&lt;/em&gt;?&lt;/p&gt;
+
+&lt;p&gt;After all, people can &lt;a href=&#34;http://twitter.com/consequently&#34;&gt;find me on twitter&lt;/a&gt;, where you might find a brief remark or more each week. (Or you might find &lt;a href=&#34;https://twitter.com/search?f=realtime&amp;amp;q=%23advent%20OR%20%23adventure%20OR%20%23christmas%20from%3Aconsequently%20since%3A2014-11-30%20until%3A2014-12-27&amp;amp;src=typd&#34;&gt;virtual “advent calendar”&lt;/a&gt; when I&amp;rsquo;m a bit more adventurous.) I occasionally &lt;a href=&#34;http://instagram.com/consequently&#34;&gt;post photos on Instagram&lt;/a&gt;, so you can see me there if you like that sort of thing. You can find (most of) &lt;a href=&#34;https://scholar.google.com/citations?user=LfBBS7AAAAAJ&#34;&gt;my publications on Google Scholar&lt;/a&gt;, and you can even find &lt;a href=&#34;http://vimeo.com/consequently/&#34;&gt;instructional videos I&amp;rsquo;ve made available to the public on Vimeo&lt;/a&gt;. You can even join in with &lt;a href=&#34;http://coursera.org/course/logic1&#34;&gt;classes I&lt;/a&gt; &lt;a href=&#34;http://coursera.org/course/logic2&#34;&gt;teach (with Jen Davoren) on Coursera&lt;/a&gt;, and you can use &lt;a href=&#34;http://philevents.org&#34;&gt;philevents.org&lt;/a&gt; to &lt;a href=&#34;http://philevents.org/search/index/searchForm?span=PAST&amp;amp;customTag=&amp;amp;speakers%5B0%5D.id=1176&amp;amp;autonamespeaker=Greg+Restall&amp;amp;series=&amp;amp;search=true&amp;amp;hits=&amp;amp;widget=&amp;amp;Search=Search&#34;&gt;keep track of talks I&amp;rsquo;ve given&lt;/a&gt;. It&amp;rsquo;s not like I&amp;rsquo;ve  been inactive on the web, even though I haven&amp;rsquo;t been leaving a much of a trace &lt;em&gt;here&lt;/em&gt; lately. Isn&amp;rsquo;t all that web presence enough?&lt;/p&gt;
+
+&lt;p&gt;I think it isn&amp;rsquo;t. At least, it isn&amp;rsquo;t enough for me in 2015. Let me explain why, by turning to the different sections of this site.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;http://consequently.org/writing&#34;&gt;Publications&lt;/a&gt;&lt;/strong&gt;: The &lt;a href=&#34;http://consequently.org/writing&#34;&gt;writing&lt;/a&gt; section keeps track of all of my academic publications. Where I can, I archive pre- or post-publication versions of my papers, and sometimes I upload versions of papers here &lt;em&gt;before&lt;/em&gt; submission, to get the ideas out as quickly as possible, and to get feedback. I could do that without having my own website. (&lt;a href=&#34;http://philpapers.org&#34;&gt;Philpapers.org&lt;/a&gt; is a great way for people to upload draft papers in philosophy, for example.) But at your &lt;em&gt;own&lt;/em&gt; site, you can present yourself however you see fit, and you can make it easy for people to find your work. You provide a &lt;em&gt;source&lt;/em&gt; for  aggregators to aggregate. That&amp;rsquo;s one reason to take control of your own body of work. As long as the HTTP protocol keeps going, I can host my own work and people can find it. &lt;em&gt;Google Scholar&lt;/em&gt;, &lt;em&gt;philpapers&lt;/em&gt;, or &lt;em&gt;journal websites&lt;/em&gt; can come or go. As long as people can get here, they can keep track of my work. If someone asks how to keep up with what I write, &lt;em&gt;&lt;a href=&#34;http://consequently.org/writing&#34;&gt;this&lt;/a&gt;&lt;/em&gt; where I&amp;rsquo;ll point them. A &lt;code&gt;url&lt;/code&gt; I control: &lt;a href=&#34;http://consequently.org/writing&#34;&gt;http://consequently.org/writing&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;http://consequently.org/class&#34;&gt;Classes&lt;/a&gt;&lt;/strong&gt;: The &lt;em&gt;other&lt;/em&gt; sections of the website were more pressing for me, though, as I thought about why it was important to have a &lt;a href=&#34;https://ebooks.adelaide.edu.au/w/woolf/virginia/w91r/&#34;&gt;&lt;em&gt;room of one&amp;rsquo;s own&lt;/em&gt;&lt;/a&gt; on the web. I&amp;rsquo;ve been making more of my &lt;em&gt;teaching&lt;/em&gt; resources available to the public, through &lt;a href=&#34;https://www.coursera.org/instructor/gregrestall&#34;&gt;Coursera&lt;/a&gt; and using &lt;a href=&#34;http://vimeo.com/consequently/&#34;&gt;Vimeo&lt;/a&gt;. While I use our campus &lt;a href=&#34;https://lms.unimelb.edu.au&#34;&gt;LMS&lt;/a&gt; to distribute materials to my on-campus students, that&amp;rsquo;s basically walled off to non-students. I can&amp;rsquo;t point non-Melbourne students to that if I want to give them access to teaching resources, or simply to catch up on what I&amp;rsquo;ve been teaching. I&amp;rsquo;d like to have somewhere to do that. So, &lt;a href=&#34;http://consequently.org/class&#34;&gt;http://consequently.org/class&lt;/a&gt; will serve as a directory of all my recent and future teaching resources—at least, all of the resources I&amp;rsquo;ll be making freely available to everyone, and it can be a straightforward first port-of-call for anyone who wants to check out a class I teach, to see if it interests them. Teaching is a very important part of what I do, and I&amp;rsquo;m happy to spread this material far and wide if it will help others. I think it will help me, too: the more opportunities for feedback on teaching materials I get, the better.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;http://consequently.org/presentation&#34;&gt;Presentations&lt;/a&gt;&lt;/strong&gt;: The same holds for &lt;em&gt;talks&lt;/em&gt; I give. I&amp;rsquo;d like there to be a simple, stable URL for each talk, whether it&amp;rsquo;s &lt;a href=&#34;http://consequently.org/presentation/2014/towards-fixed-point-models-logicmelb/&#34;&gt;a&lt;/a&gt; &lt;a href=&#34;http://consequently.org/presentation/2014/trmra-asubl5/&#34;&gt;research&lt;/a&gt; &lt;a href=&#34;http://consequently.org/presentation/2015/cemd-anu/&#34;&gt;talk&lt;/a&gt;, or a &lt;a href=&#34;http://consequently.org/presentation/2014/christian-academic-monash/&#34;&gt;different&lt;/a&gt; &lt;a href=&#34;http://consequently.org/presentation/2014/tractatus-masterclass/&#34;&gt;kind of presentation&lt;/a&gt;. Sometimes I&amp;rsquo;ll be able to put materials from talks online, and sometimes I won&amp;rsquo;t. But in any case, I want to have an archive of recent and upcoming talks.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;http://consequently.org/news&#34;&gt;News&lt;/a&gt;&lt;/strong&gt;: Of course, there&amp;rsquo;s also the &lt;em&gt;news&lt;/em&gt; or &lt;em&gt;blog&lt;/em&gt; section of the website, which can be the home for not-academic pieces of writing which don&amp;rsquo;t fit well into &lt;a href=&#34;http://twitter.com/consequently&#34;&gt;140 character&lt;/a&gt; chunks, and which don&amp;rsquo;t find a place in &lt;a href=&#34;http://consequently.org/writing&#34;&gt;more considered pieces&lt;/a&gt;&amp;hellip; These are pieces of writing like &lt;em&gt;this very discussion&lt;/em&gt;. While some find places like &lt;a href=&#34;https://medium.com&#34;&gt;Medium&lt;/a&gt; a suitable home for longer-than-twitter online writing, I&amp;rsquo;m fond of &lt;a href=&#34;https://sites.google.com/site/catarinadutilhnovaes/&#34;&gt;people&amp;rsquo;s&lt;/a&gt; &lt;a href=&#34;http://www.umsu.de/wo/&#34;&gt;own&lt;/a&gt; &lt;a href=&#34;http://kjhealy.org&#34;&gt;websites&lt;/a&gt;, and I&amp;rsquo;m itching to get back into it, with some occasional writing of my own, to supplement more considered academic pieces.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;So, that&amp;rsquo;s the &lt;em&gt;why&lt;/em&gt; of my return to this site.&lt;/p&gt;
+
+&lt;p&gt;Let&amp;rsquo;s end with the &lt;em&gt;how&lt;/em&gt;. The short answer is what you see in the footer of the website (as I write this). &lt;a href=&#34;http://gohugo.io&#34;&gt;Hugo&lt;/a&gt; is the CMS that wires things together into the website. It&amp;rsquo;s fast, relatively straightforward to learn if you&amp;rsquo;re used to command-line tools, and can it cope with the not-completely-straightforward taxonomy of my site. Hugo seems to be under active development by its founder &lt;a href=&#34;https://twitter.com/spf13/&#34;&gt;Steve Francia&lt;/a&gt; together with an active &lt;a href=&#34;http://discuss.gohugo.io&#34;&gt;community&lt;/a&gt; of users and developers. It looks like it&amp;rsquo;ll be around for a while.&lt;/p&gt;
+
+&lt;p&gt;I hand-coded the HTML (designing it to be &lt;em&gt;relatively&lt;/em&gt; friendly for small-screen devices) using the &lt;a href=&#34;http://imperavi.com/kube/&#34;&gt;Kube Web Framework&lt;/a&gt; from &lt;a href=&#34;http://imperavi.com&#34;&gt;Imperavi&lt;/a&gt;. (Please let me know if you see any website design bugs.) The main body and header font is &lt;a href=&#34;http://www.google.com/fonts/specimen/Alegreya&#34;&gt;Alegreya&lt;/a&gt;, a gorgeous font designed by &lt;a href=&#34;https://twitter.com/juandelperal&#34;&gt;Juan Pablo del Peral&lt;/a&gt; for the Argentinian Type Foundry &lt;a href=&#34;http://www.huertatipografica.com&#34;&gt;Huerta Tipogr&amp;aacute;fica&lt;/a&gt;. It&amp;rsquo;s hosted on &lt;a href=&#34;http://www.google.com/fonts/specimen/Alegreya&#34;&gt;Google Fonts&lt;/a&gt;. Apply liberal doses of &lt;a href=&#34;http://marketlane.com.au&#34;&gt;caffeine&lt;/a&gt; and &lt;a href=&#34;http://cockburnproject.net&#34;&gt;Bruce Cockburn&lt;/a&gt;, a few late nights&amp;rsquo; worth of coding, and you get the website you have before you. I hope you like it. Please get back to me, by &lt;a href=&#34;http://twitter.com/consequently&#34;&gt;replying to @consequently&lt;/a&gt; on Twitter, or by email, if you have any feedback.&lt;/p&gt;
 </description>
 </item>
     
@@ -976,19 +1009,6 @@
 </item>
     
 <item>
-<title>Holiday!</title>
-<link>http://consequently.github.io/news/2009/01/07/holiday/</link>
-<pubDate>Wed, 07 Jan 2009 00:00:00 UTC</pubDate>
-<guid>http://consequently.github.io/news/2009/01/07/holiday/</guid>
-<description>&lt;p&gt;We&amp;rsquo;re going on a &lt;em&gt;holiday&lt;/em&gt;! Tomorrow at noon, we&amp;rsquo;ll be on a Qantas 747 to LA, and at the other end, the three of us will be enjoying four weeks of break.  It&amp;rsquo;s &lt;em&gt;mostly&lt;/em&gt; time off for all of us, with a few detours for work talks for me (at Pitt, and at UConn) and for Christine (at Harvard, San Diego, Berkeley and maybe Stanford).  It&amp;rsquo;s our &amp;lsquo;consolation tour&amp;rsquo; in place of what was our original plan: a year in the USA, based in Pittsburgh.  That fell through&amp;mdash;it&amp;rsquo;s a complicated story, all to do with Melbourne, nothing to do with &lt;a href=&#34;http://pitt.edu/~philosop&#34;&gt;Pitt&lt;/a&gt;, where people have been generous, understanding and gracious.  Anyway, I&amp;rsquo;m not visiting Pitt for a year, but we&amp;rsquo;re touring the US, having a break, seeing the sights (like the Grand Canyon, Death Valley, and Las Vegas) and visiting friends.&lt;/p&gt;
-
-&lt;p&gt;At Pittsburgh, I&amp;rsquo;ll finally get to meet &lt;a href=&#34;http://indexical.blogspot.com/&#34;&gt;Shawn&lt;/a&gt; whose blog I&amp;rsquo;ve read for ages, and &lt;a href=&#34;http://www.pitt.edu/~philosop/people/gupta.html&#34;&gt;Anil&lt;/a&gt;, whose work I&amp;rsquo;ve read and learned from for much longer.   At UConn, I&amp;rsquo;ll catch up with &lt;a href=&#34;http://web.me.com/jcbeall/&#34;&gt;Jc&lt;/a&gt;, which is always a blast, and &lt;a href=&#34;http://homepages.uconn.edu/~mar08022/&#34;&gt;Marcus&lt;/a&gt;, who&amp;rsquo;s moved there.  I&amp;rsquo;ve also got the honour of giving the &lt;a href=&#34;http://logic.uconn.edu/lecture.php&#34;&gt;inaugural annual lecture&lt;/a&gt; of the &lt;a href=&#34;http://logic.uconn.edu&#34;&gt;UConn Logic Group&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;I won&amp;rsquo;t be posting here unless I get web access, and I think that this isn&amp;rsquo;t a priority on the holiday.  But after I&amp;rsquo;m back in February, I expect to be posting here more often.&lt;/p&gt;
-</description>
-</item>
-    
-<item>
 <title>Little Snippets of News</title>
 <link>http://consequently.github.io/news/2009/01/07/little_snippets_of_news/</link>
 <pubDate>Wed, 07 Jan 2009 00:00:00 UTC</pubDate>
@@ -1006,6 +1026,19 @@
 
 &lt;li&gt;&lt;p&gt;It&amp;rsquo;s been a hard year at work, as I&amp;rsquo;ve &lt;a href=&#34;http://consequently.github.io/news/2008/03/30/were_in_the_news/&#34;&gt;hinted at&lt;/a&gt; &lt;a href=&#34;http://consequently.github.io/news/2008/08/20/pain_stress_redundancies_another_day_at_the_office&#34;&gt;before&lt;/a&gt;.  There&amp;rsquo;s been a lot more going on than that going on. My leave over this summer break has been more than welcome.  I&amp;rsquo;m away from the office for an extended period (for two weeks already, and I return only on February 23).  For some of this leave, starting tomorrow, we&amp;rsquo;re going on a trip to the US, to get away from it all.  The fact that we get to be there during Obama&amp;rsquo;s inauguration is a bonus!  More on the trip, in the next post.&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
+</description>
+</item>
+    
+<item>
+<title>Holiday!</title>
+<link>http://consequently.github.io/news/2009/01/07/holiday/</link>
+<pubDate>Wed, 07 Jan 2009 00:00:00 UTC</pubDate>
+<guid>http://consequently.github.io/news/2009/01/07/holiday/</guid>
+<description>&lt;p&gt;We&amp;rsquo;re going on a &lt;em&gt;holiday&lt;/em&gt;! Tomorrow at noon, we&amp;rsquo;ll be on a Qantas 747 to LA, and at the other end, the three of us will be enjoying four weeks of break.  It&amp;rsquo;s &lt;em&gt;mostly&lt;/em&gt; time off for all of us, with a few detours for work talks for me (at Pitt, and at UConn) and for Christine (at Harvard, San Diego, Berkeley and maybe Stanford).  It&amp;rsquo;s our &amp;lsquo;consolation tour&amp;rsquo; in place of what was our original plan: a year in the USA, based in Pittsburgh.  That fell through&amp;mdash;it&amp;rsquo;s a complicated story, all to do with Melbourne, nothing to do with &lt;a href=&#34;http://pitt.edu/~philosop&#34;&gt;Pitt&lt;/a&gt;, where people have been generous, understanding and gracious.  Anyway, I&amp;rsquo;m not visiting Pitt for a year, but we&amp;rsquo;re touring the US, having a break, seeing the sights (like the Grand Canyon, Death Valley, and Las Vegas) and visiting friends.&lt;/p&gt;
+
+&lt;p&gt;At Pittsburgh, I&amp;rsquo;ll finally get to meet &lt;a href=&#34;http://indexical.blogspot.com/&#34;&gt;Shawn&lt;/a&gt; whose blog I&amp;rsquo;ve read for ages, and &lt;a href=&#34;http://www.pitt.edu/~philosop/people/gupta.html&#34;&gt;Anil&lt;/a&gt;, whose work I&amp;rsquo;ve read and learned from for much longer.   At UConn, I&amp;rsquo;ll catch up with &lt;a href=&#34;http://web.me.com/jcbeall/&#34;&gt;Jc&lt;/a&gt;, which is always a blast, and &lt;a href=&#34;http://homepages.uconn.edu/~mar08022/&#34;&gt;Marcus&lt;/a&gt;, who&amp;rsquo;s moved there.  I&amp;rsquo;ve also got the honour of giving the &lt;a href=&#34;http://logic.uconn.edu/lecture.php&#34;&gt;inaugural annual lecture&lt;/a&gt; of the &lt;a href=&#34;http://logic.uconn.edu&#34;&gt;UConn Logic Group&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;I won&amp;rsquo;t be posting here unless I get web access, and I think that this isn&amp;rsquo;t a priority on the holiday.  But after I&amp;rsquo;m back in February, I expect to be posting here more often.&lt;/p&gt;
 </description>
 </item>
     
@@ -1995,15 +2028,6 @@ The sequent system is cut-free and the circuit proofs are normalising.&lt;/p&gt;
 </item>
     
 <item>
-<title>Paraconsistent Logics!</title>
-<link>http://consequently.github.io/writing/plog/</link>
-<pubDate>Fri, 03 Mar 1995 00:00:00 UTC</pubDate>
-<guid>http://consequently.github.io/writing/plog/</guid>
-<description>&lt;p&gt;I respond to an interesting argument of Hartley Slater to the effect that there is no such thing as paraconsistent logic. Slater argues that since paraconsistent logics involve interpreting a sentence and its negation as both true at points in a model structure, it is not really &lt;em&gt;negation&lt;/em&gt; that is being modelled, since negation is meant to be a contradictory forming operator. I sketch how different paraconsistentists can respond to his argument, and I then defend my own response, that although contradictions are indeed never true (and &lt;em&gt;cannot&lt;/em&gt; be true) it does not follow that a semantics ought not evaluate them as true in certain models.&lt;/p&gt;
-</description>
-</item>
-    
-<item>
 <title>Paraconsistency Everywhere</title>
 <link>http://consequently.github.io/writing/pev/</link>
 <pubDate>Fri, 03 Mar 1995 00:00:00 UTC</pubDate>
@@ -2026,6 +2050,15 @@ repugnant because they countenance inconsistencies is undercut.   Many well-unde
 as well.&lt;/p&gt;
 
 &lt;p&gt;(This paper was published in 2004, despite the apparent date of 2002 in the citation.  The tale is told in more detail &lt;a href=&#34;http://consequently.org/news/2004/03/24/research_quantification&#34;&gt;here&lt;/a&gt;.)&lt;/p&gt;
+</description>
+</item>
+    
+<item>
+<title>Paraconsistent Logics!</title>
+<link>http://consequently.github.io/writing/plog/</link>
+<pubDate>Fri, 03 Mar 1995 00:00:00 UTC</pubDate>
+<guid>http://consequently.github.io/writing/plog/</guid>
+<description>&lt;p&gt;I respond to an interesting argument of Hartley Slater to the effect that there is no such thing as paraconsistent logic. Slater argues that since paraconsistent logics involve interpreting a sentence and its negation as both true at points in a model structure, it is not really &lt;em&gt;negation&lt;/em&gt; that is being modelled, since negation is meant to be a contradictory forming operator. I sketch how different paraconsistentists can respond to his argument, and I then defend my own response, that although contradictions are indeed never true (and &lt;em&gt;cannot&lt;/em&gt; be true) it does not follow that a semantics ought not evaluate them as true in certain models.&lt;/p&gt;
 </description>
 </item>
     
