@@ -140,7 +140,7 @@
 <link>http://consequently.github.io/news/2015/no-comments/</link>
 <pubDate>Tue, 03 Feb 2015 09:52:39 AEDT</pubDate>
 <guid>http://consequently.github.io/news/2015/no-comments/</guid>
-<description>&lt;p&gt;Previous incarnations of this website provided space for comments in the usual way for a weblog in the first decade of the 2000s&amp;mdash;a comment form on each entry. This one doesn&amp;rsquo;t. Why not?&lt;/p&gt;
+<description>&lt;p&gt;Previous incarnations of this website provided a facility for comments in the usual way for a weblog in the first decade of the 2000s&amp;mdash;a comment form on each entry. This one doesn&amp;rsquo;t. Why not?&lt;/p&gt;
 
 &lt;p&gt;It&amp;rsquo;s simple. Comment forms are ugly. I don&amp;rsquo;t want to spend time &lt;em&gt;moderating comments&lt;/em&gt;&amp;mdash;wading through yet another medium that&amp;rsquo;s 90% spam is  not a good way for me to use my time or energy. Publically available comment forms on the web are mostly buckets for spam and other detritus.&lt;/p&gt;
 
@@ -2030,15 +2030,6 @@ Ruth Barcan Marcus has lent her name to what is now called the &lt;em&gt;Barcan 
 </item>
     
 <item>
-<title>Routes to Triviality</title>
-<link>http://consequently.github.io/writing/routes/</link>
-<pubDate>Fri, 03 Mar 1995 00:00:00 UTC</pubDate>
-<guid>http://consequently.github.io/writing/routes/</guid>
-<description>&lt;p&gt;It is well known that contraction-related principles trivialise na&amp;iuml;ve class theory. It is less well known that many other principles unrelated to contraction also render the theory trivial. This paper provides a characterisation of a large class of formulas which do the job. This class includes all properly implication formulas known in the literature, and adds countably many more.&lt;/p&gt;
-</description>
-</item>
-    
-<item>
 <title>Proofnets for S5&amp;#58; sequents and circuits for modal logic</title>
 <link>http://consequently.github.io/writing/s5nets/</link>
 <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
@@ -2047,6 +2038,15 @@ Ruth Barcan Marcus has lent her name to what is now called the &lt;em&gt;Barcan 
 
 &lt;p&gt;The sequent derivations and proofnets are both simple extensions of sequents and proofnets for classical propositional logic, in which the new machinery&amp;mdash;to take account of the modal vocabulary&amp;mdash;is directly motivated in terms of the simple, universal Kripke semantics for S5.
 The sequent system is cut-free and the circuit proofs are normalising.&lt;/p&gt;
+</description>
+</item>
+    
+<item>
+<title>Routes to Triviality</title>
+<link>http://consequently.github.io/writing/routes/</link>
+<pubDate>Fri, 03 Mar 1995 00:00:00 UTC</pubDate>
+<guid>http://consequently.github.io/writing/routes/</guid>
+<description>&lt;p&gt;It is well known that contraction-related principles trivialise na&amp;iuml;ve class theory. It is less well known that many other principles unrelated to contraction also render the theory trivial. This paper provides a characterisation of a large class of formulas which do the job. This class includes all properly implication formulas known in the literature, and adds countably many more.&lt;/p&gt;
 </description>
 </item>
     
