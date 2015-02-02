@@ -96,17 +96,6 @@
 </item>
     
 <item>
-<title>PHIL30043: The Power and Limits of Logic</title>
-<link>http://consequently.github.io/class/2015/PHIL30043/</link>
-<pubDate>Sat, 31 Jan 2015 00:00:00 UTC</pubDate>
-<guid>http://consequently.github.io/class/2015/PHIL30043/</guid>
-<description>&lt;p&gt;&lt;strong&gt;&lt;span class=&#34;caps&#34;&gt;PHIL30043&lt;/span&gt;: The Power and Limits of Logic&lt;/strong&gt; is a &lt;a href=&#34;http://unimelb.edu.au&#34;&gt;University of Melbourne&lt;/a&gt; undergraduate subject. It covers the metatheory of classical first order predicate logic, beginning at the &lt;em&gt;Soundness&lt;/em&gt; and &lt;em&gt;Completeness&lt;/em&gt; Theorems (proved not once but &lt;em&gt;twice&lt;/em&gt;, first for a tableaux proof system for predicate logic, then a Hilbert proof system), through the &lt;em&gt;Deduction Theorem&lt;/em&gt;, &lt;em&gt;Compactness&lt;/em&gt;, &lt;em&gt;Cantor&amp;rsquo;s Theorem&lt;/em&gt;, the &lt;em&gt;Downward L&amp;ouml;wenheim&amp;ndash;Skolem Theorem&lt;/em&gt;, &lt;em&gt;Recursive Functions&lt;/em&gt;, &lt;em&gt;Register Machines&lt;/em&gt;, &lt;em&gt;Representability&lt;/em&gt; and ending up at &lt;em&gt;G&amp;ouml;del&amp;rsquo;s Incompleteness Theorems&lt;/em&gt; and &lt;em&gt;L&amp;ouml;b&amp;rsquo;s Theorem&lt;/em&gt;.&lt;/p&gt;
-
-&lt;p&gt;The sunject is taught to University of Melbourne undergraduate students (for Arts students as a part of the Philosophy major, for non-Arts students, as a breadth subject). Details for enrolment are &lt;a href=&#34;https://handbook.unimelb.edu.au/view/2015/PHIL30043&#34;&gt;here&lt;/a&gt;. I make use of video lectures I have made &lt;a href=&#34;http://vimeo.com/album/2262409&#34;&gt;freely available on Vimeo&lt;/a&gt;.&lt;/p&gt;
-</description>
-</item>
-    
-<item>
 <title>UNIB10002: Logic, Language and Information</title>
 <link>http://consequently.github.io/class/2015/UNIB10002/</link>
 <pubDate>Sat, 31 Jan 2015 00:00:00 UTC</pubDate>
@@ -114,6 +103,17 @@
 <description>&lt;p&gt;&lt;strong&gt;&lt;span class=&#34;caps&#34;&gt;UNIB10002&lt;/span&gt;: Logic, Language and Information&lt;/strong&gt; is a &lt;a href=&#34;http://unimelb.edu.au&#34;&gt;University of Melbourne&lt;/a&gt; undergraduate breadth subject, introducing logic and its applications to students from a broad range of disciplines in the Arts, Sciences and Engineering. I coordinate this subject with my colleague Dr. Jen Davoren, with help from Dr. Lesley Stirling and Dr. Peter Schachte.&lt;/p&gt;
 
 &lt;p&gt;The subject is taught to University of Melbourne undergraduate students. Details for enrolment are &lt;a href=&#34;https://handbook.unimelb.edu.au/view/2014/UNIB10002&#34;&gt;here&lt;/a&gt;. We teach this in a &amp;lsquo;flipped classroom&amp;rsquo; model, using resources from our Coursera subjects &lt;a href=&#34;http://consequently.github.io/class/2015/logic1_coursera&#34;&gt;Logic 1&lt;/a&gt; and &lt;a href=&#34;http://consequently.github.io/class/2015/logic2_coursera&#34;&gt;Logic 2&lt;/a&gt;.&lt;/p&gt;
+</description>
+</item>
+    
+<item>
+<title>PHIL30043: The Power and Limits of Logic</title>
+<link>http://consequently.github.io/class/2015/PHIL30043/</link>
+<pubDate>Sat, 31 Jan 2015 00:00:00 UTC</pubDate>
+<guid>http://consequently.github.io/class/2015/PHIL30043/</guid>
+<description>&lt;p&gt;&lt;strong&gt;&lt;span class=&#34;caps&#34;&gt;PHIL30043&lt;/span&gt;: The Power and Limits of Logic&lt;/strong&gt; is a &lt;a href=&#34;http://unimelb.edu.au&#34;&gt;University of Melbourne&lt;/a&gt; undergraduate subject. It covers the metatheory of classical first order predicate logic, beginning at the &lt;em&gt;Soundness&lt;/em&gt; and &lt;em&gt;Completeness&lt;/em&gt; Theorems (proved not once but &lt;em&gt;twice&lt;/em&gt;, first for a tableaux proof system for predicate logic, then a Hilbert proof system), through the &lt;em&gt;Deduction Theorem&lt;/em&gt;, &lt;em&gt;Compactness&lt;/em&gt;, &lt;em&gt;Cantor&amp;rsquo;s Theorem&lt;/em&gt;, the &lt;em&gt;Downward L&amp;ouml;wenheim&amp;ndash;Skolem Theorem&lt;/em&gt;, &lt;em&gt;Recursive Functions&lt;/em&gt;, &lt;em&gt;Register Machines&lt;/em&gt;, &lt;em&gt;Representability&lt;/em&gt; and ending up at &lt;em&gt;G&amp;ouml;del&amp;rsquo;s Incompleteness Theorems&lt;/em&gt; and &lt;em&gt;L&amp;ouml;b&amp;rsquo;s Theorem&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;The sunject is taught to University of Melbourne undergraduate students (for Arts students as a part of the Philosophy major, for non-Arts students, as a breadth subject). Details for enrolment are &lt;a href=&#34;https://handbook.unimelb.edu.au/view/2015/PHIL30043&#34;&gt;here&lt;/a&gt;. I make use of video lectures I have made &lt;a href=&#34;http://vimeo.com/album/2262409&#34;&gt;freely available on Vimeo&lt;/a&gt;.&lt;/p&gt;
 </description>
 </item>
     
@@ -132,6 +132,29 @@
 <pubDate>Sat, 31 Jan 2015 00:00:00 AEDT</pubDate>
 <guid>http://consequently.github.io/class/2015/logic1_coursera/</guid>
 <description>&lt;p&gt;Jen Davoren and I are running &lt;em&gt;Logic Language and Information 1&lt;/em&gt; through &lt;a href=&#34;http://coursera.org&#34;&gt;Coursera&lt;/a&gt; again in 2015. You can enrol &lt;a href=&#34;https://www.coursera.org/course/logic1&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+</item>
+    
+<item>
+<title>Why no comments?</title>
+<link>http://consequently.github.io/news/2015/no-comments/</link>
+<pubDate>Tue, 03 Feb 2015 09:52:39 AEDT</pubDate>
+<guid>http://consequently.github.io/news/2015/no-comments/</guid>
+<description>&lt;p&gt;Previous incarnations of this website provided space for comments in the usual way for a weblog in the first decade of the 2000s&amp;mdash;a comment form on each entry. This one doesn&amp;rsquo;t. Why not?&lt;/p&gt;
+
+&lt;p&gt;It&amp;rsquo;s simple. Comment forms are ugly. I don&amp;rsquo;t want to spend time &lt;em&gt;moderating comments&lt;/em&gt;&amp;mdash;wading through yet another medium that&amp;rsquo;s 90% spam is  not a good way for me to use my time or energy. Publically available comment forms on the web are mostly buckets for spam and other detritus.&lt;/p&gt;
+
+&lt;p&gt;Most importantly, there are &lt;em&gt;plenty of other ways&lt;/em&gt; you can comment on anything I do here.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;The best way is to &lt;a href=&#34;http://twitter.com/consequently&#34;&gt;reply to me on twitter&lt;/a&gt;. Use your favourite twitter client and post a link to news item you&amp;rsquo;re discussing.&lt;/p&gt;
+
+&lt;p&gt;If you include the reference to my twitter handle &lt;a href=&#34;http://twitter.com/consequently&#34;&gt;@consequently&lt;/a&gt;,  or if you simply link to a page on this site, I&amp;rsquo;ll see your reply when I check twitter. It&amp;rsquo;s really easy for me to include tweets in posts, like this one &amp;hellip; &lt;blockquote class=&#34;twitter-tweet&#34; lang=&#34;en&#34;&gt;&lt;p&gt;All-star logic workshop in Banff, 2007 &lt;a href=&#34;https://twitter.com/hashtag/TT?src=hash&#34;&gt;#TT&lt;/a&gt; &lt;a href=&#34;http://t.co/0qBKXxfyyl&#34;&gt;http://t.co/0qBKXxfyyl&lt;/a&gt; &lt;a href=&#34;http://t.co/yMX8yHufgn&#34;&gt;pic.twitter.com/yMX8yHufgn&lt;/a&gt;&lt;/p&gt;&amp;mdash; Richard Zach (@RrrichardZach) &lt;a href=&#34;https://twitter.com/RrrichardZach/status/558299627569836032&#34;&gt;January 22, 2015&lt;/a&gt;&lt;/blockquote&gt; &lt;script async src=&#34;//platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt; &amp;hellip; so if you&amp;rsquo;d like to comment, that&amp;rsquo;s a great way to get a short message out, in public.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Or, if you&amp;rsquo;ve got something that&amp;rsquo;s longer than a tweet&amp;rsquo;s worth, write it, make it available on the web, and let me know. If I get useful feedback in public, I&amp;rsquo;ll try to link to it on the page, or point readers to it on twitter.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Or you could always just &lt;a href=&#34;#about&#34;&gt;send me an email&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
 </description>
 </item>
     
@@ -1009,6 +1032,19 @@
 </item>
     
 <item>
+<title>Holiday!</title>
+<link>http://consequently.github.io/news/2009/01/07/holiday/</link>
+<pubDate>Wed, 07 Jan 2009 00:00:00 UTC</pubDate>
+<guid>http://consequently.github.io/news/2009/01/07/holiday/</guid>
+<description>&lt;p&gt;We&amp;rsquo;re going on a &lt;em&gt;holiday&lt;/em&gt;! Tomorrow at noon, we&amp;rsquo;ll be on a Qantas 747 to LA, and at the other end, the three of us will be enjoying four weeks of break.  It&amp;rsquo;s &lt;em&gt;mostly&lt;/em&gt; time off for all of us, with a few detours for work talks for me (at Pitt, and at UConn) and for Christine (at Harvard, San Diego, Berkeley and maybe Stanford).  It&amp;rsquo;s our &amp;lsquo;consolation tour&amp;rsquo; in place of what was our original plan: a year in the USA, based in Pittsburgh.  That fell through&amp;mdash;it&amp;rsquo;s a complicated story, all to do with Melbourne, nothing to do with &lt;a href=&#34;http://pitt.edu/~philosop&#34;&gt;Pitt&lt;/a&gt;, where people have been generous, understanding and gracious.  Anyway, I&amp;rsquo;m not visiting Pitt for a year, but we&amp;rsquo;re touring the US, having a break, seeing the sights (like the Grand Canyon, Death Valley, and Las Vegas) and visiting friends.&lt;/p&gt;
+
+&lt;p&gt;At Pittsburgh, I&amp;rsquo;ll finally get to meet &lt;a href=&#34;http://indexical.blogspot.com/&#34;&gt;Shawn&lt;/a&gt; whose blog I&amp;rsquo;ve read for ages, and &lt;a href=&#34;http://www.pitt.edu/~philosop/people/gupta.html&#34;&gt;Anil&lt;/a&gt;, whose work I&amp;rsquo;ve read and learned from for much longer.   At UConn, I&amp;rsquo;ll catch up with &lt;a href=&#34;http://web.me.com/jcbeall/&#34;&gt;Jc&lt;/a&gt;, which is always a blast, and &lt;a href=&#34;http://homepages.uconn.edu/~mar08022/&#34;&gt;Marcus&lt;/a&gt;, who&amp;rsquo;s moved there.  I&amp;rsquo;ve also got the honour of giving the &lt;a href=&#34;http://logic.uconn.edu/lecture.php&#34;&gt;inaugural annual lecture&lt;/a&gt; of the &lt;a href=&#34;http://logic.uconn.edu&#34;&gt;UConn Logic Group&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;I won&amp;rsquo;t be posting here unless I get web access, and I think that this isn&amp;rsquo;t a priority on the holiday.  But after I&amp;rsquo;m back in February, I expect to be posting here more often.&lt;/p&gt;
+</description>
+</item>
+    
+<item>
 <title>Little Snippets of News</title>
 <link>http://consequently.github.io/news/2009/01/07/little_snippets_of_news/</link>
 <pubDate>Wed, 07 Jan 2009 00:00:00 UTC</pubDate>
@@ -1026,19 +1062,6 @@
 
 &lt;li&gt;&lt;p&gt;It&amp;rsquo;s been a hard year at work, as I&amp;rsquo;ve &lt;a href=&#34;http://consequently.github.io/news/2008/03/30/were_in_the_news/&#34;&gt;hinted at&lt;/a&gt; &lt;a href=&#34;http://consequently.github.io/news/2008/08/20/pain_stress_redundancies_another_day_at_the_office&#34;&gt;before&lt;/a&gt;.  There&amp;rsquo;s been a lot more going on than that going on. My leave over this summer break has been more than welcome.  I&amp;rsquo;m away from the office for an extended period (for two weeks already, and I return only on February 23).  For some of this leave, starting tomorrow, we&amp;rsquo;re going on a trip to the US, to get away from it all.  The fact that we get to be there during Obama&amp;rsquo;s inauguration is a bonus!  More on the trip, in the next post.&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
-</description>
-</item>
-    
-<item>
-<title>Holiday!</title>
-<link>http://consequently.github.io/news/2009/01/07/holiday/</link>
-<pubDate>Wed, 07 Jan 2009 00:00:00 UTC</pubDate>
-<guid>http://consequently.github.io/news/2009/01/07/holiday/</guid>
-<description>&lt;p&gt;We&amp;rsquo;re going on a &lt;em&gt;holiday&lt;/em&gt;! Tomorrow at noon, we&amp;rsquo;ll be on a Qantas 747 to LA, and at the other end, the three of us will be enjoying four weeks of break.  It&amp;rsquo;s &lt;em&gt;mostly&lt;/em&gt; time off for all of us, with a few detours for work talks for me (at Pitt, and at UConn) and for Christine (at Harvard, San Diego, Berkeley and maybe Stanford).  It&amp;rsquo;s our &amp;lsquo;consolation tour&amp;rsquo; in place of what was our original plan: a year in the USA, based in Pittsburgh.  That fell through&amp;mdash;it&amp;rsquo;s a complicated story, all to do with Melbourne, nothing to do with &lt;a href=&#34;http://pitt.edu/~philosop&#34;&gt;Pitt&lt;/a&gt;, where people have been generous, understanding and gracious.  Anyway, I&amp;rsquo;m not visiting Pitt for a year, but we&amp;rsquo;re touring the US, having a break, seeing the sights (like the Grand Canyon, Death Valley, and Las Vegas) and visiting friends.&lt;/p&gt;
-
-&lt;p&gt;At Pittsburgh, I&amp;rsquo;ll finally get to meet &lt;a href=&#34;http://indexical.blogspot.com/&#34;&gt;Shawn&lt;/a&gt; whose blog I&amp;rsquo;ve read for ages, and &lt;a href=&#34;http://www.pitt.edu/~philosop/people/gupta.html&#34;&gt;Anil&lt;/a&gt;, whose work I&amp;rsquo;ve read and learned from for much longer.   At UConn, I&amp;rsquo;ll catch up with &lt;a href=&#34;http://web.me.com/jcbeall/&#34;&gt;Jc&lt;/a&gt;, which is always a blast, and &lt;a href=&#34;http://homepages.uconn.edu/~mar08022/&#34;&gt;Marcus&lt;/a&gt;, who&amp;rsquo;s moved there.  I&amp;rsquo;ve also got the honour of giving the &lt;a href=&#34;http://logic.uconn.edu/lecture.php&#34;&gt;inaugural annual lecture&lt;/a&gt; of the &lt;a href=&#34;http://logic.uconn.edu&#34;&gt;UConn Logic Group&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;I won&amp;rsquo;t be posting here unless I get web access, and I think that this isn&amp;rsquo;t a priority on the holiday.  But after I&amp;rsquo;m back in February, I expect to be posting here more often.&lt;/p&gt;
 </description>
 </item>
     
@@ -2028,6 +2051,15 @@ The sequent system is cut-free and the circuit proofs are normalising.&lt;/p&gt;
 </item>
     
 <item>
+<title>Paraconsistent Logics!</title>
+<link>http://consequently.github.io/writing/plog/</link>
+<pubDate>Fri, 03 Mar 1995 00:00:00 UTC</pubDate>
+<guid>http://consequently.github.io/writing/plog/</guid>
+<description>&lt;p&gt;I respond to an interesting argument of Hartley Slater to the effect that there is no such thing as paraconsistent logic. Slater argues that since paraconsistent logics involve interpreting a sentence and its negation as both true at points in a model structure, it is not really &lt;em&gt;negation&lt;/em&gt; that is being modelled, since negation is meant to be a contradictory forming operator. I sketch how different paraconsistentists can respond to his argument, and I then defend my own response, that although contradictions are indeed never true (and &lt;em&gt;cannot&lt;/em&gt; be true) it does not follow that a semantics ought not evaluate them as true in certain models.&lt;/p&gt;
+</description>
+</item>
+    
+<item>
 <title>Paraconsistency Everywhere</title>
 <link>http://consequently.github.io/writing/pev/</link>
 <pubDate>Fri, 03 Mar 1995 00:00:00 UTC</pubDate>
@@ -2050,15 +2082,6 @@ repugnant because they countenance inconsistencies is undercut.   Many well-unde
 as well.&lt;/p&gt;
 
 &lt;p&gt;(This paper was published in 2004, despite the apparent date of 2002 in the citation.  The tale is told in more detail &lt;a href=&#34;http://consequently.org/news/2004/03/24/research_quantification&#34;&gt;here&lt;/a&gt;.)&lt;/p&gt;
-</description>
-</item>
-    
-<item>
-<title>Paraconsistent Logics!</title>
-<link>http://consequently.github.io/writing/plog/</link>
-<pubDate>Fri, 03 Mar 1995 00:00:00 UTC</pubDate>
-<guid>http://consequently.github.io/writing/plog/</guid>
-<description>&lt;p&gt;I respond to an interesting argument of Hartley Slater to the effect that there is no such thing as paraconsistent logic. Slater argues that since paraconsistent logics involve interpreting a sentence and its negation as both true at points in a model structure, it is not really &lt;em&gt;negation&lt;/em&gt; that is being modelled, since negation is meant to be a contradictory forming operator. I sketch how different paraconsistentists can respond to his argument, and I then defend my own response, that although contradictions are indeed never true (and &lt;em&gt;cannot&lt;/em&gt; be true) it does not follow that a semantics ought not evaluate them as true in certain models.&lt;/p&gt;
 </description>
 </item>
     
