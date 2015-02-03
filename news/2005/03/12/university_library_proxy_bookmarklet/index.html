@@ -4,7 +4,7 @@
     <link href="http://gmpg.org/xfn/11" rel="profile">
     <meta http-equiv="content-type" content="text/html; charset=utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
-	<title>Happy 2006</title>
+	<title>University Library Proxy Bookmarklet</title>
     
 	<link rel="stylesheet" href="http://consequently.github.io/css/kube.css" />
 	<link rel="stylesheet" href="http://consequently.github.io/css/demo.css" />
@@ -39,25 +39,50 @@
 <div class="wrapper">
 <div class="units-row">		
 <div class="unit-20">&nbsp;</div>
-<div class="unit-60"><h2><a href="">Happy 2006</a></h2></div>
+<div class="unit-60"><h2><a href="">University Library Proxy Bookmarklet</a></h2></div>
 </div>
 <div class="units-row">		
-<div class="unit-20 dateblock"><h4>January 1, 2006</h4></div>
+<div class="unit-20 dateblock"><h4>March 12, 2005</h4></div>
 <div class="unit-60">
-<p>Happy New Year, my readers!</p>
+<p>If you&rsquo;re like me, you do research on the web, and you browse around different sites for journals, seeing what&rsquo;s been published, and what you should read.  Our <a href="http://www.lib.unimelb.edu.au/">library</a> has online subscriptions for lots of these journals, so I can download the papers, file them, read them, etc.  It&rsquo;s all very nice.</p>
 
-<p>We&rsquo;ve landed in Melbourne (to a hot 8pm at around 42 degrees Celcius), and are slowly reconstructing our household bit by bit.  The internet connection seems to work at least.  We&rsquo;ve managed to change lightbulbs, unpack bags, look at a bit of our large pile of mail, get the boy to bed (and even to sleep) and have some <a href="http://www.yakun.com/">Kaya Toast</a> for a midnight or New Year snack.</p>
+<p>But it&rsquo;s not always easy to get from the site to actually download the paper.  Recently, our university introduced a <a href="http://mate.lib.unimelb.edu.au/">proxy server</a> as the means to keep track of whether someone attempting to download material under the banner of a University of Melbourne subscription is actually authorised to do so (i. e., is a member of staff or a student).  So, if I&rsquo;m at a page for a journal like this</p>
 
-<p>See you later in 2006.</p>
+<blockquote>
+<p><a href="http://mind.oupjournals.org/current.dtl">http://mind.oupjournals.org/current.dtl</a></p>
+</blockquote>
+
+<p>and I want to download a paper like this</p>
+
+<blockquote>
+<p><a href="http://mind.oupjournals.org/cgi/content/abstract/114/453/1">http://mind.oupjournals.org/cgi/content/abstract/<sup>114</sup>&frasl;<sub>453</sub>/1</a></p>
+</blockquote>
+
+<p>I need to manually edit the address, by sticking &ldquo;.mate.lib.unimelb.edu.au&rdquo; at the end of the hostname, before the path. (Between &ldquo;.org&rdquo; and &ldquo;/cgi&rdquo; here).  I am <em>lazy</em> and I don&rsquo;t like having to type &ldquo;.mate.lib.unimelb.edu.au&rdquo; time and again when browsing the journals.</p>
+
+<p>So, I use a little link I made &ndash; &lsquo;<a href="javascript:void(location.href='http://'+location.host+'.mate.lib.unimelb.edu.au'+location.pathname+location.search)">+mate.lib</a>&rsquo; &ndash; in the bookmarks bar of my browser, and whenever I&rsquo;m on a site, it takes me directly to the relevant page viewed through proxy site, and I can download at will.  The bookmark is a simple bit of javascript:</p>
+
+<pre><code>javascript:void(location.href = 
+      'http://' + location.host 
+      + '.mate.lib.unimelb.edu.au'
+      + location.pathname
+      + location.search)
+</code></pre>
+
+<p>and it works like a charm.  One click, and you&rsquo;re there.  Feel free to utilise a version of this yorself if <a href="http://www.usefulutilities.com/support/institutions.html">your library</a> uses an  <a href="http://www.usefulutilities.com">ezproxy server</a> like ours.</p>
+
+<p><em>Update</em>:  Don&rsquo;t use the text I&rsquo;ve displayed here for your own bookmarklet (it contains linebreaks and won&rsquo;t be quite the right form for your browser).  Just drag this link &ndash; <a href="javascript:void(location.href='http://'+location.host+'.mate.lib.unimelb.edu.au'+location.pathname+location.search)">+mate.lib</a> &ndash; to your bookmarks bar.</p>
+
+<p><em>Update 2</em>: Thanks to a <a href="http://consequently.org/news/2005/03/12/university_library_proxy_bookmarklet/index.php#c1449">pointer from Richard Zach</a>, I&rsquo;ve updated the link to preserve the search component of the URL.</p>
 
 
 <hr>
 
-<a href="http://consequently.github.io/news/2005/12/16/about_to_leave_oxford/"> &larr;&nbsp;About to leave Oxford</a>
+<a href="http://consequently.github.io/news/2005/03/07/please_help_us_1_on_selfsaucing_pudding/"> &larr;&nbsp;Please Help Us #1: On Self-Saucing Pudding</a>
  | 
 
 
-<a href="http://consequently.github.io/news/2006/01/03/teaching_in_semester_1_2006/">Teaching in Semester 1, 2006&nbsp;&rarr;</a>
+<a href="http://consequently.github.io/news/2005/03/22/logic_books_at_printgooglecom/">Logic Books at print.google.com&nbsp;&rarr;</a>
 
 
 </div>
