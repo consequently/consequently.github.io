@@ -250,17 +250,6 @@
 </item>
     
 <item>
-<title>PHIL30043: The Power and Limits of Logic</title>
-<link>http://consequently.github.io/class/2014/PHIL30043/</link>
-<pubDate>Sat, 31 Jan 2015 00:00:00 UTC</pubDate>
-<guid>http://consequently.github.io/class/2014/PHIL30043/</guid>
-<description>&lt;p&gt;&lt;strong&gt;PHIL30043: The Power and Limits of Logic&lt;/strong&gt; is a &lt;a href=&#34;http://unimelb.edu.au&#34;&gt;University of Melbourne&lt;/a&gt; undergraduate subject. It covers the metatheory of classical first order predicate logic, beginning at the &lt;em&gt;Soundness&lt;/em&gt; and &lt;em&gt;Completeness&lt;/em&gt; Theorems (proved not once but &lt;em&gt;twice&lt;/em&gt;, first for a tableaux proof system for predicate logic, then a Hilbert proof system), through the &lt;em&gt;Deduction Theorem&lt;/em&gt;, &lt;em&gt;Compactness&lt;/em&gt;, &lt;em&gt;Cantor&amp;rsquo;s Theorem&lt;/em&gt;, the &lt;em&gt;Downward L&amp;ouml;wenheim&amp;ndash;Skolem Theorem&lt;/em&gt;, &lt;em&gt;Recursive Functions&lt;/em&gt;, &lt;em&gt;Register Machines&lt;/em&gt;, &lt;em&gt;Representability&lt;/em&gt; and ending up at &lt;em&gt;G&amp;ouml;del&amp;rsquo;s Incompleteness Theorems&lt;/em&gt; and &lt;em&gt;L&amp;ouml;b&amp;rsquo;s Theorem&lt;/em&gt;.&lt;/p&gt;
-
-&lt;p&gt;The subject was taught to University of Melbourne undergraduate students (for Arts students as a part of the Philosophy major, for non-Arts students, as a breadth subject). Details for enrolment are &lt;a href=&#34;https://handbook.unimelb.edu.au/view/2014/PHIL30043&#34;&gt;here&lt;/a&gt;. I made use of video lectures I have made &lt;a href=&#34;http://vimeo.com/album/2262409&#34;&gt;freely available on Vimeo&lt;/a&gt;.&lt;/p&gt;
-</description>
-</item>
-    
-<item>
 <title>PHIL10003: Philosophy, the Great Thinkers</title>
 <link>http://consequently.github.io/class/2014/PHIL10003/</link>
 <pubDate>Sat, 31 Jan 2015 00:00:00 UTC</pubDate>
@@ -268,6 +257,17 @@
 <description>&lt;p&gt;&lt;strong&gt;PHIL10003: Philosophy, the Great Thinkers&lt;/strong&gt; is a &lt;a href=&#34;http://unimelb.edu.au&#34;&gt;University of Melbourne&lt;/a&gt; undergraduate subject, introducing philosophy to students through close readings of core texts. I taught with Dr. Chris Cordner and Dr. Ruth Boeker. In my classes, we looked at David Hume&amp;rsquo; &lt;a href=&#34;http://davidhume.org/texts/dnr.html&#34;&gt;&lt;em&gt;Dialogues Concerning Natural Religion&lt;/em&gt;&lt;/a&gt; and &lt;a href=&#34;https://ebooks.adelaide.edu.au/h/hume/david/h92n/contents.html&#34;&gt;&lt;em&gt;Natural History of Religion&lt;/em&gt;&lt;/a&gt;, with some side trips into hume&amp;rsquo;s &lt;a href=&#34;http://davidhume.org/texts/ehu.html&#34;&gt;&lt;em&gt;Enquiry&lt;/em&gt;&lt;/a&gt;, and some Marx, Wittgenstein for good measure.&lt;/p&gt;
 
 &lt;p&gt;The subject was taught to University of Melbourne undergraduate students (for Arts students as a part of the Philosophy major, for non-Arts students, as a breadth subject). Details for enrolment are &lt;a href=&#34;https://handbook.unimelb.edu.au/view/2014/PHIL10003&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+</item>
+    
+<item>
+<title>PHIL30043: The Power and Limits of Logic</title>
+<link>http://consequently.github.io/class/2014/PHIL30043/</link>
+<pubDate>Sat, 31 Jan 2015 00:00:00 UTC</pubDate>
+<guid>http://consequently.github.io/class/2014/PHIL30043/</guid>
+<description>&lt;p&gt;&lt;strong&gt;PHIL30043: The Power and Limits of Logic&lt;/strong&gt; is a &lt;a href=&#34;http://unimelb.edu.au&#34;&gt;University of Melbourne&lt;/a&gt; undergraduate subject. It covers the metatheory of classical first order predicate logic, beginning at the &lt;em&gt;Soundness&lt;/em&gt; and &lt;em&gt;Completeness&lt;/em&gt; Theorems (proved not once but &lt;em&gt;twice&lt;/em&gt;, first for a tableaux proof system for predicate logic, then a Hilbert proof system), through the &lt;em&gt;Deduction Theorem&lt;/em&gt;, &lt;em&gt;Compactness&lt;/em&gt;, &lt;em&gt;Cantor&amp;rsquo;s Theorem&lt;/em&gt;, the &lt;em&gt;Downward L&amp;ouml;wenheim&amp;ndash;Skolem Theorem&lt;/em&gt;, &lt;em&gt;Recursive Functions&lt;/em&gt;, &lt;em&gt;Register Machines&lt;/em&gt;, &lt;em&gt;Representability&lt;/em&gt; and ending up at &lt;em&gt;G&amp;ouml;del&amp;rsquo;s Incompleteness Theorems&lt;/em&gt; and &lt;em&gt;L&amp;ouml;b&amp;rsquo;s Theorem&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;The subject was taught to University of Melbourne undergraduate students (for Arts students as a part of the Philosophy major, for non-Arts students, as a breadth subject). Details for enrolment are &lt;a href=&#34;https://handbook.unimelb.edu.au/view/2014/PHIL30043&#34;&gt;here&lt;/a&gt;. I made use of video lectures I have made &lt;a href=&#34;http://vimeo.com/album/2262409&#34;&gt;freely available on Vimeo&lt;/a&gt;.&lt;/p&gt;
 </description>
 </item>
     
@@ -463,15 +463,6 @@
 </item>
     
 <item>
-<title>History of Logical Consequence</title>
-<link>http://consequently.github.io/writing/hlc/</link>
-<pubDate>Sat, 03 Mar 2012 00:00:00 UTC</pubDate>
-<guid>http://consequently.github.io/writing/hlc/</guid>
-<description>&lt;p&gt;Consequence is &lt;em&gt;a&lt;/em&gt;, if not &lt;em&gt;the&lt;/em&gt;, core subject matter of logic. Aristotle&amp;rsquo;s study of the syllogism instigated the task of categorising arguments into the logically good and the logically bad; the task remains an essential element of the study of logic. In this essay, we give a quick history of the way logical consequence has been studied from Aristotle to the present day.&lt;/p&gt;
-</description>
-</item>
-    
-<item>
 <title>Interpreting and Applying Proof Theories for Modal Logics</title>
 <link>http://consequently.github.io/writing/interp-apply-ptml/</link>
 <pubDate>Sat, 03 Mar 2012 00:00:00 UTC</pubDate>
@@ -481,6 +472,15 @@
 &lt;p&gt;The distinctive feature for the modal operators in contemporary proof systems for modal logics is that the step introducing or eliminating 􏰅􏰅&amp;#x25A1;&amp;#x10FC05;A is at the cost of introducing or eliminating some kind of extra structure in the proof. In this way, the proof rules for modal concepts such as 􏰅􏰅&amp;#x25A1;&amp;#x10FC05; run in parallel with the truth conditions for these concepts in a Kripke model, in which the truth of 􏰅􏰅&amp;#x25A1;&amp;#x10FC05;A stands or falls with the truth of A, but at the cost of checking that truth elsewhere, at points in the model accessible from the point at which 􏰅􏰅&amp;#x25A1;&amp;#x10FC05;A is evaluated.&lt;/p&gt;
 
 &lt;p&gt;In this paper we will introduce these recent advances in proof theory for a general audience, and then we will show how they are connected  with different—metaphysical and epistemic—conceptions of modality. We will show that these different pictures are nothing but different ways of connecting the statement 􏰅􏰅&amp;#x25A1;&amp;#x10FC05;A with the statement A, of showing the significance of modalising. In the light of this result we will draw conclusions about the link between analyticity and modality, and about the nature of a proof system for modal logics.&lt;/p&gt;
+</description>
+</item>
+    
+<item>
+<title>History of Logical Consequence</title>
+<link>http://consequently.github.io/writing/hlc/</link>
+<pubDate>Sat, 03 Mar 2012 00:00:00 UTC</pubDate>
+<guid>http://consequently.github.io/writing/hlc/</guid>
+<description>&lt;p&gt;Consequence is &lt;em&gt;a&lt;/em&gt;, if not &lt;em&gt;the&lt;/em&gt;, core subject matter of logic. Aristotle&amp;rsquo;s study of the syllogism instigated the task of categorising arguments into the logically good and the logically bad; the task remains an essential element of the study of logic. In this essay, we give a quick history of the way logical consequence has been studied from Aristotle to the present day.&lt;/p&gt;
 </description>
 </item>
     
@@ -6764,20 +6764,20 @@ taking minimalism seriously, and that objections to this position may be usefull
 </item>
     
 <item>
-<title>Envelopes and Indifference</title>
-<link>http://consequently.github.io/writing/envelopes/</link>
-<pubDate>Fri, 03 Mar 1995 00:00:00 UTC</pubDate>
-<guid>http://consequently.github.io/writing/envelopes/</guid>
-<description>&lt;p&gt;We diagnose the two envelope &amp;ldquo;paradox&amp;rdquo;, showing how the indifference principle plays a role in prompting the conflicting assignments of the expected outcomes for switching or keeping.&lt;/p&gt;
-</description>
-</item>
-    
-<item>
 <title>Four-Valued Semantics for Relevant Logics (and some of their rivals)</title>
 <link>http://consequently.github.io/writing/fourvalued/</link>
 <pubDate>Fri, 03 Mar 1995 00:00:00 UTC</pubDate>
 <guid>http://consequently.github.io/writing/fourvalued/</guid>
 <description>&lt;p&gt;This paper gives an outline of three different approaches to the four-valued semantics for relevant logics (and other non-classical logics in their vicinity). The first approach borrows from the &amp;lsquo;Australian Plan&amp;rsquo; semantics, which uses a unary operator &amp;lsquo;*&amp;rsquo; for the evaluation of negation. This approach can model anything that the two-valued account can, but at the cost of relying on insights from the Australian Plan. The second approach is natural, well motivated, independent of the Australian Plan, and it provides a semantics for the contraction-free relevant logic &lt;em&gt;RW&lt;/em&gt;. Unfortunately, its approach seems to model little else. The third approach seems to capture a wide range of formal systems, but at the time of writing, lacks a completeness proof.&lt;/p&gt;
+</description>
+</item>
+    
+<item>
+<title>Envelopes and Indifference</title>
+<link>http://consequently.github.io/writing/envelopes/</link>
+<pubDate>Fri, 03 Mar 1995 00:00:00 UTC</pubDate>
+<guid>http://consequently.github.io/writing/envelopes/</guid>
+<description>&lt;p&gt;We diagnose the two envelope &amp;ldquo;paradox&amp;rdquo;, showing how the indifference principle plays a role in prompting the conflicting assignments of the expected outcomes for switching or keeping.&lt;/p&gt;
 </description>
 </item>
     
