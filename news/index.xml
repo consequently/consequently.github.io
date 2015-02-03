@@ -534,5 +534,832 @@
 ]]></description>
     </item>
     
+ 
+    <item>
+      <title>Merry Christmas, all</title>
+      <link>http://consequently.github.io/news/2008/12/24/merry_christmas_all/</link>
+      <pubDate>Wed, 24 Dec 2008 00:00:00 UTC</pubDate>
+      
+      <guid>http://consequently.github.io/news/2008/12/24/merry_christmas_all/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;It&amp;rsquo;s Christmas break here, and I&amp;rsquo;m taking a break, with visits from family and friends, and then a trip to the USA for a holiday (and for a couple of little side trips to see friends and give a few talks).  More about that in a little while.&lt;/p&gt;
+
+&lt;p&gt;To share the Christmas spirit, I&amp;rsquo;ll share a favourite carol:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;The tree of life my soul hath seen,&lt;br /&gt;
+Laden with fruit and always green:&lt;br /&gt;
+The trees of nature fruitless be&lt;br /&gt;
+Compared with Christ the apple tree.&lt;/p&gt;
+
+&lt;p&gt;His beauty doth all things excel:&lt;br /&gt;
+By faith I know, but ne&amp;rsquo;er can tell&lt;br /&gt;
+The glory which I now can see&lt;br /&gt;
+In Jesus Christ the apple tree.&lt;/p&gt;
+
+&lt;p&gt;For happiness I long have sought,&lt;br /&gt;
+And pleasure dearly I have bought:&lt;br /&gt;
+I missed of all; but now I see&lt;br /&gt;
+&amp;rsquo;Tis found in Christ the apple tree.&lt;/p&gt;
+
+&lt;p&gt;I&amp;rsquo;m weary with my former toil,&lt;br /&gt;
+Here I will sit and rest awhile:&lt;br /&gt;
+Under the shadow I will be,&lt;br /&gt;
+Of Jesus Christ the apple tree.&lt;/p&gt;
+
+&lt;p&gt;This fruit doth make my soul to thrive,&lt;br /&gt;
+It keeps my dying faith alive;&lt;br /&gt;
+Which makes my soul in haste to be&lt;br /&gt;
+With Jesus Christ the apple tree.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;The plan is to reboot the blog (and to fix the comment system, which is down for the count just now) for 2009.  We&amp;rsquo;ll see how we go with that.&lt;/p&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>Always More...</title>
+      <link>http://consequently.github.io/news/2008/12/09/always_more/</link>
+      <pubDate>Tue, 09 Dec 2008 00:00:00 UTC</pubDate>
+      
+      <guid>http://consequently.github.io/news/2008/12/09/always_more/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;(What follows is a bundle of ideas I&amp;rsquo;ve been trying to write up for some time.  Instead of making it a fully fledged paper, I&amp;rsquo;ve decided to rough it out first as a blog post.  If anything comes of it, I&amp;rsquo;ll polish it up.  Let me know what you think.)&lt;/p&gt;
+
+&lt;p&gt;Are there any possible worlds?  The idea of a &lt;em&gt;point&lt;/em&gt; in logical space &amp;ndash; at which every proposition is either True or False &amp;ndash; seems at the one and the same time compelling and repellant.  The notion plays a vital role in the semantics of logics of modality and conditionality, and so, is compelling.  It is hard to take modal logic seriously without points in models that play the role of deciding every statement one way other the other.  But to take possible worlds seriously as more than a useful fiction has seemed too great a price for many to pay.  This squeamishness seems, to many, to have a distinctly &amp;lsquo;ontological&amp;rsquo; flavour.  Places at which there are blue swans or in which kangaroos have no tails seems to crowd the halls of being with blue swans and tailless kangaroos.  We would do better without such things if we can.   If we can explain possible worlds away &amp;ndash; as propositions, or stories or abstracta or something else relatively tame &amp;ndash; then we should.  But ontological squeamishness is not my complaint about non-actual possible worlds.  Instead of their non-actuality, my worry about possible worlds is their &lt;em&gt;worldishness&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;In particular, I worry about the way that these infinitely precise &lt;em&gt;points&lt;/em&gt; are then put to use in semantics.  Given that worlds are Deciders of Every Proposition, does it make sense to then turn around and think of a proposition as an arbitrary set of worlds: to think of any set of worlds as the kind of thing that can &lt;em&gt;be&lt;/em&gt; a proposition? (David Lewis&amp;rsquo; &lt;em&gt;&lt;a href=&#34;http://books.google.com/books?id=mdVur1qVLr8C&#34;&gt;On the Plurality of Worlds&lt;/a&gt;&lt;/em&gt; (Chapter 1) is a very good defence of this position, but it is not just his. The view is everywhere.)&lt;/p&gt;
+
+&lt;p&gt;I&amp;rsquo;ll use this post to explain why this might not be a good idea.&lt;/p&gt;
+
+&lt;!-- BREAK --&gt;
+
+&lt;p&gt;I grant you: worldlike entities are rife in the study of logics.  Tarski&amp;rsquo;s models for the first-order predicate logic decide every statement in the language as either true or false.  A model is worldlike because it provides consistent and complete scenario, down to the finest detail the language can muster.  It seems inherent in the very notion of classical logic, with its two valued semantics.  Since every statement is either true or false, a world is exactly the kind of think we seem to be talking about when we use some arrangement of truth values consistent with the rules of the logic.&lt;/p&gt;
+
+&lt;p&gt;But maybe this is not how we need to think about things: consider the case of classical propositional logic, and think back to how you were taught truth tables.  To show that &amp;lsquo;((&lt;em&gt;p&lt;/em&gt; &amp;rarr; &lt;em&gt;q&lt;/em&gt;) &amp;rarr; &lt;em&gt;p&lt;/em&gt;) &amp;rarr; &lt;em&gt;p&lt;/em&gt;&amp;rsquo; is a tautology, you showed that it received the value &lt;em&gt;True&lt;/em&gt; in every row of a truth table.  Now, how many rows did you use? Hopefully, &lt;em&gt;four&lt;/em&gt;, one for each different possible assignment of &lt;em&gt;true&lt;/em&gt; and &lt;em&gt;false&lt;/em&gt; to the sentence letters &amp;lsquo;&lt;em&gt;p&lt;/em&gt;&amp;rsquo; and &amp;lsquo;&lt;em&gt;q&lt;/em&gt;&amp;rsquo;.  Any fewer than four rows would have left out some possibilities you should have checked, and any more than four rows would have been more than you needed to look at.  The truth or falsity of &amp;lsquo;((&lt;em&gt;p&lt;/em&gt; &amp;rarr; &lt;em&gt;q&lt;/em&gt;) &amp;rarr; &lt;em&gt;p&lt;/em&gt;) &amp;rarr; &lt;em&gt;p&lt;/em&gt;&amp;rsquo; depends only on the truth or falsity of &amp;lsquo;&lt;em&gt;p&lt;/em&gt;&amp;rsquo; and of &amp;lsquo;&lt;em&gt;q&lt;/em&gt;&amp;rsquo;, and not on the Values of &amp;lsquo;&lt;em&gt;r&lt;/em&gt;&amp;rsquo;, &amp;lsquo;&lt;em&gt;s&lt;/em&gt;&amp;rsquo; or any other sentence letter.  You check the value of your sentence not at a &lt;em&gt;world&lt;/em&gt;, but at a row of a truth table which is a much blunter instrument: it cares not about most of the sentences in the language.  It knows just enough to decide the truth of the sentences in its remit, in this case, sentences formed out of &amp;lsquo;&lt;em&gt;p&lt;/em&gt;&amp;rsquo; and &amp;lsquo;&lt;em&gt;q&lt;/em&gt;&amp;rsquo;.&lt;/p&gt;
+
+&lt;p&gt;As for &amp;lsquo;((&lt;em&gt;p&lt;/em&gt; &amp;rarr; &lt;em&gt;q&lt;/em&gt;) &amp;rarr; &lt;em&gt;p&lt;/em&gt;) &amp;rarr; &lt;em&gt;p&lt;/em&gt;&amp;rsquo;, so for every sentence.  Assuming that the stock of sentence letters is boundless (say, &lt;em&gt;p&lt;/em&gt;&lt;sub&gt;1&lt;/sub&gt;, &lt;em&gt;p&lt;/em&gt;&lt;sub&gt;2&lt;/sub&gt;, &lt;em&gt;p&lt;/em&gt;&lt;sub&gt;3&lt;/sub&gt;,&amp;hellip;) &lt;em&gt;no&lt;/em&gt; sentence will exhaust the vocabulary.  Each sentence can be decided by a row of a truth table, and no (finite) truth table will decide every sentence.  Each sentence in the vocabulary of propositional logic is finite, and so, no matter how long it goes on, there is always more vocabulary left to use.&lt;/p&gt;
+
+&lt;p&gt;In fact, we can formalise this. For any sentence &lt;em&gt;A&lt;/em&gt;, let #&lt;em&gt;A&lt;/em&gt; be the first sentence letter not included in &lt;em&gt;A&lt;/em&gt;.  So, #(&lt;em&gt;p&lt;/em&gt;&lt;sub&gt;1&lt;/sub&gt; &amp;and; &amp;not;&lt;em&gt;p&lt;/em&gt;&lt;sub&gt;3&lt;/sub&gt;) is &lt;em&gt;p&lt;/em&gt;&lt;sub&gt;2&lt;/sub&gt;.  &lt;em&gt;A&lt;/em&gt; and #&lt;em&gt;A&lt;/em&gt; are related in interesting ways.  In particular, if you can show that&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;If #&lt;em&gt;A&lt;/em&gt; &amp;#x22A6; &lt;em&gt;A&lt;/em&gt; then &amp;#x22A6; &lt;em&gt;A&lt;/em&gt;.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;If any row of a truth table where #&lt;em&gt;A&lt;/em&gt; is true is one where &lt;em&gt;A&lt;/em&gt; is true too, then &lt;em&gt;A&lt;/em&gt; is true &lt;em&gt;everywhere&lt;/em&gt;.  Why?  Since #&lt;em&gt;A&lt;/em&gt; is a sentence letter not occurring in &lt;em&gt;A&lt;/em&gt;, the absence of a row in which &lt;em&gt;#A&lt;/em&gt; is true and &lt;em&gt;A&lt;/em&gt; false means that there&amp;rsquo;s no row where &lt;em&gt;A&lt;/em&gt; is false.  It&amp;rsquo;s a tautology.&lt;/p&gt;
+
+&lt;p&gt;In fact, we have three more facts like this:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;If &amp;#x22A6; &lt;em&gt;A&lt;/em&gt;, #&lt;em&gt;A&lt;/em&gt; then &amp;#x22A6; &lt;em&gt;A&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;If &lt;em&gt;A&lt;/em&gt; &amp;#x22A6; #&lt;em&gt;A&lt;/em&gt; then  &lt;em&gt;A&lt;/em&gt; &amp;#x22A6;&amp;nbsp;.&lt;/p&gt;
+
+&lt;p&gt;If &lt;em&gt;A&lt;/em&gt;, #&lt;em&gt;A&lt;/em&gt; &amp;#x22A6; then &lt;em&gt;A&lt;/em&gt; &amp;#x22A6;&amp;nbsp;.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Where, in general, &lt;em&gt;X&lt;/em&gt; &amp;#x22A6; &lt;em&gt;Y&lt;/em&gt; holds when there is no row of a truth table where each member of &lt;em&gt;X&lt;/em&gt; is true and each member of &lt;em&gt;Y&lt;/em&gt; is false.   In general, if there is no row of the table where &lt;em&gt;A&lt;/em&gt; has some value (say false) and where #&lt;em&gt;A&lt;/em&gt; has some value (say false, also) then there is no row where &lt;em&gt;A&lt;/em&gt; is false, since the value of #&lt;em&gt;A&lt;/em&gt; is completely independent from the value of &lt;em&gt;A&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;Is there an operator like &amp;lsquo;#&amp;rsquo;?  It encodes the idea of indefinite extensibility: no matter what our sentence says, there is always something more to say.  (Call these four conditions the &lt;em&gt;rules of extensibility&lt;/em&gt;.)&lt;/p&gt;
+
+&lt;p&gt;If there &lt;em&gt;is&lt;/em&gt; an operator like &amp;lsquo;#&amp;rsquo;, then if there are possible worlds, not every set of possible worlds counts as a proposition.   Here is why.  Take the set &lt;em&gt;W&lt;/em&gt; of possible worlds, and take a particular world &lt;em&gt;w&lt;/em&gt; from &lt;em&gt;W&lt;/em&gt;.  If {&lt;em&gt;w&lt;/em&gt;} is a proposition, what about #{&lt;em&gt;w&lt;/em&gt;}?  Since {&lt;em&gt;w&lt;/em&gt;} isn&amp;rsquo;t contradictory (it&amp;rsquo;s true &lt;em&gt;somewhere&lt;/em&gt;, namely, at &lt;em&gt;w&lt;/em&gt;), we don&amp;rsquo;t have {&lt;em&gt;w&lt;/em&gt;} &amp;#x22A6; #{&lt;em&gt;w&lt;/em&gt;}, and similarly, we don&amp;rsquo;t have #{&lt;em&gt;w&lt;/em&gt;},{&lt;em&gt;w&lt;/em&gt;} &amp;#x22A6;.  In other words, we need somewhere that {&lt;em&gt;w&lt;/em&gt;} is true and #{&lt;em&gt;w&lt;/em&gt;} isn&amp;rsquo;t, and we need somwhere that {&lt;em&gt;w&lt;/em&gt;} and #{&lt;em&gt;w&lt;/em&gt;} are both true.  That&amp;rsquo;s impossible.  There&amp;rsquo;s only one place {&lt;em&gt;w&lt;/em&gt;} is true, namely &lt;em&gt;w&lt;/em&gt; itself.&lt;/p&gt;
+
+&lt;p&gt;In other words, if singletons of worlds are propositions, then there is no operator like &amp;lsquo;#&amp;rsquo;. (There is a dual argument concerning complement propositions, which are true at every world except for one.  They cause just as much havoc to &amp;lsquo;#&amp;rsquo;.)&lt;/p&gt;
+
+&lt;p&gt;If we have indefinite extensibility for propositions, then no statement can single out a world, for that would be a &amp;ldquo;final proposition&amp;rdquo; for which no extensibility is possible.  If for every proposition &lt;em&gt;A&lt;/em&gt; we can find some proposition #&lt;em&gt;A&lt;/em&gt; independent of it, possible worlds are always idealisations, out of reach of a proposition.  We can always &lt;em&gt;approximate&lt;/em&gt; worlds relative to a given vocabulary, but if vocabularies an be extended, what we take to be a world is really a collection of worlds, to be further subdivided as new vocabulary is added.  If &amp;lsquo;#&amp;rsquo; is an operator, not all set of &lt;em&gt;worlds&lt;/em&gt; (those infinitely precise &amp;ldquo;Deciders of Every Proposition&amp;rdquo;) count as a proposition.&lt;/p&gt;
+
+&lt;p&gt;Well, that would be all well and good, if there were an operator like &amp;lsquo;#&amp;rsquo;.  Is there any operator like it?&lt;/p&gt;
+
+&lt;p&gt;Maybe not: the first problem is that &amp;lsquo;#&amp;rsquo; as it stands is not really an operator or a connective like &amp;lsquo;&amp;not;&amp;rsquo; or &amp;lsquo;&amp;and;&amp;rsquo; or &amp;lsquo;&amp;or;&amp;rsquo;, since #&lt;em&gt;A&lt;/em&gt; depends on how &lt;em&gt;A&lt;/em&gt; is presented.  For example, &lt;em&gt;p&lt;/em&gt;&lt;sub&gt;1&lt;/sub&gt; is equivalent to &lt;em&gt;p&lt;/em&gt;&lt;sub&gt;1&lt;/sub&gt; &amp;and; (&lt;em&gt;p&lt;/em&gt;&lt;sub&gt;1&lt;/sub&gt; &amp;or; &lt;em&gt;p&lt;/em&gt;&lt;sub&gt;2&lt;/sub&gt;), but #&lt;em&gt;p&lt;/em&gt;&lt;sub&gt;1&lt;/sub&gt; is &lt;em&gt;p&lt;/em&gt;&lt;sub&gt;2&lt;/sub&gt;, and #(&lt;em&gt;p&lt;/em&gt;&lt;sub&gt;1&lt;/sub&gt; &amp;and; (&lt;em&gt;p&lt;/em&gt;&lt;sub&gt;1&lt;/sub&gt; &amp;or; &lt;em&gt;p&lt;/em&gt;&lt;sub&gt;2&lt;/sub&gt;)) should be &lt;em&gt;p&lt;/em&gt;&lt;sub&gt;3&lt;/sub&gt; instead.&lt;/p&gt;
+
+&lt;p&gt;We could smooth this wrinkle by defining &amp;lsquo;#&lt;em&gt;A&lt;/em&gt;&amp;rsquo; to be not the first sentence letter not occuring in &amp;lsquo;&lt;em&gt;A&lt;/em&gt;&amp;rsquo;, but rather, the first sentence letter not occuring in any sentence &lt;em&gt;equivalent&lt;/em&gt; to &amp;lsquo;&lt;em&gt;A&lt;/em&gt;&amp;rsquo;.  In that case, if &lt;em&gt;A&lt;/em&gt; is equivalent to &lt;em&gt;B&lt;/em&gt;, #&lt;em&gt;A&lt;/em&gt; is equivalent to #&lt;em&gt;B&lt;/em&gt;, so that is better.  But now the question must remain: if &amp;lsquo;#&amp;rsquo; is a genuine operator we can nest it: what is ##&lt;em&gt;A&lt;/em&gt;? It is the first sentence letter not occurring in anything equivalent to #&lt;em&gt;A&lt;/em&gt;.   Consider ##&lt;em&gt;p&lt;/em&gt;&lt;sub&gt;1&lt;/sub&gt;.  The first sentence letter not occuring in anything equivalent to #&lt;em&gt;p&lt;/em&gt;&lt;sub&gt;1&lt;/sub&gt; is, of course, p&lt;em&gt;&lt;sub&gt;2&lt;/sub&gt;&lt;/em&gt;, since #&lt;em&gt;p&lt;/em&gt;&lt;sub&gt;1&lt;/sub&gt; is equivalent to itself, and &lt;em&gt;p&lt;/em&gt;&lt;sub&gt;2&lt;/sub&gt; doesn&amp;rsquo;t occur in #&lt;em&gt;p&lt;/em&gt;&lt;sub&gt;1&lt;/sub&gt;.  But on the other hand, #&lt;em&gt;p&lt;/em&gt;&lt;sub&gt;1&lt;/sub&gt; is &lt;em&gt;p&lt;/em&gt;&lt;sub&gt;2&lt;/sub&gt;, so ##&lt;em&gt;p&lt;/em&gt;&lt;sub&gt;1&lt;/sub&gt; should really be &lt;em&gt;p&lt;/em&gt;&lt;sub&gt;1&lt;/sub&gt; itself!  Perhaps &amp;lsquo;#&amp;rsquo; works as a way to transform sentences into other sentences, but it shouldn&amp;rsquo;t be thought of as an operator like the logical connectives.  Maybe it cannot be coherently defined in such a way to satisfy the four rules of extensibility.  Maybe there is no threat to propositions as arbitrary sets of infinitely precise worlds.&lt;/p&gt;
+
+&lt;p&gt;It might seem like that, but to conclude that there is no &amp;lsquo;#&amp;rsquo; would be wrong.  Although the definition of &amp;lsquo;#&amp;rsquo; in terms of sentence letters is dubious, and does not give rise to a coherent operator when we attempt to nest it, it turns out that we &lt;em&gt;can&lt;/em&gt; model a connective satisfying the rules of extensibility.&lt;/p&gt;
+
+&lt;p&gt;Here is a model:&lt;/p&gt;
+
+&lt;p&gt;Let&amp;rsquo;s think in terms of worlds, to start.  Take the set &lt;em&gt;W&lt;/em&gt; of &lt;em&gt;worlds&lt;/em&gt; as the irrational numbers in the Real Line.  The propositions at &lt;em&gt;Level n&lt;/em&gt;  are the unions of the any selection of irrational intervals of length &lt;sup&gt;1&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2&lt;/sub&gt;&lt;sup&gt;&lt;em&gt;n&lt;/em&gt;&lt;/sup&gt;: (&lt;em&gt;z&lt;/em&gt;/2&lt;sup&gt;&lt;em&gt;n&lt;/em&gt;&lt;/sup&gt;,(&lt;em&gt;z&lt;/em&gt;+1)/2&lt;sup&gt;&lt;em&gt;n&lt;/em&gt;&lt;/sup&gt;) where &lt;em&gt;z&lt;/em&gt; is an integer.  These are closed under union (the union of any collections of intervals is a collection of intervals), intersection (there is no worry about endpoints of abutting intervals, as these don&amp;rsquo;t reach their endpoints, which are rational) and complement (the complement of some collection of intervals is the collection of the &lt;em&gt;other&lt;/em&gt; intervals: since the endpoints are rational, they don&amp;rsquo;t occur in either a set or its complement).  The propositions at each level are &lt;em&gt;finer&lt;/em&gt; classifications of points than at any of the previous level.  Propositions at Level 0 are collections of intervals such as (-2,-1), (0,1), (3,4), etc.  Propositions at Level 1 are collections of &lt;em&gt;finer&lt;/em&gt; intervals (-1.5,-1), (1.5,2), (3,3.5), etc., and so on&amp;hellip;.&lt;/p&gt;
+
+&lt;p&gt;Let&amp;rsquo;s interpret sentences in the language of propositional logic &amp;ndash; enhanced with the operator &amp;lsquo;#&amp;rsquo; &amp;ndash; as propositions at &lt;em&gt;some&lt;/em&gt; level or other.  If &lt;em&gt;A&lt;/em&gt; and &lt;em&gt;B&lt;/em&gt; are interpreted as propositions at Level &lt;em&gt;n&lt;/em&gt;, then &amp;not;&lt;em&gt;A&lt;/em&gt;, &lt;em&gt;A&lt;/em&gt;&amp;and;&lt;em&gt;B&lt;/em&gt; and &lt;em&gt;A&lt;/em&gt;&amp;or;&lt;em&gt;B&lt;/em&gt; are also interpreted as propositions at Level &lt;em&gt;n&lt;/em&gt;, since the union, intersection or complement of propositions at Level &lt;em&gt;n&lt;/em&gt; are also at Level &lt;em&gt;n&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;To interpret #&lt;em&gt;A&lt;/em&gt;, where &lt;em&gt;A&lt;/em&gt; is interpreted as a proposition at Level &lt;em&gt;n&lt;/em&gt;, we will choose a proposition at Level &lt;em&gt;n&lt;/em&gt;+1.  In particular, we will choose an &lt;em&gt;alternating&lt;/em&gt; proposition at Level &lt;em&gt;n&lt;/em&gt;+1: the proposition consisting of all of the intervals (&lt;em&gt;z&lt;/em&gt;/2&lt;sup&gt;&lt;em&gt;n&lt;/em&gt;&lt;/sup&gt;,(&lt;em&gt;z&lt;/em&gt;+1)/2&lt;sup&gt;&lt;em&gt;n&lt;/em&gt;&lt;/sup&gt;) where &lt;em&gt;z&lt;/em&gt; is even integer.  The alternating proposition at Level &lt;em&gt;0&lt;/em&gt; is&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&amp;hellip; (-4,-3) &amp;cup; (-2,-1) &amp;cup; (0,1) &amp;cup; (2,3) &amp;cup; (4,5) &amp;hellip;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;the alternating proposition at Level &lt;em&gt;1&lt;/em&gt; is&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&amp;hellip; (-2,-1.5) &amp;cup; (-1,-0.5) &amp;cup; (0,0.5) &amp;cup; (1,1.5) &amp;cup; (2,2.5) &amp;hellip;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;and so on.  It turns out that this choice for #&lt;em&gt;A&lt;/em&gt; satisfies the four rules of extensibility.&lt;/p&gt;
+
+&lt;p&gt;Let &lt;em&gt;A&lt;/em&gt; be interpreted as a proposition at level &lt;em&gt;n&lt;/em&gt;.  If &lt;em&gt;A&lt;/em&gt; is not true everywhere, then it is false at some interval (&lt;em&gt;z&lt;/em&gt;/2&lt;sup&gt;&lt;em&gt;n&lt;/em&gt;&lt;/sup&gt;,(&lt;em&gt;z&lt;/em&gt;+1)/2&lt;sup&gt;&lt;em&gt;n&lt;/em&gt;&lt;/sup&gt;).  Now consider #&lt;em&gt;A&lt;/em&gt;.  It is &lt;em&gt;true&lt;/em&gt; at  (2&lt;em&gt;z&lt;/em&gt;/2&lt;sup&gt;&lt;em&gt;n&lt;/em&gt;+1&lt;/sup&gt;,(2&lt;em&gt;z&lt;/em&gt;+1)/2&lt;sup&gt;&lt;em&gt;n&lt;/em&gt;+1&lt;/sup&gt;), where &lt;em&gt;A&lt;/em&gt; is not true.  And #&lt;em&gt;A&lt;/em&gt; is &lt;em&gt;not true&lt;/em&gt; at ((2&lt;em&gt;z&lt;/em&gt;+1)/2&lt;sup&gt;&lt;em&gt;n&lt;/em&gt;+1&lt;/sup&gt;,(2&lt;em&gt;z&lt;/em&gt;+2)/2&lt;sup&gt;&lt;em&gt;n&lt;/em&gt;+1&lt;/sup&gt;), where &lt;em&gt;A&lt;/em&gt; is not true.  Similarly, if &lt;em&gt;A&lt;/em&gt; is not false everywhere, it is true at some interval (&lt;em&gt;z&lt;/em&gt;/2&lt;sup&gt;&lt;em&gt;n&lt;/em&gt;&lt;/sup&gt;,(&lt;em&gt;z&lt;/em&gt;+1)/2&lt;sup&gt;&lt;em&gt;n&lt;/em&gt;&lt;/sup&gt;).  #&lt;em&gt;A&lt;/em&gt; is &lt;em&gt;true&lt;/em&gt; at  (2&lt;em&gt;z&lt;/em&gt;/2&lt;sup&gt;&lt;em&gt;n&lt;/em&gt;+1&lt;/sup&gt;,(2&lt;em&gt;z&lt;/em&gt;+1)/2&lt;sup&gt;&lt;em&gt;n&lt;/em&gt;+1&lt;/sup&gt;), where &lt;em&gt;A&lt;/em&gt; is true.  And #&lt;em&gt;A&lt;/em&gt; is &lt;em&gt;not true&lt;/em&gt; at ((2&lt;em&gt;z&lt;/em&gt;+1)/2&lt;sup&gt;&lt;em&gt;n&lt;/em&gt;+1&lt;/sup&gt;,(2&lt;em&gt;z&lt;/em&gt;+2)/2&lt;sup&gt;&lt;em&gt;n&lt;/em&gt;+1&lt;/sup&gt;), where &lt;em&gt;A&lt;/em&gt; is true.  In other words, #&lt;em&gt;A&lt;/em&gt; is truly independent of &lt;em&gt;A&lt;/em&gt;. If &lt;em&gt;A&lt;/em&gt; is true somewhere, at some such places, #&lt;em&gt;A&lt;/em&gt; is true, and at others, #&lt;em&gt;A&lt;/em&gt; is false.  If &lt;em&gt;A&lt;/em&gt; is false somewhere, at some such places, #&lt;em&gt;A&lt;/em&gt; is true, and at others, #&lt;em&gt;A&lt;/em&gt; is false.&lt;/p&gt;
+
+&lt;p&gt;This is completely general.  We for any proposition &lt;em&gt;A&lt;/em&gt; we have found another proposition #&lt;em&gt;A&lt;/em&gt;.  #&lt;em&gt;A&lt;/em&gt; is more finely grained than &lt;em&gt;A&lt;/em&gt;, and the four rules of extensibility are satisfied.  In models like these, it makes sense to think of &amp;lsquo;#&amp;rsquo; as an operator on propositions, and not merely a syntactic device for constructing sentences from other sentences.&lt;/p&gt;
+
+&lt;p&gt;The appeal to worlds in these models is not essential:  we refrain from all talk of worlds and appeal instead to &lt;em&gt;regions&lt;/em&gt; in a formal topological space.  The definition of propositions in terms of sets of points &amp;ndash; irrational numbers in our case &amp;ndash; is not essential.  The construction gives us an atomless boolean algebra, and these are well known algebraic structures.  The value of the relatively concrete construction here is the manner in which extensibility corresponds to propositions being more and more finely grained, without that ever coming to an end.  The model shows that the idea of indefinite extensibility of propositions is coherent.&lt;/p&gt;
+
+&lt;p&gt;I cannot tell if there are there any possible worlds, and if there are, if arbitrary sets of them count as propositions.   What I can say, however, is that if there is indefinite extensibility, such as expressed by &amp;lsquo;#&amp;rsquo; &amp;ndash; and the logic of &amp;lsquo;#&amp;rsquo; is coherent &amp;ndash; then not all sets of worlds are propositions.  For any proposition, there is always more.&lt;/p&gt;
+
+&lt;p&gt;[Thanks to Lloyd Humberstone, who got me first thinking about #, at a Melbourne Logic Seminar in 2006.]&lt;/p&gt;
+
+&lt;p&gt;Comments are, of course, most welcome.  Is this crazy?  Sensible?  Anodyne?  Let me know what you think.&lt;/p&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>New Paper: Assertion, Denial and Non-Classical Theories</title>
+      <link>http://consequently.github.io/news/2008/12/04/new_paper_assertion_denial_and_nonclassical_theories/</link>
+      <pubDate>Thu, 04 Dec 2008 00:00:00 UTC</pubDate>
+      
+      <guid>http://consequently.github.io/news/2008/12/04/new_paper_assertion_denial_and_nonclassical_theories/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;I&amp;rsquo;m on a roll with the writing: I&amp;rsquo;ve managed to get another paper converted from slides-from-a-talk to real, live, words on a page and actual &lt;em&gt;proofs&lt;/em&gt;.  The paper I&amp;rsquo;ve worked on over the last couple of days is from my presentation from &lt;a href=&#34;http://www.philosophy.unimelb.edu.au/wcp4&#34;&gt;WCP4&lt;/a&gt; on non-classical theories like non-classical theories of numbers, classes, or truth.  I&amp;rsquo;m very happy with this one, as it&amp;rsquo;s an application of my recent work &amp;ndash; on proof theory &amp;ndash; to a topic I&amp;rsquo;ve been writing about &lt;a href=&#34;http://consequently.org/writing/nstlp/&#34;&gt;for some time&lt;/a&gt;, non-classical theories like na&amp;iuml;ve theories of classes or of truth.  Here&amp;rsquo;s the abstract.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;In this paper I urge friends of truth-value gaps and truth-value gluts &amp;ndash; proponents of paracomplete and paraconsistent logics &amp;ndash; to consider theories not merely as sets of sentences, but as &lt;em&gt;pairs&lt;/em&gt; of sets of sentences, or what I call &amp;lsquo;bitheories,&amp;rsquo; which keep track not only of what &lt;em&gt;holds&lt;/em&gt; according to the theory, but also what &lt;em&gt;fails&lt;/em&gt; to hold according to the theory.  I explain the connection between bitheories, sequents, and the speech acts of assertion and denial. I illustrate the usefulness of bitheories by showing how they make available a technique for characterising different theories while abstracting away from logical vocabulary such as connectives or quantifiers, thereby making theoretical commitments independent of the choice of this or that particular non-classical logic.&lt;/p&gt;
+
+&lt;p&gt;Examples discussed include theories of numbers, classes and truth.  In the latter two cases, the bitheoretical perspective brings to light some heretofore unconsidered puzzles for friends of na&amp;iuml;ve theories of classes and truth.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;This paper is a turnabout for me. While I&amp;rsquo;ve been making a slow turn for some time, from being a &lt;a href=&#34;http://consequently.org/writing/nstlp/&#34;&gt;friend of na&amp;iuml;ve set theory in paraconsistent logics&lt;/a&gt; to a &lt;a href=&#34;http://consequently.org/writing/dlpsr/&#34;&gt;friend of truth-value gaps&lt;/a&gt; &lt;a href=&#34;http://consequently.org/writing/onlogics&#34;&gt;over gluts&lt;/a&gt; to a &lt;a href=&#34;http://consequently.org/writing/costing/&#34;&gt;friendly critic of non-classical approaches to things like Curry&amp;rsquo;s paradox&lt;/a&gt;.  In this paper, I present what I take to be much more problematic paradoxes around Frege&amp;rsquo;s Law (V), for which connectives like negation and the conditional do not feature at all, so questions of the design of the non-classical logic of negation or of the conditional are beside the point when it comes to the paradoxes.&lt;/p&gt;
+
+&lt;p&gt;I&amp;rsquo;d very much appreciate feedback on this paper.  If you&amp;rsquo;re interested in this sort of thing, &lt;a href=&#34;http://consequently.org/papers/adnct.pdf&#34;&gt;read the paper&lt;/a&gt; and &lt;a href=&#34;http://consequently.org/writing/adnct/&#34;&gt;post your comments on the paper&amp;rsquo;s page, over here&lt;/a&gt;.&lt;/p&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>New Paper: Truth Values and Proof Theory</title>
+      <link>http://consequently.github.io/news/2008/12/02/new_paper_truth_values_and_proof_theory/</link>
+      <pubDate>Tue, 02 Dec 2008 00:00:00 UTC</pubDate>
+      
+      <guid>http://consequently.github.io/news/2008/12/02/new_paper_truth_values_and_proof_theory/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;It&amp;rsquo;s good to get back into writing.  Here&amp;rsquo;s a paper &amp;ldquo;&lt;a href=&#34;http://consequently.org/writing/tvpt/&#34;&gt;Truth Values and Proof Theory&lt;/a&gt;&amp;rdquo; that I&amp;rsquo;ve been thinking about for a long time.  I presented a research seminar on this material last year &amp;ndash; it&amp;rsquo;s taken me this long to write it up, due to other commitments.&lt;/p&gt;
+
+&lt;p&gt;Here&amp;rsquo;s the abstract:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;In this paper I present an account of truth values for classical logic, intuitionistic logic, and the modal logic S5, in which truth values are not a fundamental category from which the logic is defined, but rather, feature as an idealisation of more fundamental logical features arising out of the proof theory for each system.  The result is not a new set of semantic structures, but a new understanding of how the existing semantic structures may be understood in terms of a more fundamental notion of logical consequence.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;I like these results, as they&amp;rsquo;re a mix of motivating philosophy, and formal proofs.  I think I&amp;rsquo;m getting a better understanding of the relationship between the [&lt;em&gt;Cut&lt;/em&gt;] rule in a sequent calculus and the &lt;em&gt;maximality&lt;/em&gt; conditions involved in the behaviour of things like two-valued evaluations, possible worlds and points in model structures for other sorts of logics.  It&amp;rsquo;s not a coincidence that sequents have two sides, and that there are two truth values.   I don&amp;rsquo;t think I&amp;rsquo;ve plumbed the depth of the connections between proof theory and model theory, but at the very least in writing this paper up I&amp;rsquo;ve got a better idea of some of the interesting questions around this area.&lt;/p&gt;
+
+&lt;p&gt;It&amp;rsquo;s one of those &amp;lsquo;bonus&amp;rsquo; results that I&amp;rsquo;ve got out of this research a uniform way of proving completeness for classical logic, Kripke and Beth models for intuitionistic logic, and universal models for S5, all with exactly the same sort of structure.  That was a surprise to me when I saw those results just fall out.&lt;/p&gt;
+
+&lt;p&gt;Comments on the paper, of course, are welcome.  Don&amp;rsquo;t comment on it here, but on the &lt;a href=&#34;http://consequently.org/writing/tvpt/&#34;&gt;paper page&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Now I&amp;rsquo;ve got to figure out how to massage these results into &lt;a href=&#34;http://consequently.org/writing/ptp/&#34;&gt;the book&lt;/a&gt;.  (It&amp;rsquo;s a pity my backlog of other writing-up tasks is so long, but that seems to be the natural state of the academic these days.)&lt;/p&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>Back!  Then off, then back again!</title>
+      <link>http://consequently.github.io/news/2008/11/27/back_then_off_then_back_again/</link>
+      <pubDate>Thu, 27 Nov 2008 15:34:50 AEDT</pubDate>
+      
+      <guid>http://consequently.github.io/news/2008/11/27/back_then_off_then_back_again/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;My trip to Guangzhou was super.  Thanks, Guoxin, Min and Xuefeng for looking after me and showing me the sights of Guangzhou, and to Professors Ju and Zhu for the invitation.  It was a wonderful experience for me, and I look forward to many more visits to China, and to the &lt;a href=&#34;http://logic.sysu.edu.cn/logic/english/Index.asp&#34;&gt;Institute of Logic and Cognition&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Since then, I&amp;rsquo;ve been off to Canberra for a little workshop on hyperintensionality, organised by David Chalmers.  Much fun was had there, too, but I must admit I&amp;rsquo;m even more confused than I was when I started.  It must have been all that talking to Max Cresswell, Lloyd Humberstone and John Bigelow about how semantics works.&lt;/p&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>Off to Guangzhou</title>
+      <link>http://consequently.github.io/news/2008/11/14/off_to_guangzhou/</link>
+      <pubDate>Fri, 14 Nov 2008 21:13:50 AEDT</pubDate>
+      
+      <guid>http://consequently.github.io/news/2008/11/14/off_to_guangzhou/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;The primary purpose of this site seems to be travel announcements, so rather than break the trend, I&amp;rsquo;ll post another travel announcement. On Sunday, I&amp;rsquo;m off to the &lt;a href=&#34;http://logic.sysu.edu.cn/logic/english/Index.asp&#34;&gt;Institute of Logic and Cognition&lt;/a&gt; at &lt;a href=&#34;http://www.sysu.edu.cn/en/index.html&#34;&gt;Sun Yat-Sen University&lt;/a&gt;, to &lt;a href=&#34;http://logic.sysu.edu.cn/Article/xueshuxinxi/jididongtai/200811/681.html&#34;&gt;give three lectures on my research&lt;/a&gt;.  This is my first trip to China, so I&amp;rsquo;m more excited (and more nervous) than usual for an overseas trip.&lt;/p&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>Tartu Pluralism Days #3 and #4</title>
+      <link>http://consequently.github.io/news/2008/09/01/tartu_pluralism_days_3_and_4/</link>
+      <pubDate>Mon, 01 Sep 2008 07:12:17 &#43;1100</pubDate>
+      
+      <guid>http://consequently.github.io/news/2008/09/01/tartu_pluralism_days_3_and_4/</guid>
+      <description>&lt;![CDATA[
+
+&lt;p&gt;&lt;em&gt;Phew&lt;/em&gt;! What a long rest-of-the conference!  I&amp;rsquo;m now back in Tallinn, after the rest of the conference: 5 talks on Day 3, and one wrapup talk on Day 4.  My comments concerning Days 3 and 4 will not be as extensive as those for Days 1 and 2.  I liked these as much as the earlier talks &amp;ndash; it&amp;rsquo;s just that my stamina has flagged.&lt;/p&gt;
+
+&lt;h4 id=&#34;day-3:6a1d5811fed0537efcada76d38072369&#34;&gt;Day 3&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;The day kicked off with &lt;em&gt;Per Martin-L&amp;ouml;f&lt;/em&gt; presenting &amp;lsquo;Is Logic about Consequence?&amp;rsquo;  I &lt;em&gt;really&lt;/em&gt; enjoyed finally getting the opportunity to hear Per speak, as his view of logical consequence &amp;ndash; a particular constructive type theory in which proof objects play a central role &amp;ndash; has always fascinated me, but I&amp;rsquo;ve not looked into it in any depth.  Per argued that logic is not primarily about consequence, but must be also about the act of inference, and that distinguishing content and force in the judgement helps us understand the difference.&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I think that this is clearly right, and in my work since the &lt;em&gt;Logical Pluralism&lt;/em&gt; book I&amp;rsquo;ve started to attend to these issues.  In &amp;ldquo;&lt;a href=&#34;http://consequently.org/writing/multipleconclusions/&#34;&gt;Multiple Conclusions&lt;/a&gt;&amp;rdquo; I attended to the connection between valid sequents and the acts of assertion and denial.    While the account I give there is not one that Per would endorse, the constellation of issues connecting content and force, and the correctness of the steps we make in inferring conclusions from premises, are certainly in the domain of logic.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Then we had &lt;em&gt;Dag Westerst&amp;aring;hl&lt;/em&gt; with &amp;lsquo;Sources of Plurality.&amp;rsquo;  In this talk, Dag started off with our analysis of logical consequence as truth preservation in cases &amp;ndash; and distinguished this from interpretational accounts, in which it is &lt;em&gt;truth&lt;/em&gt; that counts, not hypothetical truth-in-some-case.  Consequence differs from &lt;em&gt;material&lt;/em&gt; consequence by the choice of logical vocabulary to keep fixed, and to vary the other vocabulary arbitrarily.  Varying the choice of vocabulary gives you a range of different consequence relations. Dag had interesting results showing how to construct the vocabulary from the consequence relation rather than vice versa.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;After lunch, we had &lt;em&gt;Agust&amp;iacute;n Rayo&lt;/em&gt; working &amp;lsquo;Towards a Trivialist Account of Logic.&amp;rsquo; This wasn&amp;rsquo;t really about &lt;em&gt;pluralism&lt;/em&gt; as such, but rather, was about one sort of account of logical truths as statements which are, in a certain sense, &lt;em&gt;trivial&lt;/em&gt;, those statements whose denial is &lt;em&gt;unintelligible&lt;/em&gt;.  Agust&amp;iacute;n connected the notion of intelligibility with identity (he argued that if you take &lt;em&gt;a&lt;/em&gt; to be identical to &lt;em&gt;b&lt;/em&gt;, then the &lt;em&gt;de re&lt;/em&gt; consideration of a case where &lt;em&gt;a&lt;/em&gt; is not &lt;em&gt;b&lt;/em&gt; will strictly speaking be unintelligible) with modality (understood as truth in all intelligible scenarios) and &lt;em&gt;why&lt;/em&gt; questions.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;This was an interesting trinity of considerations, and most interesting for me was the methodological points Agust&amp;iacute;n made about the kinds of &lt;em&gt;choice&lt;/em&gt; we have in forming vocabulary.  The more identities we endorse, then the more scenarios become unintelligible, and the more &lt;em&gt;why&lt;/em&gt; questions we cannot answer.  (According to Agust&amp;iacute;n there is &lt;em&gt;no&lt;/em&gt; answer to the question of why water is H2O, or why Hesperus is Phosphorous.)  On the other hand, the more identities we endorse, the more consequences are derivable.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Agust&amp;iacute;n was followed by &lt;em&gt;Marcus Rossberg&lt;/em&gt;  with &amp;lsquo;Pluralism about Logic Proper,&amp;rsquo; in which Marcus wanted to reconcile a Fregean view taking the topic-neutrality of logic seriously, with the pluralist sympathies of Carnap.  Marcus developed the idea of a &lt;em&gt;topic&lt;/em&gt;, for which different logics may be appropriate (say, constructive mathematics; quantum objects; etc.) and attempted to reconcile pluralism with a proper &amp;lsquo;lower limit&amp;rsquo; logic which is most general and applicable for all topics.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Day 3 was wrapped up by &lt;em&gt;Dag Prawitz&lt;/em&gt; who presented &amp;lsquo;Kinds of Pluralism in Logic&amp;rsquo;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Dag&amp;rsquo;s talk started off with an excellent summary of the kind of logical pluralism favoured by JC and me, and then he proceeded to inquire about what logic ought to say about an inference: a transition to a conclusion &lt;em&gt;C&lt;/em&gt; from premises &lt;em&gt;P&lt;/em&gt;, &lt;em&gt;Q&lt;/em&gt;, etc. He did not think that either of the claims made in the book &amp;ndash; (1) that if an argument is invalid then the inference from premises to conclusion makes a mistake or (2) that if an argument is valid, then it&amp;rsquo;s a mistake to assert the premises and deny the conclusion &amp;ndash; sufficed to give an account of what is going on.  Dag&amp;rsquo;s preferred story is that valid arguments provide a way to transform the grounds of the premises into a ground for the conclusion, and that if an argument is &lt;em&gt;known&lt;/em&gt; to be valid, then the infer-er can use the argument to supply the ground for the conclusion of the argument.&lt;/p&gt;
+
+&lt;p&gt;There&amp;rsquo;s a lot to like about this view, I think.  It has an account of where the difference lies in knowing that an argument is valid, by showing that this gives you a means to &lt;em&gt;get&lt;/em&gt; from the premises to the conclusion, and there are very well developed theory of proofs (say, Per Martin-L&amp;ouml;f&amp;rsquo;s proof objects or realisability semantics, or some other theory) which can give us accounts of the structures of such grounds and the way we can manipulate them (by taking them &lt;em&gt;together&lt;/em&gt; in pairs; by &lt;em&gt;applying&lt;/em&gt; one to another in &lt;em&gt;modus ponens&lt;/em&gt;, etc).&lt;/p&gt;
+
+&lt;p&gt;Dag thought that this removed the need/desire for plurality, but I&amp;rsquo;m not sure about this.  It seems to me that you could accept this, and think that there was a plurality, say, between deductive conseqence and formal consequence; and between classical formal consequence and intuitionist formal consequence; and perhaps also into relevant consequence &amp;mdash; if one had different accounts of what were allowable techniques for transforming one ground into another.  Mathematical reasoning, for example, uses &lt;em&gt;recursion&lt;/em&gt; as a technique for constructing a new ground out of old grounds, and this does not play a role in purely formal logical consequence. You might also say that classical reasoning uses a technique for constructing grounds (continuations, in the double-negation translation, or something more complicated with positive and negative &amp;lsquo;grounds&amp;rsquo; in a symmetric proof system) that are not permitted with intuitionist ground-formation.  The pluralist view of the move from premise to conclusion remains, but translated here into a very different key.&lt;/p&gt;
+
+&lt;p&gt;I think there&amp;rsquo;s lots more to think about here, and I&amp;rsquo;m looking forward to attempting to work some of it out, to see if the sketches I&amp;rsquo;m making here actually bear fruit.  If you do any thinking on these issues &amp;ndash; and get anywhere with them &amp;ndash; please let me know.&lt;/p&gt;
+
+&lt;h4 id=&#34;day-4:6a1d5811fed0537efcada76d38072369&#34;&gt;Day 4&lt;/h4&gt;
+
+&lt;p&gt;Then on Sunday, we wrapped up with one talk:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;JC Beall&lt;/em&gt;, &amp;lsquo;Logical Pluralism, Validity and Truth-Preservation.&amp;rsquo; Here, JC brought together his interest in the paradoxes and the logical pluralism with the negative result to the effect that truth-in-a-case can&amp;rsquo;t be identified with truth (in the actual world) for Curry-paradoxical reasons.&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I&amp;rsquo;m not sure what I think about this &amp;ndash; primarily because I don&amp;rsquo;t really have settled ideas of what to think about truth.  It did convince me that it&amp;rsquo;s important to sort this out and be clear on the nature and properties of truth and its connections with logical consequence.&lt;/p&gt;
+
+&lt;p&gt;And that was it!  It was a wonderful conference &amp;ndash; Daniel, Marcus and Peter did a wonderful job organising, and we all enjoyed ourselves immensely.  It was good to catch up with old friends and to make new ones.  I&amp;rsquo;ve left with lots more things to think about, and some new ways to do that thinking.  You can&amp;rsquo;t ask for anything more from a conference.&lt;/p&gt;
+
+&lt;p&gt;I&amp;rsquo;m writing this final report late in the evening in Tallinn.  Tomorrow I take the long journey back to Melbourne, via Amsterdam and Singapore.  Hopefully these conference reports have been useful if you weren&amp;rsquo;t able to come to the conference.  Writing them helped me collect my thoughts.&lt;/p&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>Tartu Pluralism Day #2</title>
+      <link>http://consequently.github.io/news/2008/08/29/tartu_pluralism_day_2/</link>
+      <pubDate>Fri, 29 Aug 2008 17:46:48 &#43;1100</pubDate>
+      
+      <guid>http://consequently.github.io/news/2008/08/29/tartu_pluralism_day_2/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;OK, it&amp;rsquo;s a short day here today &amp;ndash; thankfully, since I&amp;rsquo;m knackered after Day #1 &amp;ndash; with two talks.  Last night we dined at an Italian Restaurant, and I learned more about &lt;a href=&#34;http://staff.science.uva.nl/~dutilh/articles/swyneshed.pdf&#34;&gt;Roger Swyneshed&lt;/a&gt; from Stephen Read, than I ever expected to learn.  Talks today are:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://people.su.se/~ppagin/pagineng.htm&#34;&gt;Peter Pagin&lt;/a&gt;, on &lt;em&gt;Universalist and Actualist Consequence&lt;/em&gt;.  Peter connected his work with &lt;a href=&#34;http://people.su.se/~kgl/kathrin.htm&#34;&gt;Kathrin Gl&amp;uuml;er&lt;/a&gt; on relational modality and the semantics of names with considerations concerning the difference between universal validity (truth in all possible worlds whatsoever) and actualist validity (truth in all candidate actual worlds &amp;ndash; down the diagonal in a 2D semantics, for example). He indicated that his looks like our distinction, both should count as validity notions which ought to be endorsed.  Peter wondered whether this was a problem, and whether there&amp;rsquo;s a conflict between endorsing universalist validity and actualist validity.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;This is a good question: I think that this is a good case where being a pluralist makes sense: if we think of validity as classifying deduction steps into those that are valid and those that aren&amp;rsquo;t, then actualist and universalist validity notions have their place.  Take the step from &lt;em&gt;p&lt;/em&gt; to &lt;em&gt;actually p&lt;/em&gt;.  This is OK in one obvious sense (we&amp;rsquo;d make a mistake to assert &lt;em&gt;p&lt;/em&gt; and deny &lt;em&gt;actually p&lt;/em&gt;), and bad in another (that step doesn&amp;rsquo;t work if we are under a counterfactual assumption &amp;ndash; we grant that &lt;em&gt;not p&lt;/em&gt;, and then consider what would have happened were &lt;em&gt;p&lt;/em&gt; the case &amp;ndash; we can&amp;rsquo;t infer from that to &lt;em&gt;actually p&lt;/em&gt;).&lt;/p&gt;
+
+&lt;p&gt;More must be done, of course, on what it is to &lt;em&gt;endorse&lt;/em&gt; the logic, and to say why we might like to have both of these criteria in our toolkit.  I think we do want both, and I don&amp;rsquo;t think that arguing abou which of these is &lt;em&gt;the&lt;/em&gt; &amp;lsquo;deductive validity&amp;rsquo; is fruitful.&lt;/p&gt;
+
+&lt;p&gt;The next talk is&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Johan van Benthem, for whom &lt;em&gt;Logical Pluralism Meets Logical Dynamics&lt;/em&gt;.  Johan kicked off by addressing the issue of what logic &lt;em&gt;is&lt;/em&gt;, noting that &lt;em&gt;proof&lt;/em&gt;, &lt;em&gt;definition&lt;/em&gt; and &lt;em&gt;computation&lt;/em&gt;, which are equally important.  Logical systems are neat&amp;ndash;they do all these things.  In the talk, rich with different ideas, the focus was on the &lt;em&gt;dynamic&lt;/em&gt; treatment of logic, of proof and deduction.  The thought is simple, but the consequences are rich: thinking of announcements as acts in which the space of possibilities is narrowed down, we can think of the argument from &lt;em&gt;A&lt;/em&gt;, &lt;em&gt;B&lt;/em&gt;, &lt;em&gt;C&lt;/em&gt; to &lt;em&gt;D&lt;/em&gt; as &lt;em&gt;valid&lt;/em&gt; when after announcing &lt;em&gt;A&lt;/em&gt;, &lt;em&gt;B&lt;/em&gt;, and &lt;em&gt;C&lt;/em&gt; (in that order), the announcement that &lt;em&gt;D&lt;/em&gt; would be redundant.  The neat thing here is that Knower-paradoxical announcements (&lt;em&gt;p&lt;/em&gt; but you don&amp;rsquo;t know that &lt;em&gt;p&lt;/em&gt;) have interesting logical properties such that announcing them &lt;em&gt;twice&lt;/em&gt; has a different effect than announcing them once.  There are clearly different notions of information processing and deduction in play here, and as always, Johan&amp;rsquo;s work is rich with ideas and consequences for many people to work out.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I&amp;rsquo;m very glad that the paper this talk was based on will be appearing in the &lt;em&gt;&lt;a href=&#34;http://www.philosophy.unimelb.edu.au/ajl&#34;&gt;AJL&lt;/a&gt;&lt;/em&gt;, with commentaries by others, too.  So hopefully, that will bring the dynamic epistemic approach into conversation with other traditions.&lt;/p&gt;
+
+&lt;p&gt;Then after lunch, we&amp;rsquo;re off to &lt;a href=&#34;http://maps.google.com/maps?f=q&amp;amp;hl=en&amp;amp;geocode=&amp;amp;q=estonia&amp;amp;ie=UTF8&amp;amp;ll=58.525257,27.498779&amp;amp;spn=1.827038,3.339844&amp;amp;t=h&amp;amp;z=8&#34;&gt;the lake&lt;/a&gt;.&lt;/p&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>Tartu Pluralism Day #1</title>
+      <link>http://consequently.github.io/news/2008/08/28/tartu_pluralism_day_1/</link>
+      <pubDate>Thu, 28 Aug 2008 23:57:40 &#43;1100</pubDate>
+      
+      <guid>http://consequently.github.io/news/2008/08/28/tartu_pluralism_day_1/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;We&amp;rsquo;re coming semi-live from Tartu, as long as my computer&amp;rsquo;s battery lasts, anyway.&lt;/p&gt;
+
+&lt;p&gt;For live off-the-cuff comments, try my experimental &lt;a href=&#34;http://twitter.com/consequently&#34;&gt;twitter stream&lt;/a&gt;, which is profoundly silly, but fun to fiddle with on my phone when my fingers are itchy.&lt;/p&gt;
+
+&lt;p&gt;The lineup today.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Me, giving &amp;ldquo;Pluralism and Proofs.&amp;rdquo;  I think I went well.  Look at &lt;a href=&#34;http://notofcon.blogspot.com/2008/08/sneak-preview-greg-restall-on-logical.html&#34;&gt;Ole&amp;rsquo;s sneak-preview of what I said&lt;/a&gt;, which is pretty-well what I said here.  The fact that Dag Prawitz and Per Martin-L&amp;ouml;f didn&amp;rsquo;t eat me alive, but were actually interested, was profoundly reassuring.  I&amp;rsquo;ve only done the &lt;a href=&#34;http://consequently.org/papers/pluralism_and_proofs_[slides].pdf&#34;&gt;slides&lt;/a&gt;, not a written version of the paper.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Graham Priest on &amp;ldquo;Logical Pluralism as another application of Chunk-and-Permeate.&amp;rdquo;  This is an interesting project, conceiving of logic&amp;rsquo;s application to a domain of reasoning as variegated &amp;ndash; a domain of discourse can be &amp;lsquo;chunked&amp;rsquo; into different bits, where different logics are operative, and then &amp;lsquo;permeation&amp;rsquo; relations tell us how facts in one chunk transfer over to facts in another.  Graham was using this general setup (which he introduced in earlier work with Bryson Brown, on the infinitesimal calculus &amp;ndash; one chunk is where the infinitesimal is zero, another chunk is where it&amp;rsquo;s nonzero, and you only permeate facts about non-infinitesimals, or something like that).&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Graham&amp;rsquo;s take on pluralism here is that you can think of the different chunks as different kinds of things we&amp;rsquo;re reasoning about: quantum objects (with their quantum logic) and middle-sized dry goods and their non-quantum (say, classical logic).&lt;/p&gt;
+
+&lt;p&gt;I think that this application is really interesting, and it&amp;rsquo;s not what we (JC and I) talking about in our pluralism.  We&amp;rsquo;re pluralists about the logic used for evaluating &amp;ldquo;reasoning about&amp;rdquo; the same collections of things.&lt;/p&gt;
+
+&lt;p&gt;The top question (or was it three?) came from Johan van Benthem, who pointed out the parallel with channel theory (I should have warned Graham about that because I should have spotted that!), and interesting applications in database combination, and legal reasons why information maybe shouldn&amp;rsquo;t flow from one to the other.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;After lunch, it&amp;rsquo;s Stephen Read and &amp;ldquo;General-Elimination Harmony and the Meaning of the Logical Constants,&amp;rdquo; which sounds like a good name for a bad cover band.&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;This was all about &lt;em&gt;general elimination harmony&lt;/em&gt;: the notion that we can take the introduction rule for a connective as defining it, and a general elimination rule (defined in a systematic way,  at least for simple cases of introduction rules) can be reconstructed out of the introduction rule if that connective is to be defined.&lt;/p&gt;
+
+&lt;p&gt;Read&amp;rsquo;s favourite &amp;ldquo;connective&amp;rdquo; (in shudder quotes, as it doesn&amp;rsquo;t &lt;em&gt;connect&lt;/em&gt; anything) is the bullet (or blob) &amp;ndash; &amp;bull; &amp;ndash; with the introduction rule allowing us to infer &amp;bull; from a proof from &amp;bull; to absurdity.  He showed that one could define an appropriate general elimination rule in harmony with that introduction rule.  So it&amp;rsquo;s OK in some sense &amp;ndash; it&amp;rsquo;s harmonious &amp;mdash; but not a conservative extension of the underlying pre-&amp;bull; consequence relation.&lt;/p&gt;
+
+&lt;p&gt;He then went on to talk of the application of these notions to modality (which I&amp;rsquo;d heard from Stephen before in the paper &amp;ldquo;&lt;a href=&#34;http://dx.doi.org/10.1023/A:1004787622057&#34;&gt;Harmony and Autonomy in Classical Logic&lt;/a&gt;&amp;rdquo;), but then he went on to talk of conditionality.  Here, the discussion took an interesting turn, for Stephen pointed out that the necessary discussion of structural rules (which came up in the discussion of conjunction, disjunction, etc).  Ringing the changes on this &amp;ndash; or at least attending to questions about contraction and weakening &amp;ndash; give us a way to understand the logical behaviour of conditionality, for the structural rules feature prominently in the behaviour of the conditional rules.&lt;/p&gt;
+
+&lt;p&gt;If &lt;em&gt;that&lt;/em&gt; was fun, even more fun happened in discussion, with zingers of questions from Per Martin-L&amp;ouml;f and Dag Prawitz.  Per pushed on the definition of the blob &amp;ndash; this definition literally makes no sense for Per, because for Per, you can&amp;rsquo;t prove that &amp;bull; is a proposition.  This is right, and it helped bring out the difference between Per&amp;rsquo;s constructive type theory and Stephen&amp;rsquo;s logic. Then Dag Prawitz pointed out that the choice of structural rules cannot be arbitrary, but must be constrained in some way: what is the ground for choosing one set of structural rules rather than another.  Stephen indicated that this is a really interesting question worth sorting out.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Then next, &lt;a href=&#34;http://www.mbph.de/&#34;&gt;Manuel Bremer&lt;/a&gt;, presenting &amp;ldquo;&lt;a href=&#34;http://www.mbph.de/Logic/Pluralism.pdf&#34;&gt;What is Logical Pluralism?&lt;/a&gt;&amp;rdquo; He argued that our logical pluralism is not clear, and if it&amp;rsquo;s clear, it&amp;rsquo;s either not true, or not interesting.  This sounds ominous.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Well, it wasn&amp;rsquo;t &lt;em&gt;ominous&lt;/em&gt;.  It was a lovely example of how &lt;em&gt;very different&lt;/em&gt; perspectives on what logic is (or does) result in making pluralism look very implausible.  Manuel&amp;rsquo;s starting point was that logic has something to do with cognitive architecture&amp;ndash;in particular, that inferences arising out of generative grammar rules&amp;ndash;are genuinely valid, and that logic deviating from that just doesn&amp;rsquo;t get a grip on &lt;em&gt;what we&amp;rsquo;re thinking&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;That&amp;rsquo;s right, I think, given the starting point, but I don&amp;rsquo;t agree with Manuel&amp;rsquo;s starting point.  This means, of course, that I should say something about the connection is between cognitive architecture and logical validity.  Yes, I should.  I haven&amp;rsquo;t said much, except to say that the connection between deductive consequence relations and the &lt;em&gt;inferences&lt;/em&gt; one does or should make are generally complicated matters, for &lt;a href=&#34;http://www.logicandlanguage.net/archives/2005/03/inference_vs_im_1.html&#34;&gt;the usual Harman-esque reasons&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Discussion, I must admit, got quite pointed at times, as you&amp;rsquo;d expect when people disagree about fundamental issues, and want to sort out where you disagree.  It was all in good fun, and Manuel sweetly came up to me afterwards to say &amp;ldquo;I hope you weren&amp;rsquo;t offended.&amp;rdquo;  Of course I wasn&amp;rsquo;t, and as Johan van Bentham mentioned in discussion time, Manuel lavished us with attention to bring out why so much of JC&amp;rsquo;s and my take on logical pluralism is wrong-headed from his view, and so much critical attention is &amp;ndash; indeed &amp;ndash; a form of praise.  Too right it is!  Thanks, Manuel!&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Last up for today, Hartry Field, trying to find an &lt;em&gt;interesting&lt;/em&gt;, &lt;em&gt;true&lt;/em&gt; logical pluralism.   (The requirement for finding &lt;em&gt;interesting&lt;/em&gt; views is a bit of a running joke here.)  I&amp;rsquo;ll write this up later when I recharge the battery on my computer.  I&amp;rsquo;ve got a minute remaining on the battery.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Now I&amp;rsquo;m back.  Hartry&amp;rsquo;s talk featured lots of interesting concerns I can&amp;rsquo;t recount here (neither the time nor the space), but he major point for me was his connection between the notion of logical validity and constraint of degrees of belief.  Hartry argues (as he did in the &lt;a href=&#34;http://www.philosophy.ox.ac.uk/lectures/john_locke_lectures&#34;&gt;Locke lectures&lt;/a&gt;) that if one takes the inference from &lt;em&gt;A&lt;/em&gt; to &lt;em&gt;B&lt;/em&gt; to be valid, then the degree of belief of &lt;em&gt;A&lt;/em&gt; should be no higher than the degree of belief of &lt;em&gt;B&lt;/em&gt; (and this generalises for arguments with more premises), and that you &lt;em&gt;should not&lt;/em&gt; take validity to be necessary truth preservation, for this ensnares you in paradox.  Then since validity is a normative notion, and since Hartry thinks we should be anti-realists about norms, there is room for a kind of plurality here.&lt;/p&gt;
+
+&lt;p&gt;But there is not much room for plurality where it&amp;rsquo;s exciting, as far as Hartry can see, since that kind of wiggle room isn&amp;rsquo;t there when it comes to truth value gaps and truth value gluts.  The disagreement between a gap view and a glut view and classical view isn&amp;rsquo;t up for pluralism on this account.&lt;/p&gt;
+
+&lt;p&gt;That&amp;rsquo;s completely right, by my lights. My disagreement with Graham Priest over whether or not a liar sentence is both true and false is not up for a pluralist reconciliation.  We just disagree.&lt;/p&gt;
+
+&lt;p&gt;Where I think there&amp;rsquo;s scope for more work is the nature of the norms, and whether or not the connection between degree-of-belief management and deductive validity is two way, or only one way.  Is an argument from &lt;em&gt;A&lt;/em&gt; to &lt;em&gt;B&lt;/em&gt; valid (or we know it&amp;rsquo;s valid, or whaever) &lt;em&gt;if&lt;/em&gt; and only if we ought regulate our degree of belief to have &lt;em&gt;D&lt;/em&gt;(&lt;em&gt;A&lt;/em&gt;) never over &lt;em&gt;D&lt;/em&gt;(&lt;em&gt;B&lt;/em&gt;)?  I don&amp;rsquo;t think that&amp;rsquo;s right, but making the case for this &lt;em&gt;pro&lt;/em&gt; or &lt;em&gt;con&lt;/em&gt; requires close attention to what an attribution of degrees of belief involves, I reckon.&lt;/p&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>Tartu</title>
+      <link>http://consequently.github.io/news/2008/08/28/tartu/</link>
+      <pubDate>Thu, 28 Aug 2008 13:19:08 &#43;1100</pubDate>
+      
+      <guid>http://consequently.github.io/news/2008/08/28/tartu/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;If this is Thursday, it must be Tartu.  The &lt;a href=&#34;http://daniel.cohnitz.de/index.php?conference&#34;&gt;conference&lt;/a&gt; starts today, and &lt;a href=&#34;http://daniel.cohnitz.de/index.php?program&#34;&gt;I&amp;rsquo;m up first&lt;/a&gt;.  The nerves have started to jangle just a bit, since the audience is about as high-powered as any in my experience at international conferences.&lt;/p&gt;
+
+&lt;p&gt;It&amp;rsquo;s just as well as those who intimidate me the most this time around (due to their all-round awesomeness combined with the fact that this is the first time I&amp;rsquo;ve met them) &amp;ndash; Per Martin-L&amp;ouml;f,  Dag Prawitz and Johan van Benthem &amp;ndash; are uniformly warm and personable. (I can&amp;rsquo;t help but wonder if that will make it better or worse when the knife gets sunk in to my position.)&lt;/p&gt;
+
+&lt;p&gt;Depending on time, attention and lots of other factors, I&amp;rsquo;ll try blogging a bit from the conference, though I won&amp;rsquo;t promise to keep up through the entire thing.  So, if you&amp;rsquo;re here and I don&amp;rsquo;t mention &lt;em&gt;your&lt;/em&gt; presentation, please don&amp;rsquo;t hold that against me.  It&amp;rsquo;s hard enough to keep your attention up over an entire conference, let alone write something sensible, meaningful and worth-posting-on-the-internet about each and every talk at a conference.&lt;/p&gt;
+
+&lt;p&gt;My talk starts in roughly three hours from now.  Wish me luck!&lt;/p&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>Amsterdam!</title>
+      <link>http://consequently.github.io/news/2008/08/24/amsterdam/</link>
+      <pubDate>Sun, 24 Aug 2008 23:37:56 &#43;1100</pubDate>
+      
+      <guid>http://consequently.github.io/news/2008/08/24/amsterdam/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;I&amp;rsquo;ve arrived in Amsterdam.  Getting here was touch-and-go.  My decent wait between my Melbourne &amp;rarr; Singapore flight and my Singapore &amp;rarr; Amsterdam leg whittled down to around 45 minutes.  That involved a trek through the terminal, a tense wait at Transfer Desk C (where people in the queue in front of me were arguing with the staff about visas, and people behind me were concerned that they wouldn&amp;rsquo;t get on the flight &amp;ndash; and were expressing this concern, rather vocally).  I got there in the end, but it was a rush.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Highlight of the trip&lt;/em&gt;?  Reading 100 pages of Anil Gupta&amp;rsquo;s &lt;a href=&#34;http://www.amazon.com/dp/019536726X&#34;&gt;Empricism and Experience&lt;/a&gt;.  This is &lt;em&gt;very&lt;/em&gt; good.  It&amp;rsquo;s (1) logically sharp, (2) applied to philosophical issues of deep concern and most interestingly (3) original and creative, and enlightening.   He cuts at deep issues with classical empiricism, at a level of abstraction that &amp;ndash; I&amp;rsquo;m convinced &amp;ndash; gets to the heart of the matter in a new and illuminating way.  Characterising classical empiricism as the result of a number of theses concerning what is given in experience (that it&amp;rsquo;s propositional, veridical, and multiply factorisable), and that this combination &amp;ndash; rather than the argument from Illusion and the debate surrounding this &amp;ndash; that dooms classical empiricism to never explain the epistemic success we have. It&amp;rsquo;s rigourous, illuminating and spot on.  (Oh, and the comments on Quine &amp;ndash; to the effect that accepts exactly the &lt;em&gt;wrong&lt;/em&gt; parts of classical empiricism, to betray naturalism for a kind of idealism &amp;ndash; alone are worth the price of admission.)&lt;/p&gt;
+
+&lt;p&gt;I&amp;rsquo;ve decided now that when I grow up I want to be able to think and write like Anil.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Lowlight of the trip&lt;/em&gt;? Having my order for an Asian Vegetarian meal ignored by KLM at one meal.  When I mentioned to the steward that this salad didn&amp;rsquo;t look very vegetarian (with the chicken and all), &amp;ndash; and that I had ordered a vegetarian meal when I booked my flight &amp;ndash; she apologised, and got me a replacement salad.  It looked like a very odd potato salad.  I couldn&amp;rsquo;t place where I&amp;rsquo;d seen potato sliced so thinly in a potato salad, but there was so much mayonnaise that I couldn&amp;rsquo;t really tell.  What I couldn&amp;rsquo;t really tell, of course, was that it was a salad whose principle ingredient (well, competing with the mayonnaise) was ham.  That&amp;rsquo;s a salad that vegetarians, Muslims and Jews can all get behind!  Oh well.&lt;/p&gt;
+
+&lt;p&gt;The rest of the flight was fine.  I use flights to sleep, read, and while having meals, catch up on my trashy movie viewing. This time, &lt;a href=&#34;http://www.imdb.com/title/tt0371746/&#34;&gt;Iron Man&lt;/a&gt; and &lt;a href=&#34;http://www.imdb.com/title/tt0200465/&#34;&gt;The Bank Job&lt;/a&gt;.  Both were enjoyable in a throwaway sort of way.&lt;/p&gt;
+
+&lt;p&gt;And today I&amp;rsquo;ve waited at Schiphol for longer than I&amp;rsquo;d hoped to, waiting for my bag to catch up, strolled around the city, and pored over Dutch Masters at the &lt;a href=&#34;http://rijksmuseum.nl&#34;&gt;Rijksmuseum&lt;/a&gt;.  I&amp;rsquo;ve got some more exploration to do this evening, and then tomorrow too.&lt;/p&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>Bag packed, let&#39;s go!</title>
+      <link>http://consequently.github.io/news/2008/08/23/bag_packed_lets_go/</link>
+      <pubDate>Sat, 23 Aug 2008 10:43:42 &#43;1100</pubDate>
+      
+      <guid>http://consequently.github.io/news/2008/08/23/bag_packed_lets_go/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;Bag packed, ticket &amp;amp; passport at the ready, &lt;a href=&#34;http://apple.com/macbookpro&#34;&gt;computer&lt;/a&gt; charged, &lt;a href=&#34;http://apple.com/iphone&#34;&gt;phone&lt;/a&gt; charged and synced, &lt;a href=&#34;http://www.amazon.com/Colossians-Remixed-Subverting-Brian-Walsh/dp/0830827382/consequentlyorg&#34;&gt;books&lt;/a&gt; to &lt;a href=&#34;http://www.amazon.com/dp/019536726X&#34;&gt;read&lt;/a&gt; located, papers to read/referee/assess all printed or downloaded.&lt;/p&gt;
+
+&lt;p&gt;I must be going on a flight.  The trip takes me from Melbourne to Singapore to Amsterdam to Tallinn to &lt;a href=&#34;http://daniel.cohnitz.de/index.php?conference&#34;&gt;Tartu&lt;/a&gt;, and then I retrace my steps to get back here in ten days.  That&amp;rsquo;s too much plane and airport time for my money, but I fully expect that &lt;a href=&#34;http://daniel.cohnitz.de/index.php?program&#34;&gt;this&lt;/a&gt; will be worth the discomfort.  Oh, the day-and-a-bit stopover in Amsterdam should &lt;a href=&#34;http://rijksmuseum.nl/&#34;&gt;be worth it too&lt;/a&gt;.&lt;/p&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>Pain, stress, redundancies, another day at the office</title>
+      <link>http://consequently.github.io/news/2008/08/20/pain_stress_redundancies_another_day_at_the_office/</link>
+      <pubDate>Wed, 20 Aug 2008 10:35:03 &#43;1100</pubDate>
+      
+      <guid>http://consequently.github.io/news/2008/08/20/pain_stress_redundancies_another_day_at_the_office/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;I had thought that we (the &lt;a href=&#34;http://www.arts.unimelb.edu.au&#34;&gt;Faculty of Arts&lt;/a&gt; at the &lt;a href=&#34;http://www.unimelb.edu.au&#34;&gt;University of Melbourne&lt;/a&gt;) were trying to keep our difficulties an internal affair, but &lt;a href=&#34;http://www.arts.unimelb.edu.au/arts-renewal/workforce-proposal.html&#34;&gt;apparently we&amp;rsquo;re not&lt;/a&gt;.  Given that this is all public news, I suppose I could comment.&lt;/p&gt;
+
+&lt;p&gt;The take-home-message from this memo from the Dean: (1) The budget in the Arts Faculty is not yet in the black, though it&amp;rsquo;s getting better, and (2) The plan is for more voluntary &amp;lsquo;redundancies&amp;rsquo; (this is now Round 3), this time with the shadow of involuntary redundancies is we don&amp;rsquo;t get enough voluntary ones to right the ship.&lt;/p&gt;
+
+&lt;p&gt;The discipline of Philosophy took an almighty hit at the end of Round 1. At the end of 2007 we had 5 departures out of a full-time teaching staff of 10.5.  So we&amp;rsquo;ve done rather more than our part of the deal in righting the budgetary situation &amp;ndash; except for the very real problem of &amp;lsquo;overcorrecting,&amp;rsquo; making it rather &lt;em&gt;more&lt;/em&gt; difficult to teach a coherent Philosophy major in the BA (with keen, bright students ready to learn), supervise our wonderful graduate students, and get research done.   There are so few philosophers left, this round of redundancies is not directed at us, but we feel for our colleagues down the corridors, and across the campus.&lt;/p&gt;
+
+&lt;p&gt;The future for us is murky, but at least there&amp;rsquo;s very real prospect for rebuilding once the rest of the Faculty has sorted out its bottom line.  In the near term we&amp;rsquo;re going to have to be &lt;em&gt;very&lt;/em&gt; creative to get enough bodies on the ground to do our jobs well.  We&amp;rsquo;re looking at other sources of funding, grants, bringing people on research fellowships, etc.  That&amp;rsquo;s all good, but of course, what we most need is a stable core group of people to teach and research and run the place.  In this environment, with the best will in the world from colleagues, it&amp;rsquo;s still touch and go as to how we get through it.  The next few months are crucial.&lt;/p&gt;
+
+&lt;p&gt;This is &lt;em&gt;one&lt;/em&gt; of the reasons I&amp;rsquo;ve been rather out-of-communication on the website for the last months.  Both figuring out how to we philosophers at Melbourne work through this, and managing the stress it&amp;rsquo;s been causing has been a struggle.  (Ask my long-suffering spouse and child&amp;ndash;they&amp;rsquo;ll tell you.)&lt;/p&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>Random interesting fact (one in an intermittent series)</title>
+      <link>http://consequently.github.io/news/2008/08/19/random_interesting_fact_one_in_an_intermittent_series/</link>
+      <pubDate>Tue, 19 Aug 2008 08:05:55 &#43;1100</pubDate>
+      
+      <guid>http://consequently.github.io/news/2008/08/19/random_interesting_fact_one_in_an_intermittent_series/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;Out of the five Australians who were chosen as nominating editors of this year&amp;rsquo;s &lt;a href=&#34;http://www.philosophersannual.org/&#34;&gt;Philosophers&amp;rsquo; Annual&lt;/a&gt;, four are from &lt;a href=&#34;http://www.philosophy.unimelb.edu.au&#34;&gt;The University of Melbourne&lt;/a&gt;.  The lucky 4 are Hazen, Schroeter (Fran&amp;ccedil;ois), Schroeter (Laura), and Restall.  (The other Australian is David Chalmers.)&lt;/p&gt;
+
+&lt;p&gt;4 out of 28 is a good strike rate (that&amp;rsquo;s 1 in 7, if you&amp;rsquo;re too lazy to do the mental arithmetic). This is a teensy bit higher than the representation of University of Melbourne Philosophers in the Whole Wide World.&lt;/p&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>Breaking Silence</title>
+      <link>http://consequently.github.io/news/2008/08/16/breaking_silence/</link>
+      <pubDate>Sat, 16 Aug 2008 20:11:34 &#43;1100</pubDate>
+      
+      <guid>http://consequently.github.io/news/2008/08/16/breaking_silence/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;I&amp;rsquo;ve been pretty quiet here, lately.  I&amp;rsquo;ve been &lt;a href=&#34;http://www.philosophy.unimelb.edu.au/ajl&#34;&gt;busy&lt;/a&gt; &lt;a href=&#34;http://www.philosophy.unimelb.edu.au/wcp4&#34;&gt;with&lt;/a&gt; &lt;a href=&#34;https://app.portal.unimelb.edu.au/CSCApplication/view/2008/161-201&#34;&gt;things&lt;/a&gt;, getting stuff done.  I hope to be posting more soon, when various up-in-the-air things are more settled.  Still, here are some recent highlights which are worth sharing.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.philosophy.unimelb.edu.au/wcp4&#34;&gt;WCP4&lt;/a&gt; was a blast.  It was very busy, but lots of fun was had: it was good to catch up with many folks I hadn&amp;rsquo;t seen for ages including (&lt;a href=&#34;http://logica.rug.ac.be/~dirk/&#34;&gt;Diderik Batens&lt;/a&gt;, &lt;a href=&#34;http://directory.uleth.ca/research/viewperson.html?uid=brown&#34;&gt;Bryson Brown&lt;/a&gt;, &lt;a href=&#34;http://www.unica.it/~paoli/&#34;&gt;Francesco Paoli&lt;/a&gt;, &lt;a href=&#34;http://notofcon.blogspot.com/&#34;&gt;Ole&lt;/a&gt; &lt;a href=&#34;http://olethhjortland.googlepages.com/home&#34;&gt;Hjortland&lt;/a&gt;, &lt;a href=&#34;http://www.arts.auckland.ac.nz/staff/index.cfm?S=STAFF_jsel014&#34;&gt;Jerry Seligman&lt;/a&gt;, &lt;a href=&#34;http://www.artsci.wustl.edu/~grussell/&#34;&gt;Gill Russell&lt;/a&gt; and especially &lt;a href=&#34;http://www.philosophy.uconn.edu/department/beall/beall.html&#34;&gt;JC&lt;/a&gt;, who I hadn&amp;rsquo;t seen in an all-too-long period of time) and to make the acquaintance of new folks (&lt;a href=&#34;http://www-ihpst.univ-paris1.fr/fberto&#34;&gt;Francesco Berto&lt;/a&gt;, &lt;a href=&#34;http://philosophy.unc.edu/ripley.html&#34;&gt;David Ripley&lt;/a&gt;, Andreas Pietz, &lt;a href=&#34;http://blogandnot-blog.blogspot.com/&#34;&gt;Ben Burgis&lt;/a&gt;, &lt;a href=&#34;http://www.arts.auckland.ac.nz/staff/index.cfm?S=STAFF_pgir999&#34;&gt;Patrick Girard&lt;/a&gt; and many others).&lt;/li&gt;
+&lt;li&gt;It&amp;rsquo;s been lots of fun to have Andi Pietz, Dave Ripley and Ole Hjortland hang out with us in Melbourne this semester.  I think they&amp;rsquo;re having fun, and I&amp;rsquo;m having fun talking logic with them.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://app.portal.unimelb.edu.au/CSCApplication/view/2008/161-201&#34;&gt;Reasoning &amp;amp; Uncertainty&lt;/a&gt; is my new level &lt;sup&gt;2&lt;/sup&gt;&amp;frasl;&lt;sub&gt;3&lt;/sub&gt; undergraduate subject.  I&amp;rsquo;ve got a class of 60, doing philosophy of probability, decision theory, etc., and we&amp;rsquo;re having a lot of fun.  Having students turn up to class, enthusiastic, despite 9am lectures, is something to behold.  Conrad Asmus is my tutor, and working with him makes things very easy.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.facebook.com/people/Conrad_Asmus/636311603&#34;&gt;Conrad Asmus&lt;/a&gt;, my &lt;em&gt;former&lt;/em&gt; PhD student, has all-but-passed his PhD.  He has minor changes to make (which will be done within a few weeks, won&amp;rsquo;t they, Conrad?), and once they&amp;rsquo;re OKd by the local examiner, he&amp;rsquo;ll graduate. Congratulations, Conrad!  You&amp;rsquo;re my first beginning-to-end supervised graduate student, and I&amp;rsquo;m proud to have supervised your work.&lt;/li&gt;
+&lt;li&gt;I&amp;rsquo;m off to Estonia in a week&amp;rsquo;s time, for the &lt;a href=&#34;http://daniel.cohnitz.de/index.php?conference&#34;&gt;Logical Pluralism Extravaganza&lt;/a&gt;, which &lt;a href=&#34;http://daniel.cohnitz.de/index.php?program&#34;&gt;looks like&lt;/a&gt; it will be smaller, more focussed blast than WCP4.&lt;/li&gt;
+&lt;li&gt;After getting back from Estonia, I&amp;rsquo;m speaking at a &amp;lsquo;Men&amp;rsquo;s Breakfast&amp;rsquo; at &lt;a href=&#34;http://stjohnswestbrunswick.org.au/&#34;&gt;my church&lt;/a&gt;, under the gradiose title of &amp;lsquo;From Church to the Campus and Back Again: tales from a Christian teaching Philosophy at University.&amp;rsquo; I&amp;rsquo;m under instruction to be funny, serious, profound, accessible and provocative &amp;ndash; in under 20 minutes.  I&amp;rsquo;ll see how I go&amp;hellip;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;It&amp;rsquo;s been a hard year here, with reduced staffing numbers in Philosophy at Melbourne.  Everyone&amp;rsquo;s working Very Hard and doing Very Good Things, but until we get new positions and More People, things are going to be a struggle.  Hopefully we&amp;rsquo;ll have some better news soon, so we can advertise some jobs in the next few months.  Watch this space&amp;hellip;&lt;/p&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>Logical Pluralism, in Tartu</title>
+      <link>http://consequently.github.io/news/2008/04/16/logical_pluralism_in_tartu/</link>
+      <pubDate>Wed, 16 Apr 2008 06:42:39 &#43;1100</pubDate>
+      
+      <guid>http://consequently.github.io/news/2008/04/16/logical_pluralism_in_tartu/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;I&amp;rsquo;m off to Tartu in late August, for what looks like a &lt;a href=&#34;http://daniel.cohnitz.de/index.php?conference&#34;&gt;really fun conference&lt;/a&gt; on logical pluralism.  The &lt;a href=&#34;http://daniel.cohnitz.de/index.php?speakers&#34;&gt;list of speakers&lt;/a&gt; is extraordinarily high-powered.  Having so many smart people talk about logical pluralism is exciting, and not a little bit scary.&lt;/p&gt;
+
+&lt;p&gt;If you&amp;rsquo;re interested in coming along, &lt;a href=&#34;http://daniel.cohnitz.de/index.php?register&#34;&gt;let the organisers know by July 1&lt;/a&gt;.  If you&amp;rsquo;re interested in the state of the art on logical pluralism, this conference is the place to be.&lt;/p&gt;
+
+&lt;p&gt;Thanks, &lt;a href=&#34;http://daniel.cohnitz.de&#34;&gt;Daniel&lt;/a&gt;, &lt;a href=&#34;http://www.st-andrews.ac.uk/~mr30/&#34;&gt;Marcus&lt;/a&gt; and &lt;a href=&#34;http://people.su.se/~ppagin/pagineng.htm&#34;&gt;Peter&lt;/a&gt; for organising this.  It&amp;rsquo;s going to be my highlight of the second half of the year.&lt;/p&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>Informal Logic: now open access</title>
+      <link>http://consequently.github.io/news/2008/04/09/informal_logic_now_open_access/</link>
+      <pubDate>Wed, 09 Apr 2008 11:09:44 &#43;1100</pubDate>
+      
+      <guid>http://consequently.github.io/news/2008/04/09/informal_logic_now_open_access/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;The journal &lt;em&gt;&lt;a href=&#34;http://informallogic.ca&#34;&gt;Informal Logic&lt;/a&gt;&lt;/em&gt;, on argumentation theory and related issues, is now open access and online, after a 27 year history as a print (closed access) journal.    The editors have sent out a request for interested parties to subscribe.  Subscription is free: just &lt;a href=&#34;http://ojs.uwindsor.ca/ojs/leddy/index.php/informal_logic/user/register&#34;&gt;fill in this form on the site&lt;/a&gt;. The editors are aiming get enough subscribers to secure funding from the &lt;a href=&#34;http://sshrc.ca&#34;&gt;SSHRC&lt;/a&gt; to keep the journal going now that they&amp;rsquo;re not taking paid subscriptions.&lt;/p&gt;
+
+&lt;p&gt;This is a worthy goal: the more &lt;a href=&#34;http://www.philosophy.unimelb.edu.au/ajl&#34;&gt;open access journals&lt;/a&gt;, &lt;a href=&#34;http://semprag.org&#34;&gt;the better&lt;/a&gt;! So, if you&amp;rsquo;re at all interested in argumentation theory and informal logic, please &lt;a href=&#34;http://ojs.uwindsor.ca/ojs/leddy/index.php/informal_logic/user/register&#34;&gt;sign up&lt;/a&gt;.&lt;/p&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>We&#39;re in the news...</title>
+      <link>http://consequently.github.io/news/2008/03/30/were_in_the_news/</link>
+      <pubDate>Sun, 30 Mar 2008 20:03:58 AEDT</pubDate>
+      
+      <guid>http://consequently.github.io/news/2008/03/30/were_in_the_news/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;Alas, &lt;a href=&#34;http://www.arts.unimelb.edu.au/&#34;&gt;we&lt;/a&gt; are &lt;a href=&#34;http://www.theage.com.au/news/national/jobs-under-threat-at-melbourne-uni/2008/03/29/1206207499091.html&#34;&gt;in the news&lt;/a&gt; for not-very-good reasons.  Given the recent retirements in &lt;a href=&#34;http://www.philosophy.unimelb.edu.au&#34;&gt;Philosophy at Melbourne&lt;/a&gt;, it would be worse than surprising if any of the new redundancies hit Philosophy.  However, the atmosphere around here not good &amp;ndash; what concerns us most is the scope for new hiring when the Faculty as a whole is in the red so much.  It is very hard to effectively plan ahead when so much is in flux and you&amp;rsquo;re not sure whether your efforts will benefit the discipline.&lt;/p&gt;
+
+&lt;p&gt;I hope to find out more when we hear what the &lt;a href=&#34;http://www.arts.unimelb.edu.au/about/faculty/&#34;&gt;Dean&lt;/a&gt; and the &lt;a href=&#34;http://www.unimelb.edu.au/about/seniorexec/davis.html&#34;&gt;Vice Chancellor&lt;/a&gt; has to say at a meeting of all Arts Faculty staff this Tuesday.  Let&amp;rsquo;s hope that they can articulate something that goes beyond slashing positions to rectify a budget hole.&lt;/p&gt;
+
+&lt;p&gt;I&amp;rsquo;m sorry to start posting on something so grim, but &amp;ldquo;trouble at t&amp;rsquo;mill&amp;rdquo; has been on our minds since mid-2007.  I hope to post more about more enjoyable things soon.&lt;/p&gt;
+
+&lt;p&gt;Meanwhile, take a look at my &lt;a href=&#34;http://consequently.org/writing/&#34;&gt;writing page&lt;/a&gt;. There are quite a few new items there.&lt;/p&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>Sorry...</title>
+      <link>http://consequently.github.io/news/2008/02/13/sorry/</link>
+      <pubDate>Wed, 13 Feb 2008 22:40:20 AEDT</pubDate>
+      
+      <guid>http://consequently.github.io/news/2008/02/13/sorry/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;This has been a &lt;a href=&#34;http://petermartin.blogspot.com/2008/02/prime-ministers-gripping-well-judged.html&#34;&gt;good day&lt;/a&gt;. (&lt;a href=&#34;http://www.youtube.com/watch?v=SUVnAp4lXfI&#34;&gt;Here&lt;/a&gt; &lt;a href=&#34;http://www.youtube.com/watch?v=1k0597GfXFQ&#34;&gt;is&lt;/a&gt; &lt;a href=&#34;http://www.youtube.com/watch?v=1k0597GfXFQ&#34;&gt;the video&lt;/a&gt; &amp;mdash; in three parts.)&lt;/p&gt;
+
+&lt;p&gt;As PJK said, when you change the government, you change the country&amp;hellip;&lt;/p&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>Melbourne Philosophy Undergraduate Workshop</title>
+      <link>http://consequently.github.io/news/2007/08/06/melbourne_philosophy_undergraduate_workshop/</link>
+      <pubDate>Mon, 06 Aug 2007 11:32:02 &#43;1100</pubDate>
+      
+      <guid>http://consequently.github.io/news/2007/08/06/melbourne_philosophy_undergraduate_workshop/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;Are you an undergraduate student in philosophy, or do you know any undergraduate philosophy students?  If so, you might be interested in the &lt;em&gt;Melbourne Philosophy Undergraduate Workshop&lt;/em&gt; to be held from September 21 to 23.   This will be a chance for Australian and New Zealand undergraduate students who are interested in philosophy, to get together to talk philosophy with the faculty here at the &lt;a href=&#34;http://www.philosophy.unimelb.edu.au&#34;&gt;University of Melbourne&lt;/a&gt;.  Given that we have a broad range of interests, from Continental and Asian Philosophy, through Ethics and Social Philosophy, Philosophy of Science, to Metaphysics and Logic, this will be a fun weekend.&lt;/p&gt;
+
+&lt;p&gt;The deadline for applying for a grant to come to the workshop is coming up very soon: it&amp;rsquo;s &lt;strong&gt;August 15&lt;/strong&gt;.  For more details of how to be involved, read on&amp;hellip;&lt;/p&gt;
+
+&lt;!-- BREAK --&gt;
+
+&lt;p&gt;During the weekend of September Friday 21 to Sunday 23,
+Melbourne University&amp;rsquo;s &lt;a href=&#34;http://www.philosophy.unimelb.edu.au&#34;&gt;School of Philosophy&lt;/a&gt; will host the &lt;em&gt;Melbourne
+Philosophy Undergraduate Workshop&lt;/em&gt;, aimed at
+third and fourth year students who intend to continue in any branch of academic
+philosophy.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Friday evening&lt;/em&gt; will begin with a Welcome Meeting followed by
+dinner on Lygon Street, Carlton.&lt;/p&gt;
+
+&lt;p&gt;On &lt;em&gt;Saturday&lt;/em&gt;, Melbourne faculty members will give presentations and/or lead seminars on a range of topics &amp;ndash; from Continental and Asian Philosophy, through Philosophy of Science, to Metaphysics and Logic. Saturday evening, another dinner on Lygon Street with more discussion.&lt;/p&gt;
+
+&lt;p&gt;On &lt;em&gt;Sunday&lt;/em&gt;, each student will give a 15-or-so minute philosophy presentation, followed by 10 minutes for questions and discussion. This will continue after lunch until, satiated, we disperse to downtown Melbourne or wherever.&lt;/p&gt;
+
+&lt;p&gt;Ten particularly talented 3rd year and Honours students from across Australasia will be invited. Their transportation expenses will be covered up to $400, with a possibility of greater funds for students from Western Australia and New Zealand. Melbourne Philosophy will provide college accommodation for three nights, September 21 through 23.&lt;/p&gt;
+
+&lt;p&gt;Interested students should submit a transcript, along with a letter discussing their philosophical interests and, if possible, an abstract of their presentation talk. A short letter of reference from a faculty member is also required. Deadline: &lt;strong&gt;15 August 2007&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Send your material to Dr. Neil Thomason at &lt;a href=&#34;mailto:neilt@unimelb.edu.au&#34;&gt;neilt@unimelb.edu.au&lt;a&gt;.&lt;/p&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>Talk on the Philosopher&#39;s Zone</title>
+      <link>http://consequently.github.io/news/2007/08/05/talk_on_the_philosophers_zone/</link>
+      <pubDate>Sun, 05 Aug 2007 17:26:54 &#43;1100</pubDate>
+      
+      <guid>http://consequently.github.io/news/2007/08/05/talk_on_the_philosophers_zone/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;I gave a talk on Logic in Australia at &lt;a href=&#34;http://arts.monash.edu.au/news-and-events/artsinaction07/program.php&#34;&gt;Monash University&amp;rsquo;s &lt;em&gt;Arts in Action&lt;/em&gt; festival&lt;/a&gt; in early June.  (This was a part of a long-running project on a &lt;a href=&#34;http://arts.monash.edu.au/phil/research/history/grant8.html&#34;&gt;History of Australasian Philosophy&lt;/a&gt;.  The talk is now appearing, in two parts, on the (wonderful) ABC Radio National program, &lt;em&gt;&lt;a href=&#34;http://abc.net.au/rn/philosopherszone/&#34;&gt;The Philosopher&amp;rsquo;s Zone&lt;/a&gt;&lt;/em&gt;.  The first part was broadcast this weekend, but the audio can be downloaded from their &lt;a href=&#34;http://abc.net.au/rn/philosopherszone/stories/2007/1992998.htm&#34;&gt;website&lt;/a&gt; for the next four weeks.  That was the first half of the talk, on possible worlds.  The second half, on paraconsistency, will be broadcast next week.&lt;/p&gt;
+
+&lt;p&gt;In the talk, I made heavy use of digital projection.  I think you can follow the talk without it, but if you want to see the pretty pictures and diagrams, you can download the slides of the talk here:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://consequently.org/papers/Logic%20in%20Australia.mov&#34;&gt;Logic in Australia.mov&lt;/a&gt; 22.5MB Quicktime file.  (Navigate it by clicking or by using the arrow keys.)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://consequently.org/papers/Logic%20in%20Australia.pdf&#34;&gt;Logic in Australia.pdf&lt;/a&gt; 3.3MB PDF file. (This does not have all of the fancy transitions in the quicktime file.)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://consequently.org/papers/Logic%20in%20Australia.key.zip&#34;&gt;Logic in Australia.key.zip&lt;/a&gt; 3.8MB compressed keynote file. (This has all the fancy transitions, and is the original document, but it requires Apple&amp;rsquo;s &lt;a href=&#34;http://www.apple.com/iwork/keynote/&#34;&gt;Keynote&lt;/a&gt; presentation program to view.)&lt;/li&gt;
+&lt;/ul&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>... and we&#39;re back</title>
+      <link>http://consequently.github.io/news/2007/08/05/_and_were_back/</link>
+      <pubDate>Sun, 05 Aug 2007 16:36:53 &#43;1100</pubDate>
+      
+      <guid>http://consequently.github.io/news/2007/08/05/_and_were_back/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;I&amp;rsquo;ve been back in Melbourne for a while.  The trip was very enjoyable, but I&amp;rsquo;ve returned to Melbourne with a chest bug, which has meant that I&amp;rsquo;m not quite up to full speed yet.  All non-essential activities (and alas, some essential ones, I fear) are progressing much more slowly than usual.&lt;/p&gt;
+
+&lt;p&gt;Here are some highlights of the trip.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://logika.flu.cas.cz/redaction.php?action=showRedaction&amp;amp;id_categoryNode=852&#34;&gt;Logica 2007&lt;/a&gt; with so many great people, and then exploring Prague, catching up with &lt;a href=&#34;http://www.ucalgary.ca/~rzach/logblog/&#34;&gt;Richard&lt;/a&gt;, and getting to know more Czech logicians.&lt;/li&gt;
+&lt;li&gt;Overdosing on &lt;a href=&#34;http://www.illc.uva.nl/GPMR-LS1/&#34;&gt;Medieval logic in Bonn&lt;/a&gt;, and especially talking over Bradwardine with &lt;a href=&#34;http://www.st-andrews.ac.uk/~slr/read.html&#34;&gt;Stephen Read&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Exploring K&amp;oslash;benhavn with Christine and Zachary.  It was my second visit there, and Christine&amp;rsquo;s umpteenth, so it was a lot easier to get around given than we were more familiar with the place.&lt;/li&gt;
+&lt;li&gt;Navigating our way on the trains and buses from &amp;Aring;rhus to &lt;a href=&#34;http://legoland.dk&#34;&gt;Legoland in Billund&lt;/a&gt; with Zachary, and then enjoying all there was to see and do there.&lt;/li&gt;
+&lt;li&gt;Meeting everyone at &lt;a href=&#34;http://www.math.uni.wroc.pl/~pkowa/lc2007.html&#34;&gt;Logic Colloquium in Wroc&amp;#322;aw&lt;/a&gt; &amp;ndash; and especially thinking through &amp;ndash; with Pavel Pudl&amp;aacute;k, Albert Visser, Alasdair Urquhart and Vedran &amp;#x10C;a&amp;#x10D;i&amp;#x107; &amp;ndash; a counterexample to a conjecture of Grzegorczyk&amp;rsquo;s.  The result of our thinking is &lt;a href=&#34;http://www.math.cas.cz/~pudlak/strings/doku.php?id=a_counterexample_to_a_conjecture_of_grzegorczyk&#34;&gt;here&lt;/a&gt;.  Most of the thinking got done in a hike in the hills near Wroc&amp;#322;aw.&lt;/li&gt;
+&lt;li&gt;Flying back home with Z. Normally he finds the in-flight entertainment much more attractive than mundane activities such as sleep.  This can sometimes cause difficulty, especially when flying in to an airport for a quick change of planes, and we have a tired unhappy boy to navigate through the system.  This time, however, he slept well on both flights (Frankfurt to Singapore and Singapore to Melbourne), and we managed to get back home with very little jetlag.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;So, a good time was had by all.  It&amp;rsquo;s good to be back, even if we have to struggle through a bit more of winter here.  At least &lt;a href=&#34;http://lions.com.au&#34;&gt;our AFL team&lt;/a&gt; is performing &lt;a href=&#34;http://www.realfooty.com.au/news/news/lions-pile-on-the-pressure-in-finals-bid/2007/08/04/1185648222098.html&#34;&gt;better&lt;/a&gt; &lt;a href=&#34;http://www.realfooty.com.au/news/news/lions-in-flagcontender-form-matthews/2007/07/30/1185647829342.html&#34;&gt;than&lt;/a&gt; &lt;a href=&#34;http://www.realfooty.com.au/news/rfmatchreport/pies-have-no-answers-against-roaring-lions/2007/07/28/1185339332180.html&#34;&gt;expected&lt;/a&gt;, so we might be able to cope with the end of the season here in football-mad Melbourne.&lt;/p&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>... arrived!</title>
+      <link>http://consequently.github.io/news/2007/06/18/_arrived/</link>
+      <pubDate>Mon, 18 Jun 2007 21:19:55 &#43;1100</pubDate>
+      
+      <guid>http://consequently.github.io/news/2007/06/18/_arrived/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;I&amp;rsquo;ve arrived in a sunny and summery Prague.  The locals tell me they it&amp;rsquo;s cooler than the unseasonably warm that it&amp;rsquo;s been in the last few years, but it seems nicely summery for one who has come from a winter.  I&amp;rsquo;m now chatting in the office with &lt;a href=&#34;http://logika.flu.cas.cz/redaction.php?action=showRedaction&amp;amp;id_categoryNode=801&#34;&gt;Timothy&lt;/a&gt;, &lt;a href=&#34;http://jarda.peregrin.cz/welcome.htm&#34;&gt;Jarda&lt;/a&gt; and &lt;a href=&#34;http://logika.flu.cas.cz/redaction.php?action=showRedaction&amp;amp;id_categoryNode=798&#34;&gt;Vladimir&lt;/a&gt;, and monopolising Jarda&amp;rsquo;s computer while the others do work preparing for the &lt;a href=&#34;http://logika.flu.cas.cz/redaction.php?action=showRedaction&amp;amp;id_categoryNode=852&#34;&gt;conference&lt;/a&gt;.&lt;/p&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>Heading off...</title>
+      <link>http://consequently.github.io/news/2007/06/17/heading_off/</link>
+      <pubDate>Sun, 17 Jun 2007 14:45:28 &#43;1100</pubDate>
+      
+      <guid>http://consequently.github.io/news/2007/06/17/heading_off/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;I&amp;rsquo;m waiting in Gate 9 at the international terminal &lt;a href=&#34;http://www.melbourne-airport.com.au/&#34;&gt;Melbourne Airport&lt;/a&gt;, getting ready to board my first flight on my trip to Europe.  It&amp;rsquo;s not a short hop &amp;ndash; Singapore/Frankfurt/Prague, but at least I&amp;rsquo;ll be in a &lt;a href=&#34;http://www.mcdo.cz/&#34;&gt;very nice place&lt;/a&gt; for what to all appearances will be a &lt;a href=&#34;http://logika.flu.cas.cz/redaction.php?action=showRedaction&amp;amp;id_categoryNode=852&#34;&gt;very enjoyable conference&lt;/a&gt;.  From then, it&amp;rsquo;s &lt;a href=&#34;http://www.illc.uva.nl/GPMR-LS1/&#34;&gt;Bonn&lt;/a&gt;, and then Denmark (K&amp;oslash;benhavn, and &amp;Aring;rhus) to meet up with Christine and Zachary, to have a little &lt;a href=&#34;http://www.legoland.dk&#34;&gt;holiday&lt;/a&gt; while Christine does some work.  On the way out, it&amp;rsquo;s Wroc&amp;#322;aw, where I&amp;rsquo;ll play a little part in a &lt;a href=&#34;http://www.math.uni.wroc.pl/~pkowa/lc2007.html&#34;&gt;big conference&lt;/a&gt; before heading home with Zachary.&lt;/p&gt;
+
+&lt;p&gt;Please, let me know if you&amp;rsquo;re going to be around anywhere in the vicinity during this European trip.  I&amp;rsquo;ll be catching up with some mates, but it&amp;rsquo;s always fun to meet more friends.&lt;/p&gt;
+
+&lt;p&gt;(If I owe you an email, that&amp;rsquo;s because I&amp;rsquo;ve been ridiculously busy preparing for this trip, teaching courses, looking after the boy, etc&amp;hellip; But I&amp;rsquo;m ploughing through my backlog, and I might &lt;em&gt;just&lt;/em&gt; get there in the next few weeks.  One can hope!)&lt;/p&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>Not &#39;gargoyle&#39; but &#39;finial&#39;</title>
+      <link>http://consequently.github.io/news/2007/05/03/not_gargoyle_but_finial/</link>
+      <pubDate>Thu, 03 May 2007 12:11:54 &#43;1100</pubDate>
+      
+      <guid>http://consequently.github.io/news/2007/05/03/not_gargoyle_but_finial/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;You &lt;a href=&#34;http://consequently.org/news/2007/05/03/logic_job_at_auckland/#c24290&#34;&gt;learn something new every day&lt;/a&gt;.  What we mistakenly called &lt;a href=&#34;http://consequently.org/phonecam/Dragon%20finial,%20Brunswick%20West,%20shot%20taken%20April%2011,%202007.jpg&#34;&gt;gargoyles&lt;/a&gt; are actually &lt;em&gt;finials&lt;/em&gt;. (I&amp;rsquo;ve corrected the caption on the &lt;a href=&#34;http://consequently.org/phonecam/Dragon%20finial,%20Brunswick%20West,%20shot%20taken%20April%2011,%202007.jpg&#34;&gt;photo&lt;/a&gt; &amp;ndash; in case you don&amp;rsquo;t understand what Christine meant.)&lt;/p&gt;
+
+&lt;p&gt;Christine took that photo on a finial-photographing expedition with Zachary and a friend from his class in school, on Zachary&amp;rsquo;s birthday a few weeks ago.&lt;/p&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>Logic Job at Auckland</title>
+      <link>http://consequently.github.io/news/2007/05/03/logic_job_at_auckland/</link>
+      <pubDate>Thu, 03 May 2007 09:41:45 &#43;1100</pubDate>
+      
+      <guid>http://consequently.github.io/news/2007/05/03/logic_job_at_auckland/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;As I&amp;rsquo;ve said &lt;a href=&#34;http://consequently.org/news/2002/05/14/job_at_auckland/&#34;&gt;before&lt;/a&gt;, logic jobs in Philosophy Departments are pretty rare.  Well, as &lt;a href=&#34;http://www.ucalgary.ca/~rzach/logblog/2007/04/logic-job-at-auckland-nz.html&#34;&gt;Richard mentioned earlier&lt;/a&gt;, there&amp;rsquo;s a logic job in Philosophy at &lt;a href=&#34;http://www.arts.auckland.ac.nz/departments/index.cfm?S=D_PHIL&#34;&gt;Auckland&lt;/a&gt;.  A little bird has told me that even though the deadline is close (May 18), they&amp;rsquo;re keen to get the word out to get as many applicants as possible.  So, if you qualify (PhD or equivalent in philosophy, teaching experience, some research publications) then hop to it and apply.  The details are &lt;a href=&#34;http://www.vacancies.auckland.ac.nz/positiondetail.asp?p=5057&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>Logica 2007 is coming up</title>
+      <link>http://consequently.github.io/news/2007/04/04/logica_2007_is_coming_up/</link>
+      <pubDate>Wed, 04 Apr 2007 06:39:32 &#43;1100</pubDate>
+      
+      <guid>http://consequently.github.io/news/2007/04/04/logica_2007_is_coming_up/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;The &lt;a href=&#34;http://logika.flu.cas.cz/redaction.php?action=showRedaction&amp;amp;id_categoryNode=1133&#34;&gt;program&lt;/a&gt; for &lt;a href=&#34;http://logika.flu.cas.cz/redaction.php?action=showRedaction&amp;amp;id_categoryNode=852&#34;&gt;Logica 2007&lt;/a&gt; has &lt;a href=&#34;http://logika.flu.cas.cz/redaction.php?action=showRedaction&amp;amp;id_categoryNode=1133&#34;&gt;been released&lt;/a&gt;, and it looks great. It looks like it will be seriously good, and it will be my first ever conference held in a &lt;a href=&#34;http://www.mcdo.cz/index.php?lang=eng&#34;&gt;monestery&lt;/a&gt;.&lt;/p&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>Book Launch!  Inside Lawyers&#39; Ethics</title>
+      <link>http://consequently.github.io/news/2007/03/30/book_launch_inside_lawyers_ethics/</link>
+      <pubDate>Fri, 30 Mar 2007 06:51:19 &#43;1100</pubDate>
+      
+      <guid>http://consequently.github.io/news/2007/03/30/book_launch_inside_lawyers_ethics/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;This Tuesday, I&amp;rsquo;m going to a &lt;em&gt;party&lt;/em&gt;: It&amp;rsquo;s a launch for &lt;a href=&#34;http://www.law.unimelb.edu.au/staff/Christine%20Parker&#34;&gt;Christine&lt;/a&gt;&amp;rsquo;s book &lt;em&gt;&lt;a href=&#34;http://www.amazon.com/Inside-Lawyers-Ethics-Christine-Parker/dp/0521546648/consequentlyorg&#34;&gt;Inside Lawyers&amp;rsquo; Ethics&lt;/a&gt;&lt;/em&gt;, which she&amp;rsquo;s coauthored with &lt;a href=&#34;http://www.law.monash.edu.au/staff/aevans.html&#34;&gt;Adrian Evans&lt;/a&gt; from Monash Law School.  The book will be launched by &lt;a href=&#34;http://www.accc.gov.au/content/index.phtml/itemId/414787&#34;&gt;Louise Sylvan&lt;/a&gt;, from the &lt;a href=&#34;http://www.accc.gov.au/&#34;&gt;ACCC&lt;/a&gt;.  This party will be held at the Monash University Law Chambers in the city.&lt;/p&gt;
+
+&lt;p&gt;Congratulations, Christine and Adrian!&lt;/p&gt;
+
+&lt;p&gt;It seems to be the season for book launches.  &lt;a href=&#34;http://simoncareyholt.typepad.com/&#34;&gt;Simon Holt&lt;/a&gt;&amp;rsquo;s &lt;em&gt;God Next Door&lt;/em&gt; is &lt;a href=&#34;http://simoncareyholt.typepad.com/weblog/2007/03/god_next_door.html&#34;&gt;launching on April 19&lt;/a&gt; and &lt;a href=&#34;http://braininavat.net/&#34;&gt;Matt Carter&lt;/a&gt;&amp;rsquo;s &lt;em&gt;Minds and Computers&lt;/em&gt; is &lt;a href=&#34;http://braininavat.net/weblog/archives/000407.html&#34;&gt;launching on April 23&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;(Activity here on the site will be quiet as I attempt to plough through a big teaching load and rather too many work commitments&amp;hellip;)&lt;/p&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>In Banff: Monday, Tuesday, Wednesday, Thursday...</title>
+      <link>http://consequently.github.io/news/2007/02/23/in_banff_monday_tuesday_wednesday_thursday/</link>
+      <pubDate>Fri, 23 Feb 2007 04:50:12 AEDT</pubDate>
+      
+      <guid>http://consequently.github.io/news/2007/02/23/in_banff_monday_tuesday_wednesday_thursday/</guid>
+      <description>&lt;![CDATA[
+
+&lt;p&gt;Liveblogging talks was a bit beyond me, but I&amp;rsquo;ve been keeping up with a few notes on the talks &lt;a href=&#34;http://consequently.org/news/2007/02/20/in_banff/&#34;&gt;here in Banff&lt;/a&gt;.  They&amp;rsquo;re not as extensive as my notes on &lt;a href=&#34;http://consequently.org/news/2007/02/20/in_banff_branden_fitelson_on_formal_epistemology/#commentbox&#34;&gt;Branden&lt;/a&gt; and &lt;a href=&#34;http://consequently.org/news/2007/02/20/in_banff_delia_graff_fara&#34;&gt;Delia&lt;/a&gt;&amp;rsquo;s talks, but they&amp;rsquo;ll give you an idea of the fun we&amp;rsquo;ve been having here.  (After lunch today, there&amp;rsquo;s a batch of five talks, including mine.  I&amp;rsquo;m not sure when I&amp;rsquo;ll be able to write up comments on those, since before dinner I have to catch a shuttle to Calgary to catch a plane early tomorrow morning.)&lt;/p&gt;
+
+&lt;p&gt;So, after the jump, comments on the talks:&lt;/p&gt;
+
+&lt;!-- BREAK --&gt;
+
+&lt;h3 id=&#34;monday-afternoon:4d1a7395d8ca68bc0f86d9ac5ca4086e&#34;&gt;Monday afternoon&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.philosophy.uconn.edu/department/beall/beall.html&#34;&gt;JC Beall&lt;/a&gt; &amp;amp; &lt;a href=&#34;http://philosophy.ucdavis.edu/glanzberg/home.htm&#34;&gt;Michael Glanzberg&lt;/a&gt; &lt;em&gt;&lt;a href=&#34;http://www.ucalgary.ca/~rzach/static/banff/beall-glanzberg.pdf&#34;&gt;Truth and Paradox&lt;/a&gt;&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Apparently, this was a very nice talk, but I wasn&amp;rsquo;t there!  I misread the program, and thought it was at 3pm and not 2pm.  So, I missed out on it.  At least it gave JC a chance to make some jokes at my expense&amp;hellip;  I&amp;rsquo;m looking at the &lt;a href=&#34;http://www.ucalgary.ca/~rzach/static/banff/beall-glanzberg.pdf&#34;&gt;slides&lt;/a&gt; to catch up, since I am &lt;a href=&#34;http://consequently.org/papers/bradwardine-banff-talk.pdf&#34;&gt;talking about&lt;/a&gt; truth and paradoxes too.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://members.cox.net/wehmeier/&#34;&gt;Kai Wehmeier&lt;/a&gt;: &lt;em&gt;Identity is not a relation&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Kai&amp;rsquo;s elegant talk was on Wittgensteinian predicate logic: logic in which distinct variables must denote distinct objects, and in which we do not have an identity predicate.  It seems well suited to introductory logic classes &amp;ndash; or at least, better suited to some untutored judgements about how to say things &amp;ndash; since to say &amp;ldquo;there are two &lt;em&gt;F*s&amp;rdquo; you simply say (&amp;#8707;*x&lt;/em&gt;)(&amp;#8707;&lt;em&gt;y&lt;/em&gt;)(&lt;em&gt;Fx&lt;/em&gt; &amp;amp; &lt;em&gt;Fy&lt;/em&gt;), and we don&amp;rsquo;t require the usual (&lt;em&gt;x&lt;/em&gt; &amp;#8800; &lt;em&gt;y&lt;/em&gt;) conjunct.  Kai looked at how one might extend this logic to include names.  This is a tricky thing to get right.&lt;/p&gt;
+
+&lt;p&gt;This is interesting material.  There are a number of different reasons one might want Wittgensteinian predicate logic: the metaphysical reason (identity just &lt;em&gt;isn&amp;rsquo;t&lt;/em&gt; a relation, as it doesn&amp;rsquo;t &lt;em&gt;relate&lt;/em&gt;), and the linguistic data.  Kai thinks the metaphysical reason is the most interesting one.  That&amp;rsquo;s probably right.   I &lt;em&gt;suspect&lt;/em&gt; parallels with linguistic data will draw you further away from Wittgensteinian logic since it stays quite close to the syntax of classical predicate logic.  I think that the linguistic data is better modelled by including even more &lt;em&gt;dynamic&lt;/em&gt; features in the formal language.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.math.ucla.edu/~ynm/&#34;&gt;Yiannis Moschovakis&lt;/a&gt;: &lt;em&gt;Synonymy&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Yiannis gave a clear talk looking at &lt;a href=&#34;http://www.math.ucla.edu/~ynm/papers/lcmsfinal.pdf&#34;&gt;his development&lt;/a&gt; of the &amp;#955;-calculus with recursion clauses as model or account of &lt;em&gt;sense&lt;/em&gt;, giving an account of synonymy.  The calculus is very elegant: it treats a &lt;em&gt;sense&lt;/em&gt; as an &lt;em&gt;algorithm&lt;/em&gt; for determining a reference (an idea that is common in everyday explanations of the relationship between sense and reference).  One sweet feature of the calculus is that it can distinguish between synonymy or non-synonymy of different paradoxical senses, which have no reference.  The liar algorithm (to check &lt;em&gt;p&lt;/em&gt;, check &lt;em&gt;~p&lt;/em&gt;, to check this, check &lt;em&gt;p&lt;/em&gt;, to check this&amp;hellip;) differs as an algorithm from the truth-teller algorithm (to check &lt;em&gt;p&lt;/em&gt;, check &lt;em&gt;p&lt;/em&gt;, to check this, check &lt;em&gt;p&lt;/em&gt;, to check this&amp;hellip;), even though neither have a reference.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.philosophy.utoronto.ca/people/~byi&#34;&gt;Byeong-Uk Yi&lt;/a&gt;: &lt;em&gt;Is Logic axiomatisable?&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Byeong-Uk talked about compactness and the logic of plurals.  There were lots of examples of arguments that show that if we take plural constructions to be within the scope of logic (and surely, why shouldn&amp;rsquo;t they be?), then we&amp;rsquo;ll have failures of compactness.  (Some arguments with infinitely many premies are not valid if we use any finite subset of those premises.)  The examples are good, though I don&amp;rsquo;t know what to make of them.   I think it will help if we have an idea of what logic is &lt;em&gt;for&lt;/em&gt;, or other ways to demarcate the logical from the non-logical, to see the pros-and-cons of choices concerning compactness and non-compactness.&lt;/p&gt;
+
+&lt;h3 id=&#34;monday-evening:4d1a7395d8ca68bc0f86d9ac5ca4086e&#34;&gt;Monday evening&lt;/h3&gt;
+
+&lt;p&gt;In the evening we had four wonderful short (15 minute!) talks by graduate students: Kate Manne (formerly of Melbourne, now at MIT), on supervaluations; &lt;a href=&#34;http://www.ocf.berkeley.edu/~easwaran/&#34;&gt;Kenny Easwaran&lt;/a&gt; (Berkeley) on probability and dominance reasoning; Eleni Kalyvianaki (Athens) developing Yainnis&amp;rsquo; calculus for meaning, and &lt;a href=&#34;http://homepages.ucalgary.ca/~rurbania/&#34;&gt;Rafal Urbaniak&lt;/a&gt; (Calgary) on Lesniewski&amp;rsquo;s calculus.  All four were slick, elegant and interesting.&lt;/p&gt;
+
+&lt;h3 id=&#34;tuesday-morning:4d1a7395d8ca68bc0f86d9ac5ca4086e&#34;&gt;Tuesday morning&lt;/h3&gt;
+
+&lt;p&gt;Tuesday morning was &lt;a href=&#34;http://www.ucalgary.ca/~rzach/logblog/2007/02/modality-morning.html&#34;&gt;Modality Morning&lt;/a&gt;.  First up:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://kracht.humnet.ucla.edu/marcus/index.html&#34;&gt;Marcus Kracht&lt;/a&gt;: &lt;em&gt;The certain past and possible future of modal logic&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;This was a survey talk: the first part, on propositional modal logic, and the second part, on modal &lt;em&gt;predicate&lt;/em&gt; logic.  Modal predicate logic is &lt;em&gt;hard&lt;/em&gt;, and it&amp;rsquo;s full of philosophical questions.  In the survey, Marcus looked at different options for giving semantics for modal predicate logic. Marcus mentioned the work of Shehtman &amp;amp; Skvortsov  on modal &amp;ldquo;metaframes&amp;rdquo;.  This was new to me.  These metaframes treat don&amp;rsquo;t contain a domain of &amp;lsquo;objects&amp;rsquo; &amp;ndash; the quantifier is treated as another kind of context shift &amp;ndash; between different horizontal &amp;lsquo;slices&amp;rsquo; &amp;ndash; the individual frames. This was interesting.    &lt;a href=&#34;http://kleene.ss.uci.edu/~aldo/&#34;&gt;Aldo&lt;/a&gt; and I had the same thought: another connection between quantifiers and modalities is that quantifiers themselves are &lt;em&gt;families&lt;/em&gt; of modal operators &amp;ndash; one for each variable.  In a frame semantics we should have points of evaluation, and the quantifiers and modalities each shift us around in the frame.  Different conditions give us different interactions between quantifiers and modalities.  It&amp;rsquo;d be nice to get a very general picture of how this works, and when the different accessibility conditions &amp;lsquo;factor out&amp;rsquo; into a domain of worlds and a domain of objects.  For more of Marcus&amp;rsquo;s line on this material, see his paper &amp;ldquo;&lt;a href=&#34;http://www.linguistics.ucla.edu/people/Kracht/html/counterparts.pdf&#34;&gt;Logically Possible Worlds and Counterpart Semantics for Modal Logic&lt;/a&gt;&amp;rdquo; with &lt;a href=&#34;http://www.cs.man.ac.uk/~okutz/&#34;&gt;Oliver Kutz&lt;/a&gt;.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.andrew.cmu.edu/user/awodey/&#34;&gt;Steve Awodey&lt;/a&gt;: &lt;em&gt;&lt;a href=&#34;http://www.ucalgary.ca/~rzach/static/banff/awodey.pdf&#34;&gt;Topological semantics for first-order modal logic&lt;/a&gt;&lt;/em&gt; (joint with &lt;a href=&#34;http://www.pitt.edu/~kok6/&#34;&gt;Kohei Kishida&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;This was a very different talk.  It was not general, but highly specific: Steve presented a very elegant topological (sheaf) semantics for quanitfied S4.  The logic is not complete for the obvious frame semantics.  However, the sheaf semantics is completely natural and completely elegant.  There are &amp;ldquo;worlds&amp;rdquo; (the points in the space underlying the sheaf) and objects (the elements in the fibres), and the objects can generally vary from &amp;ldquo;world&amp;rdquo; to &amp;ldquo;world.&amp;rdquo;  The difference with standard frame semantics comes in the interpretation of the modality: in the natural models it is not intrepreted by an accessibility relation, but generally by a topological interior operator (as is well known in the interpretation of propositional S4 in topological spaces).  The heavy duty mathematics comes from the sheaf theory required to prove completeness.  The &lt;em&gt;result&lt;/em&gt; is elegant.  I have not yet seen the &lt;em&gt;proof&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;The philosophical work will come in the interpretation of these results. What does it &lt;em&gt;mean&lt;/em&gt;?  The exciting technical work comes in the extensions.  For what other systems do techniques like these work? I&amp;rsquo;d love to find out.&lt;/p&gt;
+
+&lt;h3 id=&#34;tuesday-afternoon:4d1a7395d8ca68bc0f86d9ac5ca4086e&#34;&gt;Tuesday afternoon&lt;/h3&gt;
+
+&lt;p&gt;The first two talks in the afternoon were on &lt;em&gt;truth&lt;/em&gt;.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://users.ox.ac.uk/~sfop0114/&#34;&gt;Volker Halbach&lt;/a&gt;: &lt;em&gt;The Kripke-Feferman theory of truth&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Volker explained how the internal and external logic of truth differ for the Kripke&amp;ndash;Feferman (KF) theory of truth.  It&amp;rsquo;s a &lt;em&gt;classical&lt;/em&gt; theory, but what it says about &lt;em&gt;truth&lt;/em&gt; is not classical.  We have &lt;em&gt;A&lt;/em&gt; &amp;#8744; ~&lt;em&gt;A&lt;/em&gt; as a theorem, but we don&amp;rsquo;t have T&lt;em&gt;A&lt;/em&gt; &amp;#8744; T~&lt;em&gt;A&lt;/em&gt;.  One way to make them match up is to &lt;em&gt;weaken&lt;/em&gt; the external logic to be &lt;em&gt;partial&lt;/em&gt;.  Volker showed that doing this would weaken the theory considerably.  It wasn&amp;rsquo;t a part of the paper, but this is an argument for his favoured theory of truth Friedman&amp;ndash;Sheard (FS).&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://homepages.ed.ac.uk/jketland/&#34;&gt;Jeff Ketland&lt;/a&gt;: &lt;em&gt;Truth and Reflection&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;This talk was on the structure of &lt;em&gt;deflationism&lt;/em&gt;, the view that truth is a purely formal notion and not a substantial one. (Whatever that means &amp;ndash; Jeff noted that it&amp;rsquo;s hard to make these much more than slogans.)  One way to make this clearer is to focus on some precise issues.  Should adding a truth predicate be &lt;em&gt;conservative&lt;/em&gt; over a theory without the truth predicate (should it leave the ground-level theory &lt;em&gt;untouched&lt;/em&gt; meaning that you can&amp;rsquo;t prove anything new about the basic theory)?  Should it give you &lt;em&gt;reflection&lt;/em&gt;?  That is, the addition of truth to a theory &lt;em&gt;Th&lt;/em&gt; enable you to prove, relative to that theory, that every claim of that theory is &lt;em&gt;true&lt;/em&gt;?  This seems plausible &amp;ndash; it&amp;rsquo;s just a generalisation of the claim that if &lt;em&gt;A&lt;/em&gt; (in the old theory) then T&lt;em&gt;A&lt;/em&gt;.  Jeff rehearsed the argument why you can&amp;rsquo;t have both conservativity and reflection in general.  Why not?  Take a theory of arithmetic.  If we have reflection, then we can prove that the original theory is consistent (at least if the truth predicate behaves sensibly).  He went on to explain why you want &lt;em&gt;reflection&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;I&amp;rsquo;m not sure what I think about this.  Reflection &lt;em&gt;seems&lt;/em&gt; reasonable, given that we don&amp;rsquo;t have a &lt;em&gt;fixed&lt;/em&gt; favourite (axiomatisable, consistent) theory of arithmetic &amp;ndash; they&amp;rsquo;re all incomplete &amp;ndash; would it be so bad to have a series of theories of arithmetic, of increasing strength, such that when we add a truth predicate to one of the theories in the series, you get another theory in the series.  Is this enough conservativity, and enough reflection?&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.bris.ac.uk/philosophy/department/staff/hl.html&#34;&gt;Hannes Leitgeb&lt;/a&gt;: &lt;em&gt;&lt;a href=&#34;http://www.ucalgary.ca/~rzach/static/banff/leitgeb.pdf&#34;&gt;Applications of mathematics to philosophy: four case studies&lt;/a&gt;&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Hannes Leitgeb has written &lt;a href=&#34;http://www.springerlink.com/content/h7813l8j5g324766/&#34;&gt;many&lt;/a&gt; &lt;a href=&#34;http://www.springerlink.com/content/j85373r152218p0m/&#34;&gt;papers&lt;/a&gt; &lt;a href=&#34;http://www.springerlink.com/content/g2731731994655g3/&#34;&gt;on&lt;/a&gt; &lt;a href=&#34;http://www.springerlink.com/content/mg628jx481l41785/&#34;&gt;tr&lt;/a&gt;&lt;a href=&#34;http://projecteuclid.org/Dienst/UI/1.0/Summarize/euclid.ndjfl/1012429715&#34;&gt;uth&lt;/a&gt;.  But he didn&amp;rsquo;t give talk about truth this time.  Instead we had very-elegant explanations of four (no, five! &amp;ndash; we had a free extra) different ways mathematics can be applied to philosophical problems. It was a great example of Hannes&amp;rsquo;s work.   As Alasdair Urquhart said in conversation, it was very &lt;em&gt;Carnapian&lt;/em&gt; in its optimism for how creative formal theorising can clarify philosophical issues.  It was &lt;em&gt;very&lt;/em&gt; neat.  Go read the &lt;a href=&#34;http://www.ucalgary.ca/~rzach/static/banff/leitgeb.pdf&#34;&gt;slides&lt;/a&gt; to get some idea of the many intresting ideas.&lt;/p&gt;
+
+&lt;p&gt;Yet more to come&amp;hellip;&lt;/p&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>My talk in Banff</title>
+      <link>http://consequently.github.io/news/2007/02/23/my_talk_in_banff/</link>
+      <pubDate>Fri, 23 Feb 2007 03:23:51 AEDT</pubDate>
+      
+      <guid>http://consequently.github.io/news/2007/02/23/my_talk_in_banff/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;I&amp;rsquo;ve finished up the slides for my talk in &lt;a href=&#34;http://consequently.org/news/2007/02/20/in_banff/&#34;&gt;Banff&lt;/a&gt;.  If you&amp;rsquo;re interested, the slides are available here&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;http://consequently.org/papers/bradwardine-banff-talk.pdf&#34;&gt;Modal Models for Bradwardine&amp;rsquo;s Truth&lt;/a&gt; [1.3MB pdf]&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;It&amp;rsquo;s a talk giving a modal logic interpretation for a medieval theory of truth due to Thomas Bradwardine, as it&amp;rsquo;s reconstructed by &lt;a href=&#34;http://www.st-andrews.ac.uk/~slr/read.html&#34;&gt;Stephen Read&lt;/a&gt;.  This will hopefully help out Steve&amp;rsquo;s &lt;a href=&#34;http://www.st-andrews.ac.uk/~slr/medieval.html&#34;&gt;project&lt;/a&gt;, by providing tools for exploring the strength of this kind of theory of truth.&lt;/p&gt;
+
+&lt;p&gt;I&amp;rsquo;ll write up an extended paper version of this after getting comments from the audience.  Since the audience contains people who know a heck of a lot more than me about truth and about modal logic, I&amp;rsquo;m a little more on the anxious side than usual for such things.  Wish me luck!&lt;/p&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>In Banff: Delia Graff Fara</title>
+      <link>http://consequently.github.io/news/2007/02/20/in_banff_delia_graff_fara/</link>
+      <pubDate>Tue, 20 Feb 2007 05:37:33 AEDT</pubDate>
+      
+      <guid>http://consequently.github.io/news/2007/02/20/in_banff_delia_graff_fara/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;The next &lt;a href=&#34;http://consequently.org/news/2007/02/20/in_banff/&#34;&gt;Banff talk&lt;/a&gt; is &lt;a href=&#34;http://www.princeton.edu/~graff/&#34;&gt;Delia Graff Fara&lt;/a&gt;, on &amp;ldquo;Relative identity and de re modality.&amp;rdquo;  She&amp;rsquo;s defending the thesis that material objects are identical to the matter of which they&amp;rsquo;re constituted.  For example, the statue Goliath (&lt;em&gt;G&lt;/em&gt;) is identical to the lump of clay Lumpel (&lt;em&gt;L&lt;/em&gt;).  She wants to allow that &lt;em&gt;L&lt;/em&gt; = &lt;em&gt;G&lt;/em&gt;, while having &lt;em&gt;L&lt;/em&gt; and &lt;em&gt;G&lt;/em&gt; differing in their temporal and modal properties.  So, for example, in the future, a some more clay might become a part of the statue &lt;em&gt;G&lt;/em&gt;, while not becoming a part of the lump of clay &lt;em&gt;L&lt;/em&gt;. The original lump of clay is still present (and is joined by more clay), the original statue is still present, and is now &lt;em&gt;larger&lt;/em&gt;.  You can see why this is desirable: after the addition of more clay, there&amp;rsquo;s still only one statue there, and the old statue did not disappear only to be replaced by a new one.&lt;/p&gt;
+
+&lt;p&gt;Delia wants to preserve the truth of claims that statues don&amp;rsquo;t have all their parts essentially, while portions of matter do have their parts essentially, while holding that statues are identical to portions of matter.  How can we do this?  I find this kind of work interesting, but deeply difficult.  Delia&amp;rsquo;s talk had a fair bit of relatively informal philosophy in it &amp;ndash; it was a discussion of counterpart relations and such critters &amp;ndash; and other participants followed the dialectic more closely than I did.  I always get confused by this kind of problem.  There are other talks at the workshop on quantified modal logic, which will hopefully give me some helpful ideas.&lt;/p&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>In Banff: Branden Fitelson on Formal Epistemology</title>
+      <link>http://consequently.github.io/news/2007/02/20/in_banff_branden_fitelson_on_formal_epistemology/</link>
+      <pubDate>Tue, 20 Feb 2007 03:22:30 AEDT</pubDate>
+      
+      <guid>http://consequently.github.io/news/2007/02/20/in_banff_branden_fitelson_on_formal_epistemology/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;The first talk in &lt;a href=&#34;http://consequently.org/news/2007/02/20/in_banff/&#34;&gt;Banff&lt;/a&gt; is by &lt;a href=&#34;http://fitelson.org&#34;&gt;Branden Fitelson&lt;/a&gt;, who is giving a &amp;lsquo;&lt;a href=&#34;http://fitelson.org/banff_handout.pdf&#34;&gt;&amp;ldquo;Survey&amp;rdquo; of Formal Epistemology: some propaganda, and an example&lt;/a&gt;&amp;rsquo;.  It&amp;rsquo;s a part of the &lt;a href=&#34;http://www.google.com/search?q=formal+epistemology&#34;&gt;general movement&lt;/a&gt; towards &lt;a href=&#34;http://faculty-staff.ou.edu/R/Wayne.D.Riggs-1/epistemology/index.html&#34;&gt;carving out&lt;/a&gt; the discipline of &amp;lsquo;formal epistemology&amp;rsquo;.  It&amp;rsquo;s a partly political talk, recounting the motivation for Formal Epistemology.  He recounted Bob Meyer&amp;rsquo;s manifesto of the &amp;ldquo;Logicians Liberation League.&amp;rdquo;  It&amp;rsquo;s worth recounting the section Branden quoted.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Do not be deceived, Establishment pigs (this means you too, Establishment dogs). The subservience of past generations of logicians does not mean that we shall bear forever our treatment as animals (you barnyard fowl). We are human beings (you swine). You are living in a day when logicians will not any longer endure your taunts, your slurs, your insults (you filthy vermin). In the name of A. N. Whitehead and B. Russell we gather; in the spirit of R. Carnap and A. Tarski, we march; by the word of W. V. O. Quine, we shall prevail. Beware you snakes of the Philosophical Power Structure, which you have created and which you maintain to put down the logician; you have caged the eagle of reason, the dove of wisdom, and the lark of a definite, precisely formulated formal system, with exact formation rules, a recursive set of axioms, and clear and cogent rules of inference, and you have made them your pigeons. Oh, you filterable viruses, we will shake you off and fly once more.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;This manifesto was presented in 1969, but according to Branden it has relevance today: Branden sees &amp;ldquo;Formal Epistemology&amp;rdquo; as the application of formal techniques to broadly epistemological philosophical questions &amp;ndash; and that&amp;rsquo;s pretty broad.  Branden sees it as formal techniques applied to all areas of philosophy other than metaphysics.&lt;/p&gt;
+
+&lt;p&gt;The rest of the talk cashed out a parallel between a &amp;ldquo;relevantist&amp;rdquo; argument against classical deductive logic and the Goodman &amp;ldquo;grue&amp;rdquo; argument against Carnapian inductive logic.  Branded argued that the friend of Carnapian inductive logic can make the same kind of response to the &amp;ldquo;paradoxes of confirmation&amp;rdquo; that the friend of classical logic can against the &amp;ldquo;paradoxes of entailment&amp;rdquo; &amp;ndash; to distinguish entailment/consequence and the constraints on rational inference.  What do you need to do in the case of inductive logic?  It turns on the &lt;em&gt;Requirement of Total Evidence&lt;/em&gt;: that evidential support is always defined only in terms of the total evidence available to the agent in the situation. (I won&amp;rsquo;t rehearse the entire argument here: check &lt;a href=&#34;http://fitelson.org/banff_handout.pdf&#34;&gt;Branden&amp;rsquo;s slides&lt;/a&gt; for the details.)&lt;/p&gt;
+
+&lt;p&gt;This looks right to me.  The interesting issue one has when one rejects a bridge principle like this (between entailment and rational infererence, or between evidential support and the totality of evidence available) is to give an alternative explanation of the tie between the two things thought to be connected by the bridge.  People thought the bridge principle was plausible for a reason.  Those of us (Gilbert Harman in &lt;em&gt;&lt;a href=&#34;http://www.amazon.com/Change-View-Principles-Gilbert-Harman/dp/0262081555/consequentlyorg&#34;&gt;Change in View&lt;/a&gt;&lt;/em&gt;, and JC and me in &lt;em&gt;&lt;a href=&#34;http://www.amazon.com/Logical-Pluralism-J-C-Beall/dp/0199288410/consequentlyorg&#34;&gt;Logical Pluralism&lt;/a&gt;&lt;/em&gt;) have to say something about the connection between deductive consequence and rational inference.  Similarly, Branden (and any defender of an inductive logic) should say something about what bridge principles are plausible and not suspect to these paradoxes.  Branden will be trying out some of these principles in his forthcoming book on inductive logic.&lt;/p&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>In Banff</title>
+      <link>http://consequently.github.io/news/2007/02/20/in_banff/</link>
+      <pubDate>Tue, 20 Feb 2007 02:50:47 AEDT</pubDate>
+      
+      <guid>http://consequently.github.io/news/2007/02/20/in_banff/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;I&amp;rsquo;m in sunny and wintry Banff at the &lt;a href=&#34;http://www.pims.math.ca/birs/birspages.php?task=displayevent&amp;amp;event_id=07w5060&#34;&gt;Mathematical Methods in Philosophy&lt;/a&gt; workshop.  The program is &lt;a href=&#34;http://www.pims.math.ca/birs/workshops/2007/07w5060/Programme07w5060.pdf&#34;&gt;very full&lt;/a&gt;, and I won&amp;rsquo;t be able to report on &lt;em&gt;everything&lt;/em&gt; going on here.  (Heck, I haven&amp;rsquo;t even reported back from our time in India, despite &lt;a href=&#34;http://consequently.org/news/2006/12/19/off_to_india/&#34;&gt;popular demand&lt;/a&gt;.)  So, please let me give my apologies in advance if youre talk doesn&amp;rsquo;t get reported here.  It&amp;rsquo;s probably because I was so interested in it I had to &lt;em&gt;think&lt;/em&gt; and not blog.&lt;/p&gt;
+]]></description>
+    </item>
+    
   </channel>
 </rss>
