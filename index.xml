@@ -26,7 +26,7 @@
     <language>en-us</language>
     
     
-    <updated>Wed, 04 Feb 2015 14:38:45 AEDT</updated>
+    <updated>Wed, 04 Feb 2015 14:45:53 AEDT</updated>
 
 
 <item>
@@ -266,17 +266,6 @@
 </item>
     
 <item>
-<title>PHIL10003: Philosophy, the Great Thinkers</title>
-<link>http://consequently.github.io/class/2014/PHIL10003/</link>
-<pubDate>Sat, 31 Jan 2015 00:00:00 UTC</pubDate>
-<guid>http://consequently.github.io/class/2014/PHIL10003/</guid>
-<description>&lt;p&gt;&lt;strong&gt;PHIL10003: Philosophy, the Great Thinkers&lt;/strong&gt; is a &lt;a href=&#34;http://unimelb.edu.au&#34;&gt;University of Melbourne&lt;/a&gt; undergraduate subject, introducing philosophy to students through close readings of core texts. I taught with Dr. Chris Cordner and Dr. Ruth Boeker. In my classes, we looked at David Hume&amp;rsquo; &lt;a href=&#34;http://davidhume.org/texts/dnr.html&#34;&gt;&lt;em&gt;Dialogues Concerning Natural Religion&lt;/em&gt;&lt;/a&gt; and &lt;a href=&#34;https://ebooks.adelaide.edu.au/h/hume/david/h92n/contents.html&#34;&gt;&lt;em&gt;Natural History of Religion&lt;/em&gt;&lt;/a&gt;, with some side trips into hume&amp;rsquo;s &lt;a href=&#34;http://davidhume.org/texts/ehu.html&#34;&gt;&lt;em&gt;Enquiry&lt;/em&gt;&lt;/a&gt;, and some Marx, Wittgenstein for good measure.&lt;/p&gt;
-
-&lt;p&gt;The subject was taught to University of Melbourne undergraduate students (for Arts students as a part of the Philosophy major, for non-Arts students, as a breadth subject). Details for enrolment are &lt;a href=&#34;https://handbook.unimelb.edu.au/view/2014/PHIL10003&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
-</description>
-</item>
-    
-<item>
 <title>PHIL30043: The Power and Limits of Logic</title>
 <link>http://consequently.github.io/class/2014/PHIL30043/</link>
 <pubDate>Sat, 31 Jan 2015 00:00:00 UTC</pubDate>
@@ -284,6 +273,17 @@
 <description>&lt;p&gt;&lt;strong&gt;PHIL30043: The Power and Limits of Logic&lt;/strong&gt; is a &lt;a href=&#34;http://unimelb.edu.au&#34;&gt;University of Melbourne&lt;/a&gt; undergraduate subject. It covers the metatheory of classical first order predicate logic, beginning at the &lt;em&gt;Soundness&lt;/em&gt; and &lt;em&gt;Completeness&lt;/em&gt; Theorems (proved not once but &lt;em&gt;twice&lt;/em&gt;, first for a tableaux proof system for predicate logic, then a Hilbert proof system), through the &lt;em&gt;Deduction Theorem&lt;/em&gt;, &lt;em&gt;Compactness&lt;/em&gt;, &lt;em&gt;Cantor&amp;rsquo;s Theorem&lt;/em&gt;, the &lt;em&gt;Downward L&amp;ouml;wenheim&amp;ndash;Skolem Theorem&lt;/em&gt;, &lt;em&gt;Recursive Functions&lt;/em&gt;, &lt;em&gt;Register Machines&lt;/em&gt;, &lt;em&gt;Representability&lt;/em&gt; and ending up at &lt;em&gt;G&amp;ouml;del&amp;rsquo;s Incompleteness Theorems&lt;/em&gt; and &lt;em&gt;L&amp;ouml;b&amp;rsquo;s Theorem&lt;/em&gt;.&lt;/p&gt;
 
 &lt;p&gt;The subject was taught to University of Melbourne undergraduate students (for Arts students as a part of the Philosophy major, for non-Arts students, as a breadth subject). Details for enrolment are &lt;a href=&#34;https://handbook.unimelb.edu.au/view/2014/PHIL30043&#34;&gt;here&lt;/a&gt;. I made use of video lectures I have made &lt;a href=&#34;http://vimeo.com/album/2262409&#34;&gt;freely available on Vimeo&lt;/a&gt;.&lt;/p&gt;
+</description>
+</item>
+    
+<item>
+<title>PHIL10003: Philosophy, the Great Thinkers</title>
+<link>http://consequently.github.io/class/2014/PHIL10003/</link>
+<pubDate>Sat, 31 Jan 2015 00:00:00 UTC</pubDate>
+<guid>http://consequently.github.io/class/2014/PHIL10003/</guid>
+<description>&lt;p&gt;&lt;strong&gt;PHIL10003: Philosophy, the Great Thinkers&lt;/strong&gt; is a &lt;a href=&#34;http://unimelb.edu.au&#34;&gt;University of Melbourne&lt;/a&gt; undergraduate subject, introducing philosophy to students through close readings of core texts. I taught with Dr. Chris Cordner and Dr. Ruth Boeker. In my classes, we looked at David Hume&amp;rsquo; &lt;a href=&#34;http://davidhume.org/texts/dnr.html&#34;&gt;&lt;em&gt;Dialogues Concerning Natural Religion&lt;/em&gt;&lt;/a&gt; and &lt;a href=&#34;https://ebooks.adelaide.edu.au/h/hume/david/h92n/contents.html&#34;&gt;&lt;em&gt;Natural History of Religion&lt;/em&gt;&lt;/a&gt;, with some side trips into hume&amp;rsquo;s &lt;a href=&#34;http://davidhume.org/texts/ehu.html&#34;&gt;&lt;em&gt;Enquiry&lt;/em&gt;&lt;/a&gt;, and some Marx, Wittgenstein for good measure.&lt;/p&gt;
+
+&lt;p&gt;The subject was taught to University of Melbourne undergraduate students (for Arts students as a part of the Philosophy major, for non-Arts students, as a breadth subject). Details for enrolment are &lt;a href=&#34;https://handbook.unimelb.edu.au/view/2014/PHIL10003&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
 </item>
     
@@ -501,6 +501,15 @@
 </item>
     
 <item>
+<title>On the ternary relation and conditionality</title>
+<link>http://consequently.github.io/writing/ternary-cond/</link>
+<pubDate>Thu, 02 Feb 2012 00:00:00 UTC</pubDate>
+<guid>http://consequently.github.io/writing/ternary-cond/</guid>
+<description>&lt;p&gt;One of the most dominant approaches to semantics for relevant (and many paraconsistent) logics is the Routley–Meyer semantics involving a ternary relation on points. To some (many?), this ternary relation has seemed like a technical trick devoid of an intuitively appealing philosophical story that connects it up with conditionality in general. In this paper, we respond to this worry by providing three different philosophical accounts of the ternary relation that correspond to three conceptions of conditionality. We close by briefly discussing a general conception of conditionality that may unify the three given conceptions.&lt;/p&gt;
+</description>
+</item>
+    
+<item>
 <title>Molinism and the Thin Red Line</title>
 <link>http://consequently.github.io/writing/molinism-trl/</link>
 <pubDate>Sun, 01 Jan 2012 00:00:00 UTC</pubDate>
@@ -612,15 +621,6 @@
 <pubDate>Wed, 03 Mar 2010 00:00:00 UTC</pubDate>
 <guid>http://consequently.github.io/writing/relevant_agents/</guid>
 <description>&lt;p&gt;Majer and Peli&amp;scaron; have proposed a relevant logic for epistemic agents, providing a novel extension of the relevant logic R with a distinctive epistemic modality K, which is at the one and the same time factive (K&amp;phi; &amp;rarr; &amp;phi; is a theorem) and an existential normal modal operator (K(&amp;phi; &amp;or; &amp;psi;) &amp;rarr; (K&amp;phi; &amp;or; K&amp;psi;) is also a theorem). The intended interpretation is that K&amp;phi; holds (relative to a situation s) if there is a resource available at s, confirming &amp;phi;. In this article we expand the class of models to the broader class of &amp;lsquo;general epistemic frames&amp;rsquo;. With this generalisation we provide a sound and complete axiomatisation for the logic of general relevant epistemic frames. We also show, that each of the modal axioms characterises some natural subclasses of general frames.&lt;/p&gt;
-</description>
-</item>
-    
-<item>
-<title>On t and u, and what they can do</title>
-<link>http://consequently.github.io/writing/on_t_and_u/</link>
-<pubDate>Tue, 16 Feb 2010 00:00:00 UTC</pubDate>
-<guid>http://consequently.github.io/writing/on_t_and_u/</guid>
-<description>&lt;p&gt;This paper shows that once we have propositional constants &lt;em&gt;t&lt;/em&gt; (the conjunction of all truths) and &lt;em&gt;u&lt;/em&gt; (the disjunction of all untruths), paradox ensues, provided you have a conditional in the language strong enough to give you &lt;em&gt;modus ponens&lt;/em&gt;.  This is an issue for views like those of Jc Beall, Ross Brady, Hartry Field and Graham Priest.&lt;/p&gt;
 </description>
 </item>
     

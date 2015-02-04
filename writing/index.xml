@@ -182,6 +182,17 @@
     
  
     <item>
+      <title>On the ternary relation and conditionality</title>
+      <link>http://consequently.github.io/writing/ternary-cond/</link>
+      <pubDate>Thu, 02 Feb 2012 00:00:00 UTC</pubDate>
+      
+      <guid>http://consequently.github.io/writing/ternary-cond/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;One of the most dominant approaches to semantics for relevant (and many paraconsistent) logics is the Routley–Meyer semantics involving a ternary relation on points. To some (many?), this ternary relation has seemed like a technical trick devoid of an intuitively appealing philosophical story that connects it up with conditionality in general. In this paper, we respond to this worry by providing three different philosophical accounts of the ternary relation that correspond to three conceptions of conditionality. We close by briefly discussing a general conception of conditionality that may unify the three given conceptions.&lt;/p&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
       <title>Molinism and the Thin Red Line</title>
       <link>http://consequently.github.io/writing/molinism-trl/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 UTC</pubDate>
@@ -493,6 +504,19 @@ I think I didn&#39;t get it wrong, but figuring out &lt;em&gt;why&lt;/em&gt; it&
       
       <guid>http://consequently.github.io/writing/symbolic-logic/</guid>
       <description>&lt;![CDATA[&lt;p&gt;1007 words on symbolic logic &amp;ndash; concentrating on the history of 20th Century logic, aimed at an audience of social scientists&lt;/p&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>Proof Theory and Meaning: on second order logic</title>
+      <link>http://consequently.github.io/writing/ptm-second-order/</link>
+      <pubDate>Sat, 03 Mar 2007 00:00:00 UTC</pubDate>
+      
+      <guid>http://consequently.github.io/writing/ptm-second-order/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;Second order quantification is puzzling. The second order quantifiers have natural and compelling inference rules, and they also have natural models. These do not match: the inference rules are sound for the models, but not complete, so either the proof rules are too weak or the models are too strong. Some, such as Quine, take this to be no real problem, since they take &amp;ldquo;second order logic&amp;rdquo; to be a misnomer. It is not logic but set theory in sheep&amp;rsquo;s clothing, so one would not expect to have a sound and complete axiomatisation of the theory.&lt;/p&gt;
+
+&lt;p&gt;I think that this judgement is incorrect, and in this paper I attempt to explain why. I show how on Nuel Belnap&amp;rsquo;s criterion for logicality, second order quantification can count as properly logic so-called, since the quantifiers are properly defined by their inference rules, and the addition of second order quantification to a basic language is conservative. With this notion of logicality in hand I then diagnose the incompleteness of the proof theory of second order logic in what seems to be a novel way.&lt;/p&gt;
 ]]></description>
     </item>
     
@@ -1707,30 +1731,6 @@ taking minimalism seriously, and that objections to this position may be usefull
       
       <guid>http://consequently.github.io/writing/nstlp/</guid>
       <description>&lt;![CDATA[&lt;p&gt;My first publication. It stems from work I did in my Honours year (1989) with Graham Priest, on paraconsistent logic. I explain a particularly simple yet powerful technique for constructing models of naïve set theory in the paraconsistent logic &lt;strong&gt;LP&lt;/strong&gt;. This can be used to show the consistency of the theory, and to construct models invalidating some of the axioms of ZFC.&lt;/p&gt;
-]]></description>
-    </item>
-    
- 
-    <item>
-      <title>Proof Theory and Meaning: on second order logic</title>
-      <link>http://consequently.github.io/writing/ptm-second-order/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-      
-      <guid>http://consequently.github.io/writing/ptm-second-order/</guid>
-      <description>&lt;![CDATA[&lt;p&gt;Second order quantification is puzzling. The second order quantifiers have natural and compelling inference rules, and they also have natural models. These do not match: the inference rules are sound for the models, but not complete, so either the proof rules are too weak or the models are too strong. Some, such as Quine, take this to be no real problem, since they take &amp;ldquo;second order logic&amp;rdquo; to be a misnomer. It is not logic but set theory in sheep&amp;rsquo;s clothing, so one would not expect to have a sound and complete axiomatisation of the theory.&lt;/p&gt;
-
-&lt;p&gt;I think that this judgement is incorrect, and in this paper I attempt to explain why. I show how on Nuel Belnap&amp;rsquo;s criterion for logicality, second order quantification can count as properly logic so-called, since the quantifiers are properly defined by their inference rules, and the addition of second order quantification to a basic language is conservative. With this notion of logicality in hand I then diagnose the incompleteness of the proof theory of second order logic in what seems to be a novel way.&lt;/p&gt;
-]]></description>
-    </item>
-    
- 
-    <item>
-      <title>On the ternary relation and conditionality</title>
-      <link>http://consequently.github.io/writing/ternary-cond/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-      
-      <guid>http://consequently.github.io/writing/ternary-cond/</guid>
-      <description>&lt;![CDATA[&lt;p&gt;One of the most dominant approaches to semantics for relevant (and many paraconsistent) logics is the Routley–Meyer semantics involving a ternary relation on points. To some (many?), this ternary relation has seemed like a technical trick devoid of an intuitively appealing philosophical story that connects it up with conditionality in general. In this paper, we respond to this worry by providing three different philosophical accounts of the ternary relation that correspond to three conceptions of conditionality. We close by briefly discussing a general conception of conditionality that may unify the three given conceptions.&lt;/p&gt;
 ]]></description>
     </item>
     

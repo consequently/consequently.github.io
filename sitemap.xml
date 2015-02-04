@@ -103,12 +103,12 @@
   </url>
   
   <url>
-    <loc>http://consequently.github.io/class/2014/PHIL10003/</loc>
+    <loc>http://consequently.github.io/class/2014/PHIL30043/</loc>
     <lastmod>2014-07-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://consequently.github.io/class/2014/PHIL30043/</loc>
+    <loc>http://consequently.github.io/class/2014/PHIL10003/</loc>
     <lastmod>2014-07-28T00:00:00+00:00</lastmod>
   </url>
   
@@ -195,6 +195,11 @@
   <url>
     <loc>http://consequently.github.io/writing/hlc/</loc>
     <lastmod>2012-03-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://consequently.github.io/writing/ternary-cond/</loc>
+    <lastmod>2012-02-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -539,6 +544,11 @@
   
   <url>
     <loc>http://consequently.github.io/writing/symbolic-logic/</loc>
+    <lastmod>2007-03-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://consequently.github.io/writing/ptm-second-order/</loc>
     <lastmod>2007-03-03T00:00:00+00:00</lastmod>
   </url>
   
@@ -2145,16 +2155,6 @@
   <url>
     <loc>http://consequently.github.io/writing/nstlp/</loc>
     <lastmod>1992-03-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://consequently.github.io/writing/ternary-cond/</loc>
-    <lastmod>0001-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://consequently.github.io/writing/ptm-second-order/</loc>
-    <lastmod>0001-01-01T00:00:00+00:00</lastmod>
   </url>
   
 </urlset>
