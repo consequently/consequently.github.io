@@ -96,17 +96,6 @@
 </item>
     
 <item>
-<title>PHIL30043: The Power and Limits of Logic</title>
-<link>http://consequently.github.io/class/2015/PHIL30043/</link>
-<pubDate>Sat, 31 Jan 2015 00:00:00 UTC</pubDate>
-<guid>http://consequently.github.io/class/2015/PHIL30043/</guid>
-<description>&lt;p&gt;&lt;strong&gt;&lt;span class=&#34;caps&#34;&gt;PHIL30043&lt;/span&gt;: The Power and Limits of Logic&lt;/strong&gt; is a &lt;a href=&#34;http://unimelb.edu.au&#34;&gt;University of Melbourne&lt;/a&gt; undergraduate subject. It covers the metatheory of classical first order predicate logic, beginning at the &lt;em&gt;Soundness&lt;/em&gt; and &lt;em&gt;Completeness&lt;/em&gt; Theorems (proved not once but &lt;em&gt;twice&lt;/em&gt;, first for a tableaux proof system for predicate logic, then a Hilbert proof system), through the &lt;em&gt;Deduction Theorem&lt;/em&gt;, &lt;em&gt;Compactness&lt;/em&gt;, &lt;em&gt;Cantor&amp;rsquo;s Theorem&lt;/em&gt;, the &lt;em&gt;Downward L&amp;ouml;wenheim&amp;ndash;Skolem Theorem&lt;/em&gt;, &lt;em&gt;Recursive Functions&lt;/em&gt;, &lt;em&gt;Register Machines&lt;/em&gt;, &lt;em&gt;Representability&lt;/em&gt; and ending up at &lt;em&gt;G&amp;ouml;del&amp;rsquo;s Incompleteness Theorems&lt;/em&gt; and &lt;em&gt;L&amp;ouml;b&amp;rsquo;s Theorem&lt;/em&gt;.&lt;/p&gt;
-
-&lt;p&gt;The sunject is taught to University of Melbourne undergraduate students (for Arts students as a part of the Philosophy major, for non-Arts students, as a breadth subject). Details for enrolment are &lt;a href=&#34;https://handbook.unimelb.edu.au/view/2015/PHIL30043&#34;&gt;here&lt;/a&gt;. I make use of video lectures I have made &lt;a href=&#34;http://vimeo.com/album/2262409&#34;&gt;freely available on Vimeo&lt;/a&gt;.&lt;/p&gt;
-</description>
-</item>
-    
-<item>
 <title>UNIB10002: Logic, Language and Information</title>
 <link>http://consequently.github.io/class/2015/UNIB10002/</link>
 <pubDate>Sat, 31 Jan 2015 00:00:00 UTC</pubDate>
@@ -114,6 +103,17 @@
 <description>&lt;p&gt;&lt;strong&gt;&lt;span class=&#34;caps&#34;&gt;UNIB10002&lt;/span&gt;: Logic, Language and Information&lt;/strong&gt; is a &lt;a href=&#34;http://unimelb.edu.au&#34;&gt;University of Melbourne&lt;/a&gt; undergraduate breadth subject, introducing logic and its applications to students from a broad range of disciplines in the Arts, Sciences and Engineering. I coordinate this subject with my colleague Dr. Jen Davoren, with help from Dr. Lesley Stirling and Dr. Peter Schachte.&lt;/p&gt;
 
 &lt;p&gt;The subject is taught to University of Melbourne undergraduate students. Details for enrolment are &lt;a href=&#34;https://handbook.unimelb.edu.au/view/2014/UNIB10002&#34;&gt;here&lt;/a&gt;. We teach this in a &amp;lsquo;flipped classroom&amp;rsquo; model, using resources from our Coursera subjects &lt;a href=&#34;http://consequently.github.io/class/2015/logic1_coursera&#34;&gt;Logic 1&lt;/a&gt; and &lt;a href=&#34;http://consequently.github.io/class/2015/logic2_coursera&#34;&gt;Logic 2&lt;/a&gt;.&lt;/p&gt;
+</description>
+</item>
+    
+<item>
+<title>PHIL30043: The Power and Limits of Logic</title>
+<link>http://consequently.github.io/class/2015/PHIL30043/</link>
+<pubDate>Sat, 31 Jan 2015 00:00:00 UTC</pubDate>
+<guid>http://consequently.github.io/class/2015/PHIL30043/</guid>
+<description>&lt;p&gt;&lt;strong&gt;&lt;span class=&#34;caps&#34;&gt;PHIL30043&lt;/span&gt;: The Power and Limits of Logic&lt;/strong&gt; is a &lt;a href=&#34;http://unimelb.edu.au&#34;&gt;University of Melbourne&lt;/a&gt; undergraduate subject. It covers the metatheory of classical first order predicate logic, beginning at the &lt;em&gt;Soundness&lt;/em&gt; and &lt;em&gt;Completeness&lt;/em&gt; Theorems (proved not once but &lt;em&gt;twice&lt;/em&gt;, first for a tableaux proof system for predicate logic, then a Hilbert proof system), through the &lt;em&gt;Deduction Theorem&lt;/em&gt;, &lt;em&gt;Compactness&lt;/em&gt;, &lt;em&gt;Cantor&amp;rsquo;s Theorem&lt;/em&gt;, the &lt;em&gt;Downward L&amp;ouml;wenheim&amp;ndash;Skolem Theorem&lt;/em&gt;, &lt;em&gt;Recursive Functions&lt;/em&gt;, &lt;em&gt;Register Machines&lt;/em&gt;, &lt;em&gt;Representability&lt;/em&gt; and ending up at &lt;em&gt;G&amp;ouml;del&amp;rsquo;s Incompleteness Theorems&lt;/em&gt; and &lt;em&gt;L&amp;ouml;b&amp;rsquo;s Theorem&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;The sunject is taught to University of Melbourne undergraduate students (for Arts students as a part of the Philosophy major, for non-Arts students, as a breadth subject). Details for enrolment are &lt;a href=&#34;https://handbook.unimelb.edu.au/view/2015/PHIL30043&#34;&gt;here&lt;/a&gt;. I make use of video lectures I have made &lt;a href=&#34;http://vimeo.com/album/2262409&#34;&gt;freely available on Vimeo&lt;/a&gt;.&lt;/p&gt;
 </description>
 </item>
     
@@ -354,6 +354,15 @@
 </item>
     
 <item>
+<title>PHIL40007: Philosophy of Language and Mind</title>
+<link>http://consequently.github.io/class/2014/PHIL40007/</link>
+<pubDate>Sat, 31 Jan 2015 00:00:00 UTC</pubDate>
+<guid>http://consequently.github.io/class/2014/PHIL40007/</guid>
+<description>&lt;p&gt;&lt;strong&gt;PHIL40007: Philosophy of Language and Mind&lt;/strong&gt; is a &lt;a href=&#34;http://unimelb.edu.au&#34;&gt;University of Melbourne&lt;/a&gt; honours seminar subject for fourth-year students. Our aim in the Honours program is to introduce students to current work in research in Philosophy. In 2014, I introduced the students to the normative pragmatism and inferentialism of Robert Brandom, through a close reading of his book &lt;a href=&#34;http://www.amazon.com/Articulating-Reasons-An-Introduction-Inferentialism/dp/0674006925/consequentlyorg&#34;&gt;&lt;em&gt;Articulating Reasons&lt;/em&gt;&lt;/a&gt; and related literature.&lt;/p&gt;
+</description>
+</item>
+    
+<item>
 <title>PHIL20030: Meaning, Possibility and Paradox</title>
 <link>http://consequently.github.io/class/2014/PHIL20030/</link>
 <pubDate>Sat, 31 Jan 2015 00:00:00 UTC</pubDate>
@@ -367,15 +376,6 @@
 &lt;p&gt;The subject serves as an introduction to ways that logic is applied in the study of language, epistemology and metaphysics, so it is useful to those who already know some philosophy and would like to see how logic relates to those issues. It is also useful to those who already know some logic and would like to learn new logical techniques and see how these techniques can be applied.&lt;/p&gt;
 
 &lt;p&gt;In 2014, Dr Rohan French taught the bulk of this subject, using materials that he and I developed. We made use of video lectures I have made &lt;a href=&#34;http://vimeo.com/album/2470375&#34;&gt;freely available on Vimeo&lt;/a&gt;.&lt;/p&gt;
-</description>
-</item>
-    
-<item>
-<title>PHIL40007: Philosophy of Language and Mind</title>
-<link>http://consequently.github.io/class/2014/PHIL40007/</link>
-<pubDate>Sat, 31 Jan 2015 00:00:00 UTC</pubDate>
-<guid>http://consequently.github.io/class/2014/PHIL40007/</guid>
-<description>&lt;p&gt;&lt;strong&gt;PHIL40007: Philosophy of Language and Mind&lt;/strong&gt; is a &lt;a href=&#34;http://unimelb.edu.au&#34;&gt;University of Melbourne&lt;/a&gt; honours seminar subject for fourth-year students. Our aim in the Honours program is to introduce students to current work in research in Philosophy. In 2014, I introduced the students to the normative pragmatism and inferentialism of Robert Brandom, through a close reading of his book &lt;a href=&#34;http://www.amazon.com/Articulating-Reasons-An-Introduction-Inferentialism/dp/0674006925/consequentlyorg&#34;&gt;&lt;em&gt;Articulating Reasons&lt;/em&gt;&lt;/a&gt; and related literature.&lt;/p&gt;
 </description>
 </item>
     
@@ -563,7 +563,7 @@
 
 &lt;li&gt;&lt;p&gt;I&amp;rsquo;ve been writing. Doing lots of writing.  You&amp;rsquo;ll see a few changes on the &lt;a href=&#34;http://consequently.org/writing&#34;&gt;writing&lt;/a&gt; page. I&amp;rsquo;m most happy with the new paper &amp;ldquo;&lt;a href=&#34;http://consequently.org/writing/cfss2dml/&#34;&gt;A Cut-Free Sequent System for Two-Dimensional Modal Logic: and why it matters&lt;/a&gt;.&amp;rdquo; There&amp;rsquo;s a little philosophy there, and a little proof theory, too. It&amp;rsquo;s not too long (just 24 pages), and I&amp;rsquo;d appreciate your comments. Head over to the &lt;a href=&#34;http://consequently.org/writing/cfss2dml/&#34;&gt;paper page&lt;/a&gt; to download the paper and post your comments.  (Make sure you admire the in-line diagrams on page 16. That&amp;rsquo;s LaTeX, with no postprocessing.)&lt;/p&gt;&lt;/li&gt;
 
-&lt;li&gt;&lt;p&gt;My next travels involve a trip to Guangzhou to take part in &lt;a href=&#34;http://www.math.helsinki.fi/logic/sellc-2010/&#34;&gt;SELLC 2010&lt;/a&gt;. That&amp;rsquo;s going to be a blast, helping teach a Winter School to a bunch of enthusiastic students, and with a great slate of lecturers. It&amp;rsquo;ll be good to catch up with Samson, Robin, Mehrnoosh and Dag, and to meet the rest of the lecturers, as well as my colleagues at the &lt;a href=&#34;http://logic.sysu.edu.cn/english/Index.asp&#34;&gt;ILC&lt;/a&gt; at Sun Yat-Sen University.  On the way home from Guangzhou, I&amp;rsquo;ll take a quick side trip to Boston for the Eastern APA, to contribute to a session on the future of logic, with &lt;a href=&#34;http://www.umiacs.umd.edu/~horty/&#34;&gt;John Horty&lt;/a&gt; and &lt;a href=&#34;http://staff.science.uva.nl/~johan/&#34;&gt;Johan van Benthem&lt;/a&gt;.  What fun!  This will be my first ever APA, so if you have any advice for an APA neophyte, do let me know.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;My next travels involve a trip to Guangzhou to take part in &lt;span class=&#34;caps&#34;&gt;&lt;a href=&#34;http://www.math.helsinki.fi/logic/sellc-2010/&#34;&gt;SELLC 2010&lt;/a&gt;&lt;/span&gt;. That&amp;rsquo;s going to be a blast, helping teach a Winter School to a bunch of enthusiastic students, and with a great slate of lecturers. It&amp;rsquo;ll be good to catch up with Samson, Robin, Mehrnoosh and Dag, and to meet the rest of the lecturers, as well as my colleagues at the &lt;span class=&#34;caps&#34;&gt;&lt;a href=&#34;http://logic.sysu.edu.cn/english/Index.asp&#34;&gt;ILC&lt;/a&gt;&lt;/span&gt; at Sun Yat-Sen University.  On the way home from Guangzhou, I&amp;rsquo;ll take a quick side trip to Boston for the Eastern &lt;span class=&#34;caps&#34;&gt;APA&lt;/span&gt;, to contribute to a session on the future of logic, with &lt;a href=&#34;http://www.umiacs.umd.edu/~horty/&#34;&gt;John Horty&lt;/a&gt; and &lt;a href=&#34;http://staff.science.uva.nl/~johan/&#34;&gt;Johan van Benthem&lt;/a&gt;.  What fun!  This will be my first ever &lt;span class=&#34;caps&#34;&gt;APA&lt;/span&gt;, so if you have any advice for an &lt;span class=&#34;caps&#34;&gt;APA&lt;/span&gt; neophyte, do let me know.&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
 </item>
@@ -6669,6 +6669,15 @@ The sequent system is cut-free and the circuit proofs are normalising.&lt;/p&gt;
 </item>
     
 <item>
+<title>Paraconsistent Logics!</title>
+<link>http://consequently.github.io/writing/plog/</link>
+<pubDate>Fri, 03 Mar 1995 00:00:00 UTC</pubDate>
+<guid>http://consequently.github.io/writing/plog/</guid>
+<description>&lt;p&gt;I respond to an interesting argument of Hartley Slater to the effect that there is no such thing as paraconsistent logic. Slater argues that since paraconsistent logics involve interpreting a sentence and its negation as both true at points in a model structure, it is not really &lt;em&gt;negation&lt;/em&gt; that is being modelled, since negation is meant to be a contradictory forming operator. I sketch how different paraconsistentists can respond to his argument, and I then defend my own response, that although contradictions are indeed never true (and &lt;em&gt;cannot&lt;/em&gt; be true) it does not follow that a semantics ought not evaluate them as true in certain models.&lt;/p&gt;
+</description>
+</item>
+    
+<item>
 <title>Paraconsistency Everywhere</title>
 <link>http://consequently.github.io/writing/pev/</link>
 <pubDate>Fri, 03 Mar 1995 00:00:00 UTC</pubDate>
@@ -6691,15 +6700,6 @@ repugnant because they countenance inconsistencies is undercut.   Many well-unde
 as well.&lt;/p&gt;
 
 &lt;p&gt;(This paper was published in 2004, despite the apparent date of 2002 in the citation.  The tale is told in more detail &lt;a href=&#34;http://consequently.org/news/2004/03/24/research_quantification&#34;&gt;here&lt;/a&gt;.)&lt;/p&gt;
-</description>
-</item>
-    
-<item>
-<title>Paraconsistent Logics!</title>
-<link>http://consequently.github.io/writing/plog/</link>
-<pubDate>Fri, 03 Mar 1995 00:00:00 UTC</pubDate>
-<guid>http://consequently.github.io/writing/plog/</guid>
-<description>&lt;p&gt;I respond to an interesting argument of Hartley Slater to the effect that there is no such thing as paraconsistent logic. Slater argues that since paraconsistent logics involve interpreting a sentence and its negation as both true at points in a model structure, it is not really &lt;em&gt;negation&lt;/em&gt; that is being modelled, since negation is meant to be a contradictory forming operator. I sketch how different paraconsistentists can respond to his argument, and I then defend my own response, that although contradictions are indeed never true (and &lt;em&gt;cannot&lt;/em&gt; be true) it does not follow that a semantics ought not evaluate them as true in certain models.&lt;/p&gt;
 </description>
 </item>
     
