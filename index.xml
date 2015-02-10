@@ -26,7 +26,7 @@
     <language>en-us</language>
     
     
-    <updated>Tue, 10 Feb 2015 14:58:46 AEDT</updated>
+    <updated>Tue, 10 Feb 2015 15:00:28 AEDT</updated>
 
 
 <item>
@@ -588,15 +588,6 @@
 </item>
     
 <item>
-<title>History of Logical Consequence</title>
-<link>http://consequently.org/writing/hlc/</link>
-<pubDate>Sat, 03 Mar 2012 00:00:00 UTC</pubDate>
-<guid>http://consequently.org/writing/hlc/</guid>
-<description>&lt;p&gt;Consequence is &lt;em&gt;a&lt;/em&gt;, if not &lt;em&gt;the&lt;/em&gt;, core subject matter of logic. Aristotle&amp;rsquo;s study of the syllogism instigated the task of categorising arguments into the logically good and the logically bad; the task remains an essential element of the study of logic. In this essay, we give a quick history of the way logical consequence has been studied from Aristotle to the present day.&lt;/p&gt;
-</description>
-</item>
-    
-<item>
 <title>Interpreting and Applying Proof Theories for Modal Logics</title>
 <link>http://consequently.org/writing/interp-apply-ptml/</link>
 <pubDate>Sat, 03 Mar 2012 00:00:00 UTC</pubDate>
@@ -606,6 +597,15 @@
 &lt;p&gt;The distinctive feature for the modal operators in contemporary proof systems for modal logics is that the step introducing or eliminating 􏰅􏰅&amp;#x25A1;&amp;#x10FC05;A is at the cost of introducing or eliminating some kind of extra structure in the proof. In this way, the proof rules for modal concepts such as 􏰅􏰅&amp;#x25A1;&amp;#x10FC05; run in parallel with the truth conditions for these concepts in a Kripke model, in which the truth of 􏰅􏰅&amp;#x25A1;&amp;#x10FC05;A stands or falls with the truth of A, but at the cost of checking that truth elsewhere, at points in the model accessible from the point at which 􏰅􏰅&amp;#x25A1;&amp;#x10FC05;A is evaluated.&lt;/p&gt;
 
 &lt;p&gt;In this paper we will introduce these recent advances in proof theory for a general audience, and then we will show how they are connected  with different—metaphysical and epistemic—conceptions of modality. We will show that these different pictures are nothing but different ways of connecting the statement 􏰅􏰅&amp;#x25A1;&amp;#x10FC05;A with the statement A, of showing the significance of modalising. In the light of this result we will draw conclusions about the link between analyticity and modality, and about the nature of a proof system for modal logics.&lt;/p&gt;
+</description>
+</item>
+    
+<item>
+<title>History of Logical Consequence</title>
+<link>http://consequently.org/writing/hlc/</link>
+<pubDate>Sat, 03 Mar 2012 00:00:00 UTC</pubDate>
+<guid>http://consequently.org/writing/hlc/</guid>
+<description>&lt;p&gt;Consequence is &lt;em&gt;a&lt;/em&gt;, if not &lt;em&gt;the&lt;/em&gt;, core subject matter of logic. Aristotle&amp;rsquo;s study of the syllogism instigated the task of categorising arguments into the logically good and the logically bad; the task remains an essential element of the study of logic. In this essay, we give a quick history of the way logical consequence has been studied from Aristotle to the present day.&lt;/p&gt;
 </description>
 </item>
     

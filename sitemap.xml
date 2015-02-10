@@ -198,12 +198,12 @@
   </url>
   
   <url>
-    <loc>http://consequently.org/writing/hlc/</loc>
+    <loc>http://consequently.org/writing/interp-apply-ptml/</loc>
     <lastmod>2012-03-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://consequently.org/writing/interp-apply-ptml/</loc>
+    <loc>http://consequently.org/writing/hlc/</loc>
     <lastmod>2012-03-03T00:00:00+00:00</lastmod>
   </url>
   
@@ -363,12 +363,12 @@
   </url>
   
   <url>
-    <loc>http://consequently.org/news/2009/01/07/holiday/</loc>
+    <loc>http://consequently.org/news/2009/01/07/little_snippets_of_news/</loc>
     <lastmod>2009-01-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://consequently.org/news/2009/01/07/little_snippets_of_news/</loc>
+    <loc>http://consequently.org/news/2009/01/07/holiday/</loc>
     <lastmod>2009-01-07T00:00:00+00:00</lastmod>
   </url>
   
@@ -813,6 +813,11 @@
   </url>
   
   <url>
+    <loc>http://consequently.org/writing/HPPLrssl/</loc>
+    <lastmod>2006-03-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://consequently.org/news/2006/03/03/masses_of_formal_philosophy/</loc>
     <lastmod>2006-03-03T09:35:09+11:00</lastmod>
   </url>
@@ -1054,6 +1059,11 @@
   
   <url>
     <loc>http://consequently.org/writing/mf/</loc>
+    <lastmod>2005-03-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://consequently.org/writing/lsf/</loc>
     <lastmod>2005-03-03T00:00:00+00:00</lastmod>
   </url>
   
@@ -1430,6 +1440,11 @@
   <url>
     <loc>http://consequently.org/news/2004/03/08/reboot/</loc>
     <lastmod>2004-03-08T20:05:54+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://consequently.org/writing/warrantpres/</loc>
+    <lastmod>2004-03-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -2238,17 +2253,7 @@
   </url>
   
   <url>
-    <loc>http://consequently.org/writing/warrantpres/</loc>
-    <lastmod>1995-03-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://consequently.org/writing/nggl/</loc>
-    <lastmod>1995-03-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://consequently.org/writing/lsf/</loc>
     <lastmod>1995-03-03T00:00:00+00:00</lastmod>
   </url>
   
@@ -2259,11 +2264,6 @@
   
   <url>
     <loc>http://consequently.org/writing/fourvalued/</loc>
-    <lastmod>1995-03-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://consequently.org/writing/HPPLrssl/</loc>
     <lastmod>1995-03-03T00:00:00+00:00</lastmod>
   </url>
   

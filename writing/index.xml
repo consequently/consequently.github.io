@@ -569,6 +569,17 @@ The sequent system is cut-free and the circuit proofs are normalising.&lt;/p&gt;
     
  
     <item>
+      <title>Relevant and Substructural Logics</title>
+      <link>http://consequently.org/writing/HPPLrssl/</link>
+      <pubDate>Fri, 03 Mar 2006 00:00:00 UTC</pubDate>
+      
+      <guid>http://consequently.org/writing/HPPLrssl/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;An historical essay, sketching the development of relevant and substructural logics throughout the 20th Century and into the 21st.&lt;/p&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
       <title>Relevant Restricted Quantification</title>
       <link>http://consequently.org/writing/rrq/</link>
       <pubDate>Fri, 03 Mar 2006 00:00:00 UTC</pubDate>
@@ -728,6 +739,19 @@ taking minimalism seriously, and that objections to this position may be usefull
     
  
     <item>
+      <title>&amp;#321;ukasiewicz, Supervaluations and the Future</title>
+      <link>http://consequently.org/writing/lsf/</link>
+      <pubDate>Thu, 03 Mar 2005 00:00:00 UTC</pubDate>
+      
+      <guid>http://consequently.org/writing/lsf/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;In this paper I consider an interpretation of future contingents which motivates a unification of a &amp;#321;ukasiewicz style logic with the more classical supervaluational semantics.  This in turn motivates a new non-classical logic modelling what is &amp;ldquo;made true by history up until now.&amp;rdquo;  I give a simple Hilbert-style proof theory, and a soundness and completeness argument for the proof theory with respect to the intended models.&lt;/p&gt;
+
+&lt;p&gt;This paper is available at &lt;a href=&#34;http://www.units.it/~episteme/L%26PS_Vol3No1/contents_L%26PS_Vol3No1.htm&#34;&gt;http://www.units.it/~episteme/L&amp;PS_Vol3No1/contents_L&amp;amp;PS_Vol3No1.htm&lt;/a&gt;.&lt;/p&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
       <title>One Way to Face Facts</title>
       <link>http://consequently.org/writing/facts/</link>
       <pubDate>Sun, 03 Oct 2004 00:00:00 UTC</pubDate>
@@ -756,6 +780,17 @@ taking minimalism seriously, and that objections to this position may be usefull
       
       <guid>http://consequently.org/writing/routes/</guid>
       <description>&lt;![CDATA[&lt;p&gt;It is well known that contraction-related principles trivialise na&amp;iuml;ve class theory. It is less well known that many other principles unrelated to contraction also render the theory trivial. This paper provides a characterisation of a large class of formulas which do the job. This class includes all properly implication formulas known in the literature, and adds countably many more.&lt;/p&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>Logical Pluralism and the Preservation of Warrant</title>
+      <link>http://consequently.org/writing/warrantpres/</link>
+      <pubDate>Wed, 03 Mar 2004 00:00:00 UTC</pubDate>
+      
+      <guid>http://consequently.org/writing/warrantpres/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;I defend logical pluralism against the charge that &lt;em&gt;One True Logic&lt;/em&gt; is motivated by considerations of warrant preservation. On the way I attempt to clarify just a little the connections between deductive validity and epistemology.&lt;/p&gt;
 ]]></description>
     </item>
     
@@ -1590,34 +1625,12 @@ as well.&lt;/p&gt;
     
  
     <item>
-      <title>Relevant and Substructural Logics</title>
-      <link>http://consequently.org/writing/HPPLrssl/</link>
-      <pubDate>Fri, 03 Mar 1995 00:00:00 UTC</pubDate>
-      
-      <guid>http://consequently.org/writing/HPPLrssl/</guid>
-      <description>&lt;![CDATA[&lt;p&gt;An historical essay, sketching the development of relevant and substructural logics throughout the 20th Century and into the 21st.&lt;/p&gt;
-]]></description>
-    </item>
-    
- 
-    <item>
       <title>Nietzsche, Insight and Immorality</title>
       <link>http://consequently.org/writing/nggl/</link>
       <pubDate>Fri, 03 Mar 1995 00:00:00 UTC</pubDate>
       
       <guid>http://consequently.org/writing/nggl/</guid>
       <description>&lt;![CDATA[&lt;p&gt;I introduce Nietzsche&amp;rsquo;s critique of religious belief, for an audience of thinking Christians. I show that his criticism cannot and ought not be simply shrugged off, but rather, it can form the basis of a useful self-critique for the religious believer. I also argue that any response to a Nietzschean critique of religious belief and practice must itself take the form of an embodied believing life, rather than a merely theoretical response.&lt;/p&gt;
-]]></description>
-    </item>
-    
- 
-    <item>
-      <title>Logical Pluralism and the Preservation of Warrant</title>
-      <link>http://consequently.org/writing/warrantpres/</link>
-      <pubDate>Fri, 03 Mar 1995 00:00:00 UTC</pubDate>
-      
-      <guid>http://consequently.org/writing/warrantpres/</guid>
-      <description>&lt;![CDATA[&lt;p&gt;I defend logical pluralism against the charge that &lt;em&gt;One True Logic&lt;/em&gt; is motivated by considerations of warrant preservation. On the way I attempt to clarify just a little the connections between deductive validity and epistemology.&lt;/p&gt;
 ]]></description>
     </item>
     
@@ -1652,19 +1665,6 @@ as well.&lt;/p&gt;
       
       <guid>http://consequently.org/writing/fourvalued/</guid>
       <description>&lt;![CDATA[&lt;p&gt;This paper gives an outline of three different approaches to the four-valued semantics for relevant logics (and other non-classical logics in their vicinity). The first approach borrows from the &amp;lsquo;Australian Plan&amp;rsquo; semantics, which uses a unary operator &amp;lsquo;*&amp;rsquo; for the evaluation of negation. This approach can model anything that the two-valued account can, but at the cost of relying on insights from the Australian Plan. The second approach is natural, well motivated, independent of the Australian Plan, and it provides a semantics for the contraction-free relevant logic &lt;em&gt;RW&lt;/em&gt;. Unfortunately, its approach seems to model little else. The third approach seems to capture a wide range of formal systems, but at the time of writing, lacks a completeness proof.&lt;/p&gt;
-]]></description>
-    </item>
-    
- 
-    <item>
-      <title>&amp;#321;ukasiewicz, Supervaluations and the Future</title>
-      <link>http://consequently.org/writing/lsf/</link>
-      <pubDate>Fri, 03 Mar 1995 00:00:00 UTC</pubDate>
-      
-      <guid>http://consequently.org/writing/lsf/</guid>
-      <description>&lt;![CDATA[&lt;p&gt;In this paper I consider an interpretation of future contingents which motivates a unification of a &amp;#321;ukasiewicz style logic with the more classical supervaluational semantics.  This in turn motivates a new non-classical logic modelling what is &amp;ldquo;made true by history up until now.&amp;rdquo;  I give a simple Hilbert-style proof theory, and a soundness and completeness argument for the proof theory with respect to the intended models.&lt;/p&gt;
-
-&lt;p&gt;This paper is available at &lt;a href=&#34;http://www.units.it/~episteme/L%26PS_Vol3No1/contents_L%26PS_Vol3No1.htm&#34;&gt;http://www.units.it/~episteme/L&amp;PS_Vol3No1/contents_L&amp;amp;PS_Vol3No1.htm&lt;/a&gt;.&lt;/p&gt;
 ]]></description>
     </item>
     
