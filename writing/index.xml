@@ -461,6 +461,17 @@ I think I didn&#39;t get it wrong, but figuring out &lt;em&gt;why&lt;/em&gt; it&
     
  
     <item>
+      <title>Envelopes and Indifference</title>
+      <link>http://consequently.org/writing/envelopes/</link>
+      <pubDate>Mon, 03 Mar 2008 00:00:00 UTC</pubDate>
+      
+      <guid>http://consequently.org/writing/envelopes/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;We diagnose the two envelope &amp;ldquo;paradox&amp;rdquo;, showing how the indifference principle plays a role in prompting the conflicting assignments of the expected outcomes for switching or keeping.&lt;/p&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
       <title>Curry&#39;s Revenge: the costs of non-classical solutions to the paradoxes of self-reference</title>
       <link>http://consequently.org/writing/costing/</link>
       <pubDate>Mon, 03 Mar 2008 00:00:00 UTC</pubDate>
@@ -480,6 +491,17 @@ I think I didn&#39;t get it wrong, but figuring out &lt;em&gt;why&lt;/em&gt; it&
       <description>&lt;![CDATA[&lt;p&gt;In this short paper, I compare and contrast the kind of symmetricalist treatment of negation favoured in different ways by Huw Price (in &amp;ldquo;Why &amp;lsquo;Not&amp;rsquo;?&amp;rdquo;) and by me (in &amp;ldquo;Multiple Conclusions&amp;rdquo;) with Robert Brandom&amp;rsquo;s analysis of scorekeeping in terms of commitment, entitlement and incompatibility.&lt;/p&gt;
 
 &lt;p&gt;Both kinds of account provide a way to distinguish the inferential significance of &amp;ldquo;&lt;em&gt;A&lt;/em&gt;&amp;rdquo; and &amp;ldquo;&lt;em&gt;A&lt;/em&gt; is warranted&amp;rdquo; in terms of a subtler analysis of our practices: on the one hand, we assert as well as deny; on the other, by distingushing downstream commitments from upstream entitlements and the incompatibility definable in terms of these.  In this note I will examine the connections between these different approaches.&lt;/p&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>A Participatory Theory of the Atonement</title>
+      <link>http://consequently.org/writing/pa/</link>
+      <pubDate>Mon, 03 Mar 2008 00:00:00 UTC</pubDate>
+      
+      <guid>http://consequently.org/writing/pa/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;We argue that the participatory language, used in the New Testament to describe the the efficacy of Jesus&amp;rsquo; death on the cross, is essential for any understanding of the atonement. Purely personal or legal metaphors are incomplete and perhaps misleading on their own. They make much more sense when combined with and undergirded by, participatory metaphors.&lt;/p&gt;
 ]]></description>
     </item>
     
@@ -515,6 +537,20 @@ I think I didn&#39;t get it wrong, but figuring out &lt;em&gt;why&lt;/em&gt; it&
       
       <guid>http://consequently.org/writing/symbolic-logic/</guid>
       <description>&lt;![CDATA[&lt;p&gt;1007 words on symbolic logic &amp;ndash; concentrating on the history of 20th Century logic, aimed at an audience of social scientists&lt;/p&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>Proofnets for S5&amp;#58; sequents and circuits for modal logic</title>
+      <link>http://consequently.org/writing/s5nets/</link>
+      <pubDate>Sat, 03 Mar 2007 00:00:00 UTC</pubDate>
+      
+      <guid>http://consequently.org/writing/s5nets/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;In this paper I introduce a sequent system for the propositional modal logic S5.  Derivations of valid sequents in the system are shown to correspond to proofs in a novel natural deduction system of &lt;em&gt;circuit proofs&lt;/em&gt; (reminiscient of proofnets in linear logic, or multiple-conclusion calculi for classical logic).&lt;/p&gt;
+
+&lt;p&gt;The sequent derivations and proofnets are both simple extensions of sequents and proofnets for classical propositional logic, in which the new machinery&amp;mdash;to take account of the modal vocabulary&amp;mdash;is directly motivated in terms of the simple, universal Kripke semantics for S5.
+The sequent system is cut-free and the circuit proofs are normalising.&lt;/p&gt;
 ]]></description>
     </item>
     
@@ -640,12 +676,42 @@ I think I didn&#39;t get it wrong, but figuring out &lt;em&gt;why&lt;/em&gt; it&
     
  
     <item>
+      <title>Multiple Conclusions</title>
+      <link>http://consequently.org/writing/multipleconclusions/</link>
+      <pubDate>Thu, 03 Mar 2005 00:00:00 UTC</pubDate>
+      
+      <guid>http://consequently.org/writing/multipleconclusions/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;I argue for the following four theses. (1) Denial is not to be analysed as the assertion of a negation. (2) Given the concepts of assertion and denial, we have the resources to analyse logical consequence as relating arguments with multiple premises and multiple conclusions. Gentzen&amp;rsquo;s multiple conclusion calculus can be understood in a straightforward, motivated, non-question-begging way. (3) If a broadly anti-realist or inferentialist justification of a logical system works, it works just as well for classical logic as it does for intuitionistic logic. The special case for an anti-realist justification of intuitionistic logic over and above a justification of classical logic relies on an unjustified assumption about the shape of proofs. Finally, (4) this picture of logical consequence provides a relatively neutral shared vocabulary which can help us understand and adjudicate debates between proponents of classical and non-classical logics.&lt;/p&gt;
+
+&lt;p&gt;This paper has now been reprinted in &lt;em&gt;&lt;a href=&#34;http://www.denbridgepress.com/am.php&#34;&gt;Analysis and Metaphysics&lt;/a&gt;&lt;/em&gt;, 6, 2007, 14-34.&lt;/p&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
       <title>Moral Fictionalism versus the rest</title>
       <link>http://consequently.org/writing/mf/</link>
       <pubDate>Thu, 03 Mar 2005 00:00:00 UTC</pubDate>
       
       <guid>http://consequently.org/writing/mf/</guid>
       <description>&lt;![CDATA[&lt;p&gt;In this paper we introduce a distinct meta-ethical position, fictionalism about morality. We clarify and defend the position, showing that it is a way to save the &amp;ldquo;moral phenomena&amp;rdquo; while agreeing that there is no genuine objective prescriptivity to be described by moral terms. In particular, we distiguish moral fictionalism from moral quasi-realism, and we show that fictionalism many all of the virtues of quasi-realism but few of the vices.&lt;/p&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>Minimalists about Truth can (and should) be Epistemicists, and it helps if they are revision theorists too</title>
+      <link>http://consequently.org/writing/minitrue/</link>
+      <pubDate>Thu, 03 Mar 2005 00:00:00 UTC</pubDate>
+      
+      <guid>http://consequently.org/writing/minitrue/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;Minimalists about truth say that the important properties of the
+truth predicate are revealed in the class of &lt;em&gt;T&lt;/em&gt;-biconditionals. Most
+minimalists demur from taking &lt;em&gt;all&lt;/em&gt; of the &lt;em&gt;T&lt;/em&gt;-biconditionals
+of the form &amp;ldquo;&amp;lt;&lt;em&gt;p&lt;/em&gt;&amp;gt; is true if and only if &lt;em&gt;p&lt;/em&gt;&amp;rdquo;, to be true, because to do so leads to paradox.  But exactly &lt;em&gt;which&lt;/em&gt; biconditionals turn out to be true?  I take a leaf out of the epistemic account of vagueness
+to show how the minimalist can avoid giving a comprehensive answer to that
+question.  I also show that this response is entailed by
+taking minimalism seriously, and that objections to this position may be usefully aided and abetted by Gupta and Belnap&amp;rsquo;s revision theory of truth.&lt;/p&gt;
 ]]></description>
     </item>
     
@@ -679,6 +745,17 @@ I think I didn&#39;t get it wrong, but figuring out &lt;em&gt;why&lt;/em&gt; it&
       
       <guid>http://consequently.org/writing/lnclem/</guid>
       <description>&lt;![CDATA[&lt;p&gt;There is widespread agreement that the law of non-contradiction is an important logical principle. There is less agreement on exactly &lt;em&gt;what&lt;/em&gt; the law amounts to. This unclarity is brought to light by the emergence of paraconsistent logics in which contradictions are tolerated (in the sense that not everything need follow from a contradiction, and that there are &amp;ldquo;worlds&amp;rdquo; in which contradictions are true) but in which the statement ~(&lt;em&gt;A&lt;/em&gt; &amp;amp; ~&lt;em&gt;A&lt;/em&gt;) (it is not the case that &lt;em&gt;A&lt;/em&gt; and not-&lt;em&gt;A&lt;/em&gt;) is still provable. This paper attempts to clarify the connection between different readings of the law of non-contradiction, the duality between the law of non-contradiction and the law of the excluded middle, and connections with logical consequence in general.&lt;/p&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>Routes to Triviality</title>
+      <link>http://consequently.org/writing/routes/</link>
+      <pubDate>Wed, 03 Mar 2004 00:00:00 UTC</pubDate>
+      
+      <guid>http://consequently.org/writing/routes/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;It is well known that contraction-related principles trivialise na&amp;iuml;ve class theory. It is less well known that many other principles unrelated to contraction also render the theory trivial. This paper provides a characterisation of a large class of formulas which do the job. This class includes all properly implication formulas known in the literature, and adds countably many more.&lt;/p&gt;
 ]]></description>
     </item>
     
@@ -1252,12 +1329,51 @@ Ruth Barcan Marcus has lent her name to what is now called the &lt;em&gt;Barcan 
     
  
     <item>
+      <title>Paraconsistency Everywhere</title>
+      <link>http://consequently.org/writing/pev/</link>
+      <pubDate>Sun, 03 Mar 2002 00:00:00 UTC</pubDate>
+      
+      <guid>http://consequently.org/writing/pev/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;Paraconsistent logics are, by definition, &lt;em&gt;inconsistency
+tolerant&lt;/em&gt;:  In a paraconsistent logic, inconsistencies need not
+entail everything.  However, there is more than one way a body
+of information can be inconsistent.  In this paper I distinguish
+contradictions from other inconsistencies, and I show that
+several different logics are, in an important sense, &amp;ldquo;paraconsistent&amp;rdquo;
+in virtue of being &lt;em&gt;inconsistency tolerant&lt;/em&gt; without thereby
+being &lt;em&gt;contradiction tolerant&lt;/em&gt;.  For example, even though no
+inconsistencies are tolerated by intuitionistic &lt;em&gt;propositional&lt;/em&gt;
+logic, some inconsistencies are tolerated by intuitionistic
+&lt;em&gt;predicate&lt;/em&gt; logic.  In this way, intuitionistic predicate logic
+is, in a mild sense, paraconsistent.  So too are orthologic and quantum
+propositional logic and other formal systems.  Given this fact, a
+widespread view that traditional paraconsistent logics are especially
+repugnant because they countenance inconsistencies is undercut.   Many well-understood nonclassical logics countenance inconsistencies
+as well.&lt;/p&gt;
+
+&lt;p&gt;(This paper was published in 2004, despite the apparent date of 2002 in the citation.  The tale is told in more detail &lt;a href=&#34;http://consequently.org/news/2004/03/24/research_quantification&#34;&gt;here&lt;/a&gt;.)&lt;/p&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
       <title>Carnap&amp;rsquo;s Tolerance, Meaning and Logical Pluralism</title>
       <link>http://consequently.org/writing/carnap/</link>
       <pubDate>Sun, 03 Mar 2002 00:00:00 UTC</pubDate>
       
       <guid>http://consequently.org/writing/carnap/</guid>
       <description>&lt;![CDATA[&lt;p&gt;In this paper, I distinguish different kinds of pluralism about logical consequence. In particular, I distinguish the pluralism about logic arising from Carnap&amp;rsquo;s &lt;em&gt;Principle of Tolerance&lt;/em&gt; from a pluralism which maintains that there are different, equally &amp;ldquo;good&amp;rdquo; logical consequence relations on the one language. I will argue that this second form of pluralism does more justice to the contemporary state of logical theory and practice than does Carnap&amp;rsquo;s more moderate pluralism.&lt;/p&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>&#39;Strenge&#39; Arithmetics</title>
+      <link>http://consequently.org/writing/strenge/</link>
+      <pubDate>Sun, 03 Mar 2002 00:00:00 UTC</pubDate>
+      
+      <guid>http://consequently.org/writing/strenge/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;We consider the virtues of relevant arithmetic couched in the logic &lt;b&gt;E&lt;/b&gt; of &lt;em&gt;entailment&lt;/em&gt; as opposed to &lt;b&gt;R&lt;/b&gt; of relevant implication.  The move to a stronger logic allows us to construct a complete system of &lt;em&gt;true&lt;/em&gt; arithmetic, in which whenever an entailment &lt;em&gt;A &amp;rarr; B&lt;/em&gt; is not true (an example: 0=2 &amp;rarr; 0=1 is not provable) then its negation ~(&lt;em&gt;A &amp;rarr; B&lt;/em&gt;) is true.&lt;/p&gt;
 ]]></description>
     </item>
     
@@ -1353,6 +1469,17 @@ Ruth Barcan Marcus has lent her name to what is now called the &lt;em&gt;Barcan 
     
  
     <item>
+      <title>Ways Things Can&#39;t Be</title>
+      <link>http://consequently.org/writing/cantbe/</link>
+      <pubDate>Tue, 03 Mar 1998 00:00:00 UTC</pubDate>
+      
+      <guid>http://consequently.org/writing/cantbe/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;I show that the believer in possible worlds can have &lt;em&gt;impossible worlds&lt;/em&gt; for free, as classes of possible worlds. These do exactly the job of ways that things &lt;em&gt;cannot&lt;/em&gt; be, and they model the simple paraconsistent logic LP. This motivates a semantics for paraconsistent logic that even a classical logician can love.&lt;/p&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
       <title>Logical Laws</title>
       <link>http://consequently.org/writing/logiclaws/</link>
       <pubDate>Tue, 03 Mar 1998 00:00:00 UTC</pubDate>
@@ -1381,6 +1508,17 @@ Ruth Barcan Marcus has lent her name to what is now called the &lt;em&gt;Barcan 
       
       <guid>http://consequently.org/writing/extendingj/</guid>
       <description>&lt;![CDATA[&lt;p&gt;Ideas on the extension of intuitionistic propositional and predicate logic with a &amp;lsquo;subtraction&amp;rsquo; connective, Galois connected with disjunction, dual to the implication connective, Galois connected with conjunction. Presented to an audience at Victoria University of Wellington, July 1997. I like this material, but it does not contain any ideas not accessible elsewhere, so it won&amp;rsquo;t be published anywhere other than here.&lt;/p&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>Paraconsistent Logics!</title>
+      <link>http://consequently.org/writing/plog/</link>
+      <pubDate>Mon, 03 Mar 1997 00:00:00 UTC</pubDate>
+      
+      <guid>http://consequently.org/writing/plog/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;I respond to an interesting argument of Hartley Slater to the effect that there is no such thing as paraconsistent logic. Slater argues that since paraconsistent logics involve interpreting a sentence and its negation as both true at points in a model structure, it is not really &lt;em&gt;negation&lt;/em&gt; that is being modelled, since negation is meant to be a contradictory forming operator. I sketch how different paraconsistentists can respond to his argument, and I then defend my own response, that although contradictions are indeed never true (and &lt;em&gt;cannot&lt;/em&gt; be true) it does not follow that a semantics ought not evaluate them as true in certain models.&lt;/p&gt;
 ]]></description>
     </item>
     
@@ -1452,28 +1590,6 @@ Ruth Barcan Marcus has lent her name to what is now called the &lt;em&gt;Barcan 
     
  
     <item>
-      <title>Ways Things Can&#39;t Be</title>
-      <link>http://consequently.org/writing/cantbe/</link>
-      <pubDate>Fri, 03 Mar 1995 00:00:00 UTC</pubDate>
-      
-      <guid>http://consequently.org/writing/cantbe/</guid>
-      <description>&lt;![CDATA[&lt;p&gt;I show that the believer in possible worlds can have &lt;em&gt;impossible worlds&lt;/em&gt; for free, as classes of possible worlds. These do exactly the job of ways that things &lt;em&gt;cannot&lt;/em&gt; be, and they model the simple paraconsistent logic LP. This motivates a semantics for paraconsistent logic that even a classical logician can love.&lt;/p&gt;
-]]></description>
-    </item>
-    
- 
-    <item>
-      <title>Routes to Triviality</title>
-      <link>http://consequently.org/writing/routes/</link>
-      <pubDate>Fri, 03 Mar 1995 00:00:00 UTC</pubDate>
-      
-      <guid>http://consequently.org/writing/routes/</guid>
-      <description>&lt;![CDATA[&lt;p&gt;It is well known that contraction-related principles trivialise na&amp;iuml;ve class theory. It is less well known that many other principles unrelated to contraction also render the theory trivial. This paper provides a characterisation of a large class of formulas which do the job. This class includes all properly implication formulas known in the literature, and adds countably many more.&lt;/p&gt;
-]]></description>
-    </item>
-    
- 
-    <item>
       <title>Relevant and Substructural Logics</title>
       <link>http://consequently.org/writing/HPPLrssl/</link>
       <pubDate>Fri, 03 Mar 1995 00:00:00 UTC</pubDate>
@@ -1485,95 +1601,12 @@ Ruth Barcan Marcus has lent her name to what is now called the &lt;em&gt;Barcan 
     
  
     <item>
-      <title>Proofnets for S5&amp;#58; sequents and circuits for modal logic</title>
-      <link>http://consequently.org/writing/s5nets/</link>
-      <pubDate>Fri, 03 Mar 1995 00:00:00 UTC</pubDate>
-      
-      <guid>http://consequently.org/writing/s5nets/</guid>
-      <description>&lt;![CDATA[&lt;p&gt;In this paper I introduce a sequent system for the propositional modal logic S5.  Derivations of valid sequents in the system are shown to correspond to proofs in a novel natural deduction system of &lt;em&gt;circuit proofs&lt;/em&gt; (reminiscient of proofnets in linear logic, or multiple-conclusion calculi for classical logic).&lt;/p&gt;
-
-&lt;p&gt;The sequent derivations and proofnets are both simple extensions of sequents and proofnets for classical propositional logic, in which the new machinery&amp;mdash;to take account of the modal vocabulary&amp;mdash;is directly motivated in terms of the simple, universal Kripke semantics for S5.
-The sequent system is cut-free and the circuit proofs are normalising.&lt;/p&gt;
-]]></description>
-    </item>
-    
- 
-    <item>
-      <title>Paraconsistent Logics!</title>
-      <link>http://consequently.org/writing/plog/</link>
-      <pubDate>Fri, 03 Mar 1995 00:00:00 UTC</pubDate>
-      
-      <guid>http://consequently.org/writing/plog/</guid>
-      <description>&lt;![CDATA[&lt;p&gt;I respond to an interesting argument of Hartley Slater to the effect that there is no such thing as paraconsistent logic. Slater argues that since paraconsistent logics involve interpreting a sentence and its negation as both true at points in a model structure, it is not really &lt;em&gt;negation&lt;/em&gt; that is being modelled, since negation is meant to be a contradictory forming operator. I sketch how different paraconsistentists can respond to his argument, and I then defend my own response, that although contradictions are indeed never true (and &lt;em&gt;cannot&lt;/em&gt; be true) it does not follow that a semantics ought not evaluate them as true in certain models.&lt;/p&gt;
-]]></description>
-    </item>
-    
- 
-    <item>
-      <title>Paraconsistency Everywhere</title>
-      <link>http://consequently.org/writing/pev/</link>
-      <pubDate>Fri, 03 Mar 1995 00:00:00 UTC</pubDate>
-      
-      <guid>http://consequently.org/writing/pev/</guid>
-      <description>&lt;![CDATA[&lt;p&gt;Paraconsistent logics are, by definition, &lt;em&gt;inconsistency
-tolerant&lt;/em&gt;:  In a paraconsistent logic, inconsistencies need not
-entail everything.  However, there is more than one way a body
-of information can be inconsistent.  In this paper I distinguish
-contradictions from other inconsistencies, and I show that
-several different logics are, in an important sense, &amp;ldquo;paraconsistent&amp;rdquo;
-in virtue of being &lt;em&gt;inconsistency tolerant&lt;/em&gt; without thereby
-being &lt;em&gt;contradiction tolerant&lt;/em&gt;.  For example, even though no
-inconsistencies are tolerated by intuitionistic &lt;em&gt;propositional&lt;/em&gt;
-logic, some inconsistencies are tolerated by intuitionistic
-&lt;em&gt;predicate&lt;/em&gt; logic.  In this way, intuitionistic predicate logic
-is, in a mild sense, paraconsistent.  So too are orthologic and quantum
-propositional logic and other formal systems.  Given this fact, a
-widespread view that traditional paraconsistent logics are especially
-repugnant because they countenance inconsistencies is undercut.   Many well-understood nonclassical logics countenance inconsistencies
-as well.&lt;/p&gt;
-
-&lt;p&gt;(This paper was published in 2004, despite the apparent date of 2002 in the citation.  The tale is told in more detail &lt;a href=&#34;http://consequently.org/news/2004/03/24/research_quantification&#34;&gt;here&lt;/a&gt;.)&lt;/p&gt;
-]]></description>
-    </item>
-    
- 
-    <item>
       <title>Nietzsche, Insight and Immorality</title>
       <link>http://consequently.org/writing/nggl/</link>
       <pubDate>Fri, 03 Mar 1995 00:00:00 UTC</pubDate>
       
       <guid>http://consequently.org/writing/nggl/</guid>
       <description>&lt;![CDATA[&lt;p&gt;I introduce Nietzsche&amp;rsquo;s critique of religious belief, for an audience of thinking Christians. I show that his criticism cannot and ought not be simply shrugged off, but rather, it can form the basis of a useful self-critique for the religious believer. I also argue that any response to a Nietzschean critique of religious belief and practice must itself take the form of an embodied believing life, rather than a merely theoretical response.&lt;/p&gt;
-]]></description>
-    </item>
-    
- 
-    <item>
-      <title>Multiple Conclusions</title>
-      <link>http://consequently.org/writing/multipleconclusions/</link>
-      <pubDate>Fri, 03 Mar 1995 00:00:00 UTC</pubDate>
-      
-      <guid>http://consequently.org/writing/multipleconclusions/</guid>
-      <description>&lt;![CDATA[&lt;p&gt;I argue for the following four theses. (1) Denial is not to be analysed as the assertion of a negation. (2) Given the concepts of assertion and denial, we have the resources to analyse logical consequence as relating arguments with multiple premises and multiple conclusions. Gentzen&amp;rsquo;s multiple conclusion calculus can be understood in a straightforward, motivated, non-question-begging way. (3) If a broadly anti-realist or inferentialist justification of a logical system works, it works just as well for classical logic as it does for intuitionistic logic. The special case for an anti-realist justification of intuitionistic logic over and above a justification of classical logic relies on an unjustified assumption about the shape of proofs. Finally, (4) this picture of logical consequence provides a relatively neutral shared vocabulary which can help us understand and adjudicate debates between proponents of classical and non-classical logics.&lt;/p&gt;
-
-&lt;p&gt;This paper has now been reprinted in &lt;em&gt;&lt;a href=&#34;http://www.denbridgepress.com/am.php&#34;&gt;Analysis and Metaphysics&lt;/a&gt;&lt;/em&gt;, 6, 2007, 14-34.&lt;/p&gt;
-]]></description>
-    </item>
-    
- 
-    <item>
-      <title>Minimalists about Truth can (and should) be Epistemicists, and it helps if they are revision theorists too</title>
-      <link>http://consequently.org/writing/minitrue/</link>
-      <pubDate>Fri, 03 Mar 1995 00:00:00 UTC</pubDate>
-      
-      <guid>http://consequently.org/writing/minitrue/</guid>
-      <description>&lt;![CDATA[&lt;p&gt;Minimalists about truth say that the important properties of the
-truth predicate are revealed in the class of &lt;em&gt;T&lt;/em&gt;-biconditionals. Most
-minimalists demur from taking &lt;em&gt;all&lt;/em&gt; of the &lt;em&gt;T&lt;/em&gt;-biconditionals
-of the form &amp;ldquo;&amp;lt;&lt;em&gt;p&lt;/em&gt;&amp;gt; is true if and only if &lt;em&gt;p&lt;/em&gt;&amp;rdquo;, to be true, because to do so leads to paradox.  But exactly &lt;em&gt;which&lt;/em&gt; biconditionals turn out to be true?  I take a leaf out of the epistemic account of vagueness
-to show how the minimalist can avoid giving a comprehensive answer to that
-question.  I also show that this response is entailed by
-taking minimalism seriously, and that objections to this position may be usefully aided and abetted by Gupta and Belnap&amp;rsquo;s revision theory of truth.&lt;/p&gt;
 ]]></description>
     </item>
     
@@ -1619,39 +1652,6 @@ taking minimalism seriously, and that objections to this position may be usefull
       
       <guid>http://consequently.org/writing/fourvalued/</guid>
       <description>&lt;![CDATA[&lt;p&gt;This paper gives an outline of three different approaches to the four-valued semantics for relevant logics (and other non-classical logics in their vicinity). The first approach borrows from the &amp;lsquo;Australian Plan&amp;rsquo; semantics, which uses a unary operator &amp;lsquo;*&amp;rsquo; for the evaluation of negation. This approach can model anything that the two-valued account can, but at the cost of relying on insights from the Australian Plan. The second approach is natural, well motivated, independent of the Australian Plan, and it provides a semantics for the contraction-free relevant logic &lt;em&gt;RW&lt;/em&gt;. Unfortunately, its approach seems to model little else. The third approach seems to capture a wide range of formal systems, but at the time of writing, lacks a completeness proof.&lt;/p&gt;
-]]></description>
-    </item>
-    
- 
-    <item>
-      <title>Envelopes and Indifference</title>
-      <link>http://consequently.org/writing/envelopes/</link>
-      <pubDate>Fri, 03 Mar 1995 00:00:00 UTC</pubDate>
-      
-      <guid>http://consequently.org/writing/envelopes/</guid>
-      <description>&lt;![CDATA[&lt;p&gt;We diagnose the two envelope &amp;ldquo;paradox&amp;rdquo;, showing how the indifference principle plays a role in prompting the conflicting assignments of the expected outcomes for switching or keeping.&lt;/p&gt;
-]]></description>
-    </item>
-    
- 
-    <item>
-      <title>A Participatory Theory of the Atonement</title>
-      <link>http://consequently.org/writing/pa/</link>
-      <pubDate>Fri, 03 Mar 1995 00:00:00 UTC</pubDate>
-      
-      <guid>http://consequently.org/writing/pa/</guid>
-      <description>&lt;![CDATA[&lt;p&gt;We argue that the participatory language, used in the New Testament to describe the the efficacy of Jesus&amp;rsquo; death on the cross, is essential for any understanding of the atonement. Purely personal or legal metaphors are incomplete and perhaps misleading on their own. They make much more sense when combined with and undergirded by, participatory metaphors.&lt;/p&gt;
-]]></description>
-    </item>
-    
- 
-    <item>
-      <title>&#39;Strenge&#39; Arithmetics</title>
-      <link>http://consequently.org/writing/strenge/</link>
-      <pubDate>Fri, 03 Mar 1995 00:00:00 UTC</pubDate>
-      
-      <guid>http://consequently.org/writing/strenge/</guid>
-      <description>&lt;![CDATA[&lt;p&gt;We consider the virtues of relevant arithmetic couched in the logic &lt;b&gt;E&lt;/b&gt; of &lt;em&gt;entailment&lt;/em&gt; as opposed to &lt;b&gt;R&lt;/b&gt; of relevant implication.  The move to a stronger logic allows us to construct a complete system of &lt;em&gt;true&lt;/em&gt; arithmetic, in which whenever an entailment &lt;em&gt;A &amp;rarr; B&lt;/em&gt; is not true (an example: 0=2 &amp;rarr; 0=1 is not provable) then its negation ~(&lt;em&gt;A &amp;rarr; B&lt;/em&gt;) is true.&lt;/p&gt;
 ]]></description>
     </item>
     
