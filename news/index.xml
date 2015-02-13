@@ -26,7 +26,20 @@
     <language>en-us</language>
     
     
-    <updated>Sun, 08 Feb 2015 15:02:19 AEDT</updated>
+    <updated>Fri, 13 Feb 2015 11:19:07 AEDT</updated>
+    
+ 
+    <item>
+      <title>Adding Site Search</title>
+      <link>http://consequently.org/news/2015/adding-site-search/</link>
+      <pubDate>Fri, 13 Feb 2015 11:19:07 AEDT</pubDate>
+      
+      <guid>http://consequently.org/news/2015/adding-site-search/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;I&amp;rsquo;ve added a search feature to the site in the &lt;a href=&#34;#footer&#34;&gt;footer&lt;/a&gt; of each page. There seems to be &lt;a href=&#34;http://consequently.org/news&#34;&gt;enough on the site&lt;/a&gt; that search is genuinely useful.&lt;/p&gt;
+
+&lt;p&gt;I&amp;rsquo;ve used &lt;a href=&#34;http://duckduckgo.com&#34;&gt;DuckDuckGo&lt;/a&gt;, which has a comprehensive index of this place, and which &lt;a href=&#34;https://duckduckgo.com/params&#34;&gt;can be styled&lt;/a&gt; to match the visual treatment of the rest of the site. Please &lt;a href=&#34;#contact&#34;&gt;let me know&lt;/a&gt; if there problems with the implementation.&lt;/p&gt;
+]]></description>
+    </item>
     
  
     <item>
