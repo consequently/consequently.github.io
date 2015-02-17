@@ -26,7 +26,60 @@
     <language>en-us</language>
     
     
-    <updated>Fri, 13 Feb 2015 11:19:07 AEDT</updated>
+    <updated>Tue, 17 Feb 2015 23:20:25 AEDT</updated>
+    
+ 
+    <item>
+      <title>Do LNC and LEM suffice to define negation?</title>
+      <link>http://consequently.org/news/2015/lnc-and-lem-but-not-negation/</link>
+      <pubDate>Tue, 17 Feb 2015 23:20:25 AEDT</pubDate>
+      
+      <guid>http://consequently.org/news/2015/lnc-and-lem-but-not-negation/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;What &lt;em&gt;is&lt;/em&gt; negation?&lt;/p&gt;
+
+&lt;p&gt;One answer you find in the literature is that negation is the operator that makes each instance of the &lt;em&gt;Law of the Excluded Middle&lt;/em&gt; (&lt;span class=&#34;caps&#34;&gt;LNC&lt;/span&gt;) and the &lt;em&gt;Law of Non-Contradiction&lt;/em&gt; (&lt;span class=&#34;caps&#34;&gt;LEM&lt;/span&gt;) turn out to be &lt;em&gt;true&lt;/em&gt;. That is, every sentence of the form
+\[
+p\lor \neg p
+\qquad
+\neg(p\land\neg p)
+\]
+is true, no matter what sentence we use in the place of \(p\) (where \(\neg\) stands for negation, \(\lor\) for disjunction, and \(\land\) for conjunction).&lt;/p&gt;
+
+&lt;p&gt;This is the &lt;em&gt;wrong&lt;/em&gt; way to try to define negation. If you read on, I&amp;rsquo;ll explain why.&lt;/p&gt;
+
+&lt;p&gt;Before I explain why, though, I should explain that taking &lt;span class=&#34;caps&#34;&gt;LNC&lt;/span&gt; and &lt;span class=&#34;caps&#34;&gt;LEM&lt;/span&gt; as defining negation isn&amp;rsquo;t an idiosyncratic view. If you read &lt;a href=&#34;http://ling.yale.edu/people/laurence-r-horn&#34;&gt;Laurence Horn&lt;/a&gt;&amp;rsquo;s &lt;a href=&#34;http://plato.stanford.edu/entries/contradiction&#34;&gt;entry on Contradiction in the &lt;em&gt;Stanford Encyclopedia of Philosophy&lt;/em&gt;&lt;/a&gt; (and I recommend you do read it, it&amp;rsquo;s a great discussion!), you&amp;rsquo;ll see that he characterises negation in this way. &lt;a href=&#34;http://grahampriest.net/&#34;&gt;Graham Priest&lt;/a&gt;&amp;rsquo;s chapter &amp;ldquo;&lt;a href=&#34;http://grahampriest.net/?ddownload=773&#34;&gt;Why Not? A Defence of a Dialethic Theory of Negation&lt;/a&gt;&amp;rdquo; takes &lt;span class=&#34;caps&#34;&gt;LNC&lt;/span&gt; and &lt;span class=&#34;caps&#34;&gt;LEM&lt;/span&gt; in this form to be central to defining what it is for one thing to be contradictory to another, which is how Graham treats negation, in that paper.&lt;/p&gt;
+
+&lt;p&gt;Here&amp;rsquo;s why it&amp;rsquo;s wrong to think that &lt;span class=&#34;caps&#34;&gt;LNC&lt;/span&gt; and &lt;span class=&#34;caps&#34;&gt;LEM&lt;/span&gt; define negation: It&amp;rsquo;s easy to see (once you check) that &lt;span class=&#34;caps&#34;&gt;LNC&lt;/span&gt; and &lt;span class=&#34;caps&#34;&gt;LEM&lt;/span&gt; don&amp;rsquo;t define &lt;em&gt;anything&lt;/em&gt;. Altogether too many putative one-place connectives satisfy both &lt;span class=&#34;caps&#34;&gt;LNC&lt;/span&gt; and &lt;span class=&#34;caps&#34;&gt;LEM&lt;/span&gt;. Let&amp;rsquo;s, for the moment, suppose that \(\mathord\sim A\) means \(\neg A\lor q\) for any \(A\) and for some given statement \(q\). Then &lt;span class=&#34;caps&#34;&gt;LNC&lt;/span&gt; and &lt;span class=&#34;caps&#34;&gt;LEM&lt;/span&gt; for \(\sim\)-negation
+\[
+p\lor \mathord\sim p
+\qquad
+\mathord\sim(p\land\mathord\sim p)
+\]
+that is,
+\[
+p\lor (\neg p\lor q)
+\qquad
+\neg(p\land(\neg p \lor q))\lor q
+\]
+are themselves &lt;em&gt;logically true&lt;/em&gt; (I leave the verification of this is an exercise for you). But \(\mathord\sim A\)&amp;mdash;that is, \(\neg A\lor q\)&amp;mdash;really isn&amp;rsquo;t the negation of \(A\). If we choose \(q\) to be a &lt;em&gt;tautology&lt;/em&gt; (let&amp;rsquo;s choose \(\top\) for the tautology) then \(\mathord\sim A\) is simply equivalent to \(\top\), so the relevant instances of &lt;span class=&#34;caps&#34;&gt;LNC&lt;/span&gt; and &lt;span class=&#34;caps&#34;&gt;LEM&lt;/span&gt; are \(p\lor\top\) and \(\top\), which are &lt;em&gt;clearly&lt;/em&gt; tautologies!&lt;/p&gt;
+
+&lt;p&gt;In other words, &lt;span class=&#34;caps&#34;&gt;LNC&lt;/span&gt; and &lt;span class=&#34;caps&#34;&gt;LEM&lt;/span&gt; for \(\sim\) don&amp;rsquo;t do enough to constrain \(\sim\) to mean &amp;lsquo;not.&amp;rsquo; \(\mathord\sim A\) could mean \(\neg A\), or \(\neg A\lor q\), or even \(\top\).&lt;/p&gt;
+
+&lt;p&gt;So, if  &lt;span class=&#34;caps&#34;&gt;LNC&lt;/span&gt; and &lt;span class=&#34;caps&#34;&gt;LEM&lt;/span&gt; don&amp;rsquo;t do enough to pin down negation, what can we say? Something I&amp;rsquo;ve argued &lt;em&gt;&lt;a href=&#34;http://consequently.org/writing/lnclem/&#34;&gt;elsewhere&lt;/a&gt;&lt;/em&gt; is that the right way to understand &lt;span class=&#34;caps&#34;&gt;LNC&lt;/span&gt; and &lt;span class=&#34;caps&#34;&gt;LEM&lt;/span&gt; is more like this:
+\[
+\vdash p\lor \neg p
+\qquad
+p\land\neg p\vdash
+\]
+&lt;em&gt;This&lt;/em&gt; &lt;span class=&#34;caps&#34;&gt;LEM&lt;/span&gt; (\(\vdash p\lor \neg p\)) tells us that \(p\lor\neg p\) is &lt;em&gt;undeniable&lt;/em&gt; (to &lt;em&gt;deny&lt;/em&gt; it is &lt;a href=&#34;http://consequently.org/writing/multipleconclusions&#34;&gt;out of bounds&lt;/a&gt;), and this &lt;span class=&#34;caps&#34;&gt;LNC&lt;/span&gt; (\(p\land\neg p\vdash\)) tells us that \(p\land\neg p\) is &lt;em&gt;unassertable&lt;/em&gt; (to &lt;em&gt;assert&lt;/em&gt; it is &lt;a href=&#34;http://consequently.org/writing/multipleconclusions&#34;&gt;out of bounds&lt;/a&gt;). This pair of rules does a &lt;em&gt;much&lt;/em&gt; better job of pinning down the behaviour of negation.&lt;/p&gt;
+
+&lt;p&gt;How much better? Well, given a little more logic (the traditional sequent calculus rules for \(\land\) and \(\lor\), and the &lt;em&gt;Cut&lt;/em&gt; rule), then if \(\neg\) and \(\sim\) both satisfy &lt;span class=&#34;caps&#34;&gt;LNC&lt;/span&gt; and &lt;span class=&#34;caps&#34;&gt;LEM&lt;/span&gt; in this form, then both negations are logically equivalent. Here&amp;rsquo;s a demonstration that \(\mathord\sim A\vdash\neg A\) (you can generalise this to a proof of equivalence, though the dual proof of \(\neg A\vdash\mathord\sim A\)). Since \(A\land\mathord\sim A\vdash\), by the usual behaviour of \(\land\), we have \(A,\mathord\sim A\vdash\). Since \(\vdash A\lor\neg A\), by the usual behaviour of \(\lor\), we have \(\vdash A,\neg A\). From \(\vdash A,\neg A\) and \(A,\mathord\sim A\vdash\), by the &lt;em&gt;Cut&lt;/em&gt; rule (cutting on \(A\)) we have \(\mathord\sim A\vdash\neg A\).&lt;/p&gt;
+
+&lt;p&gt;So, if you are tempted by the idea that &lt;span class=&#34;caps&#34;&gt;LNC&lt;/span&gt; and &lt;span class=&#34;caps&#34;&gt;LEM&lt;/span&gt; together &lt;em&gt;define&lt;/em&gt; negation, you should be careful to specify &lt;span class=&#34;caps&#34;&gt;LNC&lt;/span&gt; as a &lt;em&gt;denial&lt;/em&gt; or &lt;em&gt;rejection&lt;/em&gt; rule (\(p\land\neg p\vdash\), which says that \(p\land\neg p\) is to be denied, or to be rejected), rather than \(\neg(p\land \neg p)\) which isn&amp;rsquo;t strong enough to say what you want it to say&amp;mdash;the &lt;em&gt;two&lt;/em&gt; instances of negation gives you altogether too much wiggle room.&lt;/p&gt;
+
+&lt;p&gt;None of this is an argument that &lt;span class=&#34;caps&#34;&gt;LNC&lt;/span&gt; and &lt;span class=&#34;caps&#34;&gt;LEM&lt;/span&gt; actually &lt;em&gt;hold&lt;/em&gt;. For that, you&amp;rsquo;ll need to look elsewhere.&lt;/p&gt;
+]]></description>
+    </item>
     
  
     <item>
