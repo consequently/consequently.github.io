@@ -26,7 +26,7 @@
     <language>en-us</language>
     
     
-    <updated>Wed, 18 Feb 2015 02:20:20 AEDT</updated>
+    <updated>Wed, 18 Feb 2015 02:26:05 AEDT</updated>
 
 
 <item>
@@ -92,6 +92,17 @@
 <pubDate>Sat, 31 Jan 2015 00:00:00 UTC</pubDate>
 <guid>http://consequently.org/class/2015/logic2_coursera/</guid>
 <description>&lt;p&gt;Jen Davoren and I are running &lt;em&gt;Logic: Language and Information 2&lt;/em&gt; through &lt;a href=&#34;http://coursera.org&#34;&gt;Coursera&lt;/a&gt; again in 2015. You can enrol &lt;a href=&#34;https://www.coursera.org/course/logic2&#34;&gt;here&lt;/a&gt;. This course follows on from &lt;em&gt;&lt;a href=&#34;https://www.coursera.org/course/logic1&#34;&gt;Logic: Language and Information 1&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+</description>
+</item>
+    
+<item>
+<title>UNIB10002: Logic, Language and Information</title>
+<link>http://consequently.org/class/2015/UNIB10002/</link>
+<pubDate>Sat, 31 Jan 2015 00:00:00 UTC</pubDate>
+<guid>http://consequently.org/class/2015/UNIB10002/</guid>
+<description>&lt;p&gt;&lt;strong&gt;&lt;span class=&#34;caps&#34;&gt;UNIB10002&lt;/span&gt;: Logic, Language and Information&lt;/strong&gt; is a &lt;a href=&#34;http://unimelb.edu.au&#34;&gt;University of Melbourne&lt;/a&gt; undergraduate breadth subject, introducing logic and its applications to students from a broad range of disciplines in the Arts, Sciences and Engineering. I coordinate this subject with my colleague Dr. Jen Davoren, with help from Dr. Lesley Stirling and Dr. Peter Schachte.&lt;/p&gt;
+
+&lt;p&gt;The subject is taught to University of Melbourne undergraduate students. Details for enrolment are &lt;a href=&#34;https://handbook.unimelb.edu.au/view/2014/UNIB10002&#34;&gt;here&lt;/a&gt;. We teach this in a &amp;lsquo;flipped classroom&amp;rsquo; model, using resources from our Coursera subjects &lt;a href=&#34;http://consequently.org/class/2015/logic1_coursera&#34;&gt;Logic 1&lt;/a&gt; and &lt;a href=&#34;http://consequently.org/class/2015/logic2_coursera&#34;&gt;Logic 2&lt;/a&gt;.&lt;/p&gt;
 </description>
 </item>
     
@@ -181,17 +192,6 @@
 </item>
     
 <item>
-<title>UNIB10002: Logic, Language and Information</title>
-<link>http://consequently.org/class/2015/UNIB10002/</link>
-<pubDate>Sat, 31 Jan 2015 00:00:00 UTC</pubDate>
-<guid>http://consequently.org/class/2015/UNIB10002/</guid>
-<description>&lt;p&gt;&lt;strong&gt;&lt;span class=&#34;caps&#34;&gt;UNIB10002&lt;/span&gt;: Logic, Language and Information&lt;/strong&gt; is a &lt;a href=&#34;http://unimelb.edu.au&#34;&gt;University of Melbourne&lt;/a&gt; undergraduate breadth subject, introducing logic and its applications to students from a broad range of disciplines in the Arts, Sciences and Engineering. I coordinate this subject with my colleague Dr. Jen Davoren, with help from Dr. Lesley Stirling and Dr. Peter Schachte.&lt;/p&gt;
-
-&lt;p&gt;The subject is taught to University of Melbourne undergraduate students. Details for enrolment are &lt;a href=&#34;https://handbook.unimelb.edu.au/view/2014/UNIB10002&#34;&gt;here&lt;/a&gt;. We teach this in a &amp;lsquo;flipped classroom&amp;rsquo; model, using resources from our Coursera subjects &lt;a href=&#34;http://consequently.org/class/2015/logic1_coursera&#34;&gt;Logic 1&lt;/a&gt; and &lt;a href=&#34;http://consequently.org/class/2015/logic2_coursera&#34;&gt;Logic 2&lt;/a&gt;.&lt;/p&gt;
-</description>
-</item>
-    
-<item>
 <title>Contingent Existence and Modal Definedness</title>
 <link>http://consequently.org/presentation/2015/cemd-anu/</link>
 <pubDate>Sat, 31 Jan 2015 00:00:00 UTC</pubDate>
@@ -246,7 +246,7 @@ are themselves &lt;em&gt;logically true&lt;/em&gt; (I leave the verification of 
 
 &lt;p&gt;In other words, if all we have to go on for interpreting &amp;ldquo;\(\sim\)&amp;rdquo; is that it satisfies  &lt;span class=&#34;caps&#34;&gt;LNC&lt;/span&gt; and &lt;span class=&#34;caps&#34;&gt;LEM&lt;/span&gt;, then there many different ways it can be interpreted, including taking it to be highly contingent, where the semantic value of \(\mathord\sim A\) depends on things other than the semantic value of \(A\) alone.&lt;/p&gt;
 
-&lt;p&gt;(&lt;span class=&#34;caps&#34;&gt;EXCURSUS&lt;/span&gt;: If you&amp;rsquo;re prepared to go further afield, notice that in reflexive classical modal logics, we have both \(p\lor\Diamond\neg p\) and \(\Diamond\neg(p\land\Diamond\neg p)\) so satisfying &lt;span class=&#34;caps&#34;&gt;LNC&lt;/span&gt; and &lt;span class=&#34;caps&#34;&gt;LEM&lt;/span&gt; isn&amp;rsquo;t enough to tell us that we don&amp;rsquo;t mean &amp;ldquo;possibly not&amp;rdquo; by the so-called &amp;ldquo;negation&amp;rdquo;. And instead of \(\Diamond\neg\) you could use \(\Diamond\Diamond\neg\) or \(\Diamond\Diamond\Diamond\neg\)&amp;hellip; etc. Or to make the same point in the context of first-order predicate logic, choose \(x\) to be a variable at random, and read \(\mathord\sim A\) as \((\exists x)\neg A\), whether \(x\) is free in the formula \(A\) &lt;em&gt;or not&lt;/em&gt;. Notice that this very strange variable-binding &amp;ldquo;negation&amp;rdquo; still satisfies &lt;span class=&#34;caps&#34;&gt;LNC&lt;/span&gt; and &lt;span class=&#34;caps&#34;&gt;LEM&lt;/span&gt;, but it is in no way &lt;em&gt;negation&lt;/em&gt;.)&lt;/p&gt;
+&lt;p&gt;(&lt;span class=&#34;caps&#34;&gt;EXCURSUS&lt;/span&gt;: If you&amp;rsquo;re prepared to go further afield, notice that in reflexive classical modal logics, we have both \(p\lor\Diamond\neg p\) and \(\Diamond\neg(p\land\Diamond\neg p)\) so satisfying &lt;span class=&#34;caps&#34;&gt;LNC&lt;/span&gt; and &lt;span class=&#34;caps&#34;&gt;LEM&lt;/span&gt; isn&amp;rsquo;t enough to tell us that we don&amp;rsquo;t mean &amp;ldquo;possibly not&amp;rdquo; by the so-called &amp;ldquo;negation&amp;rdquo;. And instead of \(\Diamond\neg\) you could use \(\Diamond\Diamond\neg\) or \(\Diamond\Diamond\Diamond\neg\)&amp;hellip; etc. Or to make the same point in the context of first-order predicate logic, choose \(x\) to be a variable at random, and read \(\mathord\sim A\) as \((\exists x)\neg A\), whether \(x\) is free in the formula \(A\) &lt;em&gt;or not&lt;/em&gt;. Notice that this very strange variable-binding &amp;ldquo;negation&amp;rdquo; still satisfies &lt;span class=&#34;caps&#34;&gt;LNC&lt;/span&gt; and &lt;span class=&#34;caps&#34;&gt;LEM&lt;/span&gt;, but it is in no way &lt;em&gt;negation&lt;/em&gt;&amp;mdash;this bizarre creature binds variables, negation, as we traditionally understand it, doesn&amp;rsquo;t.)&lt;/p&gt;
 
 &lt;p&gt;So, if &lt;span class=&#34;caps&#34;&gt;LNC&lt;/span&gt; and &lt;span class=&#34;caps&#34;&gt;LEM&lt;/span&gt; in the traditional form don&amp;rsquo;t do enough by themselves to pin down negation, what can we say? Something I&amp;rsquo;ve argued &lt;em&gt;&lt;a href=&#34;http://consequently.org/writing/lnclem/&#34;&gt;elsewhere&lt;/a&gt;&lt;/em&gt; is that the right way to understand &lt;span class=&#34;caps&#34;&gt;LNC&lt;/span&gt; and &lt;span class=&#34;caps&#34;&gt;LEM&lt;/span&gt; is more like this:
 \[
@@ -656,6 +656,15 @@ p\land\neg p\vdash
 </item>
     
 <item>
+<title>History of Logical Consequence</title>
+<link>http://consequently.org/writing/hlc/</link>
+<pubDate>Sat, 03 Mar 2012 00:00:00 UTC</pubDate>
+<guid>http://consequently.org/writing/hlc/</guid>
+<description>&lt;p&gt;Consequence is &lt;em&gt;a&lt;/em&gt;, if not &lt;em&gt;the&lt;/em&gt;, core subject matter of logic. Aristotle&amp;rsquo;s study of the syllogism instigated the task of categorising arguments into the logically good and the logically bad; the task remains an essential element of the study of logic. In this essay, we give a quick history of the way logical consequence has been studied from Aristotle to the present day.&lt;/p&gt;
+</description>
+</item>
+    
+<item>
 <title>Interpreting and Applying Proof Theories for Modal Logics</title>
 <link>http://consequently.org/writing/interp-apply-ptml/</link>
 <pubDate>Sat, 03 Mar 2012 00:00:00 UTC</pubDate>
@@ -665,15 +674,6 @@ p\land\neg p\vdash
 &lt;p&gt;The distinctive feature for the modal operators in contemporary proof systems for modal logics is that the step introducing or eliminating 􏰅􏰅&amp;#x25A1;&amp;#x10FC05;A is at the cost of introducing or eliminating some kind of extra structure in the proof. In this way, the proof rules for modal concepts such as 􏰅􏰅&amp;#x25A1;&amp;#x10FC05; run in parallel with the truth conditions for these concepts in a Kripke model, in which the truth of 􏰅􏰅&amp;#x25A1;&amp;#x10FC05;A stands or falls with the truth of A, but at the cost of checking that truth elsewhere, at points in the model accessible from the point at which 􏰅􏰅&amp;#x25A1;&amp;#x10FC05;A is evaluated.&lt;/p&gt;
 
 &lt;p&gt;In this paper we will introduce these recent advances in proof theory for a general audience, and then we will show how they are connected  with different—metaphysical and epistemic—conceptions of modality. We will show that these different pictures are nothing but different ways of connecting the statement 􏰅􏰅&amp;#x25A1;&amp;#x10FC05;A with the statement A, of showing the significance of modalising. In the light of this result we will draw conclusions about the link between analyticity and modality, and about the nature of a proof system for modal logics.&lt;/p&gt;
-</description>
-</item>
-    
-<item>
-<title>History of Logical Consequence</title>
-<link>http://consequently.org/writing/hlc/</link>
-<pubDate>Sat, 03 Mar 2012 00:00:00 UTC</pubDate>
-<guid>http://consequently.org/writing/hlc/</guid>
-<description>&lt;p&gt;Consequence is &lt;em&gt;a&lt;/em&gt;, if not &lt;em&gt;the&lt;/em&gt;, core subject matter of logic. Aristotle&amp;rsquo;s study of the syllogism instigated the task of categorising arguments into the logically good and the logically bad; the task remains an essential element of the study of logic. In this essay, we give a quick history of the way logical consequence has been studied from Aristotle to the present day.&lt;/p&gt;
 </description>
 </item>
     
