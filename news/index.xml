@@ -37,7 +37,7 @@
       <guid>http://consequently.org/news/2015/lnc-and-lem-but-not-negation/</guid>
       <description>&lt;![CDATA[&lt;p&gt;What &lt;em&gt;is&lt;/em&gt; negation?&lt;/p&gt;
 
-&lt;p&gt;One answer you find in the literature is that negation is the operator that makes each instance of the &lt;em&gt;Law of the Excluded Middle&lt;/em&gt; (&lt;span class=&#34;caps&#34;&gt;LNC&lt;/span&gt;) and the &lt;em&gt;Law of Non-Contradiction&lt;/em&gt; (&lt;span class=&#34;caps&#34;&gt;LEM&lt;/span&gt;) turn out to be &lt;em&gt;true&lt;/em&gt;. That is, every sentence of the form
+&lt;p&gt;One answer you find in the literature is that negation is the operator that makes each instance of the &lt;em&gt;Law of the Excluded Middle&lt;/em&gt; (&lt;span class=&#34;caps&#34;&gt;LEM&lt;/span&gt;) and the &lt;em&gt;Law of Non-Contradiction&lt;/em&gt; (&lt;span class=&#34;caps&#34;&gt;LNC&lt;/span&gt;) turn out to be &lt;em&gt;true&lt;/em&gt;. That is, every sentence of the form
 \[
 p\lor \neg p
 \qquad
