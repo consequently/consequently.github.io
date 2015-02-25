@@ -26,7 +26,7 @@
     <language>en-us</language>
     
     
-    <updated>Tue, 24 Feb 2015 19:22:05 AEDT</updated>
+    <updated>Thu, 26 Feb 2015 00:08:22 AEDT</updated>
 
 
 <item>
@@ -92,17 +92,6 @@
 <pubDate>Sat, 31 Jan 2015 00:00:00 UTC</pubDate>
 <guid>http://consequently.org/class/2015/logic2_coursera/</guid>
 <description>&lt;p&gt;Jen Davoren and I are running &lt;em&gt;Logic: Language and Information 2&lt;/em&gt; through &lt;a href=&#34;http://coursera.org&#34;&gt;Coursera&lt;/a&gt; again in 2015. You can enrol &lt;a href=&#34;https://www.coursera.org/course/logic2&#34;&gt;here&lt;/a&gt;. This course follows on from &lt;em&gt;&lt;a href=&#34;https://www.coursera.org/course/logic1&#34;&gt;Logic: Language and Information 1&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
-</description>
-</item>
-    
-<item>
-<title>UNIB10002: Logic, Language and Information</title>
-<link>http://consequently.org/class/2015/UNIB10002/</link>
-<pubDate>Sat, 31 Jan 2015 00:00:00 UTC</pubDate>
-<guid>http://consequently.org/class/2015/UNIB10002/</guid>
-<description>&lt;p&gt;&lt;strong&gt;&lt;span class=&#34;caps&#34;&gt;UNIB10002&lt;/span&gt;: Logic, Language and Information&lt;/strong&gt; is a &lt;a href=&#34;http://unimelb.edu.au&#34;&gt;University of Melbourne&lt;/a&gt; undergraduate breadth subject, introducing logic and its applications to students from a broad range of disciplines in the Arts, Sciences and Engineering. I coordinate this subject with my colleague Dr. Jen Davoren, with help from Dr. Lesley Stirling and Dr. Peter Schachte.&lt;/p&gt;
-
-&lt;p&gt;The subject is taught to University of Melbourne undergraduate students. Details for enrolment are &lt;a href=&#34;https://handbook.unimelb.edu.au/view/2014/UNIB10002&#34;&gt;here&lt;/a&gt;. We teach this in a &amp;lsquo;flipped classroom&amp;rsquo; model, using resources from our Coursera subjects &lt;a href=&#34;http://consequently.org/class/2015/logic1_coursera&#34;&gt;Logic 1&lt;/a&gt; and &lt;a href=&#34;http://consequently.org/class/2015/logic2_coursera&#34;&gt;Logic 2&lt;/a&gt;.&lt;/p&gt;
 </description>
 </item>
     
@@ -192,11 +181,28 @@
 </item>
     
 <item>
+<title>UNIB10002: Logic, Language and Information</title>
+<link>http://consequently.org/class/2015/UNIB10002/</link>
+<pubDate>Sat, 31 Jan 2015 00:00:00 UTC</pubDate>
+<guid>http://consequently.org/class/2015/UNIB10002/</guid>
+<description>&lt;p&gt;&lt;strong&gt;&lt;span class=&#34;caps&#34;&gt;UNIB10002&lt;/span&gt;: Logic, Language and Information&lt;/strong&gt; is a &lt;a href=&#34;http://unimelb.edu.au&#34;&gt;University of Melbourne&lt;/a&gt; undergraduate breadth subject, introducing logic and its applications to students from a broad range of disciplines in the Arts, Sciences and Engineering. I coordinate this subject with my colleague Dr. Jen Davoren, with help from Dr. Lesley Stirling and Dr. Peter Schachte.&lt;/p&gt;
+
+&lt;p&gt;The subject is taught to University of Melbourne undergraduate students. Details for enrolment are &lt;a href=&#34;https://handbook.unimelb.edu.au/view/2014/UNIB10002&#34;&gt;here&lt;/a&gt;. We teach this in a &amp;lsquo;flipped classroom&amp;rsquo; model, using resources from our Coursera subjects &lt;a href=&#34;http://consequently.org/class/2015/logic1_coursera&#34;&gt;Logic 1&lt;/a&gt; and &lt;a href=&#34;http://consequently.org/class/2015/logic2_coursera&#34;&gt;Logic 2&lt;/a&gt;.&lt;/p&gt;
+</description>
+</item>
+    
+<item>
 <title>Contingent Existence and Modal Definedness</title>
 <link>http://consequently.org/presentation/2015/cemd-anu/</link>
 <pubDate>Sat, 31 Jan 2015 00:00:00 UTC</pubDate>
 <guid>http://consequently.org/presentation/2015/cemd-anu/</guid>
 <description>&lt;p&gt;A seminar for the &lt;a href=&#34;http://philrsss.anu.edu.au/regular-seminars&#34;&gt;ANU School of Philosophy&lt;/a&gt;. I will discuss Tim Williamson&amp;rsquo;s arguments for the non-contingency of existence (see his &lt;em&gt;&lt;a href=&#34;http://ukcatalogue.oup.com/product/9780199552078.do&#34;&gt;Modal Logic as Metaphysics&lt;/a&gt;&lt;/em&gt;, 2013) and explain how and why they might be reasonably resisted. Along the way, I&amp;rsquo;ll try to explain the impact of proof theory for theories of meaning and for metaphysics.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://consequently.org/handouts/cemd-preseminar-on-meaning-rules-and-defining-concepts.pdf&#34;&gt;Handout&lt;/a&gt; for the pre-seminar talk for graduate students, on &lt;em&gt;Meaning Rules and Defining Concepts&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://consequently.org/handouts/cemd-anu-handout.pdf&#34;&gt;Handout&lt;/a&gt; for the seminar presentation.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://consequently.org/slides/cemd-talk.pdf&#34;&gt;Slides&lt;/a&gt; for the seminar presentation.&lt;/li&gt;
+&lt;/ul&gt;
 </description>
 </item>
     
@@ -451,17 +457,6 @@ p\land\neg p\vdash
 </item>
     
 <item>
-<title>PHIL30043: The Power and Limits of Logic</title>
-<link>http://consequently.org/class/2014/PHIL30043/</link>
-<pubDate>Sat, 31 Jan 2015 00:00:00 UTC</pubDate>
-<guid>http://consequently.org/class/2014/PHIL30043/</guid>
-<description>&lt;p&gt;&lt;strong&gt;PHIL30043: The Power and Limits of Logic&lt;/strong&gt; is a &lt;a href=&#34;http://unimelb.edu.au&#34;&gt;University of Melbourne&lt;/a&gt; undergraduate subject. It covers the metatheory of classical first order predicate logic, beginning at the &lt;em&gt;Soundness&lt;/em&gt; and &lt;em&gt;Completeness&lt;/em&gt; Theorems (proved not once but &lt;em&gt;twice&lt;/em&gt;, first for a tableaux proof system for predicate logic, then a Hilbert proof system), through the &lt;em&gt;Deduction Theorem&lt;/em&gt;, &lt;em&gt;Compactness&lt;/em&gt;, &lt;em&gt;Cantor&amp;rsquo;s Theorem&lt;/em&gt;, the &lt;em&gt;Downward L&amp;ouml;wenheim&amp;ndash;Skolem Theorem&lt;/em&gt;, &lt;em&gt;Recursive Functions&lt;/em&gt;, &lt;em&gt;Register Machines&lt;/em&gt;, &lt;em&gt;Representability&lt;/em&gt; and ending up at &lt;em&gt;G&amp;ouml;del&amp;rsquo;s Incompleteness Theorems&lt;/em&gt; and &lt;em&gt;L&amp;ouml;b&amp;rsquo;s Theorem&lt;/em&gt;.&lt;/p&gt;
-
-&lt;p&gt;The subject was taught to University of Melbourne undergraduate students (for Arts students as a part of the Philosophy major, for non-Arts students, as a breadth subject). Details for enrolment are &lt;a href=&#34;https://handbook.unimelb.edu.au/view/2014/PHIL30043&#34;&gt;here&lt;/a&gt;. I made use of video lectures I have made &lt;a href=&#34;http://vimeo.com/album/2262409&#34;&gt;freely available on Vimeo&lt;/a&gt;.&lt;/p&gt;
-</description>
-</item>
-    
-<item>
 <title>PHIL10003: Philosophy, the Great Thinkers</title>
 <link>http://consequently.org/class/2014/PHIL10003/</link>
 <pubDate>Sat, 31 Jan 2015 00:00:00 UTC</pubDate>
@@ -469,6 +464,17 @@ p\land\neg p\vdash
 <description>&lt;p&gt;&lt;strong&gt;PHIL10003: Philosophy, the Great Thinkers&lt;/strong&gt; is a &lt;a href=&#34;http://unimelb.edu.au&#34;&gt;University of Melbourne&lt;/a&gt; undergraduate subject, introducing philosophy to students through close readings of core texts. I taught with Dr. Chris Cordner and Dr. Ruth Boeker. In my classes, we looked at David Hume&amp;rsquo; &lt;a href=&#34;http://davidhume.org/texts/dnr.html&#34;&gt;&lt;em&gt;Dialogues Concerning Natural Religion&lt;/em&gt;&lt;/a&gt; and &lt;a href=&#34;https://ebooks.adelaide.edu.au/h/hume/david/h92n/contents.html&#34;&gt;&lt;em&gt;Natural History of Religion&lt;/em&gt;&lt;/a&gt;, with some side trips into hume&amp;rsquo;s &lt;a href=&#34;http://davidhume.org/texts/ehu.html&#34;&gt;&lt;em&gt;Enquiry&lt;/em&gt;&lt;/a&gt;, and some Marx, Wittgenstein for good measure.&lt;/p&gt;
 
 &lt;p&gt;The subject was taught to University of Melbourne undergraduate students (for Arts students as a part of the Philosophy major, for non-Arts students, as a breadth subject). Details for enrolment are &lt;a href=&#34;https://handbook.unimelb.edu.au/view/2014/PHIL10003&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+</item>
+    
+<item>
+<title>PHIL30043: The Power and Limits of Logic</title>
+<link>http://consequently.org/class/2014/PHIL30043/</link>
+<pubDate>Sat, 31 Jan 2015 00:00:00 UTC</pubDate>
+<guid>http://consequently.org/class/2014/PHIL30043/</guid>
+<description>&lt;p&gt;&lt;strong&gt;PHIL30043: The Power and Limits of Logic&lt;/strong&gt; is a &lt;a href=&#34;http://unimelb.edu.au&#34;&gt;University of Melbourne&lt;/a&gt; undergraduate subject. It covers the metatheory of classical first order predicate logic, beginning at the &lt;em&gt;Soundness&lt;/em&gt; and &lt;em&gt;Completeness&lt;/em&gt; Theorems (proved not once but &lt;em&gt;twice&lt;/em&gt;, first for a tableaux proof system for predicate logic, then a Hilbert proof system), through the &lt;em&gt;Deduction Theorem&lt;/em&gt;, &lt;em&gt;Compactness&lt;/em&gt;, &lt;em&gt;Cantor&amp;rsquo;s Theorem&lt;/em&gt;, the &lt;em&gt;Downward L&amp;ouml;wenheim&amp;ndash;Skolem Theorem&lt;/em&gt;, &lt;em&gt;Recursive Functions&lt;/em&gt;, &lt;em&gt;Register Machines&lt;/em&gt;, &lt;em&gt;Representability&lt;/em&gt; and ending up at &lt;em&gt;G&amp;ouml;del&amp;rsquo;s Incompleteness Theorems&lt;/em&gt; and &lt;em&gt;L&amp;ouml;b&amp;rsquo;s Theorem&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;The subject was taught to University of Melbourne undergraduate students (for Arts students as a part of the Philosophy major, for non-Arts students, as a breadth subject). Details for enrolment are &lt;a href=&#34;https://handbook.unimelb.edu.au/view/2014/PHIL30043&#34;&gt;here&lt;/a&gt;. I made use of video lectures I have made &lt;a href=&#34;http://vimeo.com/album/2262409&#34;&gt;freely available on Vimeo&lt;/a&gt;.&lt;/p&gt;
 </description>
 </item>
     
