@@ -13,11 +13,6 @@
   </url>
   
   <url>
-    <loc>http://consequently.org/news/2010/11/16/Testing_testing_1,_2,_3/</loc>
-    <lastmod>2010-11-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://consequently.org/writing/sitconchan/</loc>
     <lastmod>2010-12-25T00:00:00+00:00</lastmod>
   </url>
@@ -213,17 +208,22 @@
   </url>
   
   <url>
+    <loc>http://consequently.org/news/2015/semester-one-classes/</loc>
+    <lastmod>2015-02-25T23:55:17+11:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://consequently.org/presentation/2015/cemd-anu/</loc>
     <lastmod>2015-02-26T16:00:00+11:00</lastmod>
   </url>
   
   <url>
-    <loc>http://consequently.org/class/2015/PHIL30043/</loc>
+    <loc>http://consequently.org/class/2015/UNIB10002/</loc>
     <lastmod>2015-03-02T00:00:00+11:00</lastmod>
   </url>
   
   <url>
-    <loc>http://consequently.org/class/2015/UNIB10002/</loc>
+    <loc>http://consequently.org/class/2015/PHIL30043/</loc>
     <lastmod>2015-03-02T00:00:00+11:00</lastmod>
   </url>
   
@@ -255,6 +255,11 @@
   <url>
     <loc>http://consequently.org/class/2015/PHIL20030/</loc>
     <lastmod>2015-07-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://consequently.org/news/2010/11/16/Testing_testing_1,_2,_3/</loc>
+    <lastmod>2010-11-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -358,12 +363,12 @@
   </url>
   
   <url>
-    <loc>http://consequently.org/news/2009/03/25/quiz_for_today/</loc>
+    <loc>http://consequently.org/news/2009/03/25/spandrels_of_truth/</loc>
     <lastmod>2009-03-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://consequently.org/news/2009/03/25/spandrels_of_truth/</loc>
+    <loc>http://consequently.org/news/2009/03/25/quiz_for_today/</loc>
     <lastmod>2009-03-25T00:00:00+00:00</lastmod>
   </url>
   
