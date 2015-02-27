@@ -8,11 +8,6 @@
   </url>
   
   <url>
-    <loc>http://consequently.org/writing/alwaysmore/</loc>
-    <lastmod>2010-11-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://consequently.org/writing/sitconchan/</loc>
     <lastmod>2010-12-25T00:00:00+00:00</lastmod>
   </url>
@@ -123,12 +118,12 @@
   </url>
   
   <url>
-    <loc>http://consequently.org/class/2014/PHIL10003/</loc>
+    <loc>http://consequently.org/class/2014/PHIL30043/</loc>
     <lastmod>2014-07-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://consequently.org/class/2014/PHIL30043/</loc>
+    <loc>http://consequently.org/class/2014/PHIL10003/</loc>
     <lastmod>2014-07-28T00:00:00+00:00</lastmod>
   </url>
   
@@ -218,12 +213,17 @@
   </url>
   
   <url>
-    <loc>http://consequently.org/class/2015/UNIB10002/</loc>
-    <lastmod>2015-03-02T00:00:00+11:00</lastmod>
+    <loc>http://consequently.org/news/2015/academic-genealogy/</loc>
+    <lastmod>2015-02-28T00:35:19+11:00</lastmod>
   </url>
   
   <url>
     <loc>http://consequently.org/class/2015/PHIL30043/</loc>
+    <lastmod>2015-03-02T00:00:00+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://consequently.org/class/2015/UNIB10002/</loc>
     <lastmod>2015-03-02T00:00:00+11:00</lastmod>
   </url>
   
@@ -255,6 +255,11 @@
   <url>
     <loc>http://consequently.org/class/2015/PHIL20030/</loc>
     <lastmod>2015-07-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://consequently.org/writing/alwaysmore/</loc>
+    <lastmod>2010-11-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -1073,12 +1078,12 @@
   </url>
   
   <url>
-    <loc>http://consequently.org/writing/minitrue/</loc>
+    <loc>http://consequently.org/writing/mf/</loc>
     <lastmod>2005-03-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://consequently.org/writing/mf/</loc>
+    <loc>http://consequently.org/writing/minitrue/</loc>
     <lastmod>2005-03-03T00:00:00+00:00</lastmod>
   </url>
   
@@ -1088,12 +1093,12 @@
   </url>
   
   <url>
-    <loc>http://consequently.org/writing/gndl/</loc>
+    <loc>http://consequently.org/writing/dmap-belnap-lambert/</loc>
     <lastmod>2005-03-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://consequently.org/writing/dmap-belnap-lambert/</loc>
+    <loc>http://consequently.org/writing/gndl/</loc>
     <lastmod>2005-03-03T00:00:00+00:00</lastmod>
   </url>
   
