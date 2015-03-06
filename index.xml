@@ -26,7 +26,7 @@
     <language>en-us</language>
     
     
-    <updated>Wed, 04 Mar 2015 02:00:02 AEDT</updated>
+    <updated>Fri, 06 Mar 2015 12:44:48 AEDT</updated>
 
 
 <item>
@@ -92,6 +92,17 @@
 <pubDate>Sat, 31 Jan 2015 00:00:00 UTC</pubDate>
 <guid>http://consequently.org/class/2015/logic2_coursera/</guid>
 <description>&lt;p&gt;Jen Davoren and I are running &lt;em&gt;Logic: Language and Information 2&lt;/em&gt; through &lt;a href=&#34;http://coursera.org&#34;&gt;Coursera&lt;/a&gt; again in 2015. You can enrol &lt;a href=&#34;https://www.coursera.org/course/logic2&#34;&gt;here&lt;/a&gt;. This course follows on from &lt;em&gt;&lt;a href=&#34;https://www.coursera.org/course/logic1&#34;&gt;Logic: Language and Information 1&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+</description>
+</item>
+    
+<item>
+<title>Come and work with me on proof theory and philosophy</title>
+<link>http://consequently.org/news/2015/come-work-with-me/</link>
+<pubDate>Fri, 06 Mar 2015 12:28:44 AEDT</pubDate>
+<guid>http://consequently.org/news/2015/come-work-with-me/</guid>
+<description>&lt;p&gt;I&amp;rsquo;m delighted to &lt;em&gt;finally&lt;/em&gt; announce that I have a &lt;a href=&#34;http://jobs.unimelb.edu.au/caw/en/job/885576/postdoctoral-fellow-philosophy&#34;&gt;job to offer&lt;/a&gt; on my five year ARC funded research project in philosophical logic and its applications, &amp;ldquo;Meaning in Action: new techniques for language, logic and information.&amp;rdquo; It&amp;rsquo;s a two year postdoctoral research position, with a little bit of teaching on the side. If you&amp;rsquo;re interested in philosophical logic, and would like to join the logic group at Melbourne, this is the job for &lt;em&gt;you&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;Details are &lt;a href=&#34;http://jobs.unimelb.edu.au/caw/en/job/885576/postdoctoral-fellow-philosophy&#34;&gt;online at the University of Melbourne careers site&lt;/a&gt;, and if you  applying, you should read the &lt;a href=&#34;http://consequently.org/misc/DP150103801_app.pdf&#34;&gt;project description&lt;/a&gt; so you can address how you would contribute to the research project in your application for the job. To apply, follow the instructions &lt;a href=&#34;http://jobs.unimelb.edu.au/caw/en/job/885576/postdoctoral-fellow-philosophy&#34;&gt;on the University of Melbourne careers site&lt;/a&gt; The closing date for the application is &lt;strong&gt;April 19, 2015&lt;/strong&gt; (That&amp;rsquo;s &lt;em&gt;Melbourne&lt;/em&gt; time. Don&amp;rsquo;t be bitten by thinking that midnight April 19 &lt;em&gt;your&lt;/em&gt; time is still April 19 &lt;em&gt;our&lt;/em&gt; time.) If you have any questions, don&amp;rsquo;t hesitate to get back to me. And let everyone know about this position. I&amp;rsquo;ll be delighted to have a strong field of applicants. This is an exciting research project, and I&amp;rsquo;m looking forward to working on it with others.&lt;/p&gt;
 </description>
 </item>
     
@@ -772,15 +783,6 @@ p\land\neg p\vdash
 <pubDate>Sat, 01 Jan 2011 00:00:00 UTC</pubDate>
 <guid>http://consequently.org/writing/logic_in_australasia/</guid>
 <description>&lt;p&gt;This is an idiosyncratic history of philosophical logic in Australia and New Zealand, highlighting two significant points of research in Australasian philosophical logic: modal logic and relevant/paraconsistent logic.&lt;/p&gt;
-</description>
-</item>
-    
-<item>
-<title>On the ternary relation and conditionality</title>
-<link>http://consequently.org/writing/sitconchan/</link>
-<pubDate>Sat, 25 Dec 2010 00:00:00 UTC</pubDate>
-<guid>http://consequently.org/writing/sitconchan/</guid>
-<description>&lt;p&gt;Majer and Peli&amp;scaron; have proposed a relevant logic for epistemic agents, providing a novel extension of the relevant logic R with a distinctive epistemic modality K, which is at the one and the same time factive (K&amp;phi; &amp;rarr; &amp;phi; is a theorem) and an existential normal modal operator (K(&amp;phi; &amp;or; &amp;psi;) &amp;rarr; (K&amp;phi; &amp;or; K&amp;psi;) is also a theorem). The intended interpretation is that K&amp;phi; holds (relative to a situation &lt;em&gt;s&lt;/em&gt;) if there is a resource available at &lt;em&gt;s&lt;/em&gt;, confirming &amp;phi;. In this article we expand the class of models to the broader class of &amp;lsquo;general epistemic frames&amp;rsquo;. With this generalisation we provide a sound and complete axiomatisation for the logic of general relevant epistemic frames. We also show, that each of the modal axioms characterises some natural subclasses of general frames.&lt;/p&gt;
 </description>
 </item>
     
