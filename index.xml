@@ -26,7 +26,7 @@
     <language>en-us</language>
     
     
-    <updated>Fri, 06 Mar 2015 12:44:48 AEDT</updated>
+    <updated>Fri, 06 Mar 2015 21:18:50 AEDT</updated>
 
 
 <item>
@@ -102,7 +102,7 @@
 <guid>http://consequently.org/news/2015/come-work-with-me/</guid>
 <description>&lt;p&gt;I&amp;rsquo;m delighted to &lt;em&gt;finally&lt;/em&gt; announce that I have a &lt;a href=&#34;http://jobs.unimelb.edu.au/caw/en/job/885576/postdoctoral-fellow-philosophy&#34;&gt;job to offer&lt;/a&gt; on my five year ARC funded research project in philosophical logic and its applications, &amp;ldquo;Meaning in Action: new techniques for language, logic and information.&amp;rdquo; It&amp;rsquo;s a two year postdoctoral research position, with a little bit of teaching on the side. If you&amp;rsquo;re interested in philosophical logic, and would like to join the logic group at Melbourne, this is the job for &lt;em&gt;you&lt;/em&gt;.&lt;/p&gt;
 
-&lt;p&gt;Details are &lt;a href=&#34;http://jobs.unimelb.edu.au/caw/en/job/885576/postdoctoral-fellow-philosophy&#34;&gt;online at the University of Melbourne careers site&lt;/a&gt;, and if you  applying, you should read the &lt;a href=&#34;http://consequently.org/misc/DP150103801_app.pdf&#34;&gt;project description&lt;/a&gt; so you can address how you would contribute to the research project in your application for the job. To apply, follow the instructions &lt;a href=&#34;http://jobs.unimelb.edu.au/caw/en/job/885576/postdoctoral-fellow-philosophy&#34;&gt;on the University of Melbourne careers site&lt;/a&gt; The closing date for the application is &lt;strong&gt;April 19, 2015&lt;/strong&gt; (That&amp;rsquo;s &lt;em&gt;Melbourne&lt;/em&gt; time. Don&amp;rsquo;t be bitten by thinking that midnight April 19 &lt;em&gt;your&lt;/em&gt; time is still April 19 &lt;em&gt;our&lt;/em&gt; time.) If you have any questions, don&amp;rsquo;t hesitate to get back to me. And let everyone know about this position. I&amp;rsquo;ll be delighted to have a strong field of applicants. This is an exciting research project, and I&amp;rsquo;m looking forward to working on it with others.&lt;/p&gt;
+&lt;p&gt;Details are &lt;a href=&#34;http://jobs.unimelb.edu.au/caw/en/job/885576/postdoctoral-fellow-philosophy&#34;&gt;online at the University of Melbourne careers site&lt;/a&gt;, and if you  applying, you should read the &lt;a href=&#34;http://consequently.org/misc/DP150103801_app.pdf&#34;&gt;project description&lt;/a&gt; so you can address how you would contribute to the research project in your application for the job. To apply, follow the instructions &lt;a href=&#34;http://jobs.unimelb.edu.au/caw/en/job/885576/postdoctoral-fellow-philosophy&#34;&gt;on the University of Melbourne careers site&lt;/a&gt;. The closing date for the application is &lt;strong&gt;April 19, 2015&lt;/strong&gt; (That&amp;rsquo;s &lt;em&gt;Melbourne&lt;/em&gt; time. Don&amp;rsquo;t be bitten by thinking that midnight April 19 &lt;em&gt;your&lt;/em&gt; time is still April 19 &lt;em&gt;our&lt;/em&gt; time.) If you have any questions, don&amp;rsquo;t hesitate to get back to me. And let everyone know about this position. I&amp;rsquo;ll be delighted to have a strong field of applicants. This is an exciting research project, and I&amp;rsquo;m looking forward to working on it with others.&lt;/p&gt;
 </description>
 </item>
     
@@ -514,17 +514,6 @@ p\land\neg p\vdash
 </item>
     
 <item>
-<title>PHIL10003: Philosophy, the Great Thinkers</title>
-<link>http://consequently.org/class/2014/PHIL10003/</link>
-<pubDate>Sat, 31 Jan 2015 00:00:00 UTC</pubDate>
-<guid>http://consequently.org/class/2014/PHIL10003/</guid>
-<description>&lt;p&gt;&lt;strong&gt;PHIL10003: Philosophy, the Great Thinkers&lt;/strong&gt; is a &lt;a href=&#34;http://unimelb.edu.au&#34;&gt;University of Melbourne&lt;/a&gt; undergraduate subject, introducing philosophy to students through close readings of core texts. I taught with Dr. Chris Cordner and Dr. Ruth Boeker. In my classes, we looked at David Hume&amp;rsquo; &lt;a href=&#34;http://davidhume.org/texts/dnr.html&#34;&gt;&lt;em&gt;Dialogues Concerning Natural Religion&lt;/em&gt;&lt;/a&gt; and &lt;a href=&#34;https://ebooks.adelaide.edu.au/h/hume/david/h92n/contents.html&#34;&gt;&lt;em&gt;Natural History of Religion&lt;/em&gt;&lt;/a&gt;, with some side trips into hume&amp;rsquo;s &lt;a href=&#34;http://davidhume.org/texts/ehu.html&#34;&gt;&lt;em&gt;Enquiry&lt;/em&gt;&lt;/a&gt;, and some Marx, Wittgenstein for good measure.&lt;/p&gt;
-
-&lt;p&gt;The subject was taught to University of Melbourne undergraduate students (for Arts students as a part of the Philosophy major, for non-Arts students, as a breadth subject). Details for enrolment are &lt;a href=&#34;https://handbook.unimelb.edu.au/view/2014/PHIL10003&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
-</description>
-</item>
-    
-<item>
 <title>PHIL30043: The Power and Limits of Logic</title>
 <link>http://consequently.org/class/2014/PHIL30043/</link>
 <pubDate>Sat, 31 Jan 2015 00:00:00 UTC</pubDate>
@@ -532,6 +521,17 @@ p\land\neg p\vdash
 <description>&lt;p&gt;&lt;strong&gt;PHIL30043: The Power and Limits of Logic&lt;/strong&gt; is a &lt;a href=&#34;http://unimelb.edu.au&#34;&gt;University of Melbourne&lt;/a&gt; undergraduate subject. It covers the metatheory of classical first order predicate logic, beginning at the &lt;em&gt;Soundness&lt;/em&gt; and &lt;em&gt;Completeness&lt;/em&gt; Theorems (proved not once but &lt;em&gt;twice&lt;/em&gt;, first for a tableaux proof system for predicate logic, then a Hilbert proof system), through the &lt;em&gt;Deduction Theorem&lt;/em&gt;, &lt;em&gt;Compactness&lt;/em&gt;, &lt;em&gt;Cantor&amp;rsquo;s Theorem&lt;/em&gt;, the &lt;em&gt;Downward L&amp;ouml;wenheim&amp;ndash;Skolem Theorem&lt;/em&gt;, &lt;em&gt;Recursive Functions&lt;/em&gt;, &lt;em&gt;Register Machines&lt;/em&gt;, &lt;em&gt;Representability&lt;/em&gt; and ending up at &lt;em&gt;G&amp;ouml;del&amp;rsquo;s Incompleteness Theorems&lt;/em&gt; and &lt;em&gt;L&amp;ouml;b&amp;rsquo;s Theorem&lt;/em&gt;.&lt;/p&gt;
 
 &lt;p&gt;The subject was taught to University of Melbourne undergraduate students (for Arts students as a part of the Philosophy major, for non-Arts students, as a breadth subject). Details for enrolment are &lt;a href=&#34;https://handbook.unimelb.edu.au/view/2014/PHIL30043&#34;&gt;here&lt;/a&gt;. I made use of video lectures I have made &lt;a href=&#34;http://vimeo.com/album/2262409&#34;&gt;freely available on Vimeo&lt;/a&gt;.&lt;/p&gt;
+</description>
+</item>
+    
+<item>
+<title>PHIL10003: Philosophy, the Great Thinkers</title>
+<link>http://consequently.org/class/2014/PHIL10003/</link>
+<pubDate>Sat, 31 Jan 2015 00:00:00 UTC</pubDate>
+<guid>http://consequently.org/class/2014/PHIL10003/</guid>
+<description>&lt;p&gt;&lt;strong&gt;PHIL10003: Philosophy, the Great Thinkers&lt;/strong&gt; is a &lt;a href=&#34;http://unimelb.edu.au&#34;&gt;University of Melbourne&lt;/a&gt; undergraduate subject, introducing philosophy to students through close readings of core texts. I taught with Dr. Chris Cordner and Dr. Ruth Boeker. In my classes, we looked at David Hume&amp;rsquo; &lt;a href=&#34;http://davidhume.org/texts/dnr.html&#34;&gt;&lt;em&gt;Dialogues Concerning Natural Religion&lt;/em&gt;&lt;/a&gt; and &lt;a href=&#34;https://ebooks.adelaide.edu.au/h/hume/david/h92n/contents.html&#34;&gt;&lt;em&gt;Natural History of Religion&lt;/em&gt;&lt;/a&gt;, with some side trips into hume&amp;rsquo;s &lt;a href=&#34;http://davidhume.org/texts/ehu.html&#34;&gt;&lt;em&gt;Enquiry&lt;/em&gt;&lt;/a&gt;, and some Marx, Wittgenstein for good measure.&lt;/p&gt;
+
+&lt;p&gt;The subject was taught to University of Melbourne undergraduate students (for Arts students as a part of the Philosophy major, for non-Arts students, as a breadth subject). Details for enrolment are &lt;a href=&#34;https://handbook.unimelb.edu.au/view/2014/PHIL10003&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
 </item>
     
