@@ -26,7 +26,7 @@
     <language>en-us</language>
     
     
-    <updated>Sun, 08 Mar 2015 12:23:13 AEDT</updated>
+    <updated>Sun, 08 Mar 2015 12:23:45 AEDT</updated>
 
 
 <item>
@@ -107,7 +107,7 @@
 &lt;p&gt;&lt;strong&gt;Update:&lt;/strong&gt; Here are a few answers to questions I&amp;rsquo;ve been asked:&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;p&gt;There is no fixed starting date for the position, though if you can be on board for Semester 2, 2015, that&amp;rsquo;s a strong plus.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;There is no fixed starting date for the position, though if you can be on board for &lt;a href=&#34;http://www.unimelb.edu.au/unisec/PDates/acadcale.html&#34;&gt;Semester 2, 2015&lt;/a&gt;, that&amp;rsquo;s a strong plus.&lt;/p&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;The teaching responsibilities for the position are small (at most &lt;sup&gt;1&lt;/sup&gt;&amp;frasl;&lt;sub&gt;4&lt;/sub&gt; of the workload), and are to be decided in consultation with me&amp;mdash;this part of the role is to give the candidate some teaching experience, and to cover a little of my teaching to free me up to do some more research. Take a look at &lt;a href=&#34;http://consequently.org/classes/&#34;&gt;my teaching&lt;/a&gt; over the last few years, and you&amp;rsquo;ll get an idea of the opportunities for teaching.&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
@@ -524,17 +524,6 @@ p\land\neg p\vdash
 </item>
     
 <item>
-<title>PHIL30043: The Power and Limits of Logic</title>
-<link>http://consequently.org/class/2014/PHIL30043/</link>
-<pubDate>Sat, 31 Jan 2015 00:00:00 UTC</pubDate>
-<guid>http://consequently.org/class/2014/PHIL30043/</guid>
-<description>&lt;p&gt;&lt;strong&gt;PHIL30043: The Power and Limits of Logic&lt;/strong&gt; is a &lt;a href=&#34;http://unimelb.edu.au&#34;&gt;University of Melbourne&lt;/a&gt; undergraduate subject. It covers the metatheory of classical first order predicate logic, beginning at the &lt;em&gt;Soundness&lt;/em&gt; and &lt;em&gt;Completeness&lt;/em&gt; Theorems (proved not once but &lt;em&gt;twice&lt;/em&gt;, first for a tableaux proof system for predicate logic, then a Hilbert proof system), through the &lt;em&gt;Deduction Theorem&lt;/em&gt;, &lt;em&gt;Compactness&lt;/em&gt;, &lt;em&gt;Cantor&amp;rsquo;s Theorem&lt;/em&gt;, the &lt;em&gt;Downward L&amp;ouml;wenheim&amp;ndash;Skolem Theorem&lt;/em&gt;, &lt;em&gt;Recursive Functions&lt;/em&gt;, &lt;em&gt;Register Machines&lt;/em&gt;, &lt;em&gt;Representability&lt;/em&gt; and ending up at &lt;em&gt;G&amp;ouml;del&amp;rsquo;s Incompleteness Theorems&lt;/em&gt; and &lt;em&gt;L&amp;ouml;b&amp;rsquo;s Theorem&lt;/em&gt;.&lt;/p&gt;
-
-&lt;p&gt;The subject was taught to University of Melbourne undergraduate students (for Arts students as a part of the Philosophy major, for non-Arts students, as a breadth subject). Details for enrolment are &lt;a href=&#34;https://handbook.unimelb.edu.au/view/2014/PHIL30043&#34;&gt;here&lt;/a&gt;. I made use of video lectures I have made &lt;a href=&#34;http://vimeo.com/album/2262409&#34;&gt;freely available on Vimeo&lt;/a&gt;.&lt;/p&gt;
-</description>
-</item>
-    
-<item>
 <title>PHIL10003: Philosophy, the Great Thinkers</title>
 <link>http://consequently.org/class/2014/PHIL10003/</link>
 <pubDate>Sat, 31 Jan 2015 00:00:00 UTC</pubDate>
@@ -542,6 +531,17 @@ p\land\neg p\vdash
 <description>&lt;p&gt;&lt;strong&gt;PHIL10003: Philosophy, the Great Thinkers&lt;/strong&gt; is a &lt;a href=&#34;http://unimelb.edu.au&#34;&gt;University of Melbourne&lt;/a&gt; undergraduate subject, introducing philosophy to students through close readings of core texts. I taught with Dr. Chris Cordner and Dr. Ruth Boeker. In my classes, we looked at David Hume&amp;rsquo; &lt;a href=&#34;http://davidhume.org/texts/dnr.html&#34;&gt;&lt;em&gt;Dialogues Concerning Natural Religion&lt;/em&gt;&lt;/a&gt; and &lt;a href=&#34;https://ebooks.adelaide.edu.au/h/hume/david/h92n/contents.html&#34;&gt;&lt;em&gt;Natural History of Religion&lt;/em&gt;&lt;/a&gt;, with some side trips into hume&amp;rsquo;s &lt;a href=&#34;http://davidhume.org/texts/ehu.html&#34;&gt;&lt;em&gt;Enquiry&lt;/em&gt;&lt;/a&gt;, and some Marx, Wittgenstein for good measure.&lt;/p&gt;
 
 &lt;p&gt;The subject was taught to University of Melbourne undergraduate students (for Arts students as a part of the Philosophy major, for non-Arts students, as a breadth subject). Details for enrolment are &lt;a href=&#34;https://handbook.unimelb.edu.au/view/2014/PHIL10003&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+</item>
+    
+<item>
+<title>PHIL30043: The Power and Limits of Logic</title>
+<link>http://consequently.org/class/2014/PHIL30043/</link>
+<pubDate>Sat, 31 Jan 2015 00:00:00 UTC</pubDate>
+<guid>http://consequently.org/class/2014/PHIL30043/</guid>
+<description>&lt;p&gt;&lt;strong&gt;PHIL30043: The Power and Limits of Logic&lt;/strong&gt; is a &lt;a href=&#34;http://unimelb.edu.au&#34;&gt;University of Melbourne&lt;/a&gt; undergraduate subject. It covers the metatheory of classical first order predicate logic, beginning at the &lt;em&gt;Soundness&lt;/em&gt; and &lt;em&gt;Completeness&lt;/em&gt; Theorems (proved not once but &lt;em&gt;twice&lt;/em&gt;, first for a tableaux proof system for predicate logic, then a Hilbert proof system), through the &lt;em&gt;Deduction Theorem&lt;/em&gt;, &lt;em&gt;Compactness&lt;/em&gt;, &lt;em&gt;Cantor&amp;rsquo;s Theorem&lt;/em&gt;, the &lt;em&gt;Downward L&amp;ouml;wenheim&amp;ndash;Skolem Theorem&lt;/em&gt;, &lt;em&gt;Recursive Functions&lt;/em&gt;, &lt;em&gt;Register Machines&lt;/em&gt;, &lt;em&gt;Representability&lt;/em&gt; and ending up at &lt;em&gt;G&amp;ouml;del&amp;rsquo;s Incompleteness Theorems&lt;/em&gt; and &lt;em&gt;L&amp;ouml;b&amp;rsquo;s Theorem&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;The subject was taught to University of Melbourne undergraduate students (for Arts students as a part of the Philosophy major, for non-Arts students, as a breadth subject). Details for enrolment are &lt;a href=&#34;https://handbook.unimelb.edu.au/view/2014/PHIL30043&#34;&gt;here&lt;/a&gt;. I made use of video lectures I have made &lt;a href=&#34;http://vimeo.com/album/2262409&#34;&gt;freely available on Vimeo&lt;/a&gt;.&lt;/p&gt;
 </description>
 </item>
     
