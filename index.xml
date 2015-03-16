@@ -26,7 +26,7 @@
     <language>en-us</language>
     
     
-    <updated>Mon, 16 Mar 2015 14:43:01 AEDT</updated>
+    <updated>Mon, 16 Mar 2015 14:58:49 AEDT</updated>
 
 
 <item>
@@ -105,6 +105,17 @@
 &lt;p&gt;In the talk I&amp;rsquo;ll discuss some of the parallels between the range of cognitive attitudes to be found in reasoning and philosophical reflection on the one hand, and prayer, on the other.&lt;/p&gt;
 
 &lt;p&gt;The &lt;a href=&#34;http://christianscholarsnetwork.tumblr.com&#34;&gt;Christian Scholars Network&lt;/a&gt; is a ministry of &lt;a href=&#34;http://sjoc.org.au&#34;&gt;St. James Old Cathedral&lt;/a&gt;. Anyone who is interested in the intersection of faith and intellect is entirely welcome to participate. It&amp;rsquo;s coordinated by &lt;a href=&#34;http://www.sjoc.org.au/people/staff&#34;&gt;Rev.&lt;/a&gt; &lt;a href=&#34;http://corner.acu.edu.au/research_supervision/framework/browse.php?srperid=2260&#34;&gt;Dr. Jeffrey Hanson&lt;/a&gt;.  For more information, see &lt;a href=&#34;http://christianscholarsnetwork.tumblr.com&#34;&gt;the Network&amp;rsquo;s website&lt;/a&gt;.&lt;/p&gt;
+</description>
+</item>
+    
+<item>
+<title>Our Thinking Behind Logic Teaching on Coursera</title>
+<link>http://consequently.org/news/2015/our-thinking-behind-logic-teaching-on-coursera/</link>
+<pubDate>Mon, 16 Mar 2015 14:46:22 AEDT</pubDate>
+<guid>http://consequently.org/news/2015/our-thinking-behind-logic-teaching-on-coursera/</guid>
+<description>&lt;p&gt;Just today, I stumbled across &lt;a href=&#34;https://vimeo.com/102098742&#34;&gt;a video of an interview with me from 2013&lt;/a&gt;, explaining our thinking behind &lt;a href=&#34;http://consequently.org/class/2015/logic1_coursera/&#34;&gt;teaching introductory logic&lt;/a&gt; &lt;a href=&#34;http://consequently.org/class/2015/logic2_coursera/&#34;&gt;on Coursera&lt;/a&gt;, and the connections between this and &lt;a href=&#34;http://consequently.org/class/2015/UNIB10002&#34;&gt;classroom teaching&lt;/a&gt;. Come for the ideas, stay for the crazy hand gestures.&lt;/p&gt;
+
+&lt;iframe src=&#34;https://player.vimeo.com/video/102098742&#34; width=&#34;500&#34; height=&#34;281&#34; frameborder=&#34;0&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; 
 </description>
 </item>
     
@@ -537,17 +548,6 @@ p\land\neg p\vdash
 </item>
     
 <item>
-<title>PHIL30043: The Power and Limits of Logic</title>
-<link>http://consequently.org/class/2014/PHIL30043/</link>
-<pubDate>Sat, 31 Jan 2015 00:00:00 UTC</pubDate>
-<guid>http://consequently.org/class/2014/PHIL30043/</guid>
-<description>&lt;p&gt;&lt;strong&gt;PHIL30043: The Power and Limits of Logic&lt;/strong&gt; is a &lt;a href=&#34;http://unimelb.edu.au&#34;&gt;University of Melbourne&lt;/a&gt; undergraduate subject. It covers the metatheory of classical first order predicate logic, beginning at the &lt;em&gt;Soundness&lt;/em&gt; and &lt;em&gt;Completeness&lt;/em&gt; Theorems (proved not once but &lt;em&gt;twice&lt;/em&gt;, first for a tableaux proof system for predicate logic, then a Hilbert proof system), through the &lt;em&gt;Deduction Theorem&lt;/em&gt;, &lt;em&gt;Compactness&lt;/em&gt;, &lt;em&gt;Cantor&amp;rsquo;s Theorem&lt;/em&gt;, the &lt;em&gt;Downward L&amp;ouml;wenheim&amp;ndash;Skolem Theorem&lt;/em&gt;, &lt;em&gt;Recursive Functions&lt;/em&gt;, &lt;em&gt;Register Machines&lt;/em&gt;, &lt;em&gt;Representability&lt;/em&gt; and ending up at &lt;em&gt;G&amp;ouml;del&amp;rsquo;s Incompleteness Theorems&lt;/em&gt; and &lt;em&gt;L&amp;ouml;b&amp;rsquo;s Theorem&lt;/em&gt;.&lt;/p&gt;
-
-&lt;p&gt;The subject was taught to University of Melbourne undergraduate students (for Arts students as a part of the Philosophy major, for non-Arts students, as a breadth subject). Details for enrolment are &lt;a href=&#34;https://handbook.unimelb.edu.au/view/2014/PHIL30043&#34;&gt;here&lt;/a&gt;. I made use of video lectures I have made &lt;a href=&#34;http://vimeo.com/album/2262409&#34;&gt;freely available on Vimeo&lt;/a&gt;.&lt;/p&gt;
-</description>
-</item>
-    
-<item>
 <title>PHIL10003: Philosophy, the Great Thinkers</title>
 <link>http://consequently.org/class/2014/PHIL10003/</link>
 <pubDate>Sat, 31 Jan 2015 00:00:00 UTC</pubDate>
@@ -555,6 +555,17 @@ p\land\neg p\vdash
 <description>&lt;p&gt;&lt;strong&gt;PHIL10003: Philosophy, the Great Thinkers&lt;/strong&gt; is a &lt;a href=&#34;http://unimelb.edu.au&#34;&gt;University of Melbourne&lt;/a&gt; undergraduate subject, introducing philosophy to students through close readings of core texts. I taught with Dr. Chris Cordner and Dr. Ruth Boeker. In my classes, we looked at David Hume&amp;rsquo; &lt;a href=&#34;http://davidhume.org/texts/dnr.html&#34;&gt;&lt;em&gt;Dialogues Concerning Natural Religion&lt;/em&gt;&lt;/a&gt; and &lt;a href=&#34;https://ebooks.adelaide.edu.au/h/hume/david/h92n/contents.html&#34;&gt;&lt;em&gt;Natural History of Religion&lt;/em&gt;&lt;/a&gt;, with some side trips into hume&amp;rsquo;s &lt;a href=&#34;http://davidhume.org/texts/ehu.html&#34;&gt;&lt;em&gt;Enquiry&lt;/em&gt;&lt;/a&gt;, and some Marx, Wittgenstein for good measure.&lt;/p&gt;
 
 &lt;p&gt;The subject was taught to University of Melbourne undergraduate students (for Arts students as a part of the Philosophy major, for non-Arts students, as a breadth subject). Details for enrolment are &lt;a href=&#34;https://handbook.unimelb.edu.au/view/2014/PHIL10003&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+</item>
+    
+<item>
+<title>PHIL30043: The Power and Limits of Logic</title>
+<link>http://consequently.org/class/2014/PHIL30043/</link>
+<pubDate>Sat, 31 Jan 2015 00:00:00 UTC</pubDate>
+<guid>http://consequently.org/class/2014/PHIL30043/</guid>
+<description>&lt;p&gt;&lt;strong&gt;PHIL30043: The Power and Limits of Logic&lt;/strong&gt; is a &lt;a href=&#34;http://unimelb.edu.au&#34;&gt;University of Melbourne&lt;/a&gt; undergraduate subject. It covers the metatheory of classical first order predicate logic, beginning at the &lt;em&gt;Soundness&lt;/em&gt; and &lt;em&gt;Completeness&lt;/em&gt; Theorems (proved not once but &lt;em&gt;twice&lt;/em&gt;, first for a tableaux proof system for predicate logic, then a Hilbert proof system), through the &lt;em&gt;Deduction Theorem&lt;/em&gt;, &lt;em&gt;Compactness&lt;/em&gt;, &lt;em&gt;Cantor&amp;rsquo;s Theorem&lt;/em&gt;, the &lt;em&gt;Downward L&amp;ouml;wenheim&amp;ndash;Skolem Theorem&lt;/em&gt;, &lt;em&gt;Recursive Functions&lt;/em&gt;, &lt;em&gt;Register Machines&lt;/em&gt;, &lt;em&gt;Representability&lt;/em&gt; and ending up at &lt;em&gt;G&amp;ouml;del&amp;rsquo;s Incompleteness Theorems&lt;/em&gt; and &lt;em&gt;L&amp;ouml;b&amp;rsquo;s Theorem&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;The subject was taught to University of Melbourne undergraduate students (for Arts students as a part of the Philosophy major, for non-Arts students, as a breadth subject). Details for enrolment are &lt;a href=&#34;https://handbook.unimelb.edu.au/view/2014/PHIL30043&#34;&gt;here&lt;/a&gt;. I made use of video lectures I have made &lt;a href=&#34;http://vimeo.com/album/2262409&#34;&gt;freely available on Vimeo&lt;/a&gt;.&lt;/p&gt;
 </description>
 </item>
     
@@ -788,15 +799,6 @@ p\land\neg p\vdash
 <description>&lt;p&gt;Molinism is an attempt to do equal justice to divine foreknowledge and human freedom.  For Molinists, human freedom &lt;em&gt;fits&lt;/em&gt; in this universe for the future is open or unsettled.  However, God&amp;rsquo;s middle knowledge &amp;ndash; God&amp;rsquo;s contingent knowledge of what agents would freely do in this or that circumstance &amp;ndash; underwrites God&amp;rsquo;s omniscience in the midst of this openness.&lt;/p&gt;
 
 &lt;p&gt;In this paper I rehearse Nuel Belnap and Mitchell Green&amp;rsquo;s argument in &amp;lsquo;Indeterminism and the Thin Red Line&amp;rsquo; against the reality of a distinguished single future in the context of branching time, and show that it applies applies equally against Molinism + branching time.  In the process, we show how contemporary work in the logic of temporal notions in the context of branching time (specifically, Prior&amp;ndash;Thomason semantics) can illuminate discussions in the metaphysics of freedom and divine knowledge.&lt;/p&gt;
-</description>
-</item>
-    
-<item>
-<title>Anti-Realist Classical Logic and Realist Mathematics</title>
-<link>http://consequently.org/writing/antirealist/</link>
-<pubDate>Thu, 13 Oct 2011 00:00:00 UTC</pubDate>
-<guid>http://consequently.org/writing/antirealist/</guid>
-<description>&lt;p&gt;I sketch an application of a semantically anti-realist understanding of the classical sequent calculus to the topic of mathematics. The result is a semantically anti-realist defence of mathematical realism. In the paper, I develop the view and compare it to orthodox positions in the philosophy of mathematics.&lt;/p&gt;
 </description>
 </item>
     
