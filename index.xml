@@ -26,7 +26,7 @@
     <language>en-us</language>
     
     
-    <updated>Tue, 24 Mar 2015 00:03:28 AEDT</updated>
+    <updated>Tue, 24 Mar 2015 00:17:33 AEDT</updated>
 
 
 <item>
@@ -83,6 +83,15 @@
 <description>&lt;p&gt;Proponents of a dialethic or &amp;ldquo;truth-value glut&amp;rdquo; response to the paradoxes of self-reference argue that &amp;ldquo;truth-value gap&amp;rdquo; analyses of the paradoxes fall foul of the extended liar paradox: &amp;ldquo;this sentence is not true.&amp;rdquo; If we pay attention to the role of assertion and denial and the behaviour of negation in both &amp;ldquo;gap&amp;rdquo; and &amp;ldquo;glut&amp;rdquo; analyses, we see that the situation with these approaches has a pleasing symmetry: gap approaches take some denials to not be expressible by negation, and glut approaches take some negations to not express denials. But in the light of this symmetry, considerations against a gap view point to parallel considerations against a glut view. Those who find some reason to prefer one view over another (and this is almost everyone) must find some reason to break this symmetry.&lt;/p&gt;
 
 &lt;p&gt;This short paper was written for presentation at &lt;a href=&#34;http://www.philosophy.unimelb.edu.au/aap2004&#34;&gt;AAP2004&lt;/a&gt;. After very many revisions, it&amp;rsquo;s finally going to be published in an edited collection from members and friends of the &lt;a href=&#34;http://www.st-andrews.ac.uk/arche/projects/logic/&#34;&gt;Arché project on Foundations of Logical Consequence&lt;/a&gt;.&lt;/p&gt;
+</description>
+</item>
+    
+<item>
+<title>[Title to be confirmed]</title>
+<link>http://consequently.org/presentation/2015/ctc-seminar/</link>
+<pubDate>Mon, 23 Mar 2015 00:00:00 UTC</pubDate>
+<guid>http://consequently.org/presentation/2015/ctc-seminar/</guid>
+<description>&lt;p&gt;I&amp;rsquo;m giving a research seminar on May 1 at the &lt;a href=&#34;http://www.ctc.edu.au/&#34;&gt;Catholic Theological College&lt;/a&gt;.&lt;/p&gt;
 </description>
 </item>
     
@@ -582,17 +591,6 @@ p\land\neg p\vdash
 </item>
     
 <item>
-<title>PHIL10003: Philosophy, the Great Thinkers</title>
-<link>http://consequently.org/class/2014/PHIL10003/</link>
-<pubDate>Sat, 31 Jan 2015 00:00:00 UTC</pubDate>
-<guid>http://consequently.org/class/2014/PHIL10003/</guid>
-<description>&lt;p&gt;&lt;strong&gt;PHIL10003: Philosophy, the Great Thinkers&lt;/strong&gt; is a &lt;a href=&#34;http://unimelb.edu.au&#34;&gt;University of Melbourne&lt;/a&gt; undergraduate subject, introducing philosophy to students through close readings of core texts. I taught with Dr. Chris Cordner and Dr. Ruth Boeker. In my classes, we looked at David Hume&amp;rsquo; &lt;a href=&#34;http://davidhume.org/texts/dnr.html&#34;&gt;&lt;em&gt;Dialogues Concerning Natural Religion&lt;/em&gt;&lt;/a&gt; and &lt;a href=&#34;https://ebooks.adelaide.edu.au/h/hume/david/h92n/contents.html&#34;&gt;&lt;em&gt;Natural History of Religion&lt;/em&gt;&lt;/a&gt;, with some side trips into hume&amp;rsquo;s &lt;a href=&#34;http://davidhume.org/texts/ehu.html&#34;&gt;&lt;em&gt;Enquiry&lt;/em&gt;&lt;/a&gt;, and some Marx, Wittgenstein for good measure.&lt;/p&gt;
-
-&lt;p&gt;The subject was taught to University of Melbourne undergraduate students (for Arts students as a part of the Philosophy major, for non-Arts students, as a breadth subject). Details for enrolment are &lt;a href=&#34;https://handbook.unimelb.edu.au/view/2014/PHIL10003&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
-</description>
-</item>
-    
-<item>
 <title>PHIL30043: The Power and Limits of Logic</title>
 <link>http://consequently.org/class/2014/PHIL30043/</link>
 <pubDate>Sat, 31 Jan 2015 00:00:00 UTC</pubDate>
@@ -600,6 +598,17 @@ p\land\neg p\vdash
 <description>&lt;p&gt;&lt;strong&gt;PHIL30043: The Power and Limits of Logic&lt;/strong&gt; is a &lt;a href=&#34;http://unimelb.edu.au&#34;&gt;University of Melbourne&lt;/a&gt; undergraduate subject. It covers the metatheory of classical first order predicate logic, beginning at the &lt;em&gt;Soundness&lt;/em&gt; and &lt;em&gt;Completeness&lt;/em&gt; Theorems (proved not once but &lt;em&gt;twice&lt;/em&gt;, first for a tableaux proof system for predicate logic, then a Hilbert proof system), through the &lt;em&gt;Deduction Theorem&lt;/em&gt;, &lt;em&gt;Compactness&lt;/em&gt;, &lt;em&gt;Cantor&amp;rsquo;s Theorem&lt;/em&gt;, the &lt;em&gt;Downward L&amp;ouml;wenheim&amp;ndash;Skolem Theorem&lt;/em&gt;, &lt;em&gt;Recursive Functions&lt;/em&gt;, &lt;em&gt;Register Machines&lt;/em&gt;, &lt;em&gt;Representability&lt;/em&gt; and ending up at &lt;em&gt;G&amp;ouml;del&amp;rsquo;s Incompleteness Theorems&lt;/em&gt; and &lt;em&gt;L&amp;ouml;b&amp;rsquo;s Theorem&lt;/em&gt;.&lt;/p&gt;
 
 &lt;p&gt;The subject was taught to University of Melbourne undergraduate students (for Arts students as a part of the Philosophy major, for non-Arts students, as a breadth subject). Details for enrolment are &lt;a href=&#34;https://handbook.unimelb.edu.au/view/2014/PHIL30043&#34;&gt;here&lt;/a&gt;. I made use of video lectures I have made &lt;a href=&#34;http://vimeo.com/album/2262409&#34;&gt;freely available on Vimeo&lt;/a&gt;.&lt;/p&gt;
+</description>
+</item>
+    
+<item>
+<title>PHIL10003: Philosophy, the Great Thinkers</title>
+<link>http://consequently.org/class/2014/PHIL10003/</link>
+<pubDate>Sat, 31 Jan 2015 00:00:00 UTC</pubDate>
+<guid>http://consequently.org/class/2014/PHIL10003/</guid>
+<description>&lt;p&gt;&lt;strong&gt;PHIL10003: Philosophy, the Great Thinkers&lt;/strong&gt; is a &lt;a href=&#34;http://unimelb.edu.au&#34;&gt;University of Melbourne&lt;/a&gt; undergraduate subject, introducing philosophy to students through close readings of core texts. I taught with Dr. Chris Cordner and Dr. Ruth Boeker. In my classes, we looked at David Hume&amp;rsquo; &lt;a href=&#34;http://davidhume.org/texts/dnr.html&#34;&gt;&lt;em&gt;Dialogues Concerning Natural Religion&lt;/em&gt;&lt;/a&gt; and &lt;a href=&#34;https://ebooks.adelaide.edu.au/h/hume/david/h92n/contents.html&#34;&gt;&lt;em&gt;Natural History of Religion&lt;/em&gt;&lt;/a&gt;, with some side trips into hume&amp;rsquo;s &lt;a href=&#34;http://davidhume.org/texts/ehu.html&#34;&gt;&lt;em&gt;Enquiry&lt;/em&gt;&lt;/a&gt;, and some Marx, Wittgenstein for good measure.&lt;/p&gt;
+
+&lt;p&gt;The subject was taught to University of Melbourne undergraduate students (for Arts students as a part of the Philosophy major, for non-Arts students, as a breadth subject). Details for enrolment are &lt;a href=&#34;https://handbook.unimelb.edu.au/view/2014/PHIL10003&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
 </item>
     
@@ -813,15 +822,6 @@ p\land\neg p\vdash
 <pubDate>Sat, 03 Mar 2012 00:00:00 UTC</pubDate>
 <guid>http://consequently.org/writing/hlc/</guid>
 <description>&lt;p&gt;Consequence is &lt;em&gt;a&lt;/em&gt;, if not &lt;em&gt;the&lt;/em&gt;, core subject matter of logic. Aristotle&amp;rsquo;s study of the syllogism instigated the task of categorising arguments into the logically good and the logically bad; the task remains an essential element of the study of logic. In this essay, we give a quick history of the way logical consequence has been studied from Aristotle to the present day.&lt;/p&gt;
-</description>
-</item>
-    
-<item>
-<title>On the ternary relation and conditionality</title>
-<link>http://consequently.org/writing/ternary-cond/</link>
-<pubDate>Thu, 02 Feb 2012 00:00:00 UTC</pubDate>
-<guid>http://consequently.org/writing/ternary-cond/</guid>
-<description>&lt;p&gt;One of the most dominant approaches to semantics for relevant (and many paraconsistent) logics is the Routley–Meyer semantics involving a ternary relation on points. To some (many?), this ternary relation has seemed like a technical trick devoid of an intuitively appealing philosophical story that connects it up with conditionality in general. In this paper, we respond to this worry by providing three different philosophical accounts of the ternary relation that correspond to three conceptions of conditionality. We close by briefly discussing a general conception of conditionality that may unify the three given conceptions.&lt;/p&gt;
 </description>
 </item>
     
