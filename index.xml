@@ -26,7 +26,7 @@
     <language>en-us</language>
     
     
-    <updated>Thu, 09 Apr 2015 11:58:11 AEST</updated>
+    <updated>Sun, 12 Apr 2015 17:01:08 AEST</updated>
 
 
 <item>
@@ -101,6 +101,15 @@
 <pubDate>Sat, 31 Jan 2015 00:00:00 UTC</pubDate>
 <guid>http://consequently.org/class/2015/logic2_coursera/</guid>
 <description>&lt;p&gt;Jen Davoren and I are running &lt;em&gt;Logic: Language and Information 2&lt;/em&gt; through &lt;a href=&#34;http://coursera.org&#34;&gt;Coursera&lt;/a&gt; again in 2015. You can enrol &lt;a href=&#34;https://www.coursera.org/course/logic2&#34;&gt;here&lt;/a&gt;. This course follows on from &lt;em&gt;&lt;a href=&#34;https://www.coursera.org/course/logic1&#34;&gt;Logic: Language and Information 1&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+</description>
+</item>
+    
+<item>
+<title>Sophistry and Argumentation: The Role of Reason in the Examined Life</title>
+<link>http://consequently.org/presentation/2015/lyceum-club/</link>
+<pubDate>Sun, 12 Apr 2015 00:00:00 UTC</pubDate>
+<guid>http://consequently.org/presentation/2015/lyceum-club/</guid>
+<description>&lt;p&gt;I&amp;rsquo;m giving a presentation to the Philosophy Circle at the &lt;a href=&#34;http://www.lyceumclubmelb.org.au/&#34;&gt;Lyceum Club of Melbourne&lt;/a&gt; on Sophistry and Argumentation, and on the role of reason in the examined life.&lt;/p&gt;
 </description>
 </item>
     
@@ -198,17 +207,6 @@
 </item>
     
 <item>
-<title>UNIB10002: Logic, Language and Information</title>
-<link>http://consequently.org/class/2015/UNIB10002/</link>
-<pubDate>Sat, 31 Jan 2015 00:00:00 UTC</pubDate>
-<guid>http://consequently.org/class/2015/UNIB10002/</guid>
-<description>&lt;p&gt;&lt;strong&gt;&lt;span class=&#34;caps&#34;&gt;UNIB10002&lt;/span&gt;: Logic, Language and Information&lt;/strong&gt; is a &lt;a href=&#34;http://unimelb.edu.au&#34;&gt;University of Melbourne&lt;/a&gt; undergraduate breadth subject, introducing logic and its applications to students from a broad range of disciplines in the Arts, Sciences and Engineering. I coordinate this subject with my colleague Dr. Jen Davoren, with help from Dr. Lesley Stirling and Dr. Peter Schachte.&lt;/p&gt;
-
-&lt;p&gt;The subject is taught to University of Melbourne undergraduate students. Details for enrolment are &lt;a href=&#34;https://handbook.unimelb.edu.au/view/2014/UNIB10002&#34;&gt;here&lt;/a&gt;. We teach this in a &amp;lsquo;flipped classroom&amp;rsquo; model, using resources from our Coursera subjects &lt;a href=&#34;http://consequently.org/class/2015/logic1_coursera&#34;&gt;Logic 1&lt;/a&gt; and &lt;a href=&#34;http://consequently.org/class/2015/logic2_coursera&#34;&gt;Logic 2&lt;/a&gt;.&lt;/p&gt;
-</description>
-</item>
-    
-<item>
 <title>PHIL30043: The Power and Limits of Logic</title>
 <link>http://consequently.org/class/2015/PHIL30043/</link>
 <pubDate>Sat, 31 Jan 2015 00:00:00 UTC</pubDate>
@@ -290,6 +288,17 @@
 &lt;li&gt;&lt;a href=&#34;http://vimeo.com/album/2262409/video/65501745&#34;&gt;True Arithmetic is not Deductively Defined&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://vimeo.com/album/2262409/video/65505372&#34;&gt;If Con(PA) then PA doesn&amp;rsquo;t prove Con(PA)&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
+</description>
+</item>
+    
+<item>
+<title>UNIB10002: Logic, Language and Information</title>
+<link>http://consequently.org/class/2015/UNIB10002/</link>
+<pubDate>Sat, 31 Jan 2015 00:00:00 UTC</pubDate>
+<guid>http://consequently.org/class/2015/UNIB10002/</guid>
+<description>&lt;p&gt;&lt;strong&gt;&lt;span class=&#34;caps&#34;&gt;UNIB10002&lt;/span&gt;: Logic, Language and Information&lt;/strong&gt; is a &lt;a href=&#34;http://unimelb.edu.au&#34;&gt;University of Melbourne&lt;/a&gt; undergraduate breadth subject, introducing logic and its applications to students from a broad range of disciplines in the Arts, Sciences and Engineering. I coordinate this subject with my colleague Dr. Jen Davoren, with help from Dr. Lesley Stirling and Dr. Peter Schachte.&lt;/p&gt;
+
+&lt;p&gt;The subject is taught to University of Melbourne undergraduate students. Details for enrolment are &lt;a href=&#34;https://handbook.unimelb.edu.au/view/2014/UNIB10002&#34;&gt;here&lt;/a&gt;. We teach this in a &amp;lsquo;flipped classroom&amp;rsquo; model, using resources from our Coursera subjects &lt;a href=&#34;http://consequently.org/class/2015/logic1_coursera&#34;&gt;Logic 1&lt;/a&gt; and &lt;a href=&#34;http://consequently.org/class/2015/logic2_coursera&#34;&gt;Logic 2&lt;/a&gt;.&lt;/p&gt;
 </description>
 </item>
     
@@ -814,19 +823,6 @@ p\land\neg p\vdash
 <description>&lt;p&gt;According to Stephen Read, Thomas Bradwardine&amp;rsquo;s theory of truth provides an independently motivated solution to the paradoxes of truth, such as the liar. In a series of papers, I have discussed modal models for Read&amp;rsquo;s reconstruction of Bradwardine&amp;rsquo;s theory. In this paper, provide a hypersequent calculus for this theory, and I show that the cut rule is admissible in the hypersequent calculus.&lt;/p&gt;
 
 &lt;p&gt;(This paper is dedicated to Professor Stephen Read, whose work has been a profound influence on my own. His work on relevant logic, on proof theoretical harmony, on the logic of identity and on Thomas Brad- wardine&amp;rsquo;s theory of truth have been a rich source of insight, of stimulation and of provocation. In an attempt to both honour Stephen, and hopefully to give him some pleasure, I am going to attempt to cook up something original using some of the many and varied ingredients he has provided us. In this paper, I will mix and match ideas and techniques from Stephen&amp;rsquo;s papers on proof theory, on Bradwardine&amp;rsquo;s theory of truth, and on identity to offer a harmonious sequent system for a theory of truth inspired by Stephen Read&amp;rsquo;s recovery of the work of Thomas Bradwardine.)&lt;/p&gt;
-</description>
-</item>
-    
-<item>
-<title>Interpreting and Applying Proof Theories for Modal Logics</title>
-<link>http://consequently.org/writing/interp-apply-ptml/</link>
-<pubDate>Sat, 03 Mar 2012 00:00:00 UTC</pubDate>
-<guid>http://consequently.org/writing/interp-apply-ptml/</guid>
-<description>&lt;p&gt;Proof theory for modal logic has blossomed over recent years. Many ex- tensions of the classical sequent calculus have been proposed in order to give natural and appealing accounts of proof in modal logics like K, T, S4, S5, provability logics, and other modal systems. The common feature of each of these different proof systems consists in the general structure of the rules for modal operators. They provide introduction and elimination rules for statements of the form  &amp;#x25A1;&amp;#x10FC05;A (and &amp;#x25C7;&amp;#x10FC06;A), which show how those statements can feature as conclusions or as premises in deduction. These rules give an account of the deductive power of a modal formula 􏰅&amp;#x25A1;&amp;#x10FC05;A (and 􏰆&amp;#x25C7;&amp;#x10FC06;A) in terms of the constituent formula A.&lt;/p&gt;
-
-&lt;p&gt;The distinctive feature for the modal operators in contemporary proof systems for modal logics is that the step introducing or eliminating 􏰅􏰅&amp;#x25A1;&amp;#x10FC05;A is at the cost of introducing or eliminating some kind of extra structure in the proof. In this way, the proof rules for modal concepts such as 􏰅􏰅&amp;#x25A1;&amp;#x10FC05; run in parallel with the truth conditions for these concepts in a Kripke model, in which the truth of 􏰅􏰅&amp;#x25A1;&amp;#x10FC05;A stands or falls with the truth of A, but at the cost of checking that truth elsewhere, at points in the model accessible from the point at which 􏰅􏰅&amp;#x25A1;&amp;#x10FC05;A is evaluated.&lt;/p&gt;
-
-&lt;p&gt;In this paper we will introduce these recent advances in proof theory for a general audience, and then we will show how they are connected  with different—metaphysical and epistemic—conceptions of modality. We will show that these different pictures are nothing but different ways of connecting the statement 􏰅􏰅&amp;#x25A1;&amp;#x10FC05;A with the statement A, of showing the significance of modalising. In the light of this result we will draw conclusions about the link between analyticity and modality, and about the nature of a proof system for modal logics.&lt;/p&gt;
 </description>
 </item>
     
