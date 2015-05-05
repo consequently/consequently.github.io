@@ -26,7 +26,7 @@
     <language>en-us</language>
     
     
-    <updated>Tue, 05 May 2015 12:12:45 AEST</updated>
+    <updated>Tue, 05 May 2015 12:22:01 AEST</updated>
 
 
 <item>
@@ -82,7 +82,9 @@
 <guid>http://consequently.org/presentation/2015/mvd-logicmelb/</guid>
 <description>&lt;p&gt;This is a dry run for my &lt;a href=&#34;http://consequently.org/presentation/2015/verbal-disputes-oxford/&#34;&gt;Oxford Talk&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;Details &lt;a href=&#34;http://philevents.org/event/show/17569&#34;&gt;on PhilEvents&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;I will attempt to be precise about the notion of a &lt;em&gt;merely verbal disagreement&lt;/em&gt;, and explain how we can fix on the meaning of our logical constants can play a coordinating role in dialogue, and how (in a certain sense), it might be impossible to a have a merely verbal dispute concerning logical constants such as conjunction, negation, the quantifiers, and even modal operators.&lt;/p&gt;
+
+&lt;p&gt;If you want to attend, keep track &lt;a href=&#34;http://philevents.org/event/show/17569&#34;&gt;on the PhilEvents entry for the talk&lt;/a&gt;.&lt;/p&gt;
 </description>
 </item>
     
@@ -228,6 +230,17 @@
 </item>
     
 <item>
+<title>UNIB10002: Logic, Language and Information</title>
+<link>http://consequently.org/class/2015/UNIB10002/</link>
+<pubDate>Sat, 31 Jan 2015 00:00:00 UTC</pubDate>
+<guid>http://consequently.org/class/2015/UNIB10002/</guid>
+<description>&lt;p&gt;&lt;strong&gt;&lt;span class=&#34;caps&#34;&gt;UNIB10002&lt;/span&gt;: Logic, Language and Information&lt;/strong&gt; is a &lt;a href=&#34;http://unimelb.edu.au&#34;&gt;University of Melbourne&lt;/a&gt; undergraduate breadth subject, introducing logic and its applications to students from a broad range of disciplines in the Arts, Sciences and Engineering. I coordinate this subject with my colleague Dr. Jen Davoren, with help from Dr. Lesley Stirling and Dr. Peter Schachte.&lt;/p&gt;
+
+&lt;p&gt;The subject is taught to University of Melbourne undergraduate students. Details for enrolment are &lt;a href=&#34;https://handbook.unimelb.edu.au/view/2014/UNIB10002&#34;&gt;here&lt;/a&gt;. We teach this in a &amp;lsquo;flipped classroom&amp;rsquo; model, using resources from our Coursera subjects &lt;a href=&#34;http://consequently.org/class/2015/logic1_coursera&#34;&gt;Logic 1&lt;/a&gt; and &lt;a href=&#34;http://consequently.org/class/2015/logic2_coursera&#34;&gt;Logic 2&lt;/a&gt;.&lt;/p&gt;
+</description>
+</item>
+    
+<item>
 <title>PHIL30043: The Power and Limits of Logic</title>
 <link>http://consequently.org/class/2015/PHIL30043/</link>
 <pubDate>Sat, 31 Jan 2015 00:00:00 UTC</pubDate>
@@ -309,17 +322,6 @@
 &lt;li&gt;&lt;a href=&#34;http://vimeo.com/album/2262409/video/65501745&#34;&gt;True Arithmetic is not Deductively Defined&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://vimeo.com/album/2262409/video/65505372&#34;&gt;If Con(PA) then PA doesn&amp;rsquo;t prove Con(PA)&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-</description>
-</item>
-    
-<item>
-<title>UNIB10002: Logic, Language and Information</title>
-<link>http://consequently.org/class/2015/UNIB10002/</link>
-<pubDate>Sat, 31 Jan 2015 00:00:00 UTC</pubDate>
-<guid>http://consequently.org/class/2015/UNIB10002/</guid>
-<description>&lt;p&gt;&lt;strong&gt;&lt;span class=&#34;caps&#34;&gt;UNIB10002&lt;/span&gt;: Logic, Language and Information&lt;/strong&gt; is a &lt;a href=&#34;http://unimelb.edu.au&#34;&gt;University of Melbourne&lt;/a&gt; undergraduate breadth subject, introducing logic and its applications to students from a broad range of disciplines in the Arts, Sciences and Engineering. I coordinate this subject with my colleague Dr. Jen Davoren, with help from Dr. Lesley Stirling and Dr. Peter Schachte.&lt;/p&gt;
-
-&lt;p&gt;The subject is taught to University of Melbourne undergraduate students. Details for enrolment are &lt;a href=&#34;https://handbook.unimelb.edu.au/view/2014/UNIB10002&#34;&gt;here&lt;/a&gt;. We teach this in a &amp;lsquo;flipped classroom&amp;rsquo; model, using resources from our Coursera subjects &lt;a href=&#34;http://consequently.org/class/2015/logic1_coursera&#34;&gt;Logic 1&lt;/a&gt; and &lt;a href=&#34;http://consequently.org/class/2015/logic2_coursera&#34;&gt;Logic 2&lt;/a&gt;.&lt;/p&gt;
 </description>
 </item>
     
@@ -635,17 +637,6 @@ p\land\neg p\vdash
 </item>
     
 <item>
-<title>PHIL10003: Philosophy, the Great Thinkers</title>
-<link>http://consequently.org/class/2014/PHIL10003/</link>
-<pubDate>Sat, 31 Jan 2015 00:00:00 UTC</pubDate>
-<guid>http://consequently.org/class/2014/PHIL10003/</guid>
-<description>&lt;p&gt;&lt;strong&gt;PHIL10003: Philosophy, the Great Thinkers&lt;/strong&gt; is a &lt;a href=&#34;http://unimelb.edu.au&#34;&gt;University of Melbourne&lt;/a&gt; undergraduate subject, introducing philosophy to students through close readings of core texts. I taught with Dr. Chris Cordner and Dr. Ruth Boeker. In my classes, we looked at David Hume&amp;rsquo; &lt;a href=&#34;http://davidhume.org/texts/dnr.html&#34;&gt;&lt;em&gt;Dialogues Concerning Natural Religion&lt;/em&gt;&lt;/a&gt; and &lt;a href=&#34;https://ebooks.adelaide.edu.au/h/hume/david/h92n/contents.html&#34;&gt;&lt;em&gt;Natural History of Religion&lt;/em&gt;&lt;/a&gt;, with some side trips into hume&amp;rsquo;s &lt;a href=&#34;http://davidhume.org/texts/ehu.html&#34;&gt;&lt;em&gt;Enquiry&lt;/em&gt;&lt;/a&gt;, and some Marx, Wittgenstein for good measure.&lt;/p&gt;
-
-&lt;p&gt;The subject was taught to University of Melbourne undergraduate students (for Arts students as a part of the Philosophy major, for non-Arts students, as a breadth subject). Details for enrolment are &lt;a href=&#34;https://handbook.unimelb.edu.au/view/2014/PHIL10003&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
-</description>
-</item>
-    
-<item>
 <title>PHIL30043: The Power and Limits of Logic</title>
 <link>http://consequently.org/class/2014/PHIL30043/</link>
 <pubDate>Sat, 31 Jan 2015 00:00:00 UTC</pubDate>
@@ -653,6 +644,17 @@ p\land\neg p\vdash
 <description>&lt;p&gt;&lt;strong&gt;PHIL30043: The Power and Limits of Logic&lt;/strong&gt; is a &lt;a href=&#34;http://unimelb.edu.au&#34;&gt;University of Melbourne&lt;/a&gt; undergraduate subject. It covers the metatheory of classical first order predicate logic, beginning at the &lt;em&gt;Soundness&lt;/em&gt; and &lt;em&gt;Completeness&lt;/em&gt; Theorems (proved not once but &lt;em&gt;twice&lt;/em&gt;, first for a tableaux proof system for predicate logic, then a Hilbert proof system), through the &lt;em&gt;Deduction Theorem&lt;/em&gt;, &lt;em&gt;Compactness&lt;/em&gt;, &lt;em&gt;Cantor&amp;rsquo;s Theorem&lt;/em&gt;, the &lt;em&gt;Downward L&amp;ouml;wenheim&amp;ndash;Skolem Theorem&lt;/em&gt;, &lt;em&gt;Recursive Functions&lt;/em&gt;, &lt;em&gt;Register Machines&lt;/em&gt;, &lt;em&gt;Representability&lt;/em&gt; and ending up at &lt;em&gt;G&amp;ouml;del&amp;rsquo;s Incompleteness Theorems&lt;/em&gt; and &lt;em&gt;L&amp;ouml;b&amp;rsquo;s Theorem&lt;/em&gt;.&lt;/p&gt;
 
 &lt;p&gt;The subject was taught to University of Melbourne undergraduate students (for Arts students as a part of the Philosophy major, for non-Arts students, as a breadth subject). Details for enrolment are &lt;a href=&#34;https://handbook.unimelb.edu.au/view/2014/PHIL30043&#34;&gt;here&lt;/a&gt;. I made use of video lectures I have made &lt;a href=&#34;http://vimeo.com/album/2262409&#34;&gt;freely available on Vimeo&lt;/a&gt;.&lt;/p&gt;
+</description>
+</item>
+    
+<item>
+<title>PHIL10003: Philosophy, the Great Thinkers</title>
+<link>http://consequently.org/class/2014/PHIL10003/</link>
+<pubDate>Sat, 31 Jan 2015 00:00:00 UTC</pubDate>
+<guid>http://consequently.org/class/2014/PHIL10003/</guid>
+<description>&lt;p&gt;&lt;strong&gt;PHIL10003: Philosophy, the Great Thinkers&lt;/strong&gt; is a &lt;a href=&#34;http://unimelb.edu.au&#34;&gt;University of Melbourne&lt;/a&gt; undergraduate subject, introducing philosophy to students through close readings of core texts. I taught with Dr. Chris Cordner and Dr. Ruth Boeker. In my classes, we looked at David Hume&amp;rsquo; &lt;a href=&#34;http://davidhume.org/texts/dnr.html&#34;&gt;&lt;em&gt;Dialogues Concerning Natural Religion&lt;/em&gt;&lt;/a&gt; and &lt;a href=&#34;https://ebooks.adelaide.edu.au/h/hume/david/h92n/contents.html&#34;&gt;&lt;em&gt;Natural History of Religion&lt;/em&gt;&lt;/a&gt;, with some side trips into hume&amp;rsquo;s &lt;a href=&#34;http://davidhume.org/texts/ehu.html&#34;&gt;&lt;em&gt;Enquiry&lt;/em&gt;&lt;/a&gt;, and some Marx, Wittgenstein for good measure.&lt;/p&gt;
+
+&lt;p&gt;The subject was taught to University of Melbourne undergraduate students (for Arts students as a part of the Philosophy major, for non-Arts students, as a breadth subject). Details for enrolment are &lt;a href=&#34;https://handbook.unimelb.edu.au/view/2014/PHIL10003&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
 </item>
     
@@ -712,6 +714,15 @@ p\land\neg p\vdash
 </item>
     
 <item>
+<title>PHIL40007: Philosophy of Language and Mind</title>
+<link>http://consequently.org/class/2014/PHIL40007/</link>
+<pubDate>Sat, 31 Jan 2015 00:00:00 UTC</pubDate>
+<guid>http://consequently.org/class/2014/PHIL40007/</guid>
+<description>&lt;p&gt;&lt;strong&gt;PHIL40007: Philosophy of Language and Mind&lt;/strong&gt; is a &lt;a href=&#34;http://unimelb.edu.au&#34;&gt;University of Melbourne&lt;/a&gt; honours seminar subject for fourth-year students. Our aim in the Honours program is to introduce students to current work in research in Philosophy. In 2014, I introduced the students to the normative pragmatism and inferentialism of Robert Brandom, through a close reading of his book &lt;a href=&#34;http://www.amazon.com/Articulating-Reasons-An-Introduction-Inferentialism/dp/0674006925/consequentlyorg&#34;&gt;&lt;em&gt;Articulating Reasons&lt;/em&gt;&lt;/a&gt; and related literature.&lt;/p&gt;
+</description>
+</item>
+    
+<item>
 <title>UNIB10002: Logic, Language and Information</title>
 <link>http://consequently.org/class/2014/UNIB10002/</link>
 <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
@@ -719,15 +730,6 @@ p\land\neg p\vdash
 <description>&lt;p&gt;&lt;strong&gt;UNIB10002: Logic, Language and Information&lt;/strong&gt; is a &lt;a href=&#34;http://unimelb.edu.au&#34;&gt;University of Melbourne&lt;/a&gt; undergraduate breadth subject, introducing logic and its applications to students from a broad range of disciplines in the Arts, Sciences and Engineering. I coordinate this subject with my colleague Dr. Jen Davoren, with help from Dr. Lesley Stirling and Dr. Peter Schachte.&lt;/p&gt;
 
 &lt;p&gt;The subject was taught to University of Melbourne undergraduate students. Details for enrolment are &lt;a href=&#34;https://handbook.unimelb.edu.au/view/2014/UNIB10002&#34;&gt;here&lt;/a&gt;. We teach this in a &amp;lsquo;flipped classroom&amp;rsquo; model, using resources from our Coursera subjects &lt;a href=&#34;http://consequently.org/class/2014/logic1_coursera&#34;&gt;Logic 1&lt;/a&gt; and &lt;a href=&#34;http://consequently.org/class/2014/logic2_coursera&#34;&gt;Logic 2&lt;/a&gt;.&lt;/p&gt;
-</description>
-</item>
-    
-<item>
-<title>PHIL40007: Philosophy of Language and Mind</title>
-<link>http://consequently.org/class/2014/PHIL40007/</link>
-<pubDate>Sat, 31 Jan 2015 00:00:00 UTC</pubDate>
-<guid>http://consequently.org/class/2014/PHIL40007/</guid>
-<description>&lt;p&gt;&lt;strong&gt;PHIL40007: Philosophy of Language and Mind&lt;/strong&gt; is a &lt;a href=&#34;http://unimelb.edu.au&#34;&gt;University of Melbourne&lt;/a&gt; honours seminar subject for fourth-year students. Our aim in the Honours program is to introduce students to current work in research in Philosophy. In 2014, I introduced the students to the normative pragmatism and inferentialism of Robert Brandom, through a close reading of his book &lt;a href=&#34;http://www.amazon.com/Articulating-Reasons-An-Introduction-Inferentialism/dp/0674006925/consequentlyorg&#34;&gt;&lt;em&gt;Articulating Reasons&lt;/em&gt;&lt;/a&gt; and related literature.&lt;/p&gt;
 </description>
 </item>
     
