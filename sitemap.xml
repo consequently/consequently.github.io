@@ -8,11 +8,6 @@
   </url>
   
   <url>
-    <loc>http://consequently.org/writing/bradwardine-hypersequents/</loc>
-    <lastmod>2012-08-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://consequently.org/writing/cfss2dml/</loc>
     <lastmod>2012-11-22T00:00:00+00:00</lastmod>
   </url>
@@ -183,12 +178,12 @@
   </url>
   
   <url>
-    <loc>http://consequently.org/class/2015/UNIB10002/</loc>
+    <loc>http://consequently.org/class/2015/PHIL30043/</loc>
     <lastmod>2015-03-02T00:00:00+11:00</lastmod>
   </url>
   
   <url>
-    <loc>http://consequently.org/class/2015/PHIL30043/</loc>
+    <loc>http://consequently.org/class/2015/UNIB10002/</loc>
     <lastmod>2015-03-02T00:00:00+11:00</lastmod>
   </url>
   
@@ -238,6 +233,11 @@
   </url>
   
   <url>
+    <loc>http://consequently.org/presentation/2015/mvd-logicmelb/</loc>
+    <lastmod>2015-05-08T11:00:00+11:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://consequently.org/presentation/2015/verbal-disputes-oxford/</loc>
     <lastmod>2015-05-20T00:00:00+00:00</lastmod>
   </url>
@@ -255,6 +255,11 @@
   <url>
     <loc>http://consequently.org/class/2015/PHIL20030/</loc>
     <lastmod>2015-07-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://consequently.org/writing/bradwardine-hypersequents/</loc>
+    <lastmod>2012-08-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
