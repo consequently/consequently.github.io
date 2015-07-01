@@ -26,7 +26,7 @@
     <language>en-us</language>
     
     
-    <updated>Thu, 04 Jun 2015 12:47:22 AEST</updated>
+    <updated>Wed, 01 Jul 2015 16:33:56 AEST</updated>
 
 
 <item>
@@ -58,11 +58,29 @@
 </item>
     
 <item>
-<title>Dubrovnik Workshop on Pluralisms</title>
-<link>http://consequently.org/presentation/2015/pluralism-dubrovnik/</link>
-<pubDate>Sat, 31 Jan 2015 00:00:00 UTC</pubDate>
-<guid>http://consequently.org/presentation/2015/pluralism-dubrovnik/</guid>
-<description>&lt;p&gt;I&amp;rsquo;m giving a presentation on logical pluralism at the 2015 Ohio State University/Dubrovnik workshop on Pluralism in Mathematics, Logic and Semantics, &lt;a href=&#34;http://www.iuc.hr/&#34;&gt;Inter University Center&lt;/a&gt;, Dubrovnik, Croatia.&lt;/p&gt;
+<title>Merely Verbal Disputes and Coordinating on Logical Constants</title>
+<link>http://consequently.org/presentation/2015/verbal-disputes-aap/</link>
+<pubDate>Wed, 01 Jul 2015 00:00:00 UTC</pubDate>
+<guid>http://consequently.org/presentation/2015/verbal-disputes-aap/</guid>
+<description>&lt;p&gt;I will attempt to be precise about the notion of a &lt;em&gt;merely verbal disagreement&lt;/em&gt;, and explain how we can fix on the meaning of our logical constants can play a coordinating role in dialogue, and how (in a certain sense), it might be &lt;em&gt;impossible&lt;/em&gt; to a have a merely verbal dispute concerning logical constants such as conjunction, negation, the quantifiers, and even&amp;mdash;if you&amp;rsquo;re careful&amp;mdash;modal operators.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://consequently.org/slides/verbal-disputes-aap-slides.pdf&#34;&gt;Slides&lt;/a&gt; and &lt;a href=&#34;http://consequently.org/handouts/verbal-disputes-aap-handout.pdf&#34;&gt;Handout&lt;/a&gt; for the conference presentation.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+</item>
+    
+<item>
+<title>Contingent Existence and Modal Definedness</title>
+<link>http://consequently.org/presentation/2015/cemd-aal/</link>
+<pubDate>Wed, 01 Jul 2015 00:00:00 UTC</pubDate>
+<guid>http://consequently.org/presentation/2015/cemd-aal/</guid>
+<description>&lt;p&gt;A presentation for the &lt;a href=&#34;http://www-personal.usyd.edu.au/~njjsmith/aal2015/&#34;&gt;Australasian Association for Logic Conference&lt;/a&gt; at the University of Sydney. I will discuss Tim Williamson&amp;rsquo;s arguments for the non-contingency of existence (see his &lt;em&gt;&lt;a href=&#34;http://ukcatalogue.oup.com/product/9780199552078.do&#34;&gt;Modal Logic as Metaphysics&lt;/a&gt;&lt;/em&gt;, 2013) and explain how and why they might be reasonably resisted. Along the way, I&amp;rsquo;ll try to explain the impact of proof theory for theories of meaning and for metaphysics.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://consequently.org/handouts/cemd-aal-handout.pdf&#34;&gt;Handout&lt;/a&gt; for the seminar presentation.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://consequently.org/slides/cemd-aal-slides.pdf&#34;&gt;Slides&lt;/a&gt; for the seminar presentation.&lt;/li&gt;
+&lt;/ul&gt;
 </description>
 </item>
     
@@ -918,15 +936,6 @@ p\land\neg p\vdash
 <pubDate>Sat, 31 Jan 2015 00:00:00 UTC</pubDate>
 <guid>http://consequently.org/class/2014/MULT10016/</guid>
 <description>&lt;p&gt;In 2014, I participated in the Arts Foundation subject &lt;a href=&#34;https://handbook.unimelb.edu.au/view/2014/MULT10016&#34;&gt;MULT10016: Reason&lt;/a&gt;. I taught six classes, on Plato, Aristotle and Hume.&lt;/p&gt;
-</description>
-</item>
-    
-<item>
-<title>Logic: Language and Information 1</title>
-<link>http://consequently.org/class/2014/logic1_coursera/</link>
-<pubDate>Sat, 31 Jan 2015 00:00:00 UTC</pubDate>
-<guid>http://consequently.org/class/2014/logic1_coursera/</guid>
-<description>&lt;p&gt;Jen Davoren and I taught &lt;em&gt;Logic Language and Information 1&lt;/em&gt; (an introduction to propositional logic and its applications) through &lt;a href=&#34;http://coursera.org&#34;&gt;Coursera&lt;/a&gt; for the first time in 2014. An archive of the material is available  &lt;a href=&#34;https://class.coursera.org/logic1-001&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
 </item>
     
