@@ -26,7 +26,7 @@
     <language>en-us</language>
     
     
-    <updated>Mon, 17 Aug 2015 11:13:17 AEST</updated>
+    <updated>Mon, 24 Aug 2015 11:35:52 AEST</updated>
 
 
 <item>
@@ -60,7 +60,7 @@
 
 &lt;p&gt;The subject is offered to University of Melbourne undergraduate students (for Arts students as a part of the Philosophy major, for non-Arts students, as a breadth subject). Details for enrolment are &lt;a href=&#34;https://handbook.unimelb.edu.au/view/2015/PHIL20030&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;I make use of video lectures I have made &lt;a href=&#34;http://vimeo.com/album/2470375&#34;&gt;freely available on Vimeo&lt;/a&gt;. If you&amp;rsquo;re interested in this sort of thing, I commend them to you.&lt;/p&gt;
+&lt;p&gt;I make use of video lectures I have made &lt;a href=&#34;http://vimeo.com/album/2470375&#34;&gt;freely available on Vimeo&lt;/a&gt;. If you&amp;rsquo;re interested in this sort of thing, I hope they&amp;rsquo;re useful. Of course, I appreciate any constructive feedback you might have.&lt;/p&gt;
 </description>
 </item>
     
@@ -426,17 +426,6 @@ So there are at least 2 different ways to take a Kripke model for intuitionistic
 </item>
     
 <item>
-<title>UNIB10002: Logic, Language and Information</title>
-<link>http://consequently.org/class/2015/UNIB10002/</link>
-<pubDate>Sat, 31 Jan 2015 00:00:00 UTC</pubDate>
-<guid>http://consequently.org/class/2015/UNIB10002/</guid>
-<description>&lt;p&gt;&lt;strong&gt;&lt;span class=&#34;caps&#34;&gt;UNIB10002&lt;/span&gt;: Logic, Language and Information&lt;/strong&gt; is a &lt;a href=&#34;http://unimelb.edu.au&#34;&gt;University of Melbourne&lt;/a&gt; undergraduate breadth subject, introducing logic and its applications to students from a broad range of disciplines in the Arts, Sciences and Engineering. I coordinate this subject with my colleague Dr. Jen Davoren, with help from Dr. Lesley Stirling and Dr. Peter Schachte.&lt;/p&gt;
-
-&lt;p&gt;The subject is taught to University of Melbourne undergraduate students. Details for enrolment are &lt;a href=&#34;https://handbook.unimelb.edu.au/view/2014/UNIB10002&#34;&gt;here&lt;/a&gt;. We teach this in a &amp;lsquo;flipped classroom&amp;rsquo; model, using resources from our Coursera subjects &lt;a href=&#34;http://consequently.org/class/2015/logic1_coursera&#34;&gt;Logic 1&lt;/a&gt; and &lt;a href=&#34;http://consequently.org/class/2015/logic2_coursera&#34;&gt;Logic 2&lt;/a&gt;.&lt;/p&gt;
-</description>
-</item>
-    
-<item>
 <title>PHIL30043: The Power and Limits of Logic</title>
 <link>http://consequently.org/class/2015/PHIL30043/</link>
 <pubDate>Sat, 31 Jan 2015 00:00:00 UTC</pubDate>
@@ -518,6 +507,17 @@ So there are at least 2 different ways to take a Kripke model for intuitionistic
 &lt;li&gt;&lt;a href=&#34;http://vimeo.com/album/2262409/video/65501745&#34;&gt;True Arithmetic is not Deductively Defined&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://vimeo.com/album/2262409/video/65505372&#34;&gt;If Con(PA) then PA doesn&amp;rsquo;t prove Con(PA)&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
+</description>
+</item>
+    
+<item>
+<title>UNIB10002: Logic, Language and Information</title>
+<link>http://consequently.org/class/2015/UNIB10002/</link>
+<pubDate>Sat, 31 Jan 2015 00:00:00 UTC</pubDate>
+<guid>http://consequently.org/class/2015/UNIB10002/</guid>
+<description>&lt;p&gt;&lt;strong&gt;&lt;span class=&#34;caps&#34;&gt;UNIB10002&lt;/span&gt;: Logic, Language and Information&lt;/strong&gt; is a &lt;a href=&#34;http://unimelb.edu.au&#34;&gt;University of Melbourne&lt;/a&gt; undergraduate breadth subject, introducing logic and its applications to students from a broad range of disciplines in the Arts, Sciences and Engineering. I coordinate this subject with my colleague Dr. Jen Davoren, with help from Dr. Lesley Stirling and Dr. Peter Schachte.&lt;/p&gt;
+
+&lt;p&gt;The subject is taught to University of Melbourne undergraduate students. Details for enrolment are &lt;a href=&#34;https://handbook.unimelb.edu.au/view/2014/UNIB10002&#34;&gt;here&lt;/a&gt;. We teach this in a &amp;lsquo;flipped classroom&amp;rsquo; model, using resources from our Coursera subjects &lt;a href=&#34;http://consequently.org/class/2015/logic1_coursera&#34;&gt;Logic 1&lt;/a&gt; and &lt;a href=&#34;http://consequently.org/class/2015/logic2_coursera&#34;&gt;Logic 2&lt;/a&gt;.&lt;/p&gt;
 </description>
 </item>
     
