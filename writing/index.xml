@@ -26,7 +26,18 @@
     <language>en-us</language>
     
     
-    <updated>Tue, 05 May 2015 00:00:00 UTC</updated>
+    <updated>Wed, 14 Oct 2015 00:00:00 UTC</updated>
+    
+ 
+    <item>
+      <title>Generality and Existence I: Quantification and Free Logic</title>
+      <link>http://consequently.org/writing/generality-and-existence-1/</link>
+      <pubDate>Wed, 14 Oct 2015 00:00:00 UTC</pubDate>
+      
+      <guid>http://consequently.org/writing/generality-and-existence-1/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;In this paper, I motivate a cut free sequent calculus for classical logic with first order quantification, allowing for singular terms free of existential import. Along the way, I motivate a criterion for rules designed to answer Prior&amp;rsquo;s question about what distinguishes rules for logical concepts, like &amp;lsquo;conjunction&amp;rsquo; from apparently similar rules for putative concepts like &amp;lsquo;tonk&amp;rsquo;, and I show that the rules for the quantifiers&amp;mdash;and the existence predicate&amp;mdash;satisfy that condition.&lt;/p&gt;
+]]></description>
+    </item>
     
  
     <item>
