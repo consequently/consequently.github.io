@@ -26,7 +26,7 @@
     <language>en-us</language>
     
     
-    <updated>Thu, 29 Oct 2015 17:14:48 AEDT</updated>
+    <updated>Thu, 29 Oct 2015 22:27:09 AEDT</updated>
 
 
 <item>
@@ -35,6 +35,16 @@
 <pubDate>Thu, 29 Oct 2015 17:02:04 AEDT</pubDate>
 <guid>http://consequently.org/news/2015/logic-at-melbourne/</guid>
 <description>&lt;p&gt;I&amp;rsquo;ve been at the &lt;a href=&#34;http://unimelb.edu.au/&#34;&gt;University of Melbourne&lt;/a&gt; since 2002, and the &lt;em&gt;Logic Group&lt;/em&gt; has been meeting regularly since my arrival there. While it&amp;rsquo;s changed significantly in its &lt;a href=&#34;http://blogs.unimelb.edu.au/logic/people/&#34;&gt;membership over the last 13 years&lt;/a&gt;, one thing has remained constant—we&amp;rsquo;ve been an informal, friendly bunch of people, so hard at work in teaching and research that we&amp;rsquo;ve not had time to make a website for the group. Well, thanks to the hardworking &lt;a href=&#34;http://standefer.net&#34;&gt;Shawn Standefer&lt;/a&gt;, that&amp;rsquo;s changed. Point your browsers to &lt;a href=&#34;http://blogs.unimelb.edu.au/logic/&#34;&gt;http://blogs.unimelb.edu.au/logic/&lt;/a&gt; to keep up with &lt;em&gt;Logic at Melbourne&lt;/em&gt;.&lt;/p&gt;
+</description>
+</item>
+    
+<item>
+<title>Three Cultures—or: what place for logic in the humanities?</title>
+<link>http://consequently.org/writing/three-cultures/</link>
+<pubDate>Fri, 29 Oct 2010 00:00:00 UTC</pubDate>
+<guid>http://consequently.org/writing/three-cultures/</guid>
+<description>&lt;p&gt;Logic has been an important part of philosophy since the work of Aristotle in the 4th Century BCE. Developments of the 19th and the 20th Century saw an incredible flowering of mathematical techniques in logic, and the discipline transformed beyond recognition into something that can seem forbiddingly technical and formal. The discipline of logic plays a vital role in mathematics, linguistics, computer science and electrical engineering, and it may seem that it no longer has a place within the humanities.
+In this essay,I show why this perception is misplaced and dangerous, and that in a time of increasing specialisation and differentiation between the cultures of the humanities, the sciences, and of engineering, logic not only has much to give to the humanities, it also has much to learn.&lt;/p&gt;
 </description>
 </item>
     
@@ -978,15 +988,6 @@ p\land\neg p\vdash
 <description>&lt;p&gt;A seminar at &lt;em&gt;&lt;a href=&#34;http://philevents.org/event/show/14562&#34;&gt;Melbourne Logic Day&lt;/a&gt;&lt;/em&gt;, May 30, 2014.&lt;/p&gt;
 
 &lt;p&gt;I explain how the &amp;lsquo;trace model&amp;rsquo; for relevant arithmetic (introduced &lt;a href=&#34;http://consequently.org/writing/mfsa/&#34;&gt;here&lt;/a&gt;) can be extended quite naturally to model a logic including a de Morgan negation. The result is not a model for the logic &lt;strong&gt;R&lt;/strong&gt;, but for its weaker cousin, &lt;strong&gt;TW&lt;/strong&gt;.&lt;/p&gt;
-</description>
-</item>
-    
-<item>
-<title>Logic: Language and Information 2</title>
-<link>http://consequently.org/class/2014/logic2_coursera/</link>
-<pubDate>Sat, 31 Jan 2015 00:00:00 UTC</pubDate>
-<guid>http://consequently.org/class/2014/logic2_coursera/</guid>
-<description>&lt;p&gt;Jen Davoren and I taught &lt;em&gt;Logic Language and Information 2&lt;/em&gt; (an introduction to predicate logic and its applications) through &lt;a href=&#34;http://coursera.org&#34;&gt;Coursera&lt;/a&gt; for the first time in 2014. An archive of the material is available  &lt;a href=&#34;https://class.coursera.org/logic2-001&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
 </item>
     
