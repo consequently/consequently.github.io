@@ -3,23 +3,8 @@
   
   <url>
     <loc>http://consequently.org/</loc>
-    <lastmod>2015-10-29T17:02:04+11:00</lastmod>
+    <lastmod>2015-12-03T10:45:00+00:00</lastmod>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://consequently.org/presentation/2014/trmra-logicmelb/</loc>
-    <lastmod>2014-05-30T13:30:00+11:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://consequently.org/presentation/2014/modal-definedness-arche/</loc>
-    <lastmod>2014-06-19T16:15:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://consequently.org/class/2014/PTP-NIP/</loc>
-    <lastmod>2014-06-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -255,6 +240,36 @@
   <url>
     <loc>http://consequently.org/news/2015/logic-at-melbourne/</loc>
     <lastmod>2015-10-29T17:02:04+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://consequently.org/presentation/2015/generality-and-existence-1-arche/</loc>
+    <lastmod>2015-11-25T09:15:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://consequently.org/presentation/2015/generality-and-existence-2-arche/</loc>
+    <lastmod>2015-12-02T10:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://consequently.org/presentation/2015/generality-and-existence-3-arche/</loc>
+    <lastmod>2015-12-03T10:45:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://consequently.org/class/2014/PTP-NIP/</loc>
+    <lastmod>2014-06-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://consequently.org/presentation/2014/modal-definedness-arche/</loc>
+    <lastmod>2014-06-19T16:15:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://consequently.org/presentation/2014/trmra-logicmelb/</loc>
+    <lastmod>2014-05-30T13:30:00+11:00</lastmod>
   </url>
   
   <url>

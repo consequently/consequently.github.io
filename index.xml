@@ -26,9 +26,55 @@
     <language>en-us</language>
     
     
-    <updated>Thu, 29 Oct 2015 22:33:44 AEDT</updated>
+    <updated>Fri, 30 Oct 2015 17:51:51 AEDT</updated>
 
 
+<item>
+<title>Generality and Existence 3: Substitution and Identity</title>
+<link>http://consequently.org/presentation/2015/generality-and-existence-3-arche/</link>
+<pubDate>Fri, 30 Oct 2015 00:00:00 UTC</pubDate>
+<guid>http://consequently.org/presentation/2015/generality-and-existence-3-arche/</guid>
+<description>&lt;p&gt;I&amp;rsquo;m giving two talks, jointly entitled “Generality and Existence 3: Substitution and Identity” in the Arché Super Special Seminar and HPLM Seminar at the University of St Andrews.&lt;/p&gt;
+
+&lt;p&gt;Abstract: In this talk, extend the proof system for quantified modal logic, with both subjunctive (metaphyisical) and indicative (epistemic) modalities, to include an identity predicate. Or rather, a &lt;em&gt;range&lt;/em&gt; of candidate identity predicates allowing for the substitution of a lesser or greater class of predications. I show that the resulting system is well-behaved proof theoretically (the Cut rule is eliminable) and the indentity predicates can be well motivated in terms of their defining rules. I end with a discussion of the implications for the ontology of &lt;em&gt;possibilia&lt;/em&gt;.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.st-andrews.ac.uk/arche/&#34;&gt;Arché&lt;/a&gt; at the University of St Andrews.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+</item>
+    
+<item>
+<title>Generality and Existence 2: Modality and Quantifiers</title>
+<link>http://consequently.org/presentation/2015/generality-and-existence-2-arche/</link>
+<pubDate>Fri, 30 Oct 2015 00:00:00 UTC</pubDate>
+<guid>http://consequently.org/presentation/2015/generality-and-existence-2-arche/</guid>
+<description>&lt;p&gt;I&amp;rsquo;m giving a talk entitled “Generality and Existence 2: Modality and Quantifiers” in the Arché Logic Group Seminar at the University of St Andrews.&lt;/p&gt;
+
+&lt;p&gt;Abstract: In this talk, I motivate and define a cut free sequent calculus for first order modal predicate logics, allowing for singular terms free of existential import. I show that the &lt;em&gt;cut&lt;/em&gt; rule is admissible in the cut-free calculus, and explore the relationship between contingent &lt;code&gt;world-bound&#39; quantifiers and possibilist&lt;/code&gt;world-undbound&amp;rsquo; quantifiers in the system.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.st-andrews.ac.uk/arche/&#34;&gt;Arché&lt;/a&gt; at the University of St Andrews.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+</item>
+    
+<item>
+<title>Generality and Existence 1: Quantification and Free Logic</title>
+<link>http://consequently.org/presentation/2015/generality-and-existence-1-arche/</link>
+<pubDate>Fri, 30 Oct 2015 00:00:00 UTC</pubDate>
+<guid>http://consequently.org/presentation/2015/generality-and-existence-1-arche/</guid>
+<description>&lt;p&gt;I&amp;rsquo;m giving a talk entitled “Generality and Existence 1: Quantification and Free Logic” at a &lt;a href=&#34;http://www.st-andrews.ac.uk/arche/events/event?id=917&#34;&gt;Workshop on Inferentialism&lt;/a&gt;, hosted by &lt;a href=&#34;http://www.st-andrews.ac.uk/arche/&#34;&gt;Arché&lt;/a&gt; at the University of St Andrews.&lt;/p&gt;
+
+&lt;p&gt;Abstract: In this presentation, I motivate a cut free sequent calculus for classical logic with first order quantification, allowing for singular terms free of existential import. Along the way, I motivate a criterion for rules designed to answer Prior&amp;rsquo;s question about what distinguishes rules for logical concepts, like &lt;em&gt;conjunction&lt;/em&gt; from apparently similar rules for putative concepts like &lt;em&gt;tonk&lt;/em&gt;, and I show that the rules for the quantifiers—and the existence predicate—satisfy that condition.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.st-andrews.ac.uk/arche/events/event?id=917&#34;&gt;Details of the workshop program&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://consequently.org/writing/generality-and-existence-1&#34;&gt;Draft paper&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+</item>
+    
 <item>
 <title>Logic at Melbourne finally has a presence on the web</title>
 <link>http://consequently.org/news/2015/logic-at-melbourne/</link>
@@ -951,43 +997,6 @@ p\land\neg p\vdash
 <pubDate>Sat, 31 Jan 2015 00:00:00 UTC</pubDate>
 <guid>http://consequently.org/presentation/2014/from-defining-rules-nip-mfl/</guid>
 <description>&lt;p&gt;A presentation at the &lt;a href=&#34;http://www.abdn.ac.uk/nip/events/event?id=476&#34;&gt;Metaphysical Basis of Logic Workshop&lt;/a&gt; at the Northern Institute of Philosophy, University of Aberdeen.&lt;/p&gt;
-</description>
-</item>
-    
-<item>
-<title>Proof Theory and Philosophy</title>
-<link>http://consequently.org/class/2014/PTP-NIP/</link>
-<pubDate>Sat, 31 Jan 2015 00:00:00 UTC</pubDate>
-<guid>http://consequently.org/class/2014/PTP-NIP/</guid>
-<description>&lt;p&gt;I taught an intensive class on proof theory and its applications to Philosophy at the &lt;a href=&#34;http://www.abdn.ac.uk/nip/events/event?id=474&#34;&gt;NIP Summer School on the Foundations of Logic and Mathematics&lt;/a&gt;, June&amp;nbsp;July 2014.&lt;/p&gt;
-</description>
-</item>
-    
-<item>
-<title>Modal Definedness</title>
-<link>http://consequently.org/presentation/2014/modal-definedness-arche/</link>
-<pubDate>Sat, 31 Jan 2015 00:00:00 UTC</pubDate>
-<guid>http://consequently.org/presentation/2014/modal-definedness-arche/</guid>
-<description>&lt;p&gt;A presentation in a &lt;a href=&#34;http://www.st-andrews.ac.uk/arche/events/event?id=811&#34;&gt;workshop in the Philosophy of Logic&lt;/a&gt; at Arch&amp;eacute;.&lt;/p&gt;
-
-&lt;p&gt;The distinction between &lt;i&gt;defined&lt;/i&gt; terms and &lt;i&gt;undefined&lt;/i&gt; terms provides a metaphysically &amp;ldquo;light&amp;rdquo; way to give a semantics for free logic. Singular terms may be undefined, and if they are undefined, they are not appropriate substitution instances for inference rules for the quantifiers. Sol Feferman, in &amp;ldquo;Definedness&amp;rdquo; (&lt;i&gt;Erkenntnis&lt;/i&gt;, 1995), provides an elegant system for an extensional negative free logic with undefined terms: it is a very natural model for mathematical reasoning in which we allow undefined terms (like &lt;sup&gt;1&lt;/sup&gt;&amp;frasl;&lt;sub&gt;0&lt;/sub&gt;) and we keep track of the behaviour of such terms by talking of when they are defined and when they are not.&lt;/p&gt;
-
-&lt;p&gt;Free logics also see use when it comes to quantified modal logic. It is very tempting to conceive of the domain of quantification as varying from world to world, that what exists in one world might fail to exist in another. This seems to be a very different motivation for free logics—terms which denote in this world and which do not denote in another are not &lt;i&gt;undefined&lt;/i&gt; at that world. They are defined all too well—defined to denote something that fails to exist at that world.&lt;/p&gt;
-
-&lt;p&gt;In this talk, I will explain the motivations for these two different approaches to free logic, and show that a sequent calculus for Feferman&amp;rsquo;s own system (with a metaphysically &amp;lsquo;light&amp;rsquo; interpretation, that eschews all talk of an outer domain of quantification of non-existent objects) can, with one small change, be naturally extended into a modal hypersequent calculus for a quantified modal logic with a non-constant domain. This, too, has a metaphysically &amp;lsquo;light&amp;rsquo; interpretation.  The result is a natural proof-theoretical account of a modal logic with varying domain, in which the Barcan formula not only fails, but fails straightforwardly, in a well motivated way.&lt;/p&gt;
-
-&lt;p&gt;After introducing the modal system, I will consider what this might mean, about the nature of quantification, and the role of defining rules in characterising logical constants.&lt;/p&gt;
-</description>
-</item>
-    
-<item>
-<title>Ternary Relations and Models for Relevant Arithmetics</title>
-<link>http://consequently.org/presentation/2014/trmra-logicmelb/</link>
-<pubDate>Sat, 31 Jan 2015 00:00:00 UTC</pubDate>
-<guid>http://consequently.org/presentation/2014/trmra-logicmelb/</guid>
-<description>&lt;p&gt;A seminar at &lt;em&gt;&lt;a href=&#34;http://philevents.org/event/show/14562&#34;&gt;Melbourne Logic Day&lt;/a&gt;&lt;/em&gt;, May 30, 2014.&lt;/p&gt;
-
-&lt;p&gt;I explain how the &amp;lsquo;trace model&amp;rsquo; for relevant arithmetic (introduced &lt;a href=&#34;http://consequently.org/writing/mfsa/&#34;&gt;here&lt;/a&gt;) can be extended quite naturally to model a logic including a de Morgan negation. The result is not a model for the logic &lt;strong&gt;R&lt;/strong&gt;, but for its weaker cousin, &lt;strong&gt;TW&lt;/strong&gt;.&lt;/p&gt;
 </description>
 </item>
     
