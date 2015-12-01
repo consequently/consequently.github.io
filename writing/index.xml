@@ -26,43 +26,7 @@
     <language>en-us</language>
     
     
-    <updated>Thu, 29 Oct 2015 00:00:00 UTC</updated>
-    
- 
-    <item>
-      <title>Three Cultures—or: what place for logic in the humanities?</title>
-      <link>http://consequently.org/writing/three-cultures/</link>
-      <pubDate>Thu, 29 Oct 2015 00:00:00 UTC</pubDate>
-      
-      <guid>http://consequently.org/writing/three-cultures/</guid>
-      <description>&lt;![CDATA[&lt;p&gt;Logic has been an important part of philosophy since the work of Aristotle in the 4th Century BCE. Developments of the 19th and the 20th Century saw an incredible flowering of mathematical techniques in logic, and the discipline transformed beyond recognition into something that can seem forbiddingly technical and formal. The discipline of logic plays a vital role in mathematics, linguistics, computer science and electrical engineering, and it may seem that it no longer has a place within the humanities.
-In this essay, I show why this perception is misplaced and dangerous, and that in a time of increasing specialisation and differentiation between the cultures of the humanities, the sciences, and of engineering, logic not only has much to give to the humanities, it also has much to learn.&lt;/p&gt;
-]]></description>
-    </item>
-    
- 
-    <item>
-      <title>Generality and Existence I: Quantification and Free Logic</title>
-      <link>http://consequently.org/writing/generality-and-existence-1/</link>
-      <pubDate>Wed, 14 Oct 2015 00:00:00 UTC</pubDate>
-      
-      <guid>http://consequently.org/writing/generality-and-existence-1/</guid>
-      <description>&lt;![CDATA[&lt;p&gt;In this paper, I motivate a cut free sequent calculus for classical logic with first order quantification, allowing for singular terms free of existential import. Along the way, I motivate a criterion for rules designed to answer Prior&amp;rsquo;s question about what distinguishes rules for logical concepts, like &amp;lsquo;conjunction&amp;rsquo; from apparently similar rules for putative concepts like &amp;lsquo;tonk&amp;rsquo;, and I show that the rules for the quantifiers&amp;mdash;and the existence predicate&amp;mdash;satisfy that condition.&lt;/p&gt;
-]]></description>
-    </item>
-    
- 
-    <item>
-      <title>Assertion, Denial, Accepting, Rejecting, Symmetry and Paradox</title>
-      <link>http://consequently.org/writing/assertiondenialparadox/</link>
-      <pubDate>Tue, 05 May 2015 00:00:00 UTC</pubDate>
-      
-      <guid>http://consequently.org/writing/assertiondenialparadox/</guid>
-      <description>&lt;![CDATA[&lt;p&gt;Proponents of a dialethic or &amp;ldquo;truth-value glut&amp;rdquo; response to the paradoxes of self-reference argue that &amp;ldquo;truth-value gap&amp;rdquo; analyses of the paradoxes fall foul of the extended liar paradox: &amp;ldquo;this sentence is not true.&amp;rdquo; If we pay attention to the role of assertion and denial and the behaviour of negation in both &amp;ldquo;gap&amp;rdquo; and &amp;ldquo;glut&amp;rdquo; analyses, we see that the situation with these approaches has a pleasing symmetry: gap approaches take some denials to not be expressible by negation, and glut approaches take some negations to not express denials. But in the light of this symmetry, considerations against a gap view point to parallel considerations against a glut view. Those who find some reason to prefer one view over another (and this is almost everyone) must find some reason to break this symmetry.&lt;/p&gt;
-
-&lt;p&gt;This short paper was written for presentation at &lt;a href=&#34;http://www.philosophy.unimelb.edu.au/aap2004&#34;&gt;AAP2004&lt;/a&gt;. After very many revisions, it&amp;rsquo;s finally going to be published in an edited collection from members and friends of the &lt;a href=&#34;http://www.st-andrews.ac.uk/arche/projects/logic/&#34;&gt;Arché project on Foundations of Logical Consequence&lt;/a&gt;.&lt;/p&gt;
-]]></description>
-    </item>
+    <updated>Mon, 01 Dec 2014 00:00:00 UTC</updated>
     
  
     <item>
@@ -83,19 +47,6 @@ In this essay, I show why this perception is misplaced and dangerous, and that i
       
       <guid>http://consequently.org/writing/pluralism-and-proofs/</guid>
       <description>&lt;![CDATA[&lt;p&gt;Beall and Restall&amp;rsquo;s &lt;em&gt;Logical Pluralism&lt;/em&gt; (2006) characterises pluralism about logical consequence in terms of the different ways cases can be selected in the analysis of logical consequence as preservation of truth over a class of cases. This is not the only way to understand or to motivate pluralism about logical consequence. Here, I will examine pluralism about logical consequence in terms of different standards of proof. We will focus on sequent derivations for classical logic, imposing two different restrictions on classical derivations to produce derivations focusr intuitionistic logic and for dual intuitionistic logic. The result is another way to understand the manner in which we can have different consequence relations in the same language. Furthermore, the proof-theoretic perspective gives us a different explanation of how the one concept of negation can have three different truth conditions, those in classical, intuitionistic and dual-intuitionistic models.&lt;/p&gt;
-]]></description>
-    </item>
-    
- 
-    <item>
-      <title>Assertion, Denial and Non-Classical Theories</title>
-      <link>http://consequently.org/writing/adnct/</link>
-      <pubDate>Wed, 31 Jul 2013 00:00:00 UTC</pubDate>
-      
-      <guid>http://consequently.org/writing/adnct/</guid>
-      <description>&lt;![CDATA[&lt;p&gt;In this paper I urge friends of truth-value gaps and truth-value gluts &amp;ndash; proponents of paracomplete and paraconsistent logics &amp;ndash; to consider theories not merely as sets of sentences, but as &lt;em&gt;pairs&lt;/em&gt; of sets of sentences, or what I call &amp;lsquo;bitheories,&amp;rsquo; which keep track not only of what &lt;em&gt;holds&lt;/em&gt; according to the theory, but also what &lt;em&gt;fails&lt;/em&gt; to hold according to the theory.  I explain the connection between bitheories, sequents, and the speech acts of assertion and denial. I illustrate the usefulness of bitheories by showing how they make available a technique for characterising different theories while abstracting away from logical vocabulary such as connectives or quantifiers, thereby making theoretical commitments independent of the choice of this or that particular non-classical logic.&lt;/p&gt;
-
-&lt;p&gt;Examples discussed include theories of numbers, classes and truth.  In the latter two cases, the bitheoretical perspective brings to light some heretofore unconsidered puzzles for friends of na&amp;iuml;ve theories of classes and truth.&lt;/p&gt;
 ]]></description>
     </item>
     
@@ -229,17 +180,6 @@ In this essay, I show why this perception is misplaced and dangerous, and that i
     
  
     <item>
-      <title>Anti-Realist Classical Logic and Realist Mathematics</title>
-      <link>http://consequently.org/writing/antirealist/</link>
-      <pubDate>Thu, 13 Oct 2011 00:00:00 UTC</pubDate>
-      
-      <guid>http://consequently.org/writing/antirealist/</guid>
-      <description>&lt;![CDATA[&lt;p&gt;I sketch an application of a semantically anti-realist understanding of the classical sequent calculus to the topic of mathematics. The result is a semantically anti-realist defence of mathematical realism. In the paper, I develop the view and compare it to orthodox positions in the philosophy of mathematics.&lt;/p&gt;
-]]></description>
-    </item>
-    
- 
-    <item>
       <title>Logic in Australasia</title>
       <link>http://consequently.org/writing/logic_in_australasia/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 UTC</pubDate>
@@ -270,17 +210,6 @@ In this essay, I show why this perception is misplaced and dangerous, and that i
       <description>&lt;![CDATA[&lt;p&gt;A possible world is a point in logical space. It plays a dual role with respect to propositions. (1) A possible world determines the truth value of every proposition. For each world &lt;em&gt;w&lt;/em&gt; and proposition &lt;em&gt;p&lt;/em&gt;, either at &lt;em&gt;w&lt;/em&gt;, &lt;em&gt;p&lt;/em&gt; is true, or at &lt;em&gt;w&lt;/em&gt;, &lt;em&gt;p&lt;/em&gt; is not true. (2) Each set of possible worlds determines a proposition. If &lt;em&gt;S&lt;/em&gt;, a subset of &lt;em&gt;W&lt;/em&gt; is a set of worlds, there is a proposition &lt;em&gt;p&lt;/em&gt; true at exactly the worlds in &lt;em&gt;S&lt;/em&gt;.&lt;/p&gt;
 
 &lt;p&gt;In this paper, I construct a logic, extending classical logic with a single unary operator, which has no complete Boolean algebras as models. If the family of propositions we are talking about in (1) and (2) has the kind of structure described in that logic, then (1) and (2) cannot jointly hold.  I then explain what this might mean for theories of propositions and possible worlds.&lt;/p&gt;
-]]></description>
-    </item>
-    
- 
-    <item>
-      <title>Truth Tellers in Bradwardine&#39;s Theory of Truth</title>
-      <link>http://consequently.org/writing/bradwardine-truth-tellers/</link>
-      <pubDate>Sun, 03 Oct 2010 00:00:00 UTC</pubDate>
-      
-      <guid>http://consequently.org/writing/bradwardine-truth-tellers/</guid>
-      <description>&lt;![CDATA[&lt;p&gt;Stephen Read&amp;rsquo;s work on Bradwardine&amp;rsquo;s theory of truth is some of the most exciting work on truth and insolubilia in recent years. Read brings together modern tools of formal logic and Bradwardine&amp;rsquo;s theory of signification to show that medieval distinctions can give great insight into the behaviour of semantic concepts such as truth. In a number of papers, I have developed a model theory for Bradwardine&amp;rsquo;s account of truth. This model theory has distinctive features: it serves up models in which every declarative object (any object signifying &lt;em&gt;anything&lt;/em&gt;) signifies its own truth. This leads to a puzzle: there are good arguments to the effect that if anything is a truth-teller, it is &lt;em&gt;false&lt;/em&gt;. This is a puzzle. What distinguishes &lt;em&gt;paradoxical&lt;/em&gt; truth-tellers from &lt;em&gt;benign&lt;/em&gt; truth tellers? It is my task in this paper to explain this distinction, and to clarify the behaviour of truth-tellers, given Bradwardine&amp;rsquo;s account of signification.&lt;/p&gt;
 ]]></description>
     </item>
     
@@ -453,26 +382,6 @@ I think I didn&#39;t get it wrong, but figuring out &lt;em&gt;why&lt;/em&gt; it&
     
  
     <item>
-      <title>Proof Theory and Philosophy</title>
-      <link>http://consequently.org/writing/ptp/</link>
-      <pubDate>Fri, 03 Oct 2008 00:00:00 UTC</pubDate>
-      
-      <guid>http://consequently.org/writing/ptp/</guid>
-      <description>&lt;![CDATA[&lt;p&gt;This is my next book-length writing project.  I am writing a book which aims to do these things:&lt;/p&gt;
-&lt;ol&gt;
-&lt;li /&gt; Be a useable textbook in philosophical logic, accessible to someone who&amp;rsquo;s done only an intro course in logic, covering at least some model theory and proof theory of propositional logic, and maybe predicate logic.
-&lt;li /&gt; Be a user-friendly, pedagogically useful and philosophically motivated presentation of cut-elimination, normalisation and conservative extension, both (a) why they&amp;rsquo;re important to meaning theory and (b) how to actually &lt;em&gt;prove&lt;/em&gt; them.  (I don&amp;rsquo;t think there are any books like this available, but I&amp;rsquo;d be happy to be shown wrong.)
-&lt;li /&gt; Present the duality between model theory and proof theory in a philosophically illuminating fashion.
-&lt;li /&gt; Teach both formal philosophical logic in such a way that is not doctrinaire or logically partisan.  That is, I will &lt;em&gt;not&lt;/em&gt; argue that classical logic, or that intuitionistic logic, or that My Favourite Logic is the One True Logic. (Of course, hearing me say this is &lt;a href=&#34;http://consequently.org/writing/logical_pluralism/&#34;&gt;not a surprise&lt;/a&gt;.)
-&lt;li /&gt; I am (at this stage, at least) planning to make the book &lt;a href=&#34;http://consequently.org/news/2004/03/18/publishing_a_book&#34;&gt;available for download&lt;/a&gt; as well as published by an academic publisher.
-&lt;/ol&gt;&lt;/p&gt;
-
-&lt;p&gt;The first couple of chapters are now available: &lt;a href=&#34;http://consequently.org/papers/ptp.pdf&#34;&gt;pdf with hyperlinks&lt;/a&gt;, &lt;a href=&#34;http://consequently.org/papers/ptp-2up.pdf&#34;&gt;paper-saving 2up pdf&lt;/a&gt;.&lt;/p&gt;
-]]></description>
-    </item>
-    
- 
-    <item>
       <title>Modal Models for Bradwardine&#39;s Theory of Truth</title>
       <link>http://consequently.org/writing/bradwardine/</link>
       <pubDate>Mon, 15 Sep 2008 00:00:00 UTC</pubDate>
@@ -536,19 +445,6 @@ I think I didn&#39;t get it wrong, but figuring out &lt;em&gt;why&lt;/em&gt; it&
       
       <guid>http://consequently.org/writing/universal/</guid>
       <description>&lt;![CDATA[&lt;p&gt;This solid volume with the ominous black cover and eerie glowing disc lettered with inscrutable strings of characters such as &amp;ldquo;DN&lt;sup&gt;d&lt;/sup&gt;Q,&amp;rdquo; &amp;ldquo;LSDJ&lt;sup&gt;d&lt;/sup&gt;,&amp;rdquo; and &amp;ldquo;L2LDJQ&lt;sup&gt;&amp;plusmn;&lt;/sup&gt;&amp;rdquo; is the fruit of over 30 years of Ross Brady&amp;rsquo;s logical labours. And it is worth the wait&amp;hellip;&lt;/p&gt;
-]]></description>
-    </item>
-    
- 
-    <item>
-      <title>Invention is the Mother of Necessity: modal logic, modal semantics and modal metaphysics</title>
-      <link>http://consequently.org/writing/invention/</link>
-      <pubDate>Wed, 03 Oct 2007 00:00:00 UTC</pubDate>
-      
-      <guid>http://consequently.org/writing/invention/</guid>
-      <description>&lt;![CDATA[&lt;p&gt;Modal logic is a well-established field, and the possible worlds semantics of modal logics has proved invaluable to our understanding of the logical features of the modal concepts such as possibility and necessity. However, the significance of possible worlds models for a genuine theory of meaning&amp;ndash;let alone for metaphysics&amp;ndash;is less clear. In this paper I shall explain how and why the use of the concepts of necessity and possibility could arise (and why they have the logical behaviour charted out by standard modal logics) without either taking the notions of necessity or possibility as primitive, and without starting with possible worlds. Once we give an account of modal logic we can then go on to give an account of possible worlds, and explain why possible worlds semantics is a natural fit for modal logic without being the source of modal concepts.&lt;/p&gt;
-
-&lt;p&gt;This paper is an early draft, and comments are most welcome.&lt;/p&gt;
 ]]></description>
     </item>
     

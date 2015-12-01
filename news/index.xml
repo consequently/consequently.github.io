@@ -702,63 +702,6 @@ p\land\neg p\vdash
     
  
     <item>
-      <title>Rumfitt on Multiple Conclusions, Part 2</title>
-      <link>http://consequently.org/news/2009/06/02/Rumfitt_Part_2/</link>
-      <pubDate>Tue, 02 Jun 2009 00:00:00 UTC</pubDate>
-      
-      <guid>http://consequently.org/news/2009/06/02/Rumfitt_Part_2/</guid>
-      <description>&lt;![CDATA[&lt;p&gt;This is Part 2 of &lt;a href=&#34;http://consequently.org/news/2009/06/01/Rumfitt_Part_1&#34;&gt;a series of comments&lt;/a&gt; on Ian Rumfitt&amp;rsquo;s paper &amp;ldquo;Knowledge by Deduction&amp;rdquo; (&lt;em&gt;Grazer Philosophische Studien&lt;/em&gt;, vol. 77 (2008) pp. 61&amp;ndash;84).  In &lt;a href=&#34;http://consequently.org/news/2009/06/01/Rumfitt_Part_1&#34;&gt;Part 1&lt;/a&gt;, I focussed on Rumfitt&amp;rsquo;s direct criticism of my approach in &amp;ldquo;&lt;a href=&#34;http://consequently.org/writing/multipleconclusions/&#34;&gt;Multiple Conclusions&lt;/a&gt;,&amp;rdquo; and I tried to show that his criticism missed the mark, and that it missed the mark in an important way. The norms of logical consequence and logical coherence apply not only to occurrent beliefs but to all manner of states of accepting and rejecting (or acts of assertion and denial), whether they express our deep standing beliefs or hypotheses we simply entertain lightly.&lt;/p&gt;
-
-&lt;p&gt;In this part, I want to consider the comments on the possibility of genuine &lt;em&gt;proofs&lt;/em&gt; with multiple conclusions.&lt;/p&gt;
-
-&lt;p&gt;Rumfitt writes (and I&amp;rsquo;ll quote him at some length here), on page 79:&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;The rarity, to the point of extinction, of naturally occurring multiple-conclusion arguments has always been the reason why mainstream logicians have dismissed multiple-conclusion logic as little more than a curiosity. (See e.g. &lt;a href=&#34;http://www.amazon.com/Taming-True-Neil-Tennant/dp/0198237170/consequentlyorg&#34;&gt;Tennant 1997&lt;/a&gt;, 320.) And attempts by enthusiasts to alleviate the embarrassment here have often ended up compounding it. In the introduction to their textbook on the subject, Shoesmith and Smiley concede that multiple-conclusion proofs can scarcely be said to form part of the everyday repertoire of mathematics. &amp;lsquo;Perhaps the nearest one comes to them&amp;rsquo;, they go on, &amp;ldquo;is in proof by cases, where one argues &amp;ldquo;suppose &lt;em&gt;A&lt;/em&gt;&lt;sub&gt;1&lt;/sub&gt; then &lt;em&gt;B&lt;/em&gt;; &amp;hellip; suppose &lt;em&gt;A&lt;/em&gt;&lt;sub&gt;&lt;em&gt;m&lt;/em&gt;&lt;/sub&gt; then &lt;em&gt;B&lt;/em&gt;; but &lt;em&gt;A&lt;/em&gt;&lt;sub&gt;1&lt;/sub&gt; &amp;or; &amp;hellip; &amp;or; &lt;em&gt;A&lt;/em&gt;&lt;sub&gt;&lt;em&gt;m&lt;/em&gt;&lt;/sub&gt;, so &lt;em&gt;B&lt;/em&gt;&amp;rdquo;. A diagrammatic representation of this argument exhibits the downward branching which we shall see is typical of formalised multiple-conclusion proofs &amp;hellip; But the ordinary proof by cases is at best a degenerate form of multiple-conclusion argument, for the different conclusions are all the same (in our example they are all instances of the same formula &lt;em&gt;B&lt;/em&gt;)&amp;rdquo; (&lt;a href=&#34;http://www.amazon.com/Multiple-Conclusion-Logic-D-J-Shoesmith/dp/0521093325/consequentlyorg&#34;&gt;Shoesmith and Smiley 1978&lt;/a&gt;, 4–5). &amp;ldquo;At best degenerate&amp;rdquo;, though, hardly says it. I do not know how the word &amp;ldquo;multiple&amp;rdquo; is used in Cambridge, but in the rest of the English-speaking world it is understood to mean &amp;ldquo;more than one&amp;rdquo;. So an example of an argument in which all the conclusions (&lt;em&gt;sic&lt;/em&gt;) are identical provides little justification for taking multiple-conclusion logic seriously. But since this is all that Shoesmith and Smiley provide by way of a positive case for deeming their system to be a branch of logic, readers of their book may be forgiven for closing it with a sigh on reaching p. 5 of the introduction.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;What can I say about &lt;em&gt;that&lt;/em&gt;?&lt;/p&gt;
-
-&lt;!-- BREAK --&gt;
-
-&lt;p&gt;First of all, in defence of Shoesmith and Smiley, the one example of proof by cases (in which the intermediate formula are all the same) is not the only consideration they provide in favour of taking their system to be a branch of logic.  Showing that it is a codification of a notion of (let&amp;rsquo;s call it) &lt;em&gt;quasi&lt;/em&gt;-proof which delivers logical consequence on Gentzen&amp;rsquo;s sequents, and which, when restricted to single conclusion deductions agrees with traditional natural deduction should count for something.  If it&amp;rsquo;s not a branch of logic, what is it?&lt;/p&gt;
-
-&lt;p&gt;To be sure, a single case where the only multiple conclusions aren&amp;rsquo;t very multiple is not very satisfying. But there is a genuine sense, of course, in which even in this case the conclusions &lt;em&gt;are&lt;/em&gt; multiple.  Surely they have heard of the type&amp;ndash;token distinction outside of Cambridge?  There is a perfectly admissible sense in which the rule of conjunction introduction (in Gentzen&amp;rsquo;s natural deduction) requires &lt;em&gt;two&lt;/em&gt; premises, even when the instance used is a derivation of &lt;em&gt;P&lt;/em&gt; &amp;and; &lt;em&gt;P&lt;/em&gt; from the premises &lt;em&gt;P&lt;/em&gt; and &lt;em&gt;P&lt;/em&gt;.  (To rewrite this to be a proof from one instance of &lt;em&gt;P&lt;/em&gt; to &lt;em&gt;P&lt;/em&gt; &amp;and; &lt;em&gt;P&lt;/em&gt; may radically change the structure of the proof, especially if both instances of &lt;em&gt;P&lt;/em&gt; are proved in very different ways.)&lt;/p&gt;
-
-&lt;p&gt;But that is a minor point, not worth any more of our time.  More important is the way that Rumfitt missed what is going on in proofs by cases.  I don&amp;rsquo;t mind that he missed my example of a proof featuring multiple conclusions, discussed in &amp;ldquo;&lt;a href=&#34;http://consequently.org/writing/multipleconclusions&#34;&gt;Multiple Conclusions&lt;/a&gt;&amp;rdquo; on page 199 to address just the point Rumfitt raised here.&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Suppose everyone is either happy or tired. Choose a person. It follows that this person is either happy or tired. There are two cases. Case (i) this person is happy. Case (ii) this person is tired, and as a result someone is tired. As a result, either this person is happy or someone (namely that person) is tired. But the person we chose was arbitrary, so either everyone is happy or someone is tired.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;This seems to me to be perfectly valid reasoning: It&amp;rsquo;s a proof.  It&amp;rsquo;s a renderng in (somewhat) natural language of a sequent derivation of &amp;ldquo;everything is an &lt;em&gt;F&lt;/em&gt; or something is a &lt;em&gt;G&lt;/em&gt;&amp;rdquo; from &amp;ldquo;everything is either &lt;em&gt;F&lt;/em&gt; or &lt;em&gt;G&lt;/em&gt;.&amp;rdquo;  (For the sequent derivation I used, see &lt;a href=&#34;http://consequently.org/writing/multipleconclusions&#34;&gt;the paper&lt;/a&gt;.)&lt;/p&gt;
-
-&lt;p&gt;In this proof, there are two conclusions active at a number of points.  Stop the proof before the sentence starting &amp;ldquo;As a result&amp;rdquo;.  Consider the state of play at this point in the derivation.  We have a proof from &amp;ldquo;Everyone is either happy or tired&amp;rdquo; to the two conclusions: &amp;ldquo;Case (i) &lt;em&gt;a&lt;/em&gt; is happy.&amp;rdquo; (where &lt;em&gt;a&lt;/em&gt; is an eigenvariable standing for &amp;lsquo;that person&amp;rsquo;, which in turn points back to the choice made after the supposition.)  &amp;ldquo;Case (ii) someone is tired.&amp;rdquo;  In other words, we have a proof corresponding to the sequent (everything is either &lt;em&gt;F&lt;/em&gt; or &lt;em&gt;G&lt;/em&gt; &amp;rArr; &lt;em&gt;Fa&lt;/em&gt;, something is &lt;em&gt;G&lt;/em&gt;.)&lt;/p&gt;
-
-&lt;p&gt;I cannot think of any way of understanding the deduction up to that point in such a way as to (a) see it as a single deduction, and (b) not introduce irrelevant connectives not explicitly used in the text.  This example seems to me to be strong evidence that one can find in nature real-life uses of multiple conclusions in action, if you know where to look.&lt;/p&gt;
-
-&lt;p&gt;If you know where to look, you know that you don&amp;rsquo;t need tricky cases of intuitionistically invalid arguments to make the point.  The point is there in Shoesmith and Smiley&amp;rsquo;s &lt;em&gt;own&lt;/em&gt; examples of proof by cases.  If you stop a proof by cases (in the middle of the ellipses eliding the interesting bits of the subproofs, in the bit of &lt;a href=&#34;http://www.amazon.com/Multiple-Conclusion-Logic-D-J-Shoesmith/dp/0521093325/consequentlyorg&#34;&gt;Shoesmith &amp;amp; Smiley&lt;/a&gt; quoted by Rumfitt) you will get more interesting cases where the conclusions in play differ.  For example, take this proof of (&lt;em&gt;p&lt;/em&gt; &amp;and; &lt;em&gt;q&lt;/em&gt;) &amp;or; (&lt;em&gt;p&lt;/em&gt; &amp;and; &lt;em&gt;r&lt;/em&gt;) from &lt;em&gt;p&lt;/em&gt; &amp;and; (&lt;em&gt;q&lt;/em&gt; &amp;or; &lt;em&gt;r&lt;/em&gt;). (Ignore the bracketed markers [a], [b] and [c] for the moment.)&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Suppose &lt;em&gt;p&lt;/em&gt; &amp;and; (&lt;em&gt;q&lt;/em&gt; &amp;or; &lt;em&gt;r&lt;/em&gt;).  Then it follows that &lt;em&gt;p&lt;/em&gt;.  It follows that &lt;em&gt;q&lt;/em&gt; &amp;or; &lt;em&gt;r&lt;/em&gt;.  So, we have two cases: (i) &lt;em&gt;q&lt;/em&gt;, and (ii) &lt;em&gt;r&lt;/em&gt;. [a] Consider case (i).  Here, &lt;em&gt;q&lt;/em&gt;, and we already have &lt;em&gt;p&lt;/em&gt;, so &lt;em&gt;p&lt;/em&gt; &amp;and; &lt;em&gt;q&lt;/em&gt;.  Consider case (ii). Here, &lt;em&gt;r&lt;/em&gt;, and we already have &lt;em&gt;p&lt;/em&gt;, so &lt;em&gt;p&lt;/em&gt; &amp;and; &lt;em&gt;r&lt;/em&gt;. [b].  Back in case (i), it follows that (&lt;em&gt;p&lt;/em&gt; &amp;and; &lt;em&gt;q&lt;/em&gt;) &amp;or; (&lt;em&gt;p&lt;/em&gt; &amp;and; &lt;em&gt;r&lt;/em&gt;).  In (ii), it also follows that (&lt;em&gt;p&lt;/em&gt; &amp;and; &lt;em&gt;q&lt;/em&gt;) &amp;or; (&lt;em&gt;p&lt;/em&gt; &amp;and; &lt;em&gt;r&lt;/em&gt;) [c].  So, we conclude, (&lt;em&gt;p&lt;/em&gt; &amp;and; &lt;em&gt;q&lt;/em&gt;) &amp;or; (&lt;em&gt;p&lt;/em&gt; &amp;and; &lt;em&gt;r&lt;/em&gt;).&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Again, this seems to me to be perfectly understandable reasoning.  The point at which Rumfitt jokes about &amp;lsquo;multiple&amp;rsquo; instances of the conclusion &lt;em&gt;B&lt;/em&gt; corresponds to our point [c], where we have proved the conclusion (&lt;em&gt;p&lt;/em&gt; &amp;and; &lt;em&gt;q&lt;/em&gt;) &amp;or; (&lt;em&gt;p&lt;/em&gt; &amp;and; &lt;em&gt;r&lt;/em&gt;) in each case, but have not yet drawn them together to a single conclusion in the argument.  True, at this point we have a proof with two instances of the one concluding formula.  This is no better or worse than a proof with two instances of the one premise formula.&lt;/p&gt;
-
-&lt;p&gt;But [c] is only one place to stop the proof.  Suppose we pause at point [b].  What do we have there?  It&amp;rsquo;s a proof from one premise &lt;em&gt;p&lt;/em&gt; &amp;and; (&lt;em&gt;q&lt;/em&gt; &amp;or; &lt;em&gt;r&lt;/em&gt;), leading to two cases, one in which we&amp;rsquo;ve proved &lt;em&gt;p&lt;/em&gt; &amp;and; &lt;em&gt;q&lt;/em&gt;, and the other in which we&amp;rsquo;ve proved &lt;em&gt;p&lt;/em&gt; &amp;and; &lt;em&gt;r&lt;/em&gt;.  This corresponds to the sequent &lt;em&gt;p&lt;/em&gt; &amp;and; (&lt;em&gt;q&lt;/em&gt; &amp;or; &lt;em&gt;r&lt;/em&gt;) &amp;rArr; &lt;em&gt;p&lt;/em&gt; &amp;and; &lt;em&gt;q&lt;/em&gt;, &lt;em&gt;p&lt;/em&gt; &amp;and; &lt;em&gt;r&lt;/em&gt;, and the two concluding formulas are different.&lt;/p&gt;
-
-&lt;p&gt;Now, let me confess: I engineered this case by interleaving the two cases in the text, to get to an intermediate step in both of them.  But this does not render the case any less salient.  I could have stopped at point [a], and here, what we have got to is a sequent &lt;em&gt;p&lt;/em&gt; &amp;and; (&lt;em&gt;q&lt;/em&gt; &amp;or; &lt;em&gt;r&lt;/em&gt;) &amp;rArr; &lt;em&gt;q&lt;/em&gt;,  &lt;em&gt;r&lt;/em&gt;.  In other words, we have just got to the point at which the disjunction is broken up into two cases, and each case is ready for further processing using the rules.&lt;/p&gt;
-
-&lt;p&gt;That is the core idea of multiple conclusion &lt;em&gt;natural deduction&lt;/em&gt;.  The disjunction rule can be understood simply, as taking us from &lt;em&gt;p&lt;/em&gt; &amp;or; &lt;em&gt;q&lt;/em&gt; to the two conclusions &lt;em&gt;p&lt;/em&gt;, &lt;em&gt;q&lt;/em&gt;,  which can then be operated on as usual, in the &lt;em&gt;one&lt;/em&gt; proof.  If you don&amp;rsquo;t like this, that&amp;rsquo;s fine.  However, that is not an argument to the effect that multiple conclusion structures can&amp;rsquo;t be found in natural reasoning.  They are there if you know where to look.&lt;/p&gt;
-
-&lt;p&gt;In a few days I&amp;rsquo;ll post a response to what I take to be the most interesting of Rumfitt&amp;rsquo;s arguments, his considerations against the Cut Rule.  But that, I suspect, will take a little more time, and other duties are pressing for the next few days.&lt;/p&gt;
-
-&lt;p&gt;As ever, comments on these ideas are most welcome.&lt;/p&gt;
-]]></description>
-    </item>
-    
- 
-    <item>
       <title>Rumfitt on Multiple Conclusions, Part 1</title>
       <link>http://consequently.org/news/2009/06/01/Rumfitt_Part_1/</link>
       <pubDate>Mon, 01 Jun 2009 00:00:00 UTC</pubDate>
@@ -968,6 +911,23 @@ p\land\neg p\vdash
     
  
     <item>
+      <title>Spandrels of Truth</title>
+      <link>http://consequently.org/news/2009/03/25/spandrels_of_truth/</link>
+      <pubDate>Wed, 25 Mar 2009 00:00:00 UTC</pubDate>
+      
+      <guid>http://consequently.org/news/2009/03/25/spandrels_of_truth/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;Whoever thought that teaching in three subjects, chairing one committee, participating in another one with a honking big project to keep on the rails for the next few months, supervising &lt;em&gt;n&lt;/em&gt; research students (for a seriously large value of &amp;lsquo;&lt;em&gt;n&lt;/em&gt;&amp;rsquo;) and trying to keep your research ticking over would keep you busy with work?  I did think that.  But now I know it by acquaintance, and not merely by dispassionate theoretical reflection.&lt;/p&gt;
+
+&lt;p&gt;Anyway, I&amp;rsquo;m not here to moan.  I&amp;rsquo;m here to make you an offer.&lt;/p&gt;
+
+&lt;p&gt;My friend, colleague, &lt;a href=&#34;http://consequently.org/writing/pluralism&#34;&gt;co-author&lt;/a&gt; (more like partner in crime) &lt;a href=&#34;http://web.me.com/jcbeall/Site/Home.html&#34;&gt;Jc Beall&lt;/a&gt; has gone and written &lt;em&gt;another&lt;/em&gt; book &lt;em&gt;&lt;a href=&#34;http://www.amazon.com/Spandrels-Truth-Jc-Beall/dp/0199268738/consequentlyorg&#34;&gt;Spandrels of Truth&lt;/a&gt;&lt;/em&gt;.  (He&amp;rsquo;s one of these ridiculously prolific authors.)  Anyway, it&amp;rsquo;s a cracker of a read, on the view that if we take seriously the idea that to say that &amp;lt;&lt;em&gt;p&lt;/em&gt;&amp;gt; is true is no more and no less than to say that &lt;em&gt;p&lt;/em&gt;, then the inconsistencies like the liar paradox are side-effects of the &amp;lsquo;design&amp;rsquo; decisions, just like &lt;a href=&#34;http://en.wikipedia.org/wiki/Spandrel&#34;&gt;spandrels&lt;/a&gt; in architecture, and are neither to be worried about nor gotten rid of: instead, they&amp;rsquo;re to be lived with.  Jc&amp;rsquo;s job is to convince us all of this by supplying us a paraconsistent logic and enough semantic machinery to show that living with them is not going to make the whole building fall down.  I think he does a great job, and that this book is required reading for anyone thinking about theories of truth, paradoxes and stuff like that.&lt;/p&gt;
+
+&lt;p&gt;Thankfully, the required reading is not too expensive.  Use &lt;a href=&#34;http://consequently.org/temp/Spandrels.pdf&#34;&gt;this form&lt;/a&gt; for your ordering, and Oxford University Press will shave 20% off the price.  Go buy it.  Help Jc rocket up the best-seller lists.  But be quick. The 20% discount lasts only until June 11, 2009.&lt;/p&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
       <title>Quiz for today</title>
       <link>http://consequently.org/news/2009/03/25/quiz_for_today/</link>
       <pubDate>Wed, 25 Mar 2009 00:00:00 UTC</pubDate>
@@ -984,23 +944,6 @@ p\land\neg p\vdash
 &lt;p&gt;(Upon reflection, that&amp;rsquo;s not much of a hint, is it?)&lt;/p&gt;
 
 &lt;p&gt;Post your guess as to who I&amp;rsquo;m quoting, in the &lt;a href=&#34;http://consequently.org/news/2009/03/25/quiz_for_today&#34;&gt;comments form on this post&lt;/a&gt;.  (You can post an informed answer too, if you like, but I suspect a guess would be even more fun.)  The most interesting answer will receive a &lt;em&gt;prize&lt;/em&gt; in the honest-to-goodness snail mail.&lt;/p&gt;
-]]></description>
-    </item>
-    
- 
-    <item>
-      <title>Spandrels of Truth</title>
-      <link>http://consequently.org/news/2009/03/25/spandrels_of_truth/</link>
-      <pubDate>Wed, 25 Mar 2009 00:00:00 UTC</pubDate>
-      
-      <guid>http://consequently.org/news/2009/03/25/spandrels_of_truth/</guid>
-      <description>&lt;![CDATA[&lt;p&gt;Whoever thought that teaching in three subjects, chairing one committee, participating in another one with a honking big project to keep on the rails for the next few months, supervising &lt;em&gt;n&lt;/em&gt; research students (for a seriously large value of &amp;lsquo;&lt;em&gt;n&lt;/em&gt;&amp;rsquo;) and trying to keep your research ticking over would keep you busy with work?  I did think that.  But now I know it by acquaintance, and not merely by dispassionate theoretical reflection.&lt;/p&gt;
-
-&lt;p&gt;Anyway, I&amp;rsquo;m not here to moan.  I&amp;rsquo;m here to make you an offer.&lt;/p&gt;
-
-&lt;p&gt;My friend, colleague, &lt;a href=&#34;http://consequently.org/writing/pluralism&#34;&gt;co-author&lt;/a&gt; (more like partner in crime) &lt;a href=&#34;http://web.me.com/jcbeall/Site/Home.html&#34;&gt;Jc Beall&lt;/a&gt; has gone and written &lt;em&gt;another&lt;/em&gt; book &lt;em&gt;&lt;a href=&#34;http://www.amazon.com/Spandrels-Truth-Jc-Beall/dp/0199268738/consequentlyorg&#34;&gt;Spandrels of Truth&lt;/a&gt;&lt;/em&gt;.  (He&amp;rsquo;s one of these ridiculously prolific authors.)  Anyway, it&amp;rsquo;s a cracker of a read, on the view that if we take seriously the idea that to say that &amp;lt;&lt;em&gt;p&lt;/em&gt;&amp;gt; is true is no more and no less than to say that &lt;em&gt;p&lt;/em&gt;, then the inconsistencies like the liar paradox are side-effects of the &amp;lsquo;design&amp;rsquo; decisions, just like &lt;a href=&#34;http://en.wikipedia.org/wiki/Spandrel&#34;&gt;spandrels&lt;/a&gt; in architecture, and are neither to be worried about nor gotten rid of: instead, they&amp;rsquo;re to be lived with.  Jc&amp;rsquo;s job is to convince us all of this by supplying us a paraconsistent logic and enough semantic machinery to show that living with them is not going to make the whole building fall down.  I think he does a great job, and that this book is required reading for anyone thinking about theories of truth, paradoxes and stuff like that.&lt;/p&gt;
-
-&lt;p&gt;Thankfully, the required reading is not too expensive.  Use &lt;a href=&#34;http://consequently.org/temp/Spandrels.pdf&#34;&gt;this form&lt;/a&gt; for your ordering, and Oxford University Press will shave 20% off the price.  Go buy it.  Help Jc rocket up the best-seller lists.  But be quick. The 20% discount lasts only until June 11, 2009.&lt;/p&gt;
 ]]></description>
     </item>
     
@@ -1038,21 +981,6 @@ p\land\neg p\vdash
     
  
     <item>
-      <title>Holiday!</title>
-      <link>http://consequently.org/news/2009/01/07/holiday/</link>
-      <pubDate>Wed, 07 Jan 2009 00:00:00 UTC</pubDate>
-      
-      <guid>http://consequently.org/news/2009/01/07/holiday/</guid>
-      <description>&lt;![CDATA[&lt;p&gt;We&amp;rsquo;re going on a &lt;em&gt;holiday&lt;/em&gt;! Tomorrow at noon, we&amp;rsquo;ll be on a Qantas 747 to LA, and at the other end, the three of us will be enjoying four weeks of break.  It&amp;rsquo;s &lt;em&gt;mostly&lt;/em&gt; time off for all of us, with a few detours for work talks for me (at Pitt, and at UConn) and for Christine (at Harvard, San Diego, Berkeley and maybe Stanford).  It&amp;rsquo;s our &amp;lsquo;consolation tour&amp;rsquo; in place of what was our original plan: a year in the USA, based in Pittsburgh.  That fell through&amp;mdash;it&amp;rsquo;s a complicated story, all to do with Melbourne, nothing to do with &lt;a href=&#34;http://pitt.edu/~philosop&#34;&gt;Pitt&lt;/a&gt;, where people have been generous, understanding and gracious.  Anyway, I&amp;rsquo;m not visiting Pitt for a year, but we&amp;rsquo;re touring the US, having a break, seeing the sights (like the Grand Canyon, Death Valley, and Las Vegas) and visiting friends.&lt;/p&gt;
-
-&lt;p&gt;At Pittsburgh, I&amp;rsquo;ll finally get to meet &lt;a href=&#34;http://indexical.blogspot.com/&#34;&gt;Shawn&lt;/a&gt; whose blog I&amp;rsquo;ve read for ages, and &lt;a href=&#34;http://www.pitt.edu/~philosop/people/gupta.html&#34;&gt;Anil&lt;/a&gt;, whose work I&amp;rsquo;ve read and learned from for much longer.   At UConn, I&amp;rsquo;ll catch up with &lt;a href=&#34;http://web.me.com/jcbeall/&#34;&gt;Jc&lt;/a&gt;, which is always a blast, and &lt;a href=&#34;http://homepages.uconn.edu/~mar08022/&#34;&gt;Marcus&lt;/a&gt;, who&amp;rsquo;s moved there.  I&amp;rsquo;ve also got the honour of giving the &lt;a href=&#34;http://logic.uconn.edu/lecture.php&#34;&gt;inaugural annual lecture&lt;/a&gt; of the &lt;a href=&#34;http://logic.uconn.edu&#34;&gt;UConn Logic Group&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;I won&amp;rsquo;t be posting here unless I get web access, and I think that this isn&amp;rsquo;t a priority on the holiday.  But after I&amp;rsquo;m back in February, I expect to be posting here more often.&lt;/p&gt;
-]]></description>
-    </item>
-    
- 
-    <item>
       <title>Little Snippets of News</title>
       <link>http://consequently.org/news/2009/01/07/little_snippets_of_news/</link>
       <pubDate>Wed, 07 Jan 2009 00:00:00 UTC</pubDate>
@@ -1071,6 +999,21 @@ p\land\neg p\vdash
 
 &lt;li&gt;&lt;p&gt;It&amp;rsquo;s been a hard year at work, as I&amp;rsquo;ve &lt;a href=&#34;http://consequently.org/news/2008/03/30/were_in_the_news/&#34;&gt;hinted at&lt;/a&gt; &lt;a href=&#34;http://consequently.org/news/2008/08/20/pain_stress_redundancies_another_day_at_the_office&#34;&gt;before&lt;/a&gt;.  There&amp;rsquo;s been a lot more going on than that going on. My leave over this summer break has been more than welcome.  I&amp;rsquo;m away from the office for an extended period (for two weeks already, and I return only on February 23).  For some of this leave, starting tomorrow, we&amp;rsquo;re going on a trip to the US, to get away from it all.  The fact that we get to be there during Obama&amp;rsquo;s inauguration is a bonus!  More on the trip, in the next post.&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>Holiday!</title>
+      <link>http://consequently.org/news/2009/01/07/holiday/</link>
+      <pubDate>Wed, 07 Jan 2009 00:00:00 UTC</pubDate>
+      
+      <guid>http://consequently.org/news/2009/01/07/holiday/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;We&amp;rsquo;re going on a &lt;em&gt;holiday&lt;/em&gt;! Tomorrow at noon, we&amp;rsquo;ll be on a Qantas 747 to LA, and at the other end, the three of us will be enjoying four weeks of break.  It&amp;rsquo;s &lt;em&gt;mostly&lt;/em&gt; time off for all of us, with a few detours for work talks for me (at Pitt, and at UConn) and for Christine (at Harvard, San Diego, Berkeley and maybe Stanford).  It&amp;rsquo;s our &amp;lsquo;consolation tour&amp;rsquo; in place of what was our original plan: a year in the USA, based in Pittsburgh.  That fell through&amp;mdash;it&amp;rsquo;s a complicated story, all to do with Melbourne, nothing to do with &lt;a href=&#34;http://pitt.edu/~philosop&#34;&gt;Pitt&lt;/a&gt;, where people have been generous, understanding and gracious.  Anyway, I&amp;rsquo;m not visiting Pitt for a year, but we&amp;rsquo;re touring the US, having a break, seeing the sights (like the Grand Canyon, Death Valley, and Las Vegas) and visiting friends.&lt;/p&gt;
+
+&lt;p&gt;At Pittsburgh, I&amp;rsquo;ll finally get to meet &lt;a href=&#34;http://indexical.blogspot.com/&#34;&gt;Shawn&lt;/a&gt; whose blog I&amp;rsquo;ve read for ages, and &lt;a href=&#34;http://www.pitt.edu/~philosop/people/gupta.html&#34;&gt;Anil&lt;/a&gt;, whose work I&amp;rsquo;ve read and learned from for much longer.   At UConn, I&amp;rsquo;ll catch up with &lt;a href=&#34;http://web.me.com/jcbeall/&#34;&gt;Jc&lt;/a&gt;, which is always a blast, and &lt;a href=&#34;http://homepages.uconn.edu/~mar08022/&#34;&gt;Marcus&lt;/a&gt;, who&amp;rsquo;s moved there.  I&amp;rsquo;ve also got the honour of giving the &lt;a href=&#34;http://logic.uconn.edu/lecture.php&#34;&gt;inaugural annual lecture&lt;/a&gt; of the &lt;a href=&#34;http://logic.uconn.edu&#34;&gt;UConn Logic Group&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;I won&amp;rsquo;t be posting here unless I get web access, and I think that this isn&amp;rsquo;t a priority on the holiday.  But after I&amp;rsquo;m back in February, I expect to be posting here more often.&lt;/p&gt;
 ]]></description>
     </item>
     
@@ -1771,7 +1714,7 @@ dinner on Lygon Street, Carlton.&lt;/p&gt;
 &lt;li&gt;&lt;a href=&#34;http://members.cox.net/wehmeier/&#34;&gt;Kai Wehmeier&lt;/a&gt;: &lt;em&gt;Identity is not a relation&lt;/em&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;Kai&amp;rsquo;s elegant talk was on Wittgensteinian predicate logic: logic in which distinct variables must denote distinct objects, and in which we do not have an identity predicate.  It seems well suited to introductory logic classes &amp;ndash; or at least, better suited to some untutored judgements about how to say things &amp;ndash; since to say &amp;ldquo;there are two &lt;em&gt;F*s&amp;rdquo; you simply say (&amp;#8707;*x&lt;/em&gt;)(&amp;#8707;&lt;em&gt;y&lt;/em&gt;)(&lt;em&gt;Fx&lt;/em&gt; &amp;amp; &lt;em&gt;Fy&lt;/em&gt;), and we don&amp;rsquo;t require the usual (&lt;em&gt;x&lt;/em&gt; &amp;#8800; &lt;em&gt;y&lt;/em&gt;) conjunct.  Kai looked at how one might extend this logic to include names.  This is a tricky thing to get right.&lt;/p&gt;
+&lt;p&gt;Kai&amp;rsquo;s elegant talk was on Wittgensteinian predicate logic: logic in which distinct variables must denote distinct objects, and in which we do not have an identity predicate.  It seems well suited to introductory logic classes &amp;ndash; or at least, better suited to some untutored judgements about how to say things &amp;ndash; since to say &amp;ldquo;there are two *F*s&amp;rdquo; you simply say (&amp;#8707;&lt;em&gt;x&lt;/em&gt;)(&amp;#8707;&lt;em&gt;y&lt;/em&gt;)(&lt;em&gt;Fx&lt;/em&gt; &amp;amp; &lt;em&gt;Fy&lt;/em&gt;), and we don&amp;rsquo;t require the usual (&lt;em&gt;x&lt;/em&gt; &amp;#8800; &lt;em&gt;y&lt;/em&gt;) conjunct.  Kai looked at how one might extend this logic to include names.  This is a tricky thing to get right.&lt;/p&gt;
 
 &lt;p&gt;This is interesting material.  There are a number of different reasons one might want Wittgensteinian predicate logic: the metaphysical reason (identity just &lt;em&gt;isn&amp;rsquo;t&lt;/em&gt; a relation, as it doesn&amp;rsquo;t &lt;em&gt;relate&lt;/em&gt;), and the linguistic data.  Kai thinks the metaphysical reason is the most interesting one.  That&amp;rsquo;s probably right.   I &lt;em&gt;suspect&lt;/em&gt; parallels with linguistic data will draw you further away from Wittgensteinian logic since it stays quite close to the syntax of classical predicate logic.  I think that the linguistic data is better modelled by including even more &lt;em&gt;dynamic&lt;/em&gt; features in the formal language.&lt;/p&gt;
 
@@ -2546,8 +2489,7 @@ dinner on Lygon Street, Carlton.&lt;/p&gt;
       <guid>http://consequently.org/news/2006/04/08/well_that_was_easy/</guid>
       <description>&lt;![CDATA[&lt;p&gt;Sometimes technologies can be use for purposes the inventors didn&amp;rsquo;t really intend.  I&amp;rsquo;m sure that when the designers of the iTunes music store set the thing up, they didn&amp;rsquo;t expect that you&amp;rsquo;d be able to use it to download esoteric papers in philosophical logic.  But you can.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=138002605&amp;s=143460&#34;&gt;&lt;img src=&#34;http://consequently.org/pictures/consequentlyorg_in_itunes.png&#34; alt=&#34;consequently.org/writing in iTunes&#34; /&gt;
-&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=138002605&amp;s=143460&#34;&gt;&lt;img src=&#34;http://consequently.org/pictures/consequentlyorg_in_itunes.png&#34; alt=&#34;consequently.org/writing in iTunes&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;All I had to do was submit the &lt;a href=&#34;http://consequently.org/writing/index.xml&#34;&gt;RSS feed of my papers&lt;/a&gt; to the iTunes store &lt;a href=&#34;https://phobos.apple.com/WebObjects/MZFinance.woa/wa/publishPodcast&#34;&gt;on this form&lt;/a&gt;, after tweaking it to include the &lt;a href=&#34;http://www.apple.com/itunes/podcasts/techspecs.html&#34;&gt;information that the iTunes store is looking for&lt;/a&gt;.  A day later, there it is.  Now you can use iTunes to automatically download any papers I write.  (Though, you can&amp;rsquo;t yet get them automatically downloaded onto your iPod for you to read, as the iPod doesn&amp;rsquo;t have a pdf reader &amp;ndash; at least not yet.)&lt;/p&gt;
 
@@ -2693,8 +2635,7 @@ dinner on Lygon Street, Carlton.&lt;/p&gt;
 
 &lt;p&gt;This has the side effect that you can subscribe to me in &lt;a href=&#34;http://www.apple.com/itunes&#34;&gt;iTunes&lt;/a&gt;:&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://consequently.org/pictures/papers_in_itunes.png&#34; alt=&#34;Papers in iTunes&#34; /&gt;
-&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://consequently.org/pictures/papers_in_itunes.png&#34; alt=&#34;Papers in iTunes&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;That is &lt;em&gt;weird&lt;/em&gt;.  (I wonder if I should submit this podcast to the iTunes Music Store?)&lt;/p&gt;
 ]]></description>
@@ -2724,8 +2665,7 @@ dinner on Lygon Street, Carlton.&lt;/p&gt;
 
 &lt;p&gt;One thing that an online journals make possible is the freedom from constraints of filling a fixed number of fixed-size volumes a year.  Different ejournals do this differently.  At the AJL, we publish one volume per year, but papers appear in the volume whenever they complete the refereeing and editing process.  We close the volume at the end of the year, and start a new one in the next year.  This means that wherever one paper is in the queue doesn&amp;rsquo;t block the progress of any other paper.  We can publish Tony Roy&amp;rsquo;s massive 146 page &lt;a href=&#34;http://www.philosophy.unimelb.edu.au/ajl/2006/index.html#3&#34;&gt;Natural Derivations for Priest &lt;em&gt;An Introduction to Non-Classical Logic&lt;/em&gt;&lt;/a&gt; without worrying that this will delay the other things in the queue until the next volume.  Tony&amp;rsquo;s paper has meant that we&amp;rsquo;ve well-and-truly broken our pagecount record for the 2006 volume, and we&amp;rsquo;re only in March.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://consequently.org/pictures/AJLgraph.png&#34; alt=&#34;Growth of the AJL&#34; /&gt;
-&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://consequently.org/pictures/AJLgraph.png&#34; alt=&#34;Growth of the AJL&#34; /&gt;&lt;/p&gt;
 ]]></description>
     </item>
     
@@ -2958,13 +2898,11 @@ The envy of the world.&lt;/p&gt;
 
 &lt;p&gt;I&amp;rsquo;ve set up iTunes to sync some of the playlists on my computer to the iPod.  Here&amp;rsquo;s the setting in the preferences for iTunes:&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://consequently.org/pictures/itunes/ipod_playlist_settings.png&#34; alt=&#34;playlist settings in iTunes&#34; /&gt;
-&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://consequently.org/pictures/itunes/ipod_playlist_settings.png&#34; alt=&#34;playlist settings in iTunes&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;I&amp;rsquo;ve set the system up to sync playlists to sync &lt;em&gt;nine&lt;/em&gt; of my playlists onto the iPod.  Here&amp;rsquo;s the list of playlists in the sidebar of the iTunes window.  I&amp;rsquo;ve filed them away in the &amp;ldquo;* iPod Management&amp;rdquo; folder.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://consequently.org/pictures/itunes/list_of_playlists.png&#34; alt=&#34;list of playlists&#34; /&gt;
-&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://consequently.org/pictures/itunes/list_of_playlists.png&#34; alt=&#34;list of playlists&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;It would be &lt;em&gt;way&lt;/em&gt; too much work to manage nine playlists each time I wanted to fill my iPod up with music, but this works, since all but one of the playlists is &lt;em&gt;&lt;a href=&#34;http://smartplaylists.com/&#34;&gt;smart&lt;/a&gt;&lt;/em&gt; (they&amp;rsquo;re the purple playlists, with gear on the icon).  iTunes updates the playlist and chooses music on the basis of criteria that you set up.  If I want to choose music to put on the iPod, it goes in the (you guessed it) &amp;ldquo;Choices&amp;rdquo; playlist.  I&amp;rsquo;ve named it with a reminder that I should put around 1GB on there.  (If I put any more on, my playlists will overfill my iPod, and iTunes will tell me that not everything will fit.)   It&amp;rsquo;s usually in the &amp;ldquo;Choices&amp;rdquo; playlist that I put entire albums that I&amp;rsquo;m listening to, or talks I&amp;rsquo;ve downloaded that I want to listen to, then file away or delete. This is pretty standard, I suppose.  It&amp;rsquo;s 1GB of my 2GB iPod: It&amp;rsquo;s a bit more than a half of its storage for sound, as I store a few photos (around 186 at the moment: my five star photos from my collection) and my calendar too.  This other stuff takes up a few megabytes.&lt;/p&gt;
 
@@ -3033,8 +2971,7 @@ sync the iPod.  This means that if I&amp;rsquo;m playing a track through iTunes 
 
 &lt;p&gt;So, that&amp;rsquo;s how tracks get on the iPod.  The &lt;em&gt;other&lt;/em&gt; playlists help me access these tracks.  Here&amp;rsquo;s how they fit together.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://consequently.org/pictures/itunes/playlist_chart.png&#34; alt=&#34;playlist chart&#34; /&gt;
-&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://consequently.org/pictures/itunes/playlist_chart.png&#34; alt=&#34;playlist chart&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;The &amp;ldquo;Everything&amp;rdquo; playlist contains everything on the five playlists I&amp;rsquo;ve mentioned.   (It&amp;rsquo;s a smart playlist just selecting the stuff on the other playlists.)  It&amp;rsquo;s there because I use it to construct my other playlists.  Two are simple.  &lt;em&gt;?Unrated&lt;/em&gt; selects tracks from &lt;em&gt;Everything&lt;/em&gt; that are yet to be rated.  &lt;em&gt;!Hits&lt;/em&gt; selects tracks from &lt;em&gt;Everything&lt;/em&gt; that are rated four or five stars.  Sometimes I want to listen to the 4- and 5-star tracks, chosen at random.  This is for when I want to enjoy some music and not particularly worry about &lt;em&gt;evaluating&lt;/em&gt; it.  Sometimes I want to evaluate things (I&amp;rsquo;m sitting in a tram and I want to rate some more of my music so that it&amp;rsquo;s in &amp;ldquo;the system&amp;rdquo;), so I use the &lt;em&gt;?Unrated&lt;/em&gt; playlist. (The punctuation marks &amp;ldquo;!&amp;rdquo; and &amp;ldquo;?&amp;rdquo; put these playlists at the top of the list in the iPod.)  Finally, when I&amp;rsquo;m working and I want to listen to music, most often I want music &lt;em&gt;without words&lt;/em&gt;, which would compete with the words I&amp;rsquo;m trying to write.  So, &lt;em&gt;Instrumental&lt;/em&gt; picks out tracks from &lt;em&gt;Everything&lt;/em&gt; that contain the string &amp;ldquo;Instrumental&amp;rdquo; in the comments field.  I&amp;rsquo;ve got around to tagging 50% of my music as &amp;ldquo;Vocal&amp;rdquo; or &amp;ldquo;Instrumental&amp;rdquo;, so this is not yet complete.  At the moment &amp;ldquo;Instrumental&amp;rdquo; on the iPod contains 500MB of music, chiefly &lt;a href=&#34;http://www.amazon.com/exec/obidos/redirect?link_code=ur2&amp;amp;tag=consequentlyorg&amp;amp;camp=1789&amp;amp;creative=9325&amp;amp;path=http%3A%2F%2Fwww.amazon.com%2Fgp%2Fproduct%2FB0000042HV%2Fqid%3D1139043132%2Fsr%3D1-1%2Fref%3Dsr_1_1%3Fs%3Dclassical%26v%3Dglance%26n%3D5174&#34;&gt;late Shostakovich String Quartets&lt;/a&gt;, some &lt;a href=&#34;http://www.amazon.com/exec/obidos/redirect?link_code=ur2&amp;amp;tag=consequentlyorg&amp;amp;camp=1789&amp;amp;creative=9325&amp;amp;path=http%3A%2F%2Fwww.amazon.com%2Fgp%2Fproduct%2FB00002EPJH%2F&#34;&gt;Keith Jarrett&lt;/a&gt; and &lt;a href=&#34;http://www.amazon.com/exec/obidos/redirect?link_code=ur2&amp;amp;tag=consequentlyorg&amp;amp;camp=1789&amp;amp;creative=9325&amp;amp;path=http%3A%2F%2Fwww.amazon.com%2Fgp%2Fproduct%2FB00006EXHT%2F&#34;&gt;Anouar Brahem&lt;/a&gt;, lasting more than 5 hours.&lt;/p&gt;
 
@@ -3242,7 +3179,7 @@ sync the iPod.  This means that if I&amp;rsquo;m playing a track through iTunes 
 
 &lt;p&gt;Other significant events on Iona included our group art project, for the Thursday night communion service and Friday morning leaving service, and our conceptual art &amp;ldquo;installations&amp;rdquo; on Thursday afternoon.  I&amp;rsquo;ll try to give you just a hint of what both activities involved.&lt;/p&gt;
 
-&lt;p&gt;On Wednesday, &lt;a href=&#34;http://www.stephenraw.com/&#34;&gt;Steve&lt;/a&gt; explained that we were going to make a large banner of words, and that we would each paint a single &lt;em&gt;letter&lt;/em&gt;.  We were given a colour pallette (green, red, brown, black, yellow), inspired by Africa, and we were choose a letter from a big list.  With some inspiration from lots of different examples of different fonts, we went off with a large rectangle of card, and ideas in our heads.  We didn&amp;rsquo;t know where our letter would feature in the banner, but we knew that it would be &lt;em&gt;somewhere&lt;/em&gt;.  I chose one of the five &lt;em&gt;R*s, and Christine chose one of the four *C*s.  After much conversation and experimentation with technique, we finished our letters.  Steve and others then shuffled them around and &lt;a href=&#34;http://consequently.org/phonecam/Assembling%20the%20banner,%20August%2025,%202005.jpg&#34;&gt;assembled them&lt;/a&gt; into a nine by six banner of fifty-four different paintings to make one large artwork.  It scrubs up pretty well.  Christine&amp;rsquo;s *C&lt;/em&gt; is great, with a wonderful watercolour effect in the background. I&amp;rsquo;m not particularly fond of my &lt;em&gt;R&lt;/em&gt; but I am happy with the experience of painting it (it&amp;rsquo;s been &lt;em&gt;years&lt;/em&gt; since I did so much with a brush and paint that wasn&amp;rsquo;t applied monochromatically to a wall or a ceiling).  I was most happy with the effect once it was &lt;a href=&#34;http://consequently.org/phonecam/The%20completed%20Banner,%20August%2025,%202005.jpg&#34;&gt;hung in the Abbey&lt;/a&gt;.  You have a different relationship to an artwork when you have contributed one small recognisable part to the whole, which I suppose, was one of the ideas behind doing it.&lt;/p&gt;
+&lt;p&gt;On Wednesday, &lt;a href=&#34;http://www.stephenraw.com/&#34;&gt;Steve&lt;/a&gt; explained that we were going to make a large banner of words, and that we would each paint a single &lt;em&gt;letter&lt;/em&gt;.  We were given a colour pallette (green, red, brown, black, yellow), inspired by Africa, and we were choose a letter from a big list.  With some inspiration from lots of different examples of different fonts, we went off with a large rectangle of card, and ideas in our heads.  We didn&amp;rsquo;t know where our letter would feature in the banner, but we knew that it would be &lt;em&gt;somewhere&lt;/em&gt;.  I chose one of the five *R*s, and Christine chose one of the four *C*s.  After much conversation and experimentation with technique, we finished our letters.  Steve and others then shuffled them around and &lt;a href=&#34;http://consequently.org/phonecam/Assembling%20the%20banner,%20August%2025,%202005.jpg&#34;&gt;assembled them&lt;/a&gt; into a nine by six banner of fifty-four different paintings to make one large artwork.  It scrubs up pretty well.  Christine&amp;rsquo;s &lt;em&gt;C&lt;/em&gt; is great, with a wonderful watercolour effect in the background. I&amp;rsquo;m not particularly fond of my &lt;em&gt;R&lt;/em&gt; but I am happy with the experience of painting it (it&amp;rsquo;s been &lt;em&gt;years&lt;/em&gt; since I did so much with a brush and paint that wasn&amp;rsquo;t applied monochromatically to a wall or a ceiling).  I was most happy with the effect once it was &lt;a href=&#34;http://consequently.org/phonecam/The%20completed%20Banner,%20August%2025,%202005.jpg&#34;&gt;hung in the Abbey&lt;/a&gt;.  You have a different relationship to an artwork when you have contributed one small recognisable part to the whole, which I suppose, was one of the ideas behind doing it.&lt;/p&gt;
 
 &lt;p&gt;Thursday&amp;rsquo;s artistic activity started at an odd place.  This time Christine didn&amp;rsquo;t take part because she went to the doctor with Zachary &amp;ndash; the doctor has a practice on Mull and she comes over to Iona once a week, on Thursday, for non-urgent consultations.  We were concerned because Zachary&amp;rsquo;s cut had bled the day before when we removed bandages.  It wasn&amp;rsquo;t too bad, but we wanted a doctor&amp;rsquo;s opinion.  The opinon was what we thought.  It was mildly infected and not healing as quickly as it should be, the steri-strips should be re-applied and the wound should be exposed to the air to dry out and heal.&lt;/p&gt;
 

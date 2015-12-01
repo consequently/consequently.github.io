@@ -30,17 +30,35 @@
     
  
     <item>
-      <title>Generality and Existence 3: Substitution and Identity</title>
-      <link>http://consequently.org/presentation/2015/generality-and-existence-3-arche/</link>
+      <title>Generality and Existence 4: Identity and Modality</title>
+      <link>http://consequently.org/presentation/2015/generality-and-existence-4-arche/</link>
       <pubDate>Thu, 03 Dec 2015 10:45:00 GMT</pubDate>
       
-      <guid>http://consequently.org/presentation/2015/generality-and-existence-3-arche/</guid>
-      <description>&lt;![CDATA[&lt;p&gt;I&amp;rsquo;m giving two talks, jointly entitled “Generality and Existence 3: Substitution and Identity” in the Arché Super Special Seminar and HPLM Seminar at the University of St Andrews.&lt;/p&gt;
+      <guid>http://consequently.org/presentation/2015/generality-and-existence-4-arche/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;I&amp;rsquo;m giving a talk, entitled “Generality and Existence 3: Identity and Modality” in the  HPLM Seminar at the University of St Andrews.&lt;/p&gt;
 
-&lt;p&gt;Abstract: In this talk, extend the proof system for quantified modal logic, with both subjunctive (metaphyisical) and indicative (epistemic) modalities, to include an identity predicate. Or rather, a &lt;em&gt;range&lt;/em&gt; of candidate identity predicates allowing for the substitution of a lesser or greater class of predications. I show that the resulting system is well-behaved proof theoretically (the Cut rule is eliminable) and the indentity predicates can be well motivated in terms of their defining rules. I end with a discussion of the implications for the ontology of &lt;em&gt;possibilia&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;Abstract: In this talk, extend the proof system for quantified modal logic, with both subjunctive (metaphyisical) and indicative (epistemic) modalities, to include an identity predicate. Or rather, a &lt;em&gt;range&lt;/em&gt; of candidate identity predicates allowing for the substitution of a lesser or greater class of predications. I show that the resulting system is well-behaved proof theoretically (the Cut rule is eliminable) and the identity predicates can be well motivated in terms of their defining rules. I end with a discussion of the implications for the ontology of &lt;em&gt;possibilia&lt;/em&gt;.&lt;/p&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;http://www.st-andrews.ac.uk/arche/&#34;&gt;Arché&lt;/a&gt; at the University of St Andrews.&lt;/li&gt;
+&lt;/ul&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>Generality and Existence 3: Substitution and Identity</title>
+      <link>http://consequently.org/presentation/2015/generality-and-existence-3-arche/</link>
+      <pubDate>Wed, 02 Dec 2015 16:00:00 GMT</pubDate>
+      
+      <guid>http://consequently.org/presentation/2015/generality-and-existence-3-arche/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;I&amp;rsquo;m giving a talk, entitled “Generality and Existence 3: Substitution and Identity” in the Arché Super Special Seminar at the University of St Andrews.&lt;/p&gt;
+
+&lt;p&gt;Abstract: In this talk, extend the proof system for free logic to include an identity predicate. Or rather, &lt;em&gt;two&lt;/em&gt; different candidate identity predicates allowing for the substitution of a lesser or greater class of predications. I show that the resulting system is well-behaved proof theoretically (the Cut rule is eliminable) and the identity predicates can be well motivated in terms of their defining rules.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.st-andrews.ac.uk/arche/&#34;&gt;Arché&lt;/a&gt; at the University of St Andrews.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://consequently.org/slides/generality-and-existence-3-slides-arche-2015.pdf&#34;&gt;Slides&lt;/a&gt;.&lt;/li&gt;
 &lt;/ul&gt;
 ]]></description>
     </item>
@@ -58,6 +76,7 @@
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;http://www.st-andrews.ac.uk/arche/&#34;&gt;Arché&lt;/a&gt; at the University of St Andrews.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://consequently.org/slides/generality-and-existence-2-slides-arche-2015.pdf&#34;&gt;Slides&lt;/a&gt;.&lt;/li&gt;
 &lt;/ul&gt;
 ]]></description>
     </item>

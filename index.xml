@@ -26,7 +26,7 @@
     <language>en-us</language>
     
     
-    <updated>Wed, 25 Nov 2015 14:47:28 GMT</updated>
+    <updated>Tue, 01 Dec 2015 23:30:06 GMT</updated>
 
 
 <item>
@@ -157,16 +157,32 @@
 </item>
     
 <item>
+<title>Generality and Existence 4: Identity and Modality</title>
+<link>http://consequently.org/presentation/2015/generality-and-existence-4-arche/</link>
+<pubDate>Tue, 01 Dec 2015 00:00:00 UTC</pubDate>
+<guid>http://consequently.org/presentation/2015/generality-and-existence-4-arche/</guid>
+<description>&lt;p&gt;I&amp;rsquo;m giving a talk, entitled “Generality and Existence 3: Identity and Modality” in the  HPLM Seminar at the University of St Andrews.&lt;/p&gt;
+
+&lt;p&gt;Abstract: In this talk, extend the proof system for quantified modal logic, with both subjunctive (metaphyisical) and indicative (epistemic) modalities, to include an identity predicate. Or rather, a &lt;em&gt;range&lt;/em&gt; of candidate identity predicates allowing for the substitution of a lesser or greater class of predications. I show that the resulting system is well-behaved proof theoretically (the Cut rule is eliminable) and the identity predicates can be well motivated in terms of their defining rules. I end with a discussion of the implications for the ontology of &lt;em&gt;possibilia&lt;/em&gt;.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.st-andrews.ac.uk/arche/&#34;&gt;Arché&lt;/a&gt; at the University of St Andrews.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+</item>
+    
+<item>
 <title>Generality and Existence 3: Substitution and Identity</title>
 <link>http://consequently.org/presentation/2015/generality-and-existence-3-arche/</link>
 <pubDate>Fri, 30 Oct 2015 00:00:00 UTC</pubDate>
 <guid>http://consequently.org/presentation/2015/generality-and-existence-3-arche/</guid>
-<description>&lt;p&gt;I&amp;rsquo;m giving two talks, jointly entitled “Generality and Existence 3: Substitution and Identity” in the Arché Super Special Seminar and HPLM Seminar at the University of St Andrews.&lt;/p&gt;
+<description>&lt;p&gt;I&amp;rsquo;m giving a talk, entitled “Generality and Existence 3: Substitution and Identity” in the Arché Super Special Seminar at the University of St Andrews.&lt;/p&gt;
 
-&lt;p&gt;Abstract: In this talk, extend the proof system for quantified modal logic, with both subjunctive (metaphyisical) and indicative (epistemic) modalities, to include an identity predicate. Or rather, a &lt;em&gt;range&lt;/em&gt; of candidate identity predicates allowing for the substitution of a lesser or greater class of predications. I show that the resulting system is well-behaved proof theoretically (the Cut rule is eliminable) and the indentity predicates can be well motivated in terms of their defining rules. I end with a discussion of the implications for the ontology of &lt;em&gt;possibilia&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;Abstract: In this talk, extend the proof system for free logic to include an identity predicate. Or rather, &lt;em&gt;two&lt;/em&gt; different candidate identity predicates allowing for the substitution of a lesser or greater class of predications. I show that the resulting system is well-behaved proof theoretically (the Cut rule is eliminable) and the identity predicates can be well motivated in terms of their defining rules.&lt;/p&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;http://www.st-andrews.ac.uk/arche/&#34;&gt;Arché&lt;/a&gt; at the University of St Andrews.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://consequently.org/slides/generality-and-existence-3-slides-arche-2015.pdf&#34;&gt;Slides&lt;/a&gt;.&lt;/li&gt;
 &lt;/ul&gt;
 </description>
 </item>
@@ -182,6 +198,7 @@
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;http://www.st-andrews.ac.uk/arche/&#34;&gt;Arché&lt;/a&gt; at the University of St Andrews.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://consequently.org/slides/generality-and-existence-2-slides-arche-2015.pdf&#34;&gt;Slides&lt;/a&gt;.&lt;/li&gt;
 &lt;/ul&gt;
 </description>
 </item>
@@ -236,16 +253,6 @@
 <pubDate>Thu, 29 Oct 2015 17:02:04 &#43;1100</pubDate>
 <guid>http://consequently.org/news/2015/logic-at-melbourne/</guid>
 <description>&lt;p&gt;I&amp;rsquo;ve been at the &lt;a href=&#34;http://unimelb.edu.au/&#34;&gt;University of Melbourne&lt;/a&gt; since 2002, and the &lt;em&gt;Logic Group&lt;/em&gt; has been meeting regularly since my arrival there. While it&amp;rsquo;s changed significantly in its &lt;a href=&#34;http://blogs.unimelb.edu.au/logic/people/&#34;&gt;membership over the last 13 years&lt;/a&gt;, one thing has remained constant—we&amp;rsquo;ve been an informal, friendly bunch of people, so hard at work in teaching and research that we&amp;rsquo;ve not had time to make a website for the group. Well, thanks to the hardworking &lt;a href=&#34;http://standefer.net&#34;&gt;Shawn Standefer&lt;/a&gt;, that&amp;rsquo;s changed. Point your browsers to &lt;a href=&#34;http://blogs.unimelb.edu.au/logic/&#34;&gt;http://blogs.unimelb.edu.au/logic/&lt;/a&gt; to keep up with &lt;em&gt;Logic at Melbourne&lt;/em&gt;.&lt;/p&gt;
-</description>
-</item>
-    
-<item>
-<title>Three Cultures—or: what place for logic in the humanities?</title>
-<link>http://consequently.org/writing/three-cultures/</link>
-<pubDate>Fri, 29 Oct 2010 00:00:00 UTC</pubDate>
-<guid>http://consequently.org/writing/three-cultures/</guid>
-<description>&lt;p&gt;Logic has been an important part of philosophy since the work of Aristotle in the 4th Century BCE. Developments of the 19th and the 20th Century saw an incredible flowering of mathematical techniques in logic, and the discipline transformed beyond recognition into something that can seem forbiddingly technical and formal. The discipline of logic plays a vital role in mathematics, linguistics, computer science and electrical engineering, and it may seem that it no longer has a place within the humanities.
-In this essay, I show why this perception is misplaced and dangerous, and that in a time of increasing specialisation and differentiation between the cultures of the humanities, the sciences, and of engineering, logic not only has much to give to the humanities, it also has much to learn.&lt;/p&gt;
 </description>
 </item>
     
@@ -309,15 +316,6 @@ then I&amp;rsquo;ve “pinned down” what there is to know about the conjunctio
 {}^{\langle x\rangle}\sem{(x=a)\land(x=b)}
 \]
 are non-trivial, since neither of them are logically equivalent to the inconsistent concept \({}^{\langle x\rangle}\sem{\bot}\), and it&amp;rsquo;s an open question as to which one of them is satisfied by the object \(a\). If \(a\) and \(b\) are rigid designators, then on the orthodox Kripkean line, one of these concepts is necessarily false, but they need not be &lt;em&gt;analytically&lt;/em&gt; false or &lt;em&gt;known&lt;/em&gt; to be false. If we allow for concept identity to be more finely grained than simple agreement of extension in all possible worlds, and if we allow for modalities stronger than necessity (say, &lt;a href=&#34;http://consequently.org/writing/cfss2dml&#34;&gt;analyticity, or a priori knowability&lt;/a&gt;) then it seems that Cian&amp;rsquo;s argument applies equally well to them, too. It&amp;rsquo;s one thing to be a &lt;em&gt;necessitist&lt;/em&gt; about objects, and think that the same objects exist in all possible worlds. Do we also want to also take the objects to persist across all epistemic scenarios, whether possible or impossible?&lt;/p&gt;
-</description>
-</item>
-    
-<item>
-<title>Generality and Existence I: Quantification and Free Logic</title>
-<link>http://consequently.org/writing/generality-and-existence-1/</link>
-<pubDate>Thu, 14 Oct 2010 00:00:00 UTC</pubDate>
-<guid>http://consequently.org/writing/generality-and-existence-1/</guid>
-<description>&lt;p&gt;In this paper, I motivate a cut free sequent calculus for classical logic with first order quantification, allowing for singular terms free of existential import. Along the way, I motivate a criterion for rules designed to answer Prior&amp;rsquo;s question about what distinguishes rules for logical concepts, like &amp;lsquo;conjunction&amp;rsquo; from apparently similar rules for putative concepts like &amp;lsquo;tonk&amp;rsquo;, and I show that the rules for the quantifiers&amp;mdash;and the existence predicate&amp;mdash;satisfy that condition.&lt;/p&gt;
 </description>
 </item>
     
@@ -573,17 +571,6 @@ So there are at least 2 different ways to take a Kripke model for intuitionistic
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;http://consequently.org/slides/mvd-logical-constants.pdf&#34;&gt;Slides&lt;/a&gt; for the seminar presentation.&lt;/li&gt;
 &lt;/ul&gt;
-</description>
-</item>
-    
-<item>
-<title>Assertion, Denial, Accepting, Rejecting, Symmetry and Paradox</title>
-<link>http://consequently.org/writing/assertiondenialparadox/</link>
-<pubDate>Sun, 01 Feb 2015 00:00:00 UTC</pubDate>
-<guid>http://consequently.org/writing/assertiondenialparadox/</guid>
-<description>&lt;p&gt;Proponents of a dialethic or &amp;ldquo;truth-value glut&amp;rdquo; response to the paradoxes of self-reference argue that &amp;ldquo;truth-value gap&amp;rdquo; analyses of the paradoxes fall foul of the extended liar paradox: &amp;ldquo;this sentence is not true.&amp;rdquo; If we pay attention to the role of assertion and denial and the behaviour of negation in both &amp;ldquo;gap&amp;rdquo; and &amp;ldquo;glut&amp;rdquo; analyses, we see that the situation with these approaches has a pleasing symmetry: gap approaches take some denials to not be expressible by negation, and glut approaches take some negations to not express denials. But in the light of this symmetry, considerations against a gap view point to parallel considerations against a glut view. Those who find some reason to prefer one view over another (and this is almost everyone) must find some reason to break this symmetry.&lt;/p&gt;
-
-&lt;p&gt;This short paper was written for presentation at &lt;a href=&#34;http://www.philosophy.unimelb.edu.au/aap2004&#34;&gt;AAP2004&lt;/a&gt;. After very many revisions, it&amp;rsquo;s finally going to be published in an edited collection from members and friends of the &lt;a href=&#34;http://www.st-andrews.ac.uk/arche/projects/logic/&#34;&gt;Arché project on Foundations of Logical Consequence&lt;/a&gt;.&lt;/p&gt;
 </description>
 </item>
     
@@ -1103,6 +1090,24 @@ p\land\neg p\vdash
 <description>&lt;p&gt;A seminar at the University of Melbourne Logic Group.&lt;/p&gt;
 
 &lt;p&gt;I sketch some of the features of models of na&amp;iuml;ve theories of properties or classes defined by finding a space C that is isomorphic to the class of continuous functions [C &amp;cup; D &amp;rarr; &amp;Omega;].&lt;/p&gt;
+</description>
+</item>
+    
+<item>
+<title>Ludwig Wittgenstein&amp;rsquo;s Tractatus Logico-Philosophicus</title>
+<link>http://consequently.org/presentation/2014/tractatus-masterclass/</link>
+<pubDate>Sat, 31 Jan 2015 00:00:00 UTC</pubDate>
+<guid>http://consequently.org/presentation/2014/tractatus-masterclass/</guid>
+<description>&lt;p&gt;I gave a masterclass on Ludwig Wittegenstein&amp;rsquo;s &lt;em&gt;Tractatus Logico-Philosophicus&lt;/em&gt; in the University of Melbourne&amp;rsquo;s 10 Great Books Masterclass in 2014.&lt;/p&gt;
+</description>
+</item>
+    
+<item>
+<title>Pluralism and Proofs</title>
+<link>http://consequently.org/writing/pluralism-and-proofs/</link>
+<pubDate>Sun, 03 Aug 2014 00:00:00 UTC</pubDate>
+<guid>http://consequently.org/writing/pluralism-and-proofs/</guid>
+<description>&lt;p&gt;Beall and Restall&amp;rsquo;s &lt;em&gt;Logical Pluralism&lt;/em&gt; (2006) characterises pluralism about logical consequence in terms of the different ways cases can be selected in the analysis of logical consequence as preservation of truth over a class of cases. This is not the only way to understand or to motivate pluralism about logical consequence. Here, I will examine pluralism about logical consequence in terms of different standards of proof. We will focus on sequent derivations for classical logic, imposing two different restrictions on classical derivations to produce derivations focusr intuitionistic logic and for dual intuitionistic logic. The result is another way to understand the manner in which we can have different consequence relations in the same language. Furthermore, the proof-theoretic perspective gives us a different explanation of how the one concept of negation can have three different truth conditions, those in classical, intuitionistic and dual-intuitionistic models.&lt;/p&gt;
 </description>
 </item>
     
