@@ -26,13 +26,31 @@
     <language>en-us</language>
     
     
-    <updated>Thu, 03 Dec 2015 10:45:00 GMT</updated>
+    <updated>Fri, 11 Dec 2015 14:00:00 AEDT</updated>
+    
+ 
+    <item>
+      <title>Generality and Existence 3: Substitution and Identity</title>
+      <link>http://consequently.org/presentation/2015/generality-and-existence-3-melbourne-logic-workshop/</link>
+      <pubDate>Fri, 11 Dec 2015 14:00:00 AEDT</pubDate>
+      
+      <guid>http://consequently.org/presentation/2015/generality-and-existence-3-melbourne-logic-workshop/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;I am giving a talk, entitled &amp;ldquo;Generality and Existence 3: Substitution and Identity&amp;rdquo; in the &lt;a href=&#34;http://blogs.unimelb.edu.au/logic/2015/12/02/logic-workshop-2015/&#34;&gt;Melbourne Logic Workshop 2015&lt;/a&gt; at the &lt;a href=&#34;http://blogs.unimelb.edu.au/logic/2015/12/02/logic-workshop-2015/&#34;&gt;Melbourne Logic Group&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Abstract: In this talk, extend a sequent proof system for free logic to include an identity predicate. Or rather, &lt;em&gt;two&lt;/em&gt; different candidate identity predicates allowing for the substitution of a lesser or greater class of predications. I show that the resulting system is well-behaved proof theoretically (the Cut rule is admissible) and the identity predicates can be well motivated in terms of their defining rules.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://blogs.unimelb.edu.au/logic/2015/12/02/logic-workshop-2015/&#34;&gt;Workshop Program&lt;/a&gt; at the Melbourne Logic Group.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://consequently.org/slides/generality-and-existence-3-slides-logic-workshop-2015.pdf&#34;&gt;Slides&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+]]></description>
+    </item>
     
  
     <item>
       <title>Generality and Existence 4: Identity and Modality</title>
       <link>http://consequently.org/presentation/2015/generality-and-existence-4-arche/</link>
-      <pubDate>Thu, 03 Dec 2015 10:45:00 GMT</pubDate>
+      <pubDate>Thu, 03 Dec 2015 10:45:00 &#43;0000</pubDate>
       
       <guid>http://consequently.org/presentation/2015/generality-and-existence-4-arche/</guid>
       <description>&lt;![CDATA[&lt;p&gt;I&amp;rsquo;m giving a talk, entitled “Generality and Existence 4: Identity and Modality” in the HPLM Seminar at the University of St Andrews.&lt;/p&gt;
@@ -50,10 +68,10 @@
     <item>
       <title>Generality and Existence 3: Substitution and Identity</title>
       <link>http://consequently.org/presentation/2015/generality-and-existence-3-arche/</link>
-      <pubDate>Wed, 02 Dec 2015 16:00:00 GMT</pubDate>
+      <pubDate>Wed, 02 Dec 2015 16:00:00 &#43;0000</pubDate>
       
       <guid>http://consequently.org/presentation/2015/generality-and-existence-3-arche/</guid>
-      <description>&lt;![CDATA[&lt;p&gt;I&amp;rsquo;m giving a talk, entitled “Generality and Existence 3: Substitution and Identity” in the Arché Super Special Seminar at the University of St Andrews.&lt;/p&gt;
+      <description>&lt;![CDATA[&lt;p&gt;I gave a talk, entitled “Generality and Existence 3: Substitution and Identity” in the Arché Super Special Seminar at the University of St Andrews.&lt;/p&gt;
 
 &lt;p&gt;Abstract: In this talk, extend the proof system for free logic to include an identity predicate. Or rather, &lt;em&gt;two&lt;/em&gt; different candidate identity predicates allowing for the substitution of a lesser or greater class of predications. I show that the resulting system is well-behaved proof theoretically (the Cut rule is eliminable) and the identity predicates can be well motivated in terms of their defining rules.&lt;/p&gt;
 
@@ -68,7 +86,7 @@
     <item>
       <title>Generality and Existence 2: Modality and Quantifiers</title>
       <link>http://consequently.org/presentation/2015/generality-and-existence-2-arche/</link>
-      <pubDate>Wed, 02 Dec 2015 10:00:00 GMT</pubDate>
+      <pubDate>Wed, 02 Dec 2015 10:00:00 &#43;0000</pubDate>
       
       <guid>http://consequently.org/presentation/2015/generality-and-existence-2-arche/</guid>
       <description>&lt;![CDATA[&lt;p&gt;I&amp;rsquo;m giving a talk, entitled “Generality and Existence 2: Modality and Quantifiers” in the Arché Logic Group Seminar at the University of St Andrews.&lt;/p&gt;
@@ -86,7 +104,7 @@
     <item>
       <title>Generality and Existence 1: Quantification and Free Logic</title>
       <link>http://consequently.org/presentation/2015/generality-and-existence-1-arche/</link>
-      <pubDate>Wed, 25 Nov 2015 09:15:00 GMT</pubDate>
+      <pubDate>Wed, 25 Nov 2015 09:15:00 &#43;0000</pubDate>
       
       <guid>http://consequently.org/presentation/2015/generality-and-existence-1-arche/</guid>
       <description>&lt;![CDATA[&lt;p&gt;I&amp;rsquo;m giving a talk, entitled “Generality and Existence 1: Quantification and Free Logic” at a &lt;a href=&#34;http://www.st-andrews.ac.uk/arche/events/event?id=917&#34;&gt;Workshop on Inferentialism&lt;/a&gt;, hosted by &lt;a href=&#34;http://www.st-andrews.ac.uk/arche/&#34;&gt;Arché&lt;/a&gt; at the University of St Andrews.&lt;/p&gt;
@@ -105,7 +123,7 @@
     <item>
       <title>Fixed Point Models for Theories of Properties and Classes</title>
       <link>http://consequently.org/presentation/2015/fixed-point-models-clmps-2015/</link>
-      <pubDate>Wed, 05 Aug 2015 11:00:00 BST</pubDate>
+      <pubDate>Wed, 05 Aug 2015 11:00:00 &#43;0100</pubDate>
       
       <guid>http://consequently.org/presentation/2015/fixed-point-models-clmps-2015/</guid>
       <description>&lt;![CDATA[&lt;p&gt;I&amp;rsquo;m giving a talk entitled “Fixed Point Models for Theories of Properties and Classes” at the first 2015 meeting of the &lt;a href=&#34;http://clmps.helsinki.fi&#34;&gt;15th Congress on Logic, Methodology, and Philosophy of Science&lt;/a&gt;, in Helsinki.&lt;/p&gt;
@@ -224,7 +242,7 @@
     <item>
       <title>Incarnation and Detachment: Philosophy, Prayer, and Taking Positions</title>
       <link>http://consequently.org/presentation/2015/csn-incarnation-and-detachment/</link>
-      <pubDate>Tue, 24 Mar 2015 19:00:00 &#43;1100</pubDate>
+      <pubDate>Tue, 24 Mar 2015 19:00:00 AEDT</pubDate>
       
       <guid>http://consequently.org/presentation/2015/csn-incarnation-and-detachment/</guid>
       <description>&lt;![CDATA[&lt;p&gt;I&amp;rsquo;m giving a talk entitled “Incarnation and Detachment: Philosophy, Prayer, and Taking Positions” at the first 2015 meeting of the &lt;a href=&#34;http://christianscholarsnetwork.tumblr.com&#34;&gt;Christian Scholars Network&lt;/a&gt;. (We&amp;rsquo;ll meet at the &lt;a href=&#34;http://www.thedan.com.au&#34;&gt;Dan O&amp;rsquo;Connell Pub&lt;/a&gt; at 7pm on Tuesday March 24. Come early to share dinner before the talk and discussion.)&lt;/p&gt;
@@ -239,7 +257,7 @@
     <item>
       <title>Contingent Existence and Modal Definedness</title>
       <link>http://consequently.org/presentation/2015/cemd-anu/</link>
-      <pubDate>Thu, 26 Feb 2015 16:00:00 &#43;1100</pubDate>
+      <pubDate>Thu, 26 Feb 2015 16:00:00 AEDT</pubDate>
       
       <guid>http://consequently.org/presentation/2015/cemd-anu/</guid>
       <description>&lt;![CDATA[&lt;p&gt;A seminar for the &lt;a href=&#34;http://philrsss.anu.edu.au/regular-seminars&#34;&gt;ANU School of Philosophy&lt;/a&gt;. I will discuss Tim Williamson&amp;rsquo;s arguments for the non-contingency of existence (see his &lt;em&gt;&lt;a href=&#34;http://ukcatalogue.oup.com/product/9780199552078.do&#34;&gt;Modal Logic as Metaphysics&lt;/a&gt;&lt;/em&gt;, 2013) and explain how and why they might be reasonably resisted. Along the way, I&amp;rsquo;ll try to explain the impact of proof theory for theories of meaning and for metaphysics.&lt;/p&gt;
@@ -256,7 +274,7 @@
     <item>
       <title>Ternary Relations and Models for Relevant Arithmetics</title>
       <link>http://consequently.org/presentation/2014/trmra-asubl5/</link>
-      <pubDate>Mon, 15 Dec 2014 09:00:00 &#43;1100</pubDate>
+      <pubDate>Mon, 15 Dec 2014 09:00:00 AEDT</pubDate>
       
       <guid>http://consequently.org/presentation/2014/trmra-asubl5/</guid>
       <description>&lt;![CDATA[&lt;p&gt;A seminar at the workshop &lt;em&gt;&lt;a href=&#34;https://sites.google.com/a/ltumathstats.com/asubl5&#34;&gt;Algebra and Substructural Logic 5&lt;/a&gt;&lt;/em&gt; (La Trobe, December 2015).&lt;/p&gt;
