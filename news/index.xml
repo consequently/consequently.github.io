@@ -45,6 +45,11 @@
 
 &lt;p&gt;Much of Priest&amp;rsquo;s work in paraconsistent logic uses the relatively traditional, monotonic logic \(LP\) rather than the stronger nonmonotonic \(LPm\). This gives rise to the concern that some theories might be trivial when viewed through the lens of \(LPm\) which are non-trivial under the guise of \(LP\). Priest proves (2006, page 226) that Reassurance indeed holds for \(LPm\).&lt;/p&gt;
 
+&lt;figure&gt;
+    &lt;img src=&#34;http://consequently.org/images/priest_hells.jpg&#34; alt=&#34;Graham Priest&#34;&gt;
+    &lt;figcaption&gt;Graham Priest&lt;/figcaption&gt;
+&lt;/figure&gt;
+
 &lt;p&gt;In a recent paper, Beall (2012) argues that Reassurance is not enough, but that we want what he calls &lt;em&gt;General Reassurance&lt;/em&gt;: if the \(LP\) consequences of some set of premises are true, so are the \(LPm\) consequences of that set. In reply to Beall, Priest (2012) argues that General Reassurance is too much to ask of \(LPm\) of or any nonmonotonic logic. He writes (2012, page 740)&lt;/p&gt;
 
 &lt;blockquote&gt;
