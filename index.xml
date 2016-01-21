@@ -26,7 +26,7 @@
     <language>en-us</language>
     
     
-    <updated>Fri, 22 Jan 2016 00:58:52 AEDT</updated>
+    <updated>Fri, 22 Jan 2016 01:03:13 AEDT</updated>
 
 
 <item>
@@ -163,7 +163,7 @@
 <guid>http://consequently.org/news/2016/just-how-reassured/</guid>
 <description>
 
-&lt;p&gt;Thanks to a recent visit from &lt;a href=&#34;http://entailments.net&#34;&gt;Jc Beall&lt;/a&gt;, I was reminded of a critical discussion between Jc and our colleague and friend &lt;a href=&#34;http://grahampriest.net&#34;&gt;Graham Priest&lt;/a&gt; in the pages of &lt;a href=&#34;http://analysis.oxfordjournals.org&#34;&gt;Analysis&lt;/a&gt;. Jc was puzzled by a claim that Graham made &lt;a href=&#34;http://analysis.oxfordjournals.org/content/72/4/739.extract&#34;&gt;in his reply&lt;/a&gt; to &lt;a href=&#34;http://analysis.oxfordjournals.org/content/72/3/517.abstract&#34;&gt;Jc&amp;rsquo;s paper&lt;/a&gt;, concerning nonmonotonic consequence relations and failures of truth preservation. here I&amp;rsquo;ll explain the disagreement between Jc and Graham, and why Graham&amp;rsquo;s claim (that all nonmonotonic logics fail to preserve truth) is wrong.&lt;/p&gt;
+&lt;p&gt;Thanks to a recent visit from &lt;a href=&#34;http://entailments.net&#34;&gt;Jc Beall&lt;/a&gt;, I was reminded of a critical discussion between Jc and our colleague and friend &lt;a href=&#34;http://grahampriest.net&#34;&gt;Graham Priest&lt;/a&gt; in the pages of &lt;a href=&#34;http://analysis.oxfordjournals.org&#34;&gt;Analysis&lt;/a&gt;. Jc was puzzled by a claim that Graham made &lt;a href=&#34;http://analysis.oxfordjournals.org/content/72/4/739.extract&#34;&gt;in his reply&lt;/a&gt; to &lt;a href=&#34;http://analysis.oxfordjournals.org/content/72/3/517.abstract&#34;&gt;Jc&amp;rsquo;s paper&lt;/a&gt;, concerning nonmonotonic consequence relations and failures of truth preservation. Here, I&amp;rsquo;ll explain the disagreement between Jc and Graham, and why Graham&amp;rsquo;s claim (that all nonmonotonic logics fail to preserve truth) is wrong.&lt;/p&gt;
 
 &lt;p&gt;Non-classical logics aren&amp;rsquo;t &lt;em&gt;classical&lt;/em&gt;. Sometimes this fact seems like a feature: paraconsistent logics like Priest&amp;rsquo;s \(LP\) reject disjunctive syllogism and &lt;em&gt;ex contradictione quodlibet&lt;/em&gt; and so, they give us new and fruitful ways to deal with semantic paradoxes. However, sometimes this fact seems like a bug: there are times we want to endorse those particular steps of reasoning, not reject them. Priest&amp;rsquo;s favoured way out of this tension is to adopt a nonmonotonic logic, \(LPm\), according to which the inference of disjunctive syllogism from \(p\lor q\) and \(\neg p\) to \(q\) is valid, but it becomes invalid when we add the extra premise, such as \(p\land\neg p\), to the effect that \(p\) is a true contradiction.&lt;/p&gt;
 
