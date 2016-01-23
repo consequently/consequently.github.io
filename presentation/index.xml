@@ -26,7 +26,24 @@
     <language>en-us</language>
     
     
-    <updated>Fri, 11 Dec 2015 14:00:00 AEDT</updated>
+    <updated>Tue, 26 Jan 2016 13:38:19 AEDT</updated>
+    
+ 
+    <item>
+      <title>Fixed Point Models for Theories of Properties and Classes</title>
+      <link>http://consequently.org/presentation/2016/fixed-point-models-fnclmp-2016/</link>
+      <pubDate>Tue, 26 Jan 2016 13:38:19 AEDT</pubDate>
+      
+      <guid>http://consequently.org/presentation/2016/fixed-point-models-fnclmp-2016/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;I&amp;rsquo;m giving a talk entitled “Fixed Point Models for Theories of Properties and Classes” at the &lt;a href=&#34;https://sites.google.com/site/fnclmp/home&#34;&gt;Frontiers of Non-Classicality&lt;/a&gt; conference at the University of Auckland.&lt;/p&gt;
+
+&lt;p&gt;Abstract: There is a vibrant (but minority) community among philosophical logicians seeking to resolve the paradoxes of classes, properties and truth by way of adopting some non-classical logic in which trivialising paradoxical arguments are not valid. There is also a long tradition in theoretical computer science—going back to Dana Scott&amp;rsquo;s fixed point model of the lambda calculus—of constructions allowing for various fixed points. In this talk, I will bring these traditions closer together, to show how these model constructions can shed light on what we could hope for in a non-trivial model of a theory for classes, properties or truth featuring fixed points.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;The &lt;a href=&#34;http://consequently.org/slides/fixed-point-models-fnclmp-2016.pdf&#34;&gt;slides are available here&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+]]></description>
+    </item>
     
  
     <item>

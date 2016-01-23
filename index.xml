@@ -26,7 +26,7 @@
     <language>en-us</language>
     
     
-    <updated>Fri, 22 Jan 2016 01:18:46 AEDT</updated>
+    <updated>Sat, 23 Jan 2016 13:42:49 AEDT</updated>
 
 
 <item>
@@ -153,6 +153,21 @@
 <description>&lt;p&gt;&lt;strong&gt;&lt;span class=&#34;caps&#34;&gt;UNIB10002&lt;/span&gt;: Logic, Language and Information&lt;/strong&gt; is a &lt;a href=&#34;http://unimelb.edu.au&#34;&gt;University of Melbourne&lt;/a&gt; undergraduate breadth subject, introducing logic and its applications to students from a broad range of disciplines in the Arts, Sciences and Engineering. I coordinate this subject with my colleagues Dr. Shawn Standefer and Dr. Jen Davoren, with help from Prof Lesley Stirling and Dr. Peter Schachte.&lt;/p&gt;
 
 &lt;p&gt;The subject is taught to University of Melbourne undergraduate students. Details for enrolment are &lt;a href=&#34;https://handbook.unimelb.edu.au/view/2014/UNIB10002&#34;&gt;here&lt;/a&gt;. We teach this in a &amp;lsquo;flipped classroom&amp;rsquo; model, using resources from our Coursera subjects &lt;a href=&#34;http://consequently.org/class/2015/logic1_coursera&#34;&gt;Logic 1&lt;/a&gt; and &lt;a href=&#34;http://consequently.org/class/2015/logic2_coursera&#34;&gt;Logic 2&lt;/a&gt;.&lt;/p&gt;
+</description>
+</item>
+    
+<item>
+<title>Fixed Point Models for Theories of Properties and Classes</title>
+<link>http://consequently.org/presentation/2016/fixed-point-models-fnclmp-2016/</link>
+<pubDate>Sat, 23 Jan 2016 00:00:00 UTC</pubDate>
+<guid>http://consequently.org/presentation/2016/fixed-point-models-fnclmp-2016/</guid>
+<description>&lt;p&gt;I&amp;rsquo;m giving a talk entitled “Fixed Point Models for Theories of Properties and Classes” at the &lt;a href=&#34;https://sites.google.com/site/fnclmp/home&#34;&gt;Frontiers of Non-Classicality&lt;/a&gt; conference at the University of Auckland.&lt;/p&gt;
+
+&lt;p&gt;Abstract: There is a vibrant (but minority) community among philosophical logicians seeking to resolve the paradoxes of classes, properties and truth by way of adopting some non-classical logic in which trivialising paradoxical arguments are not valid. There is also a long tradition in theoretical computer science—going back to Dana Scott&amp;rsquo;s fixed point model of the lambda calculus—of constructions allowing for various fixed points. In this talk, I will bring these traditions closer together, to show how these model constructions can shed light on what we could hope for in a non-trivial model of a theory for classes, properties or truth featuring fixed points.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;The &lt;a href=&#34;http://consequently.org/slides/fixed-point-models-fnclmp-2016.pdf&#34;&gt;slides are available here&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
 </description>
 </item>
     
@@ -1172,17 +1187,6 @@ p\land\neg p\vdash
 &lt;p&gt;Let&amp;rsquo;s end with the &lt;em&gt;how&lt;/em&gt;. The short answer is what you see in the footer of the website (as I write this). &lt;a href=&#34;http://gohugo.io&#34;&gt;Hugo&lt;/a&gt; is the CMS that wires things together into the website. It&amp;rsquo;s fast, relatively straightforward to learn if you&amp;rsquo;re used to command-line tools, and can it cope with the not-completely-straightforward taxonomy of my site. Hugo seems to be under active development by its founder &lt;a href=&#34;https://twitter.com/spf13/&#34;&gt;Steve Francia&lt;/a&gt; together with an active &lt;a href=&#34;http://discuss.gohugo.io&#34;&gt;community&lt;/a&gt; of users and developers. It looks like it&amp;rsquo;ll be around for a while.&lt;/p&gt;
 
 &lt;p&gt;I hand-coded the HTML (designing it to be &lt;em&gt;relatively&lt;/em&gt; friendly for small-screen devices) using the &lt;a href=&#34;http://imperavi.com/kube/&#34;&gt;Kube Web Framework&lt;/a&gt; from &lt;a href=&#34;http://imperavi.com&#34;&gt;Imperavi&lt;/a&gt;. (Please let me know if you see any website design bugs.) The main body and header font is &lt;a href=&#34;http://www.google.com/fonts/specimen/Alegreya&#34;&gt;Alegreya&lt;/a&gt;, a gorgeous font designed by &lt;a href=&#34;https://twitter.com/juandelperal&#34;&gt;Juan Pablo del Peral&lt;/a&gt; for the Argentinian Type Foundry &lt;a href=&#34;http://www.huertatipografica.com&#34;&gt;Huerta Tipogr&amp;aacute;fica&lt;/a&gt;. It&amp;rsquo;s hosted on &lt;a href=&#34;http://www.google.com/fonts/specimen/Alegreya&#34;&gt;Google Fonts&lt;/a&gt;. Apply liberal doses of &lt;a href=&#34;http://marketlane.com.au&#34;&gt;caffeine&lt;/a&gt; and &lt;a href=&#34;http://cockburnproject.net&#34;&gt;Bruce Cockburn&lt;/a&gt;, a few late nights&amp;rsquo; worth of coding, and you get the website you have before you. I hope you like it. Please get back to me, by &lt;a href=&#34;http://twitter.com/consequently&#34;&gt;replying to @consequently&lt;/a&gt; on Twitter, or by email, if you have any feedback.&lt;/p&gt;
-</description>
-</item>
-    
-<item>
-<title>Ternary Relations and Models for Relevant Arithmetics</title>
-<link>http://consequently.org/presentation/2014/trmra-asubl5/</link>
-<pubDate>Sat, 31 Jan 2015 00:00:00 UTC</pubDate>
-<guid>http://consequently.org/presentation/2014/trmra-asubl5/</guid>
-<description>&lt;p&gt;A seminar at the workshop &lt;em&gt;&lt;a href=&#34;https://sites.google.com/a/ltumathstats.com/asubl5&#34;&gt;Algebra and Substructural Logic 5&lt;/a&gt;&lt;/em&gt; (La Trobe, December 2015).&lt;/p&gt;
-
-&lt;p&gt;I explain how the `trace model&amp;rsquo; for relevant arithmetic (introduced &lt;a href=&#34;http://consequently.org/writing/mfsa/&#34;&gt;here&lt;/a&gt;) can be extended quite naturally to model a logic including a de Morgan negation. The result is not a model for the logic &lt;strong&gt;R&lt;/strong&gt;, but for its weaker cousin, &lt;strong&gt;TW&lt;/strong&gt;.&lt;/p&gt;
 </description>
 </item>
     
