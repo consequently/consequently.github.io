@@ -26,7 +26,7 @@
     <language>en-us</language>
     
     
-    <updated>Wed, 03 Feb 2016 14:04:49 AEDT</updated>
+    <updated>Wed, 03 Feb 2016 14:07:59 AEDT</updated>
 
 
 <item>
@@ -255,7 +255,7 @@
 &lt;p&gt;Here is one possible connection. Suppose the consequence relation \(\vDash^* \) satisfies the following conditions:&lt;/p&gt;
 
 &lt;ol&gt;
-&lt;li&gt;\(\vDash^&lt;em&gt;\) invalid arguments are witnessed by models. If \(\Sigma\not\vDash^&lt;/em&gt; A\) then there is some \(m\) where each statement in \(\Sigma\) holds in \(m\) but \(A\) does not hold in \(m\).&lt;/li&gt;
+&lt;li&gt;\(\vDash^* \) invalid arguments are witnessed by models. If \(\Sigma\not\vDash^* A\) then there is some \(m\) where each statement in \(\Sigma\) holds in \(m\) but \(A\) does not hold in \(m\).&lt;/li&gt;
 &lt;li&gt;The models \(m\) used in (1) are all &lt;em&gt;possibilities&lt;/em&gt;. If \(m\) is a model, and \(A\) is true in \(m\) then \(A\) is &lt;em&gt;possible&lt;/em&gt;.&lt;/li&gt;
 &lt;li&gt;\(\vDash^*\)-validity is not world-relative. If an argument is valid, then had things been otherwise, it still would have been valid.&lt;/li&gt;
 &lt;/ol&gt;
