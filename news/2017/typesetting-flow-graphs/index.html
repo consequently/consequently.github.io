@@ -73,8 +73,15 @@
 <figure>
     <img src="/images/flowgraph.jpg" alt="a flow graph on a natural deduction proof">
     <figcaption>A flow graph on a natural deduction proof.</figcaption>
-</figure>
-Thankfully, the tools to typset flow graphs are readily available, at least if you use <a href="http://tug.org">LaTeX</a>. I&rsquo;ve written up a little document explaining how to do this, and the document and source are now <a href="https://github.com/consequently/flowgraphs">available on Github</a> for you to use as you see fit. If you&rsquo;ve got any questions, feedback or recommendations for how to extend the technique, please don&rsquo;t hesitate to get in touch.</p>
+</figure></p>
+
+<p>They&rsquo;re not easy to typset, because they&rsquo;re an overlay over a proof. The arrows indicate the flow of information inside a proof.</p>
+
+<p>As an aside, I love the flow graph on this natural deduction proof because the &ldquo;action at a distance&rdquo; nature of the disjunction elimination step is called out by those two sweeping blue and green arcs&mdash;the \(q\) and \(r\) assumptions are discharged by the appeal to the disjunctive conclusion \(q\lor r\). These are the only non-local informational connections in the proof. Each other arc in the flow graph is local, from a premise to a conclusion.</p>
+
+<p>Now, typesetting these things is not straightforward, because the locations of the arrows are defined by typesetting the underlying proof (here, the black text) and the coloured arcs are typeset on top. How do you do that? And how do you do that in an algorithmic and structural way, focussing on the structure and not hand positioning each of the lines?</p>
+
+<p>Thankfully, the tools to typset flow graphs are readily available, at least if you use <a href="http://tug.org">LaTeX</a>. I&rsquo;ve written up a little document explaining how to do this, and the document and source are now <a href="https://github.com/consequently/flowgraphs">available on Github</a> for you to use as you see fit. If you&rsquo;ve got any questions, feedback or recommendations for how to extend the technique, please don&rsquo;t hesitate to get in touch.</p>
 
 <p>I hope it&rsquo;s helpful.</p>
 
