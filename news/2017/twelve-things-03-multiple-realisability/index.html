@@ -4,9 +4,9 @@
     <link href="http://gmpg.org/xfn/11" rel="profile">
     <meta http-equiv="content-type" content="text/html; charset=utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
-	<title>Abstraction (the second of twelve things I love about philosophical logic)</title>
+	<title>Multiple Realisability (the third of twelve things I love about philosophical logic)</title>
 	
-	<link rel="amphtml" href="https://mercury.postlight.com/amp?url=http%3a%2f%2fconsequently.org%2fnews%2f2017%2ftwelve-things-02-abstraction%2f">
+	<link rel="amphtml" href="https://mercury.postlight.com/amp?url=http%3a%2f%2fconsequently.org%2fnews%2f2017%2ftwelve-things-03-multiple-realisability%2f">
 	
 	<link rel="stylesheet" href="http://consequently.org/css/kube.css" />
 	<link rel="stylesheet" href="http://consequently.org/css/demo.css" />
@@ -20,10 +20,10 @@
 
 
 	<meta name="twitter:card" content="summary_large_image">
-	<meta name="twitter:url" content="http://consequently.org/news/2017/twelve-things-02-abstraction/">
-	<meta name="twitter:title" content="Abstraction (the second of twelve things I love about philosophical logic)">
-	<meta name="twitter:description" content="Here&#39;s the second thing I love about working as a philosophical logician: abstraction.">
-	<meta name="twitter:image:src" content="http://consequently.org/images/twelve-things.jpg">
+	<meta name="twitter:url" content="http://consequently.org/news/2017/twelve-things-03-multiple-realisability/">
+	<meta name="twitter:title" content="Multiple Realisability (the third of twelve things I love about philosophical logic)">
+	<meta name="twitter:description" content="Here&#39;s the third thing I love about working as a philosophical logician: multiple realisability.">
+	<meta name="twitter:image:src" content="http://consequently.org/images/Rozsa-Peter.jpg">
     <meta name="twitter:site" content="@consequently">
     <meta name="twitter:creator" content="@consequently">
 <script>
@@ -60,48 +60,51 @@
 <div class="wrapper">
 <div class="units-row">		
 <div class="unit-20">&nbsp;</div>
-<div class="unit-60"><h2><a href="">Abstraction (the second of twelve things I love about philosophical logic)</a></h2></div>
+<div class="unit-60"><h2><a href="">Multiple Realisability (the third of twelve things I love about philosophical logic)</a></h2></div>
 </div>
 <div class="units-row">		
-<div class="unit-20 dateblock"><h4>September 6, 2017</h4></div>
+<div class="unit-20 dateblock"><h4>September 7, 2017</h4></div>
 <div class="unit-60">
-<p>As I mentioned in the previous entry, philosophical logic uses the tools and techniques from formal logic, and formal logic is nothing if it is not <em>abstract</em>. It gets its power &mdash; as well as its weaknesses, to be sure &mdash; by abstracting away from specifics and moving to generalities. We explain the virtues of a particular argument (in part) by looking at its form, the structure which is in common to other arguments of the same shape. This goes back, at least, to Aristotle, who taught us that it isn’t a coincidence that both syllogisms</p>
+<p>Closely connected to the notion of <em>abstraction</em>, I love the way that logical concepts are <em>multiply realisable</em>. An abstract structure can be instantiated in different ways, and often in ways completely unforeseen when the original abstraction was made.</p>
+
+<p>The twin moves of abstraction (moving from the particular to the general) and concretisation (going back from the general to the particular—perhaps to a new and <em>different</em> particular) in different domains brings different insights, different models, and new connections. These new connections often bring fresh insight.</p>
+
+<p>For example, the simple notion of a <em>Boolean algebra</em> can be instantiated as a power set algebra (think of the subsets of a set and the operations of union, intersection and complementation). But this simple idea of a power set Boolean algebra can then be understood in different domains of application: you can think of the underlying set as a domain of <em>objects</em> and the subsets are extensions of different predicates. Or you can think of them as a set of possible worlds, and the subsets are propositions. And so on. Shifting from one representation to another is often conceptually fruitful when thinking about these different domains, or thinking about the ways that the formal techniques are applied. And you can answer questions about anything that counts as a Boolean algebra in one go. Here’s how the Hungarian recursion theorist Rózsa Péter put it:</p>
 
 <blockquote>
-<p>All footballers are bipeds. All bipeds have feet. Therefore all footballers have feet.</p>
+<p>The writing down of a formula is an expression of our joy that we can answer all these questions by means of one argument.</p>
 
-<p>All wombats are cute. All cute things are popular. Therefore all wombats are popular.</p>
+<p>— Rózsa Péter <em><a href="https://www.amazon.com/Playing-Infinity-Mathematical-Explorations-Excursions/dp/0486232654/consequentlyorg">Playing with Infinity</a></em></p>
 </blockquote>
 
-<p>have similar virtues. At the very least, they’re both <em>valid</em>. They both have the form:</p>
+<figure>
+    <img src="/images/Rozsa-Peter.jpg" alt="Rózsa Péter">
+    <figcaption>Rózsa Péter.</figcaption>
+</figure>
 
-<blockquote>
-<p>All <strong>F</strong>s are <strong>G</strong>s. All <strong>G</strong>s are <strong>H</strong>s. Therefore all <strong>F</strong>s are <strong>H</strong>s.</p>
-</blockquote>
+<p>But more than that, once you’ve studied Boolean algebras for a while you learn that not all Boolean algebras are (isomorphic to) power set algebras. Given a domain of objects, you can get  a Boolean algebra out of less than the collection of <em>all</em> of the subsets of the underlying set of objects.</p>
 
-<p>and any syllogisms with that form are valid. Attending to the shape of the reasoning, and “tuning out” concern about whether the premises are <em>true</em> (are <em>all</em> wombats cute? Are <em>all</em> footballers bipeds? — most likely not) and focussing on the form, we see how the premises and conclusions are connected.</p>
+<p>Here’s an example: take an infinite set <em>D</em>, and think of the finite subsets of <em>D</em> — those with finitely many members — together with the co-finite subsets of <em>D</em> — those which contain all of the elements of <em>D</em> <em>except</em> for finitely many members. (In the case of the natural numbers, the sets {0,1,2} and all of the numbers <em>other than</em> {1,2,3} would be fine, but the set of even numbers doesn’t count, because it contains infinitely many members and excludes infinitely many members too.) Then these sets, the finite and co-finite subsets of <em>D</em> form a Boolean algebra. (The union, intersection or complement of finite and co-finite sets is itself finite or co-finite.)</p>
 
-<p>To study <em>form</em> or <em>structure</em> is to learn how to attend to one thing and to ignore others, to look for a new level of generality. I love to take the opportunity to stand back, to look at a problem again from a different angle, to reframe it in a different way, to attend to it again, perhaps to see something new, to notice the parallels between one thing and another.</p>
+<p>Once you see this, you see that there’s nothing in the idea of a Boolean algebra that means that the structure of truth values, or extensions of predicates, or propositions, <em>must</em> look like a power set Boolean algebra. Maybe it does, but maybe it doesn’t.</p>
 
-<p>Thinking of the role of <em>abstraction</em> involved in formal logic brings to the fore the aspect of logic that is a <em>design</em> task. Logic is a kind of conceptual engineering. It is always a choice to attend to focus on some features of a problem and to ignore others. Being formal and abstract, logic allows us to stand back and look for structure, to look for patterns — and the result is the delight in recognising a unifying pattern that helps us see something that we didn’t see before.</p>
+<p>The move from the particular to the general and back not only allows us to transfer insights from one domain to another, it also means that we can gain insight into unconsidered possibilities, and different ways our concepts can be realised.</p>
 
-<p><em>Abstraction</em> is the second of <a href="http://consequently.org/news/2017/twelve-things-i-love/">twelve things that I love about philosophical logic</a>.</p>
+<p><em>Multiple realisability</em> is the third of <a href="http://consequently.org/news/2017/twelve-things-i-love/">twelve things that I love about philosophical logic</a>.</p>
 
 
 
 <hr/>
 <p style="font-size: 0.9em; line-height: 1.05em;">Do you like this, or do you have a comment? Then please 
 <i class="fa fa-twitter-square" style="color:#b24;padding-top:6px;font-size:80%;"></i>&nbsp;<a href="http://twitter.com/share?text=Your+Message+Here&via=consequently"><em>share</em></a> or <a href="http://twitter.com/share?text=@consequently+Your+Message+Here"><em>reply</em></a> on Twitter, or 
-<i class="fa fa-envelope" style="color:#b24;padding-top:6px;font-size:80%;"></i>&nbsp;<a href="mailto:greg@consequently.org?subject=Re: Abstraction%20%28the%20second%20of%20twelve%20things%20I%20love%20about%20philosophical%20logic%29 at http%3a%2f%2fconsequently.org%2fnews%2f2017%2ftwelve-things-02-abstraction%2f">email me</a>.</p>
+<i class="fa fa-envelope" style="color:#b24;padding-top:6px;font-size:80%;"></i>&nbsp;<a href="mailto:greg@consequently.org?subject=Re: Multiple%20Realisability%20%28the%20third%20of%20twelve%20things%20I%20love%20about%20philosophical%20logic%29 at http%3a%2f%2fconsequently.org%2fnews%2f2017%2ftwelve-things-03-multiple-realisability%2f">email me</a>.</p>
 
 
 <hr>
 
-<a href="http://consequently.org/news/2017/twelve-things-01-the-dialectic/"> &larr;&nbsp;The Dialectic (the first of twelve things I love about philosophical logic)</a> |
+<a href="http://consequently.org/news/2017/twelve-things-02-abstraction/"> &larr;&nbsp;Abstraction (the second of twelve things I love about philosophical logic)</a> |
 
 <a href="http://consequently.org/news/#2017">News Archive</a>
-
-| <a href="http://consequently.org/news/2017/twelve-things-03-multiple-realisability/">Multiple Realisability (the third of twelve things I love about philosophical logic)&nbsp;&rarr;</a>
 
 
 </div>
